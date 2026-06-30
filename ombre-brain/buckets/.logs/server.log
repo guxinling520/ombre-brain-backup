@@ -3682,3 +3682,14 @@
 [2026-06-30 17:01:42] ombre_brain INFO: Ombre Brain v2.0.3
 [2026-06-30 17:01:42] ombre_brain INFO: [migration] C:\Users\Lenovo\.cyberboss\ombre-brain\buckets is empty — fresh install assumed.
 [2026-06-30 17:01:42] mcp.server.streamable_http_manager INFO: Created new transport with session ID: 36d90f7ce8cd4c92909996684d7976ce
+[2026-06-30 17:02:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:03:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:04:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:05:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:06:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:06:42] mcp.server.streamable_http_manager INFO: Session 36d90f7ce8cd4c92909996684d7976ce idle timeout
+[2026-06-30 17:06:42] mcp.server.streamable_http INFO: Terminating session: 36d90f7ce8cd4c92909996684d7976ce
+[2026-06-30 17:07:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:08:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:09:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:10:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"

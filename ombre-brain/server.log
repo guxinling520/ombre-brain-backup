@@ -10815,3 +10815,310 @@ INFO:     127.0.0.1:60579 - "GET /api/anchors HTTP/1.1" 200 OK
 INFO:     127.0.0.1:60580 - "GET /api/heartbeat HTTP/1.1" 200 OK
 INFO:     127.0.0.1:60612 - "GET /health HTTP/1.1" 200 OK
 [2026-06-30 16:28:10] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60630 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60639 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60656 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60666 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60676 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60695 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60717 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60739 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:29:10] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60763 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60771 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60777 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60777 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60806 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60806 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60827 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:30:10] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60834 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60876 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60876 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60963 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60968 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:31:10] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60963 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60963 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61000 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61027 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61027 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61055 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61055 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61062 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:32:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61078 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61085 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61115 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61129 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61175 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61181 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:33:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61184 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61217 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61218 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61248 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61299 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61299 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61330 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:34:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61344 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61344 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61365 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61380 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61430 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61443 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61457 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:35:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61461 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61466 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61492 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61496 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61514 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61670 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61678 - "GET /api/heartbeat HTTP/1.1" 200 OK
+[2026-06-30 16:36:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61794 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61794 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61794 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61821 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61842 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61891 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61893 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:37:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61944 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61944 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61944 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61992 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62028 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62045 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62056 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:38:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62072 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62106 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62106 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62106 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62125 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62188 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62189 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62193 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:39:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62226 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62236 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62243 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62243 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62266 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62285 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:40:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62292 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62292 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62325 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62325 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62350 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62350 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62394 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62406 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:41:11] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62416 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62433 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62489 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62489 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62516 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62532 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62557 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:42:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62570 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62570 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62583 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62587 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62605 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62605 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62632 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62643 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:43:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62666 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62666 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62712 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62713 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62746 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62746 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62790 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:44:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62802 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62820 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62822 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62835 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62844 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62853 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62889 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:45:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62891 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62921 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62934 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62998 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62998 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63019 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63029 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:46:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63019 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63077 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63093 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63098 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63117 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63122 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63152 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:47:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63153 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63171 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63197 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63208 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63214 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63214 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63300 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:48:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63301 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63327 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63336 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63409 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63414 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63419 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63419 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63446 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:49:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63457 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63469 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63494 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63515 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63515 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63523 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63540 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:50:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63543 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63553 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63553 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63576 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63576 - "GET /static/icon.svg?v=2.0.3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63576 - "GET /auth/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63584 - "GET /api/version HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63585 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63587 - "GET /api/onboarding/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63588 - "GET /api/self HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/buckets HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63587 - "GET /static/favicon.svg?v=2.0.3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63586 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63621 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63643 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:51:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63644 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63663 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63680 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63708 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63708 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63716 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63740 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63745 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:52:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63754 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63754 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63766 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63772 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63779 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63779 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63807 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63812 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:53:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63826 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63826 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63846 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63856 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63878 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63878 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63910 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63915 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:54:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63940 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63940 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63954 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63959 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64004 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64004 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64024 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64054 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:55:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64068 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64068 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64097 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64097 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64110 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64119 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64152 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:56:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64153 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64170 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64198 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64236 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64237 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64245 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64276 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64318 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:57:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64322 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64332 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64338 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64346 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64350 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64363 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64384 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64400 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:58:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64438 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64438 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64452 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64461 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64465 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64465 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64489 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64502 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 16:59:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64513 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64513 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64570 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64579 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64592 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64592 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64611 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64622 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:00:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64644 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64644 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64686 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64695 - "GET /api/errors/recent?min_level=E&limit=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64699 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64724 - "GET /api/anchors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64732 - "GET /api/heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64747 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:01:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64732 - "GET /api/network?mode=concept HTTP/1.1" 200 OK
+[2026-06-30 17:01:42] mcp.server.streamable_http_manager INFO: Created new transport with session ID: 36d90f7ce8cd4c92909996684d7976ce
+INFO:     127.0.0.1:64821 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64895 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:02:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64981 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:03:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65075 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:04:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65214 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:05:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65321 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:06:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-06-30 17:06:42] mcp.server.streamable_http_manager INFO: Session 36d90f7ce8cd4c92909996684d7976ce idle timeout
+[2026-06-30 17:06:42] mcp.server.streamable_http INFO: Terminating session: 36d90f7ce8cd4c92909996684d7976ce
+INFO:     127.0.0.1:65442 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:07:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65504 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:08:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49213 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:09:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49295 - "GET /health HTTP/1.1" 200 OK
+[2026-06-30 17:10:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
