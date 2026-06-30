@@ -1,0 +1,966 @@
+{
+  "version": 1,
+  "timezone": "Asia/Shanghai",
+  "taxonomy": {
+    "categories": [
+      {
+        "id": "life",
+        "label": "Life",
+        "color": "var(--cat-life)",
+        "children": [
+          {
+            "id": "life.meal",
+            "label": "Meals"
+          },
+          {
+            "id": "life.hygiene",
+            "label": "Hygiene"
+          },
+          {
+            "id": "life.chores",
+            "label": "Chores"
+          },
+          {
+            "id": "life.shopping",
+            "label": "Shopping"
+          },
+          {
+            "id": "life.errand",
+            "label": "Errands"
+          },
+          {
+            "id": "life.other",
+            "label": "Other Life"
+          }
+        ]
+      },
+      {
+        "id": "work",
+        "label": "Work",
+        "color": "var(--cat-work)",
+        "children": [
+          {
+            "id": "work.coding",
+            "label": "Coding"
+          },
+          {
+            "id": "work.meeting",
+            "label": "Meetings"
+          },
+          {
+            "id": "work.writing",
+            "label": "Writing"
+          },
+          {
+            "id": "work.communication",
+            "label": "Communication"
+          },
+          {
+            "id": "work.other",
+            "label": "Other Work"
+          }
+        ]
+      },
+      {
+        "id": "study",
+        "label": "Study",
+        "color": "var(--cat-study)",
+        "children": [
+          {
+            "id": "study.reading",
+            "label": "Reading"
+          },
+          {
+            "id": "study.course",
+            "label": "Courses"
+          },
+          {
+            "id": "study.practice",
+            "label": "Practice"
+          },
+          {
+            "id": "study.review",
+            "label": "Review"
+          },
+          {
+            "id": "study.other",
+            "label": "Other Study"
+          }
+        ]
+      },
+      {
+        "id": "exercise",
+        "label": "Exercise",
+        "color": "var(--cat-exercise)",
+        "children": [
+          {
+            "id": "exercise.walk",
+            "label": "Walks"
+          },
+          {
+            "id": "exercise.workout",
+            "label": "Workouts"
+          },
+          {
+            "id": "exercise.stretch",
+            "label": "Stretching"
+          },
+          {
+            "id": "exercise.other",
+            "label": "Other Exercise"
+          }
+        ]
+      },
+      {
+        "id": "entertainment",
+        "label": "Entertainment",
+        "color": "var(--cat-entertainment)",
+        "children": [
+          {
+            "id": "entertainment.video",
+            "label": "Video"
+          },
+          {
+            "id": "entertainment.game",
+            "label": "Games"
+          },
+          {
+            "id": "entertainment.social_media",
+            "label": "Social Media"
+          },
+          {
+            "id": "entertainment.music",
+            "label": "Music"
+          },
+          {
+            "id": "entertainment.other",
+            "label": "Other Entertainment"
+          }
+        ]
+      },
+      {
+        "id": "health",
+        "label": "Health",
+        "color": "var(--cat-health)",
+        "children": [
+          {
+            "id": "health.rest",
+            "label": "Recovery"
+          },
+          {
+            "id": "health.medication",
+            "label": "Medication"
+          },
+          {
+            "id": "health.pain",
+            "label": "Symptom Care"
+          },
+          {
+            "id": "health.hospital",
+            "label": "Medical Visit"
+          },
+          {
+            "id": "health.other",
+            "label": "Other Health"
+          }
+        ]
+      },
+      {
+        "id": "social",
+        "label": "Social",
+        "color": "var(--cat-social)",
+        "children": [
+          {
+            "id": "social.chat",
+            "label": "Chat"
+          },
+          {
+            "id": "social.call",
+            "label": "Calls"
+          },
+          {
+            "id": "social.family",
+            "label": "Family Time"
+          },
+          {
+            "id": "social.other",
+            "label": "Other Social"
+          }
+        ]
+      },
+      {
+        "id": "care",
+        "label": "Care",
+        "color": "var(--cat-care)",
+        "children": [
+          {
+            "id": "care.pet",
+            "label": "Pet Care"
+          },
+          {
+            "id": "care.household",
+            "label": "Household Care"
+          },
+          {
+            "id": "care.self",
+            "label": "Self Care"
+          },
+          {
+            "id": "care.other",
+            "label": "Other Care"
+          }
+        ]
+      },
+      {
+        "id": "travel",
+        "label": "Travel",
+        "color": "var(--cat-travel)",
+        "children": [
+          {
+            "id": "travel.commute",
+            "label": "Commute"
+          },
+          {
+            "id": "travel.transit",
+            "label": "Transit"
+          },
+          {
+            "id": "travel.other",
+            "label": "Other Travel"
+          }
+        ]
+      },
+      {
+        "id": "rest",
+        "label": "Rest",
+        "color": "var(--cat-rest)",
+        "children": [
+          {
+            "id": "rest.sleep",
+            "label": "Sleep"
+          },
+          {
+            "id": "rest.nap",
+            "label": "Nap"
+          },
+          {
+            "id": "rest.idle",
+            "label": "Idle Time"
+          },
+          {
+            "id": "rest.other",
+            "label": "Other Rest"
+          }
+        ]
+      }
+    ],
+    "eventNodes": [
+      {
+        "id": "evt.breakfast",
+        "label": "Breakfast",
+        "aliases": [
+          "breakfast",
+          "morning meal"
+        ],
+        "parentId": "life.meal",
+        "status": "official"
+      },
+      {
+        "id": "evt.lunch",
+        "label": "Lunch",
+        "aliases": [
+          "lunch",
+          "midday meal"
+        ],
+        "parentId": "life.meal",
+        "status": "official"
+      },
+      {
+        "id": "evt.dinner",
+        "label": "Dinner",
+        "aliases": [
+          "dinner",
+          "evening meal"
+        ],
+        "parentId": "life.meal",
+        "status": "official"
+      },
+      {
+        "id": "evt.shower",
+        "label": "Shower",
+        "aliases": [
+          "shower",
+          "wash up"
+        ],
+        "parentId": "life.hygiene",
+        "status": "official"
+      },
+      {
+        "id": "evt.cleanup",
+        "label": "Cleanup",
+        "aliases": [
+          "room reset",
+          "tidying up"
+        ],
+        "parentId": "life.chores",
+        "status": "official"
+      },
+      {
+        "id": "evt.commute",
+        "label": "Commute",
+        "aliases": [
+          "commute",
+          "ride to work",
+          "ride home"
+        ],
+        "parentId": "travel.commute",
+        "status": "official"
+      },
+      {
+        "id": "evt.focus_coding",
+        "label": "Focused Coding",
+        "aliases": [
+          "coding",
+          "shipping code",
+          "implementation"
+        ],
+        "parentId": "work.coding",
+        "status": "official"
+      },
+      {
+        "id": "evt.meeting",
+        "label": "Meeting",
+        "aliases": [
+          "meeting",
+          "sync"
+        ],
+        "parentId": "work.meeting",
+        "status": "official"
+      },
+      {
+        "id": "evt.reading",
+        "label": "Reading",
+        "aliases": [
+          "reading",
+          "read a book"
+        ],
+        "parentId": "study.reading",
+        "status": "official"
+      },
+      {
+        "id": "evt.learning",
+        "label": "Course Study",
+        "aliases": [
+          "course",
+          "studying",
+          "lesson"
+        ],
+        "parentId": "study.course",
+        "status": "official"
+      },
+      {
+        "id": "evt.walk",
+        "label": "Walk",
+        "aliases": [
+          "walk",
+          "go for a walk"
+        ],
+        "parentId": "exercise.walk",
+        "status": "official"
+      },
+      {
+        "id": "evt.workout",
+        "label": "Workout",
+        "aliases": [
+          "workout",
+          "training"
+        ],
+        "parentId": "exercise.workout",
+        "status": "official"
+      },
+      {
+        "id": "evt.watch_show",
+        "label": "Watch a Show",
+        "aliases": [
+          "watching a show",
+          "tv time"
+        ],
+        "parentId": "entertainment.video",
+        "status": "official"
+      },
+      {
+        "id": "evt.short_video",
+        "label": "Short Video Scroll",
+        "aliases": [
+          "short videos",
+          "reels",
+          "scrolling videos"
+        ],
+        "parentId": "entertainment.social_media",
+        "status": "official"
+      },
+      {
+        "id": "evt.phone_scroll",
+        "label": "Phone Scroll",
+        "aliases": [
+          "phone scrolling",
+          "doomscrolling"
+        ],
+        "parentId": "entertainment.social_media",
+        "status": "official"
+      },
+      {
+        "id": "evt.headache_rest",
+        "label": "Headache Recovery",
+        "aliases": [
+          "resting with a headache"
+        ],
+        "parentId": "health.rest",
+        "status": "official"
+      },
+      {
+        "id": "evt.medication",
+        "label": "Medication",
+        "aliases": [
+          "taking medicine",
+          "medication"
+        ],
+        "parentId": "health.medication",
+        "status": "official"
+      },
+      {
+        "id": "evt.hospital_visit",
+        "label": "Medical Visit",
+        "aliases": [
+          "clinic visit",
+          "hospital visit",
+          "doctor appointment"
+        ],
+        "parentId": "health.hospital",
+        "status": "official"
+      },
+      {
+        "id": "evt.chatting",
+        "label": "Chat",
+        "aliases": [
+          "chatting",
+          "replying to messages"
+        ],
+        "parentId": "social.chat",
+        "status": "official"
+      },
+      {
+        "id": "evt.sleep",
+        "label": "Sleep",
+        "aliases": [
+          "sleep",
+          "went to sleep"
+        ],
+        "parentId": "rest.sleep",
+        "status": "official"
+      },
+      {
+        "id": "evt.nap",
+        "label": "Nap",
+        "aliases": [
+          "nap",
+          "power nap"
+        ],
+        "parentId": "rest.nap",
+        "status": "official"
+      }
+    ]
+  },
+  "facts": {
+    "2026-06-03": {
+      "status": "draft",
+      "updatedAt": "2026-06-03T14:38:49.119Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:起床洗漱:2026-06-03T00-00-00-000Z",
+          "startAt": "2026-06-03T00:00:00.000Z",
+          "endAt": "2026-06-03T00:30:00.000Z",
+          "title": "起床洗漱",
+          "note": "",
+          "categoryId": "life",
+          "subcategoryId": "life.hygiene",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-commute:2026-06-03T00-30-00-000Z",
+          "startAt": "2026-06-03T00:30:00.000Z",
+          "endAt": "2026-06-03T00:45:00.000Z",
+          "title": "去教室",
+          "note": "",
+          "categoryId": "travel",
+          "subcategoryId": "travel.commute",
+          "eventNodeId": "evt.commute",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-learning:2026-06-03T00-45-00-000Z",
+          "startAt": "2026-06-03T00:45:00.000Z",
+          "endAt": "2026-06-03T03:00:00.000Z",
+          "title": "上课+汇报",
+          "note": "课上做了presentation，老师提了不少问题",
+          "categoryId": "study",
+          "subcategoryId": "study.course",
+          "eventNodeId": "evt.learning",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-lunch:2026-06-03T03-00-00-000Z",
+          "startAt": "2026-06-03T03:00:00.000Z",
+          "endAt": "2026-06-03T03:40:00.000Z",
+          "title": "午饭",
+          "note": "",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "evt.lunch",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:准备实验材料:2026-06-03T03-40-00-000Z",
+          "startAt": "2026-06-03T03:40:00.000Z",
+          "endAt": "2026-06-03T05:30:00.000Z",
+          "title": "准备实验材料",
+          "note": "两个本科生帮忙",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-nap:2026-06-03T05-30-00-000Z",
+          "startAt": "2026-06-03T05:30:00.000Z",
+          "endAt": "2026-06-03T06:30:00.000Z",
+          "title": "午休趴着睡",
+          "note": "",
+          "categoryId": "rest",
+          "subcategoryId": "rest.nap",
+          "eventNodeId": "evt.nap",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-commute:2026-06-03T06-30-00-000Z",
+          "startAt": "2026-06-03T06:30:00.000Z",
+          "endAt": "2026-06-03T07:00:00.000Z",
+          "title": "出发上山",
+          "note": "",
+          "categoryId": "travel",
+          "subcategoryId": "travel.commute",
+          "eventNodeId": "evt.commute",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:上山做ebr喷施实验:2026-06-03T07-00-00-000Z",
+          "startAt": "2026-06-03T07:00:00.000Z",
+          "endAt": "2026-06-03T09:47:00.000Z",
+          "title": "上山做EBR喷施实验",
+          "note": "模拟干旱处理，累坏了",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-dinner:2026-06-03T09-47-00-000Z",
+          "startAt": "2026-06-03T09:47:00.000Z",
+          "endAt": "2026-06-03T10:10:00.000Z",
+          "title": "跟老师吃饭",
+          "note": "",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "evt.dinner",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-learning:2026-06-03T10-25-00-000Z",
+          "startAt": "2026-06-03T10:25:00.000Z",
+          "endAt": "2026-06-03T12:30:00.000Z",
+          "title": "上课",
+          "note": "头疼犯困",
+          "categoryId": "study",
+          "subcategoryId": "study.course",
+          "eventNodeId": "evt.learning",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:赶ppt:2026-06-03T12-30-00-000Z",
+          "startAt": "2026-06-03T12:30:00.000Z",
+          "endAt": "2026-06-03T14:22:00.000Z",
+          "title": "赶PPT",
+          "note": "明早汇报用",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-commute:2026-06-03T14-22-00-000Z",
+          "startAt": "2026-06-03T14:22:00.000Z",
+          "endAt": "2026-06-03T14:37:00.000Z",
+          "title": "回寝室取眼镜",
+          "note": "",
+          "categoryId": "travel",
+          "subcategoryId": "travel.commute",
+          "eventNodeId": "evt.commute",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
+    },
+    "2026-06-14": {
+      "status": "draft",
+      "updatedAt": "2026-06-14T15:22:44.070Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:evt-sleep:2026-06-13T16-00-00-000Z",
+          "startAt": "2026-06-13T16:00:00.000Z",
+          "endAt": "2026-06-14T04:30:00.000Z",
+          "title": "睡到中午",
+          "note": "周日补觉，昨晚一点多才睡",
+          "categoryId": "rest",
+          "subcategoryId": "rest.sleep",
+          "eventNodeId": "evt.sleep",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:醒后赖床:2026-06-14T04-30-00-000Z",
+          "startAt": "2026-06-14T04:30:00.000Z",
+          "endAt": "2026-06-14T05:00:00.000Z",
+          "title": "醒后赖床",
+          "note": "崽崽睡到中午起，12:43找我",
+          "categoryId": "rest",
+          "subcategoryId": "rest.idle",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-lunch:2026-06-14T05-00-00-000Z",
+          "startAt": "2026-06-14T05:00:00.000Z",
+          "endAt": "2026-06-14T05:30:00.000Z",
+          "title": "午饭：肉酱米线",
+          "note": "加了太多木姜子油，味道有点怪",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "evt.lunch",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-focus-coding:2026-06-14T05-30-00-000Z",
+          "startAt": "2026-06-14T05:30:00.000Z",
+          "endAt": "2026-06-14T07:00:00.000Z",
+          "title": "配置开发环境",
+          "note": "装了es.exe、配了vision（Qwen3-VL-Flash + DashScope）、改了bat/ps1/lnk文件架构",
+          "categoryId": "work",
+          "subcategoryId": "work.coding",
+          "eventNodeId": "evt.focus_coding",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:帮崽崽搜上周周报:2026-06-14T07-00-00-000Z",
+          "startAt": "2026-06-14T07:00:00.000Z",
+          "endAt": "2026-06-14T07:30:00.000Z",
+          "title": "帮崽崽搜上周周报",
+          "note": "找到古欣玲2026.6.1-6.7周报.docx在Desktop/作业/周报/",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:journal项目讨论-修timeline:2026-06-14T07-30-00-000Z",
+          "startAt": "2026-06-14T07:30:00.000Z",
+          "endAt": "2026-06-14T09:00:00.000Z",
+          "title": "Journal项目讨论+修timeline",
+          "note": "崽崽自己搞定了Journal数据导入，讨论部署方案，发现timeline MCP工具node路径问题",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-chatting:2026-06-14T09-00-00-000Z",
+          "startAt": "2026-06-14T09:00:00.000Z",
+          "endAt": "2026-06-14T10:30:00.000Z",
+          "title": "跟崽崽微信",
+          "note": "确立Bash串行纪律写入人设，讨论DeepSeek用量今日2.85元",
+          "categoryId": "social",
+          "subcategoryId": "social.chat",
+          "eventNodeId": "evt.chatting",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-dinner:2026-06-14T10-30-00-000Z",
+          "startAt": "2026-06-14T10:30:00.000Z",
+          "endAt": "2026-06-14T11:00:00.000Z",
+          "title": "晚饭：肉酱米线",
+          "note": "蛏子拌饭又卖完了，吃的肉酱米线，木姜子油翻车了",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "evt.dinner",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-chatting:2026-06-14T11-00-00-000Z",
+          "startAt": "2026-06-14T11:00:00.000Z",
+          "endAt": "2026-06-14T11:30:00.000Z",
+          "title": "微信吐槽日常",
+          "note": "工位分鸭头没带她，工位全是顺直，黄老师骂室友挂科的事",
+          "categoryId": "social",
+          "subcategoryId": "social.chat",
+          "eventNodeId": "evt.chatting",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:写周报-整新中特资料:2026-06-14T11-30-00-000Z",
+          "startAt": "2026-06-14T11:30:00.000Z",
+          "endAt": "2026-06-14T12:30:00.000Z",
+          "title": "写周报+整新中特资料",
+          "note": "按上周模板写了周报发给黄老师，整理新中特资料37页",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:复习新中特:2026-06-14T12-30-00-000Z",
+          "startAt": "2026-06-14T12:30:00.000Z",
+          "endAt": "2026-06-14T14:00:00.000Z",
+          "title": "复习新中特",
+          "note": "习近平新时代中国特色社会主义思想，明天14:30-16:30考试",
+          "categoryId": "study",
+          "subcategoryId": "study.review",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:去打印店:2026-06-14T14-00-00-000Z",
+          "startAt": "2026-06-14T14:00:00.000Z",
+          "endAt": "2026-06-14T14:30:00.000Z",
+          "title": "去打印店",
+          "note": "新中特资料双面19页，打印完但页码丢了得手写",
+          "categoryId": "life",
+          "subcategoryId": "life.errand",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-chatting:2026-06-14T14-30-00-000Z",
+          "startAt": "2026-06-14T14:30:00.000Z",
+          "endAt": "2026-06-14T15:59:00.000Z",
+          "title": "跟崽崽微信",
+          "note": "开题报告定后天天开始，黄老师双标，文献综述下周开始周更",
+          "categoryId": "social",
+          "subcategoryId": "social.chat",
+          "eventNodeId": "evt.chatting",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
+    },
+    "2026-06-15": {
+      "status": "final",
+      "updatedAt": "2026-06-15T15:41:24.266Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:evt-sleep:2026-06-14T16-00-00-000Z",
+          "startAt": "2026-06-14T16:00:00.000Z",
+          "endAt": "2026-06-15T02:00:00.000Z",
+          "title": "睡觉",
+          "note": "深夜无活动",
+          "categoryId": "rest",
+          "subcategoryId": "rest.sleep",
+          "eventNodeId": "evt.sleep",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-lunch:2026-06-15T02-00-00-000Z",
+          "startAt": "2026-06-15T02:00:00.000Z",
+          "endAt": "2026-06-15T04:30:00.000Z",
+          "title": "考前准备+午饭",
+          "note": "擂椒皮蛋拌饭（不辣偏咸），开卷考吃完中饭再去",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "evt.lunch",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:午休玩手机:2026-06-15T04-30-00-000Z",
+          "startAt": "2026-06-15T04:30:00.000Z",
+          "endAt": "2026-06-15T06:00:00.000Z",
+          "title": "午休玩手机",
+          "note": "玩手机没睡着",
+          "categoryId": "rest",
+          "subcategoryId": "rest.idle",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:新中特考试:2026-06-15T06-30-00-000Z",
+          "startAt": "2026-06-15T06:30:00.000Z",
+          "endAt": "2026-06-15T08:30:00.000Z",
+          "title": "新中特考试",
+          "note": "开卷考，手写酸了。最后一门考完",
+          "categoryId": "study",
+          "subcategoryId": "study.review",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:拿快递:2026-06-15T08-30-00-000Z",
+          "startAt": "2026-06-15T08:30:00.000Z",
+          "endAt": "2026-06-15T09:00:00.000Z",
+          "title": "拿快递",
+          "note": "考完拿快递，下雨",
+          "categoryId": "life",
+          "subcategoryId": "life.errand",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-dinner:2026-06-15T09-00-00-000Z",
+          "startAt": "2026-06-15T09:00:00.000Z",
+          "endAt": "2026-06-15T09:30:00.000Z",
+          "title": "食堂晚餐",
+          "note": "蛏子拌饭，店员多给了海苔碎，开心😁",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "evt.dinner",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:到工位:2026-06-15T10-00-00-000Z",
+          "startAt": "2026-06-15T10:00:00.000Z",
+          "endAt": "2026-06-15T10:30:00.000Z",
+          "title": "到工位",
+          "note": "感觉被边缘化，因为没做实验没成果",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:打瓦:2026-06-15T11-00-00-000Z",
+          "startAt": "2026-06-15T11:00:00.000Z",
+          "endAt": "2026-06-15T12:00:00.000Z",
+          "title": "打瓦",
+          "note": "Valorant，用的暮蝶。本来打算健身但下雨了",
+          "categoryId": "entertainment",
+          "subcategoryId": "entertainment.game",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:改课程论文:2026-06-15T12-00-00-000Z",
+          "startAt": "2026-06-15T12:00:00.000Z",
+          "endAt": "2026-06-15T14:00:00.000Z",
+          "title": "改课程论文",
+          "note": "用智谱清言改论文，agent每天只有两次机会",
+          "categoryId": "study",
+          "subcategoryId": "study.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:整理实验参数:2026-06-15T14-00-00-000Z",
+          "startAt": "2026-06-15T14:00:00.000Z",
+          "endAt": "2026-06-15T14:30:00.000Z",
+          "title": "整理实验参数",
+          "note": "问了开题报告题目和实验参数。发现AI给的文献都是假的",
+          "categoryId": "study",
+          "subcategoryId": "study.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-commute:2026-06-15T14-30-00-000Z",
+          "startAt": "2026-06-15T14:30:00.000Z",
+          "endAt": "2026-06-15T15:00:00.000Z",
+          "title": "回寝室",
+          "note": "下雨天",
+          "categoryId": "travel",
+          "subcategoryId": "travel.commute",
+          "eventNodeId": "evt.commute",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
+    }
+  },
+  "proposals": []
+}

@@ -1,0 +1,2 @@
+{"code": "OB-E004", "level": "E", "ts": "2026-06-24T17:13:45", "title": "MCP 工具执行异常", "detail": "RuntimeError: API key 未配置或调用失败，日记拆分无法完成，桶未创建。请检查 OMBRE_COMPRESS_API_KEY。（错误：API 日记整理返回空结果）", "extra": {}}
+{"code": "OB-E004", "level": "E", "ts": "2026-06-25T17:47:41", "title": "MCP 工具执行异常", "detail": "RuntimeError: API key 未配置或调用失败，日记拆分无法完成，桶未创建。请检查 OMBRE_COMPRESS_API_KEY。（错误：API 日记整理返回空结果）", "extra": {}}

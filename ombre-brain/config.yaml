@@ -1,0 +1,51 @@
+bucket_type_defaults:
+  letter:
+    dont_surface: false
+    weight: 1.0
+  plan:
+    weight: 0.5
+buckets_dir: C:\Users\Lenovo\.cyberboss\ombre-brain\buckets
+decay:
+  check_interval_hours: 999999
+  emotion_weights:
+    arousal_boost: 0.8
+    base: 1.0
+  lambda: 0
+  threshold: 0.3
+dehydration:
+  base_url: https://api.deepseek.com/v1
+  max_tokens: 1024
+  model: deepseek-chat
+  temperature: 0.1
+embedding:
+  backend: api
+  enabled: false
+  model: text-embedding-ada-002
+github_sync:
+  auto_interval_minutes: 60
+  branch: main
+  path_prefix: ombre-backup
+  repo: guxinling520/ombre-brain-backup
+limits:
+  max_bucket_bytes: 51200
+  max_pinned: 20
+log_level: INFO
+matching:
+  fuzzy_threshold: 50
+  max_results: 5
+merge_threshold: 75
+scoring_weights:
+  emotion_resonance: 2.0
+  importance: 1.0
+  time_proximity: 1.5
+  topic_relevance: 4.0
+surfacing:
+  breath_max_results: 20
+  breath_max_tokens: 10000
+  feel_max_tokens: 6000
+  sampling:
+    enabled: true
+    sample_k: 2
+    temperature: 0.7
+    top_k: 5
+transport: streamable-http

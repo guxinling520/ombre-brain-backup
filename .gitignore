@@ -1,0 +1,24 @@
+# secrets
+.env
+accounts/
+weixin-config.json
+sessions.json
+claudecode-runtime-v4*.token
+project-tool-runtime-context.json
+reminder-queue.json
+system-message-queue.json
+deferred-system-replies.json
+checkin-state.json
+checkin-config.json
+
+# transient / generated
+logs/
+inbox/
+archive/
+tmp/
+sync-buffers/
+stickers/
+ref/
+
+# large / not memory
+教学/

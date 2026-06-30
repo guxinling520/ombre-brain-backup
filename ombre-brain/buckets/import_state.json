@@ -1,0 +1,14 @@
+{
+  "source_file": "ba1de56d-3f29-4542-933b-4b359b05c4f1.jsonl",
+  "source_hash": "96af537a6e4daf94",
+  "total_chunks": 1,
+  "processed": 1,
+  "api_calls": 1,
+  "memories_created": 0,
+  "memories_merged": 0,
+  "memories_raw": 0,
+  "errors": [],
+  "status": "completed",
+  "started_at": "2026-06-23T05:42:50",
+  "updated_at": "2026-06-23T05:42:51"
+}
