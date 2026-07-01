@@ -2206,6 +2206,26 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-01": {
+      "status": "draft",
+      "updatedAt": "2026-07-01T06:38:23.283Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+          "startAt": "2026-07-01T06:34:00.000Z",
+          "endAt": "2026-07-01T15:59:00.000Z",
+          "title": "14:34配了70%甲醇500毫升常温放置",
+          "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []

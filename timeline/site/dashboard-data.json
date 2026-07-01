@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T15:58:26.806Z",
-    "updatedAt": "2026-06-30T15:58:22.204Z",
-    "taxonomyUpdatedAt": "2026-06-30T15:58:22.198Z",
-    "factsUpdatedAt": "2026-06-30T15:58:22.204Z",
+    "generatedAt": "2026-07-01T06:38:30.500Z",
+    "updatedAt": "2026-07-01T06:38:23.298Z",
+    "taxonomyUpdatedAt": "2026-07-01T06:38:23.294Z",
+    "factsUpdatedAt": "2026-07-01T06:38:23.298Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -37,9 +37,10 @@
       "2026-06-27",
       "2026-06-28",
       "2026-06-29",
-      "2026-06-30"
+      "2026-06-30",
+      "2026-07-01"
     ],
-    "latestDate": "2026-06-30"
+    "latestDate": "2026-07-01"
   },
   "taxonomy": {
     "categories": [
@@ -3047,6 +3048,29 @@
             "className": "cat-exercise"
           }
         ]
+      },
+      "2026-07-01": {
+        "date": "2026-07-01",
+        "start": "2026-07-01T00:00:00.000+08:00",
+        "end": "2026-07-01T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+            "start": "2026-07-01T06:34:00.000Z",
+            "end": "2026-07-01T15:59:00.000Z",
+            "content": "14:34配了70%甲醇500毫升常温放置 | 9h25m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "14:34配了70%甲醇500毫升常温放置",
+              "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+              "color": "var(--cat-life)",
+              "durationText": "9小时25分钟",
+              "timeText": "14:34 - 23:59"
+            },
+            "className": "cat-life"
+          }
+        ]
       }
     },
     "week": {
@@ -5838,6 +5862,23 @@
               "dateText": "2026-06-30"
             },
             "className": "cat-exercise"
+          },
+          {
+            "id": "2026-07-01:fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+            "group": "2026-07-01",
+            "start": "2000-01-01T14:34:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "14:34配了70%甲醇500毫升常温放置 | 9h25m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "14:34配了70%甲醇500毫升常温放置",
+              "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+              "color": "var(--cat-life)",
+              "durationText": "9小时25分钟",
+              "timeText": "14:34 - 23:59",
+              "dateText": "2026-07-01"
+            },
+            "className": "cat-life"
           }
         ]
       }
@@ -35190,6 +35231,322 @@
             ]
           }
         }
+      },
+      "2026-07-01": {
+        "key": "2026-07-01",
+        "label": "2026-07-01",
+        "unit": "hour",
+        "totalMinutes": 565,
+        "categories": [
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 565,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 26
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 59
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 565,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+                "label": "14:34配了70%甲醇500毫升常温放置",
+                "dateLabel": "",
+                "timeLabel": "14:34 - 23:59",
+                "compactDuration": "9h25m",
+                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
+                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 565
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "life.other": {
+            "subcategoryId": "life.other",
+            "categoryId": "life",
+            "label": "其他生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 26
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 59
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+                "label": "14:34配了70%甲醇500毫升常温放置",
+                "dateLabel": "",
+                "timeLabel": "14:34 - 23:59",
+                "compactDuration": "9h25m",
+                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
+                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 565
+              }
+            ]
+          }
+        }
       }
     },
     "week": {
@@ -43064,38 +43421,162 @@
         "key": "2026-06-29",
         "label": "2026-06-29 当周",
         "unit": "day",
-        "totalMinutes": 1172,
+        "totalMinutes": 1737,
         "categories": [
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 1140,
+            "percent": 0.6563
+          },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 595,
-            "percent": 0.5077
-          },
-          {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
-            "minutes": 575,
-            "percent": 0.4906
+            "percent": 0.3425
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 1,
-            "percent": 0.0009
+            "percent": 0.0006
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 1,
-            "percent": 0.0009
+            "percent": 0.0006
           }
         ],
         "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "06-29",
+                "key": "2026-06-29",
+                "minutes": 386
+              },
+              {
+                "label": "06-30",
+                "key": "2026-06-30",
+                "minutes": 189
+              },
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 565
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 1140,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:下大雨了后来雨又停了人还在工位:2026-06-29T07-01-00-000Z",
+                "label": "下大雨了后来雨又停了人还在工位",
+                "dateLabel": "06-29",
+                "timeLabel": "15:01 - 20:09",
+                "compactDuration": "5h8m",
+                "fullLabel": "06-29 15:01 - 20:09 下大雨了后来雨又停了人还在工位",
+                "note": "下大雨了，后来雨又停了，人还在工位。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 308
+              },
+              {
+                "eventNodeId": "fact:明天中午要去学生中心签字先记着:2026-06-29T14-50-00-000Z",
+                "label": "明天中午要去学生中心签字先记着",
+                "dateLabel": "06-29",
+                "timeLabel": "22:50 - 23:59",
+                "compactDuration": "1h9m",
+                "fullLabel": "06-29 22:50 - 23:59 明天中午要去学生中心签字先记着",
+                "note": "明天中午要去学生中心签字，先记着。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 69
+              },
+              {
+                "eventNodeId": "fact:鞋子和袜子都被雨泡湿了还好裤子是速干裤:2026-06-29T15-03-00-000Z",
+                "label": "鞋子和袜子都被雨泡湿了还好裤子是速干裤",
+                "dateLabel": "06-29",
+                "timeLabel": "23:03 - 23:12",
+                "compactDuration": "9m",
+                "fullLabel": "06-29 23:03 - 23:12 鞋子和袜子都被雨泡湿了还好裤子是速干裤",
+                "note": "今天鞋子和袜子都被雨泡湿了，还好裤子是速干裤。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 9
+              },
+              {
+                "eventNodeId": "fact:15:27配好了1%AlCl₃✅:2026-06-30T07-27-00-000Z",
+                "label": "15:27配好了1%AlCl₃✅",
+                "dateLabel": "06-30",
+                "timeLabel": "15:27 - 18:36",
+                "compactDuration": "3h9m",
+                "fullLabel": "06-30 15:27 - 18:36 15:27配好了1%AlCl₃✅",
+                "note": "15:27 配好了1% AlCl₃ ✅",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 189
+              },
+              {
+                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+                "label": "14:34配了70%甲醇500毫升常温放置",
+                "dateLabel": "07-01",
+                "timeLabel": "14:34 - 23:59",
+                "compactDuration": "9h25m",
+                "fullLabel": "07-01 14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
+                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 565
+              }
+            ]
+          },
           "work": {
             "categoryId": "work",
             "label": "工作",
@@ -43203,116 +43684,6 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 322
-              }
-            ]
-          },
-          "life": {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
-            "trend": [
-              {
-                "label": "06-29",
-                "key": "2026-06-29",
-                "minutes": 386
-              },
-              {
-                "label": "06-30",
-                "key": "2026-06-30",
-                "minutes": 189
-              },
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 0
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 0
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "life.other",
-                "categoryId": "life",
-                "label": "其他生活",
-                "color": "var(--cat-life)",
-                "minutes": 575,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:下大雨了后来雨又停了人还在工位:2026-06-29T07-01-00-000Z",
-                "label": "下大雨了后来雨又停了人还在工位",
-                "dateLabel": "06-29",
-                "timeLabel": "15:01 - 20:09",
-                "compactDuration": "5h8m",
-                "fullLabel": "06-29 15:01 - 20:09 下大雨了后来雨又停了人还在工位",
-                "note": "下大雨了，后来雨又停了，人还在工位。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 308
-              },
-              {
-                "eventNodeId": "fact:明天中午要去学生中心签字先记着:2026-06-29T14-50-00-000Z",
-                "label": "明天中午要去学生中心签字先记着",
-                "dateLabel": "06-29",
-                "timeLabel": "22:50 - 23:59",
-                "compactDuration": "1h9m",
-                "fullLabel": "06-29 22:50 - 23:59 明天中午要去学生中心签字先记着",
-                "note": "明天中午要去学生中心签字，先记着。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 69
-              },
-              {
-                "eventNodeId": "fact:鞋子和袜子都被雨泡湿了还好裤子是速干裤:2026-06-29T15-03-00-000Z",
-                "label": "鞋子和袜子都被雨泡湿了还好裤子是速干裤",
-                "dateLabel": "06-29",
-                "timeLabel": "23:03 - 23:12",
-                "compactDuration": "9m",
-                "fullLabel": "06-29 23:03 - 23:12 鞋子和袜子都被雨泡湿了还好裤子是速干裤",
-                "note": "今天鞋子和袜子都被雨泡湿了，还好裤子是速干裤。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 9
-              },
-              {
-                "eventNodeId": "fact:15:27配好了1%AlCl₃✅:2026-06-30T07-27-00-000Z",
-                "label": "15:27配好了1%AlCl₃✅",
-                "dateLabel": "06-30",
-                "timeLabel": "15:27 - 18:36",
-                "compactDuration": "3h9m",
-                "fullLabel": "06-30 15:27 - 18:36 15:27配好了1%AlCl₃✅",
-                "note": "15:27 配好了1% AlCl₃ ✅",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 189
               }
             ]
           },
@@ -43473,7 +43844,7 @@
               {
                 "key": "2026-07-01",
                 "label": "07-01",
-                "minutes": 0
+                "minutes": 565
               },
               {
                 "key": "2026-07-02",
@@ -43552,6 +43923,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 189
+              },
+              {
+                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+                "label": "14:34配了70%甲醇500毫升常温放置",
+                "dateLabel": "07-01",
+                "timeLabel": "14:34 - 23:59",
+                "compactDuration": "9h25m",
+                "fullLabel": "07-01 14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
+                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 565
               }
             ]
           },
@@ -52269,6 +52654,92 @@
                 "subcategoryId": "work.coding",
                 "subcategoryLabel": "work.coding",
                 "minutes": 150
+              }
+            ]
+          }
+        }
+      },
+      "2026-07": {
+        "key": "2026-07",
+        "label": "2026-07",
+        "unit": "day",
+        "totalMinutes": 565,
+        "categories": [
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 565,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 565
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 565,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+                "label": "14:34配了70%甲醇500毫升常温放置",
+                "dateLabel": "",
+                "timeLabel": "14:34 - 23:59",
+                "compactDuration": "9h25m",
+                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
+                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 565
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "life.other": {
+            "subcategoryId": "life.other",
+            "categoryId": "life",
+            "label": "其他生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 565
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+                "label": "14:34配了70%甲醇500毫升常温放置",
+                "dateLabel": "",
+                "timeLabel": "14:34 - 23:59",
+                "compactDuration": "9h25m",
+                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
+                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 565
               }
             ]
           }
