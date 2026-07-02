@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T12:40:28.431Z",
-    "updatedAt": "2026-07-02T12:40:23.922Z",
-    "taxonomyUpdatedAt": "2026-07-02T12:40:23.920Z",
-    "factsUpdatedAt": "2026-07-02T12:40:23.922Z",
+    "generatedAt": "2026-07-02T15:24:27.671Z",
+    "updatedAt": "2026-07-02T15:24:18.314Z",
+    "taxonomyUpdatedAt": "2026-07-02T15:24:18.307Z",
+    "factsUpdatedAt": "2026-07-02T15:24:18.314Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -3232,15 +3232,30 @@
           {
             "id": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
             "start": "2026-07-02T12:15:00.000Z",
-            "end": "2026-07-02T15:59:00.000Z",
-            "content": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小 | 3h44m",
+            "end": "2026-07-02T15:23:00.000Z",
+            "content": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小 | 3h8m",
             "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
             "tooltip": {
               "title": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
               "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
               "color": "var(--cat-work)",
-              "durationText": "3小时44分钟",
-              "timeText": "20:15 - 23:59"
+              "durationText": "3小时8分钟",
+              "timeText": "20:15 - 23:23"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+            "start": "2026-07-02T15:23:00.000Z",
+            "end": "2026-07-02T15:59:00.000Z",
+            "content": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（ | 36m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+              "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+              "color": "var(--cat-work)",
+              "durationText": "36分钟",
+              "timeText": "23:23 - 23:59"
             },
             "className": "cat-work"
           }
@@ -6228,15 +6243,32 @@
             "id": "2026-07-02:fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
             "group": "2026-07-02",
             "start": "2000-01-01T20:15:00+08:00",
-            "end": "2000-01-01T23:59:00+08:00",
-            "content": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小 | 3h44m",
+            "end": "2000-01-01T23:23:00+08:00",
+            "content": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小 | 3h8m",
             "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
             "tooltip": {
               "title": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
               "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
               "color": "var(--cat-work)",
-              "durationText": "3小时44分钟",
-              "timeText": "20:15 - 23:59",
+              "durationText": "3小时8分钟",
+              "timeText": "20:15 - 23:23",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-02:fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T23:23:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（ | 36m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+              "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+              "color": "var(--cat-work)",
+              "durationText": "36分钟",
+              "timeText": "23:23 - 23:59",
               "dateText": "2026-07-02"
             },
             "className": "cat-work"
@@ -37506,15 +37538,29 @@
                 "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
                 "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "dateLabel": "",
-                "timeLabel": "20:15 - 23:59",
-                "compactDuration": "3h44m",
-                "fullLabel": "20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 224
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "",
+                "timeLabel": "23:23 - 23:59",
+                "compactDuration": "36m",
+                "fullLabel": "23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 36
               }
             ]
           },
@@ -38423,15 +38469,29 @@
                 "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
                 "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "dateLabel": "",
-                "timeLabel": "20:15 - 23:59",
-                "compactDuration": "3h44m",
-                "fullLabel": "20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 224
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "",
+                "timeLabel": "23:23 - 23:59",
+                "compactDuration": "36m",
+                "fullLabel": "23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 36
               }
             ]
           }
@@ -46671,15 +46731,29 @@
                 "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
                 "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "dateLabel": "07-02",
-                "timeLabel": "20:15 - 23:59",
-                "compactDuration": "3h44m",
-                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 224
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "07-02",
+                "timeLabel": "23:23 - 23:59",
+                "compactDuration": "36m",
+                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 36
               }
             ]
           },
@@ -47299,15 +47373,29 @@
                 "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
                 "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "dateLabel": "07-02",
-                "timeLabel": "20:15 - 23:59",
-                "compactDuration": "3h44m",
-                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 224
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "07-02",
+                "timeLabel": "23:23 - 23:59",
+                "compactDuration": "36m",
+                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 36
               }
             ]
           },
@@ -56526,15 +56614,29 @@
                 "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
                 "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "dateLabel": "07-02",
-                "timeLabel": "20:15 - 23:59",
-                "compactDuration": "3h44m",
-                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 224
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "07-02",
+                "timeLabel": "23:23 - 23:59",
+                "compactDuration": "36m",
+                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 36
               }
             ]
           },
@@ -56796,15 +56898,29 @@
                 "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
                 "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "dateLabel": "07-02",
-                "timeLabel": "20:15 - 23:59",
-                "compactDuration": "3h44m",
-                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 224
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "07-02",
+                "timeLabel": "23:23 - 23:59",
+                "compactDuration": "36m",
+                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 36
               }
             ]
           },
