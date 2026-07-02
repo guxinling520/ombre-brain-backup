@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T06:38:30.500Z",
-    "updatedAt": "2026-07-01T06:38:23.298Z",
-    "taxonomyUpdatedAt": "2026-07-01T06:38:23.294Z",
-    "factsUpdatedAt": "2026-07-01T06:38:23.298Z",
+    "generatedAt": "2026-07-02T12:40:28.431Z",
+    "updatedAt": "2026-07-02T12:40:23.922Z",
+    "taxonomyUpdatedAt": "2026-07-02T12:40:23.920Z",
+    "factsUpdatedAt": "2026-07-02T12:40:23.922Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -38,9 +38,10 @@
       "2026-06-28",
       "2026-06-29",
       "2026-06-30",
-      "2026-07-01"
+      "2026-07-01",
+      "2026-07-02"
     ],
-    "latestDate": "2026-07-01"
+    "latestDate": "2026-07-02"
   },
   "taxonomy": {
     "categories": [
@@ -3056,19 +3057,192 @@
         "groups": [],
         "items": [
           {
-            "id": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+            "id": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+            "start": "2026-07-01T00:00:00.000Z",
+            "end": "2026-07-01T05:00:00.000Z",
+            "content": "上午补觉 | 5h",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
+            "tooltip": {
+              "title": "上午补觉",
+              "note": "凌晨快1点才睡，上午在睡觉。",
+              "color": "var(--cat-rest)",
+              "durationText": "5小时",
+              "timeText": "08:00 - 13:00"
+            },
+            "className": "cat-rest"
+          },
+          {
+            "id": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+            "start": "2026-07-01T06:00:00.000Z",
+            "end": "2026-07-01T06:34:00.000Z",
+            "content": "去实验室配试剂 | 34m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "去实验室配试剂",
+              "note": "去实验室配了70%甲醇500mL，常温放置。",
+              "color": "var(--cat-work)",
+              "durationText": "34分钟",
+              "timeText": "14:00 - 14:34"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
             "start": "2026-07-01T06:34:00.000Z",
-            "end": "2026-07-01T15:59:00.000Z",
-            "content": "14:34配了70%甲醇500毫升常温放置 | 9h25m",
+            "end": "2026-07-01T10:00:00.000Z",
+            "content": "原神6.7新版本做剧情 | 3h26m",
+            "style": "background:var(--cat-entertainment);border-color:var(--cat-entertainment);color:var(--text);",
+            "tooltip": {
+              "title": "原神6.7新版本做剧情",
+              "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+              "color": "var(--cat-entertainment)",
+              "durationText": "3小时26分钟",
+              "timeText": "14:34 - 18:00"
+            },
+            "className": "cat-entertainment"
+          },
+          {
+            "id": "fact:evt-workout:2026-07-01T13-00-00-000Z",
+            "start": "2026-07-01T13:00:00.000Z",
+            "end": "2026-07-01T14:00:00.000Z",
+            "content": "健身 | 1h",
+            "style": "background:var(--cat-exercise);border-color:var(--cat-exercise);color:var(--text);",
+            "tooltip": {
+              "title": "健身",
+              "note": "21:00-22:00健身房锻炼。",
+              "color": "var(--cat-exercise)",
+              "durationText": "1小时",
+              "timeText": "21:00 - 22:00"
+            },
+            "className": "cat-exercise"
+          },
+          {
+            "id": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+            "start": "2026-07-01T14:00:00.000Z",
+            "end": "2026-07-01T15:00:00.000Z",
+            "content": "改茶树遗传与育种课程论文 | 1h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "改茶树遗传与育种课程论文",
+              "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+              "color": "var(--cat-study)",
+              "durationText": "1小时",
+              "timeText": "22:00 - 23:00"
+            },
+            "className": "cat-study"
+          }
+        ]
+      },
+      "2026-07-02": {
+        "date": "2026-07-02",
+        "start": "2026-07-02T00:00:00.000+08:00",
+        "end": "2026-07-02T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+            "start": "2026-07-02T05:01:00.000Z",
+            "end": "2026-07-02T12:10:00.000Z",
+            "content": "当前位置记录 | 7h9m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
-              "title": "14:34配了70%甲醇500毫升常温放置",
-              "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+              "title": "当前位置记录",
+              "note": "记录当前位置和当前状态。",
               "color": "var(--cat-life)",
-              "durationText": "9小时25分钟",
-              "timeText": "14:34 - 23:59"
+              "durationText": "7小时9分钟",
+              "timeText": "13:01 - 20:10"
             },
             "className": "cat-life"
+          },
+          {
+            "id": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+            "start": "2026-07-02T12:10:00.000Z",
+            "end": "2026-07-02T12:11:00.000Z",
+            "content": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐 | 1m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+              "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "1分钟",
+              "timeText": "20:10 - 20:11"
+            },
+            "className": "cat-travel"
+          },
+          {
+            "id": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+            "start": "2026-07-02T12:11:00.000Z",
+            "end": "2026-07-02T12:12:00.000Z",
+            "content": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做 | 1m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+              "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "1分钟",
+              "timeText": "20:11 - 20:12"
+            },
+            "className": "cat-travel"
+          },
+          {
+            "id": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+            "start": "2026-07-02T12:12:00.000Z",
+            "end": "2026-07-02T12:13:00.000Z",
+            "content": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八 | 1m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+              "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+              "color": "var(--cat-work)",
+              "durationText": "1分钟",
+              "timeText": "20:12 - 20:13"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+            "start": "2026-07-02T12:13:00.000Z",
+            "end": "2026-07-02T12:14:00.000Z",
+            "content": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+ | 1m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+              "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+              "color": "var(--cat-life)",
+              "durationText": "1分钟",
+              "timeText": "20:13 - 20:14"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+            "start": "2026-07-02T12:14:00.000Z",
+            "end": "2026-07-02T12:15:00.000Z",
+            "content": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本 | 1m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+              "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+              "color": "var(--cat-work)",
+              "durationText": "1分钟",
+              "timeText": "20:14 - 20:15"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+            "start": "2026-07-02T12:15:00.000Z",
+            "end": "2026-07-02T15:59:00.000Z",
+            "content": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小 | 3h44m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+              "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+              "color": "var(--cat-work)",
+              "durationText": "3小时44分钟",
+              "timeText": "20:15 - 23:59"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -5864,21 +6038,208 @@
             "className": "cat-exercise"
           },
           {
-            "id": "2026-07-01:fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
+            "id": "2026-07-01:fact:evt-sleep:2026-07-01T00-00-00-000Z",
             "group": "2026-07-01",
-            "start": "2000-01-01T14:34:00+08:00",
-            "end": "2000-01-01T23:59:00+08:00",
-            "content": "14:34配了70%甲醇500毫升常温放置 | 9h25m",
-            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "start": "2000-01-01T08:00:00+08:00",
+            "end": "2000-01-01T13:00:00+08:00",
+            "content": "上午补觉 | 5h",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
             "tooltip": {
-              "title": "14:34配了70%甲醇500毫升常温放置",
-              "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
-              "color": "var(--cat-life)",
-              "durationText": "9小时25分钟",
-              "timeText": "14:34 - 23:59",
+              "title": "上午补觉",
+              "note": "凌晨快1点才睡，上午在睡觉。",
+              "color": "var(--cat-rest)",
+              "durationText": "5小时",
+              "timeText": "08:00 - 13:00",
               "dateText": "2026-07-01"
             },
+            "className": "cat-rest"
+          },
+          {
+            "id": "2026-07-01:fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+            "group": "2026-07-01",
+            "start": "2000-01-01T14:00:00+08:00",
+            "end": "2000-01-01T14:34:00+08:00",
+            "content": "去实验室配试剂 | 34m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "去实验室配试剂",
+              "note": "去实验室配了70%甲醇500mL，常温放置。",
+              "color": "var(--cat-work)",
+              "durationText": "34分钟",
+              "timeText": "14:00 - 14:34",
+              "dateText": "2026-07-01"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-01:fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
+            "group": "2026-07-01",
+            "start": "2000-01-01T14:34:00+08:00",
+            "end": "2000-01-01T18:00:00+08:00",
+            "content": "原神6.7新版本做剧情 | 3h26m",
+            "style": "background:var(--cat-entertainment);border-color:var(--cat-entertainment);color:var(--text);",
+            "tooltip": {
+              "title": "原神6.7新版本做剧情",
+              "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+              "color": "var(--cat-entertainment)",
+              "durationText": "3小时26分钟",
+              "timeText": "14:34 - 18:00",
+              "dateText": "2026-07-01"
+            },
+            "className": "cat-entertainment"
+          },
+          {
+            "id": "2026-07-01:fact:evt-workout:2026-07-01T13-00-00-000Z",
+            "group": "2026-07-01",
+            "start": "2000-01-01T21:00:00+08:00",
+            "end": "2000-01-01T22:00:00+08:00",
+            "content": "健身 | 1h",
+            "style": "background:var(--cat-exercise);border-color:var(--cat-exercise);color:var(--text);",
+            "tooltip": {
+              "title": "健身",
+              "note": "21:00-22:00健身房锻炼。",
+              "color": "var(--cat-exercise)",
+              "durationText": "1小时",
+              "timeText": "21:00 - 22:00",
+              "dateText": "2026-07-01"
+            },
+            "className": "cat-exercise"
+          },
+          {
+            "id": "2026-07-01:fact:evt-learning:2026-07-01T14-00-00-000Z",
+            "group": "2026-07-01",
+            "start": "2000-01-01T22:00:00+08:00",
+            "end": "2000-01-01T23:00:00+08:00",
+            "content": "改茶树遗传与育种课程论文 | 1h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "改茶树遗传与育种课程论文",
+              "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+              "color": "var(--cat-study)",
+              "durationText": "1小时",
+              "timeText": "22:00 - 23:00",
+              "dateText": "2026-07-01"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-02:fact:当前位置记录:2026-07-02T05-01-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T13:01:00+08:00",
+            "end": "2000-01-01T20:10:00+08:00",
+            "content": "当前位置记录 | 7h9m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "当前位置记录",
+              "note": "记录当前位置和当前状态。",
+              "color": "var(--cat-life)",
+              "durationText": "7小时9分钟",
+              "timeText": "13:01 - 20:10",
+              "dateText": "2026-07-02"
+            },
             "className": "cat-life"
+          },
+          {
+            "id": "2026-07-02:fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T20:10:00+08:00",
+            "end": "2000-01-01T20:11:00+08:00",
+            "content": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐 | 1m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+              "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "1分钟",
+              "timeText": "20:10 - 20:11",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-travel"
+          },
+          {
+            "id": "2026-07-02:fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T20:11:00+08:00",
+            "end": "2000-01-01T20:12:00+08:00",
+            "content": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做 | 1m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+              "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "1分钟",
+              "timeText": "20:11 - 20:12",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-travel"
+          },
+          {
+            "id": "2026-07-02:fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T20:12:00+08:00",
+            "end": "2000-01-01T20:13:00+08:00",
+            "content": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八 | 1m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+              "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+              "color": "var(--cat-work)",
+              "durationText": "1分钟",
+              "timeText": "20:12 - 20:13",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-02:fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T20:13:00+08:00",
+            "end": "2000-01-01T20:14:00+08:00",
+            "content": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+ | 1m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+              "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+              "color": "var(--cat-life)",
+              "durationText": "1分钟",
+              "timeText": "20:13 - 20:14",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-02:fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T20:14:00+08:00",
+            "end": "2000-01-01T20:15:00+08:00",
+            "content": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本 | 1m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+              "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+              "color": "var(--cat-work)",
+              "durationText": "1分钟",
+              "timeText": "20:14 - 20:15",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-02:fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T20:15:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小 | 3h44m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+              "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+              "color": "var(--cat-work)",
+              "durationText": "3小时44分钟",
+              "timeText": "20:15 - 23:59",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -35236,21 +35597,202 @@
         "key": "2026-07-01",
         "label": "2026-07-01",
         "unit": "hour",
-        "totalMinutes": 565,
+        "totalMinutes": 660,
         "categories": [
           {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
-            "minutes": 565,
-            "percent": 1
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "minutes": 300,
+            "percent": 0.4545
+          },
+          {
+            "categoryId": "entertainment",
+            "label": "娱乐",
+            "color": "var(--cat-entertainment)",
+            "minutes": 206,
+            "percent": 0.3121
+          },
+          {
+            "categoryId": "exercise",
+            "label": "运动",
+            "color": "var(--cat-exercise)",
+            "minutes": 60,
+            "percent": 0.0909
+          },
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 60,
+            "percent": 0.0909
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 34,
+            "percent": 0.0515
           }
         ],
         "categoryDetails": {
-          "life": {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
+          "rest": {
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 60
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 60
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 60
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 60
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 60
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "睡眠",
+                "color": "var(--cat-rest)",
+                "minutes": 300,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "entertainment": {
+            "categoryId": "entertainment",
+            "label": "娱乐",
+            "color": "var(--cat-entertainment)",
             "trend": [
               {
                 "key": "0",
@@ -35345,6 +35887,1371 @@
               {
                 "key": "18",
                 "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "entertainment.game",
+                "categoryId": "entertainment",
+                "label": "游戏",
+                "color": "var(--cat-entertainment)",
+                "minutes": 206,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
+                "label": "原神6.7新版本做剧情",
+                "dateLabel": "",
+                "timeLabel": "14:34 - 18:00",
+                "compactDuration": "3h26m",
+                "fullLabel": "14:34 - 18:00 原神6.7新版本做剧情",
+                "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+                "status": "derived",
+                "categoryId": "entertainment",
+                "subcategoryId": "entertainment.game",
+                "subcategoryLabel": "entertainment.game",
+                "minutes": 206
+              }
+            ]
+          },
+          "exercise": {
+            "categoryId": "exercise",
+            "label": "运动",
+            "color": "var(--cat-exercise)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "exercise.workout",
+                "categoryId": "exercise",
+                "label": "锻炼",
+                "color": "var(--cat-exercise)",
+                "minutes": 60,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-workout:2026-07-01T13-00-00-000Z",
+                "label": "健身",
+                "dateLabel": "",
+                "timeLabel": "21:00 - 22:00",
+                "compactDuration": "1h",
+                "fullLabel": "21:00 - 22:00 健身",
+                "note": "21:00-22:00健身房锻炼。",
+                "status": "official",
+                "categoryId": "exercise",
+                "subcategoryId": "exercise.workout",
+                "subcategoryLabel": "exercise.workout",
+                "minutes": 60
+              }
+            ]
+          },
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.course",
+                "categoryId": "study",
+                "label": "课程",
+                "color": "var(--cat-study)",
+                "minutes": 60,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 34
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 34,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "睡眠",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 60
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 60
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 60
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 60
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 60
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "其他工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 34
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              }
+            ]
+          },
+          "entertainment.game": {
+            "subcategoryId": "entertainment.game",
+            "categoryId": "entertainment",
+            "label": "游戏",
+            "color": "var(--cat-entertainment)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 26
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
+                "label": "原神6.7新版本做剧情",
+                "dateLabel": "",
+                "timeLabel": "14:34 - 18:00",
+                "compactDuration": "3h26m",
+                "fullLabel": "14:34 - 18:00 原神6.7新版本做剧情",
+                "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+                "status": "derived",
+                "categoryId": "entertainment",
+                "subcategoryId": "entertainment.game",
+                "subcategoryLabel": "entertainment.game",
+                "minutes": 206
+              }
+            ]
+          },
+          "exercise.workout": {
+            "subcategoryId": "exercise.workout",
+            "categoryId": "exercise",
+            "label": "锻炼",
+            "color": "var(--cat-exercise)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-workout:2026-07-01T13-00-00-000Z",
+                "label": "健身",
+                "dateLabel": "",
+                "timeLabel": "21:00 - 22:00",
+                "compactDuration": "1h",
+                "fullLabel": "21:00 - 22:00 健身",
+                "note": "21:00-22:00健身房锻炼。",
+                "status": "official",
+                "categoryId": "exercise",
+                "subcategoryId": "exercise.workout",
+                "subcategoryLabel": "exercise.workout",
+                "minutes": 60
+              }
+            ]
+          },
+          "study.course": {
+            "subcategoryId": "study.course",
+            "categoryId": "study",
+            "label": "课程",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              }
+            ]
+          }
+        }
+      },
+      "2026-07-02": {
+        "key": "2026-07-02",
+        "label": "2026-07-02",
+        "unit": "hour",
+        "totalMinutes": 658,
+        "categories": [
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 430,
+            "percent": 0.6535
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 226,
+            "percent": 0.3435
+          },
+          {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "minutes": 2,
+            "percent": 0.003
+          }
+        ],
+        "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 59
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
                 "minutes": 60
               },
               {
@@ -35355,7 +37262,182 @@
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 60
+                "minutes": 11
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 429,
+                "percent": 0.9977
+              },
+              {
+                "subcategoryId": "life.errand",
+                "categoryId": "life",
+                "label": "办事",
+                "color": "var(--cat-life)",
+                "minutes": 1,
+                "percent": 0.0023
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 429
+              },
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 47
               },
               {
                 "key": "21",
@@ -35375,28 +37457,231 @@
             ],
             "subcategories": [
               {
-                "subcategoryId": "life.other",
-                "categoryId": "life",
-                "label": "其他生活",
-                "color": "var(--cat-life)",
-                "minutes": 565,
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 224,
+                "percent": 0.9912
+              },
+              {
+                "subcategoryId": "work.communication",
+                "categoryId": "work",
+                "label": "沟通",
+                "color": "var(--cat-work)",
+                "minutes": 2,
+                "percent": 0.0088
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "",
+                "timeLabel": "20:15 - 23:59",
+                "compactDuration": "3h44m",
+                "fullLabel": "20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 224
+              }
+            ]
+          },
+          "travel": {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 2
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "travel.commute",
+                "categoryId": "travel",
+                "label": "通勤",
+                "color": "var(--cat-travel)",
+                "minutes": 2,
                 "percent": 1
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
-                "label": "14:34配了70%甲醇500毫升常温放置",
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
                 "dateLabel": "",
-                "timeLabel": "14:34 - 23:59",
-                "compactDuration": "9h25m",
-                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
-                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 565
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
               }
             ]
           }
@@ -35476,12 +37761,12 @@
               {
                 "key": "13",
                 "label": "13:00",
-                "minutes": 0
+                "minutes": 59
               },
               {
                 "key": "14",
                 "label": "14:00",
-                "minutes": 26
+                "minutes": 60
               },
               {
                 "key": "15",
@@ -35511,7 +37796,611 @@
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 60
+                "minutes": 10
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 429
+              }
+            ]
+          },
+          "travel.commute": {
+            "subcategoryId": "travel.commute",
+            "categoryId": "travel",
+            "label": "通勤",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 2
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "dateLabel": "",
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              }
+            ]
+          },
+          "work.communication": {
+            "subcategoryId": "work.communication",
+            "categoryId": "work",
+            "label": "沟通",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 2
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              }
+            ]
+          },
+          "life.errand": {
+            "subcategoryId": "life.errand",
+            "categoryId": "life",
+            "label": "办事",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 1
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
+              }
+            ]
+          },
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "其他工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 45
               },
               {
                 "key": "21",
@@ -35531,18 +38420,18 @@
             ],
             "events": [
               {
-                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
-                "label": "14:34配了70%甲醇500毫升常温放置",
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
                 "dateLabel": "",
-                "timeLabel": "14:34 - 23:59",
-                "compactDuration": "9h25m",
-                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
-                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "timeLabel": "20:15 - 23:59",
+                "compactDuration": "3h44m",
+                "fullLabel": "20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
                 "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 565
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 224
               }
             ]
           }
@@ -43421,35 +46310,56 @@
         "key": "2026-06-29",
         "label": "2026-06-29 当周",
         "unit": "day",
-        "totalMinutes": 1737,
+        "totalMinutes": 2490,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1140,
-            "percent": 0.6563
+            "minutes": 1005,
+            "percent": 0.4036
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
-            "minutes": 595,
-            "percent": 0.3425
+            "minutes": 855,
+            "percent": 0.3434
           },
           {
-            "categoryId": "travel",
-            "label": "出行",
-            "color": "var(--cat-travel)",
-            "minutes": 1,
-            "percent": 0.0006
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "minutes": 300,
+            "percent": 0.1205
+          },
+          {
+            "categoryId": "entertainment",
+            "label": "娱乐",
+            "color": "var(--cat-entertainment)",
+            "minutes": 206,
+            "percent": 0.0827
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
-            "minutes": 1,
-            "percent": 0.0006
+            "minutes": 61,
+            "percent": 0.0245
+          },
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 60,
+            "percent": 0.0241
+          },
+          {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "minutes": 3,
+            "percent": 0.0012
           }
         ],
         "categoryDetails": {
@@ -43471,12 +46381,12 @@
               {
                 "label": "07-01",
                 "key": "2026-07-01",
-                "minutes": 565
+                "minutes": 0
               },
               {
                 "label": "07-02",
                 "key": "2026-07-02",
-                "minutes": 0
+                "minutes": 430
               },
               {
                 "label": "07-03",
@@ -43500,8 +46410,16 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 1140,
-                "percent": 1
+                "minutes": 1004,
+                "percent": 0.999
+              },
+              {
+                "subcategoryId": "life.errand",
+                "categoryId": "life",
+                "label": "办事",
+                "color": "var(--cat-life)",
+                "minutes": 1,
+                "percent": 0.001
               }
             ],
             "events": [
@@ -43562,18 +46480,32 @@
                 "minutes": 189
               },
               {
-                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
-                "label": "14:34配了70%甲醇500毫升常温放置",
-                "dateLabel": "07-01",
-                "timeLabel": "14:34 - 23:59",
-                "compactDuration": "9h25m",
-                "fullLabel": "07-01 14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
-                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "07-02",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 565
+                "minutes": 429
+              },
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "07-02",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
               }
             ]
           },
@@ -43595,12 +46527,12 @@
               {
                 "label": "07-01",
                 "key": "2026-07-01",
-                "minutes": 0
+                "minutes": 34
               },
               {
                 "label": "07-02",
                 "key": "2026-07-02",
-                "minutes": 0
+                "minutes": 226
               },
               {
                 "label": "07-03",
@@ -43624,8 +46556,16 @@
                 "categoryId": "work",
                 "label": "其他工作",
                 "color": "var(--cat-work)",
-                "minutes": 595,
-                "percent": 1
+                "minutes": 853,
+                "percent": 0.9977
+              },
+              {
+                "subcategoryId": "work.communication",
+                "categoryId": "work",
+                "label": "沟通",
+                "color": "var(--cat-work)",
+                "minutes": 2,
+                "percent": 0.0023
               }
             ],
             "events": [
@@ -43684,18 +46624,74 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 322
+              },
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "07-01",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              },
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "07-02",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "07-02",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "07-02",
+                "timeLabel": "20:15 - 23:59",
+                "compactDuration": "3h44m",
+                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 224
               }
             ]
           },
-          "travel": {
-            "categoryId": "travel",
-            "label": "出行",
-            "color": "var(--cat-travel)",
+          "rest": {
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
             "trend": [
               {
                 "label": "06-29",
                 "key": "2026-06-29",
-                "minutes": 1
+                "minutes": 0
               },
               {
                 "label": "06-30",
@@ -43705,7 +46701,7 @@
               {
                 "label": "07-01",
                 "key": "2026-07-01",
-                "minutes": 0
+                "minutes": 300
               },
               {
                 "label": "07-02",
@@ -43730,28 +46726,96 @@
             ],
             "subcategories": [
               {
-                "subcategoryId": "travel.commute",
-                "categoryId": "travel",
-                "label": "通勤",
-                "color": "var(--cat-travel)",
-                "minutes": 1,
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "睡眠",
+                "color": "var(--cat-rest)",
+                "minutes": 300,
                 "percent": 1
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:下午两点半到现在都在工位等下准备回寝室:2026-06-29T14-49-00-000Z",
-                "label": "下午两点半到现在都在工位等下准备回寝室",
-                "dateLabel": "06-29",
-                "timeLabel": "22:49 - 22:50",
-                "compactDuration": "1m",
-                "fullLabel": "06-29 22:49 - 22:50 下午两点半到现在都在工位等下准备回寝室",
-                "note": "下午两点半到现在都在工位，等下准备回寝室。",
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-01",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
                 "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 1
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "entertainment": {
+            "categoryId": "entertainment",
+            "label": "娱乐",
+            "color": "var(--cat-entertainment)",
+            "trend": [
+              {
+                "label": "06-29",
+                "key": "2026-06-29",
+                "minutes": 0
+              },
+              {
+                "label": "06-30",
+                "key": "2026-06-30",
+                "minutes": 0
+              },
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 206
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "entertainment.game",
+                "categoryId": "entertainment",
+                "label": "游戏",
+                "color": "var(--cat-entertainment)",
+                "minutes": 206,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
+                "label": "原神6.7新版本做剧情",
+                "dateLabel": "07-01",
+                "timeLabel": "14:34 - 18:00",
+                "compactDuration": "3h26m",
+                "fullLabel": "07-01 14:34 - 18:00 原神6.7新版本做剧情",
+                "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+                "status": "derived",
+                "categoryId": "entertainment",
+                "subcategoryId": "entertainment.game",
+                "subcategoryLabel": "entertainment.game",
+                "minutes": 206
               }
             ]
           },
@@ -43773,7 +46837,7 @@
               {
                 "label": "07-01",
                 "key": "2026-07-01",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "label": "07-02",
@@ -43802,7 +46866,7 @@
                 "categoryId": "exercise",
                 "label": "锻炼",
                 "color": "var(--cat-exercise)",
-                "minutes": 1,
+                "minutes": 61,
                 "percent": 1
               }
             ],
@@ -43819,6 +46883,184 @@
                 "categoryId": "exercise",
                 "subcategoryId": "exercise.workout",
                 "subcategoryLabel": "exercise.workout",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:evt-workout:2026-07-01T13-00-00-000Z",
+                "label": "健身",
+                "dateLabel": "07-01",
+                "timeLabel": "21:00 - 22:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 21:00 - 22:00 健身",
+                "note": "21:00-22:00健身房锻炼。",
+                "status": "official",
+                "categoryId": "exercise",
+                "subcategoryId": "exercise.workout",
+                "subcategoryLabel": "exercise.workout",
+                "minutes": 60
+              }
+            ]
+          },
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "label": "06-29",
+                "key": "2026-06-29",
+                "minutes": 0
+              },
+              {
+                "label": "06-30",
+                "key": "2026-06-30",
+                "minutes": 0
+              },
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 60
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.course",
+                "categoryId": "study",
+                "label": "课程",
+                "color": "var(--cat-study)",
+                "minutes": 60,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "07-01",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              }
+            ]
+          },
+          "travel": {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "label": "06-29",
+                "key": "2026-06-29",
+                "minutes": 1
+              },
+              {
+                "label": "06-30",
+                "key": "2026-06-30",
+                "minutes": 0
+              },
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 2
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "travel.commute",
+                "categoryId": "travel",
+                "label": "通勤",
+                "color": "var(--cat-travel)",
+                "minutes": 3,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:下午两点半到现在都在工位等下准备回寝室:2026-06-29T14-49-00-000Z",
+                "label": "下午两点半到现在都在工位等下准备回寝室",
+                "dateLabel": "06-29",
+                "timeLabel": "22:49 - 22:50",
+                "compactDuration": "1m",
+                "fullLabel": "06-29 22:49 - 22:50 下午两点半到现在都在工位等下准备回寝室",
+                "note": "下午两点半到现在都在工位，等下准备回寝室。",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "dateLabel": "07-02",
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "07-02",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
                 "minutes": 1
               }
             ]
@@ -43844,12 +47086,12 @@
               {
                 "key": "2026-07-01",
                 "label": "07-01",
-                "minutes": 565
+                "minutes": 0
               },
               {
                 "key": "2026-07-02",
                 "label": "07-02",
-                "minutes": 0
+                "minutes": 429
               },
               {
                 "key": "2026-07-03",
@@ -43925,18 +47167,18 @@
                 "minutes": 189
               },
               {
-                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
-                "label": "14:34配了70%甲醇500毫升常温放置",
-                "dateLabel": "07-01",
-                "timeLabel": "14:34 - 23:59",
-                "compactDuration": "9h25m",
-                "fullLabel": "07-01 14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
-                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "07-02",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 565
+                "minutes": 429
               }
             ]
           },
@@ -43959,12 +47201,12 @@
               {
                 "key": "2026-07-01",
                 "label": "07-01",
-                "minutes": 0
+                "minutes": 34
               },
               {
                 "key": "2026-07-02",
                 "label": "07-02",
-                "minutes": 0
+                "minutes": 224
               },
               {
                 "key": "2026-07-03",
@@ -44038,6 +47280,34 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 322
+              },
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "07-01",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "07-02",
+                "timeLabel": "20:15 - 23:59",
+                "compactDuration": "3h44m",
+                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 224
               }
             ]
           },
@@ -44065,7 +47335,7 @@
               {
                 "key": "2026-07-02",
                 "label": "07-02",
-                "minutes": 0
+                "minutes": 2
               },
               {
                 "key": "2026-07-03",
@@ -44097,6 +47367,34 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "dateLabel": "07-02",
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "07-02",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
               }
             ]
           },
@@ -44119,7 +47417,7 @@
               {
                 "key": "2026-07-01",
                 "label": "07-01",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "2026-07-02",
@@ -44155,6 +47453,329 @@
                 "categoryId": "exercise",
                 "subcategoryId": "exercise.workout",
                 "subcategoryLabel": "exercise.workout",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:evt-workout:2026-07-01T13-00-00-000Z",
+                "label": "健身",
+                "dateLabel": "07-01",
+                "timeLabel": "21:00 - 22:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 21:00 - 22:00 健身",
+                "note": "21:00-22:00健身房锻炼。",
+                "status": "official",
+                "categoryId": "exercise",
+                "subcategoryId": "exercise.workout",
+                "subcategoryLabel": "exercise.workout",
+                "minutes": 60
+              }
+            ]
+          },
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "睡眠",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "2026-06-29",
+                "label": "06-29",
+                "minutes": 0
+              },
+              {
+                "key": "2026-06-30",
+                "label": "06-30",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 300
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-01",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "entertainment.game": {
+            "subcategoryId": "entertainment.game",
+            "categoryId": "entertainment",
+            "label": "游戏",
+            "color": "var(--cat-entertainment)",
+            "trend": [
+              {
+                "key": "2026-06-29",
+                "label": "06-29",
+                "minutes": 0
+              },
+              {
+                "key": "2026-06-30",
+                "label": "06-30",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 206
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
+                "label": "原神6.7新版本做剧情",
+                "dateLabel": "07-01",
+                "timeLabel": "14:34 - 18:00",
+                "compactDuration": "3h26m",
+                "fullLabel": "07-01 14:34 - 18:00 原神6.7新版本做剧情",
+                "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+                "status": "derived",
+                "categoryId": "entertainment",
+                "subcategoryId": "entertainment.game",
+                "subcategoryLabel": "entertainment.game",
+                "minutes": 206
+              }
+            ]
+          },
+          "study.course": {
+            "subcategoryId": "study.course",
+            "categoryId": "study",
+            "label": "课程",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-06-29",
+                "label": "06-29",
+                "minutes": 0
+              },
+              {
+                "key": "2026-06-30",
+                "label": "06-30",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 60
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "07-01",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              }
+            ]
+          },
+          "work.communication": {
+            "subcategoryId": "work.communication",
+            "categoryId": "work",
+            "label": "沟通",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "2026-06-29",
+                "label": "06-29",
+                "minutes": 0
+              },
+              {
+                "key": "2026-06-30",
+                "label": "06-30",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 2
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "07-02",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "07-02",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              }
+            ]
+          },
+          "life.errand": {
+            "subcategoryId": "life.errand",
+            "categoryId": "life",
+            "label": "办事",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-06-29",
+                "label": "06-29",
+                "minutes": 0
+              },
+              {
+                "key": "2026-06-30",
+                "label": "06-30",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 1
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "07-02",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
                 "minutes": 1
               }
             ]
@@ -52663,14 +56284,56 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 565,
+        "totalMinutes": 1318,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 565,
-            "percent": 1
+            "minutes": 430,
+            "percent": 0.3263
+          },
+          {
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "minutes": 300,
+            "percent": 0.2276
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 260,
+            "percent": 0.1973
+          },
+          {
+            "categoryId": "entertainment",
+            "label": "娱乐",
+            "color": "var(--cat-entertainment)",
+            "minutes": 206,
+            "percent": 0.1563
+          },
+          {
+            "categoryId": "exercise",
+            "label": "运动",
+            "color": "var(--cat-exercise)",
+            "minutes": 60,
+            "percent": 0.0455
+          },
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 60,
+            "percent": 0.0455
+          },
+          {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "minutes": 2,
+            "percent": 0.0015
           }
         ],
         "categoryDetails": {
@@ -52682,7 +56345,12 @@
               {
                 "label": "07-01",
                 "key": "2026-07-01",
-                "minutes": 565
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 430
               }
             ],
             "subcategories": [
@@ -52691,29 +56359,557 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 565,
+                "minutes": 429,
+                "percent": 0.9977
+              },
+              {
+                "subcategoryId": "life.errand",
+                "categoryId": "life",
+                "label": "办事",
+                "color": "var(--cat-life)",
+                "minutes": 1,
+                "percent": 0.0023
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "07-02",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 429
+              },
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "07-02",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
+              }
+            ]
+          },
+          "rest": {
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 300
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "睡眠",
+                "color": "var(--cat-rest)",
+                "minutes": 300,
                 "percent": 1
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
-                "label": "14:34配了70%甲醇500毫升常温放置",
-                "dateLabel": "",
-                "timeLabel": "14:34 - 23:59",
-                "compactDuration": "9h25m",
-                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
-                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-01",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 34
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 226
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 258,
+                "percent": 0.9923
+              },
+              {
+                "subcategoryId": "work.communication",
+                "categoryId": "work",
+                "label": "沟通",
+                "color": "var(--cat-work)",
+                "minutes": 2,
+                "percent": 0.0077
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "07-01",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
                 "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 565
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              },
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "07-02",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "07-02",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "07-02",
+                "timeLabel": "20:15 - 23:59",
+                "compactDuration": "3h44m",
+                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 224
+              }
+            ]
+          },
+          "entertainment": {
+            "categoryId": "entertainment",
+            "label": "娱乐",
+            "color": "var(--cat-entertainment)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 206
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "entertainment.game",
+                "categoryId": "entertainment",
+                "label": "游戏",
+                "color": "var(--cat-entertainment)",
+                "minutes": 206,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
+                "label": "原神6.7新版本做剧情",
+                "dateLabel": "07-01",
+                "timeLabel": "14:34 - 18:00",
+                "compactDuration": "3h26m",
+                "fullLabel": "07-01 14:34 - 18:00 原神6.7新版本做剧情",
+                "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+                "status": "derived",
+                "categoryId": "entertainment",
+                "subcategoryId": "entertainment.game",
+                "subcategoryLabel": "entertainment.game",
+                "minutes": 206
+              }
+            ]
+          },
+          "exercise": {
+            "categoryId": "exercise",
+            "label": "运动",
+            "color": "var(--cat-exercise)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 60
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "exercise.workout",
+                "categoryId": "exercise",
+                "label": "锻炼",
+                "color": "var(--cat-exercise)",
+                "minutes": 60,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-workout:2026-07-01T13-00-00-000Z",
+                "label": "健身",
+                "dateLabel": "07-01",
+                "timeLabel": "21:00 - 22:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 21:00 - 22:00 健身",
+                "note": "21:00-22:00健身房锻炼。",
+                "status": "official",
+                "categoryId": "exercise",
+                "subcategoryId": "exercise.workout",
+                "subcategoryLabel": "exercise.workout",
+                "minutes": 60
+              }
+            ]
+          },
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 60
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.course",
+                "categoryId": "study",
+                "label": "课程",
+                "color": "var(--cat-study)",
+                "minutes": 60,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "07-01",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              }
+            ]
+          },
+          "travel": {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 2
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "travel.commute",
+                "categoryId": "travel",
+                "label": "通勤",
+                "color": "var(--cat-travel)",
+                "minutes": 2,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "dateLabel": "07-02",
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "07-02",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
               }
             ]
           }
         },
         "subcategoryDetails": {
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "睡眠",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 300
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-01",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "其他工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 34
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 224
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "07-01",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "07-02",
+                "timeLabel": "20:15 - 23:59",
+                "compactDuration": "3h44m",
+                "fullLabel": "07-02 20:15 - 23:59 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 224
+              }
+            ]
+          },
+          "entertainment.game": {
+            "subcategoryId": "entertainment.game",
+            "categoryId": "entertainment",
+            "label": "游戏",
+            "color": "var(--cat-entertainment)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 206
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:原神6-7新版本做剧情:2026-07-01T06-34-00-000Z",
+                "label": "原神6.7新版本做剧情",
+                "dateLabel": "07-01",
+                "timeLabel": "14:34 - 18:00",
+                "compactDuration": "3h26m",
+                "fullLabel": "07-01 14:34 - 18:00 原神6.7新版本做剧情",
+                "note": "下午玩原神新版本6.7，做剧情任务。实验因为试剂没配好推迟了。[😊+2]",
+                "status": "derived",
+                "categoryId": "entertainment",
+                "subcategoryId": "entertainment.game",
+                "subcategoryLabel": "entertainment.game",
+                "minutes": 206
+              }
+            ]
+          },
+          "exercise.workout": {
+            "subcategoryId": "exercise.workout",
+            "categoryId": "exercise",
+            "label": "锻炼",
+            "color": "var(--cat-exercise)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 60
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-workout:2026-07-01T13-00-00-000Z",
+                "label": "健身",
+                "dateLabel": "07-01",
+                "timeLabel": "21:00 - 22:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 21:00 - 22:00 健身",
+                "note": "21:00-22:00健身房锻炼。",
+                "status": "official",
+                "categoryId": "exercise",
+                "subcategoryId": "exercise.workout",
+                "subcategoryLabel": "exercise.workout",
+                "minutes": 60
+              }
+            ]
+          },
+          "study.course": {
+            "subcategoryId": "study.course",
+            "categoryId": "study",
+            "label": "课程",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 60
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "07-01",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              }
+            ]
+          },
           "life.other": {
             "subcategoryId": "life.other",
             "categoryId": "life",
@@ -52723,23 +56919,158 @@
               {
                 "key": "2026-07-01",
                 "label": "07-01",
-                "minutes": 565
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 429
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:14:34配了70%甲醇500毫升常温放置:2026-07-01T06-34-00-000Z",
-                "label": "14:34配了70%甲醇500毫升常温放置",
-                "dateLabel": "",
-                "timeLabel": "14:34 - 23:59",
-                "compactDuration": "9h25m",
-                "fullLabel": "14:34 - 23:59 14:34配了70%甲醇500毫升常温放置",
-                "note": "14:34 配了 70% 甲醇，500 毫升，常温放置。",
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "07-02",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 565
+                "minutes": 429
+              }
+            ]
+          },
+          "travel.commute": {
+            "subcategoryId": "travel.commute",
+            "categoryId": "travel",
+            "label": "通勤",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 2
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "dateLabel": "07-02",
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "07-02",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              }
+            ]
+          },
+          "work.communication": {
+            "subcategoryId": "work.communication",
+            "categoryId": "work",
+            "label": "沟通",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 2
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "07-02",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "07-02",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              }
+            ]
+          },
+          "life.errand": {
+            "subcategoryId": "life.errand",
+            "categoryId": "life",
+            "label": "办事",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "07-02",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
               }
             ]
           }
