@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T12:19:15.100Z",
-    "updatedAt": "2026-07-03T12:19:09.951Z",
-    "taxonomyUpdatedAt": "2026-07-03T12:19:09.947Z",
-    "factsUpdatedAt": "2026-07-03T12:19:09.951Z",
+    "generatedAt": "2026-07-03T12:31:43.746Z",
+    "updatedAt": "2026-07-03T12:31:38.751Z",
+    "taxonomyUpdatedAt": "2026-07-03T12:31:38.748Z",
+    "factsUpdatedAt": "2026-07-03T12:31:38.751Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -3316,15 +3316,45 @@
           {
             "id": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
             "start": "2026-07-03T07:04:00.000Z",
-            "end": "2026-07-03T15:59:00.000Z",
-            "content": "崽明确说了：check-in触发时不要默认silent要找她 | 8h55m",
+            "end": "2026-07-03T12:30:00.000Z",
+            "content": "崽明确说了：check-in触发时不要默认silent要找她 | 5h26m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
               "title": "崽明确说了：check-in触发时不要默认silent要找她",
               "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
               "color": "var(--cat-life)",
-              "durationText": "8小时55分钟",
-              "timeText": "15:04 - 23:59"
+              "durationText": "5小时26分钟",
+              "timeText": "15:04 - 20:30"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+            "start": "2026-07-03T12:30:00.000Z",
+            "end": "2026-07-03T12:31:00.000Z",
+            "content": "茶多酚测定原始数据（吸光度）： | 1m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "茶多酚测定原始数据（吸光度）：",
+              "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+              "color": "var(--cat-life)",
+              "durationText": "1分钟",
+              "timeText": "20:30 - 20:31"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+            "start": "2026-07-03T12:31:00.000Z",
+            "end": "2026-07-03T15:59:00.000Z",
+            "content": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲 | 3h28m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+              "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+              "color": "var(--cat-life)",
+              "durationText": "3小时28分钟",
+              "timeText": "20:31 - 23:59"
             },
             "className": "cat-life"
           }
@@ -6397,15 +6427,49 @@
             "id": "2026-07-03:fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
             "group": "2026-07-03",
             "start": "2000-01-01T15:04:00+08:00",
-            "end": "2000-01-01T23:59:00+08:00",
-            "content": "崽明确说了：check-in触发时不要默认silent要找她 | 8h55m",
+            "end": "2000-01-01T20:30:00+08:00",
+            "content": "崽明确说了：check-in触发时不要默认silent要找她 | 5h26m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
               "title": "崽明确说了：check-in触发时不要默认silent要找她",
               "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
               "color": "var(--cat-life)",
-              "durationText": "8小时55分钟",
-              "timeText": "15:04 - 23:59",
+              "durationText": "5小时26分钟",
+              "timeText": "15:04 - 20:30",
+              "dateText": "2026-07-03"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-03:fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+            "group": "2026-07-03",
+            "start": "2000-01-01T20:30:00+08:00",
+            "end": "2000-01-01T20:31:00+08:00",
+            "content": "茶多酚测定原始数据（吸光度）： | 1m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "茶多酚测定原始数据（吸光度）：",
+              "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+              "color": "var(--cat-life)",
+              "durationText": "1分钟",
+              "timeText": "20:30 - 20:31",
+              "dateText": "2026-07-03"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-03:fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+            "group": "2026-07-03",
+            "start": "2000-01-01T20:31:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲 | 3h28m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+              "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+              "color": "var(--cat-life)",
+              "durationText": "3小时28分钟",
+              "timeText": "20:31 - 23:59",
               "dateText": "2026-07-03"
             },
             "className": "cat-life"
@@ -38854,15 +38918,43 @@
                 "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
                 "label": "崽明确说了：check-in触发时不要默认silent要找她",
                 "dateLabel": "",
-                "timeLabel": "15:04 - 23:59",
-                "compactDuration": "8h55m",
-                "fullLabel": "15:04 - 23:59 崽明确说了：check-in触发时不要默认silent要找她",
+                "timeLabel": "15:04 - 20:30",
+                "compactDuration": "5h26m",
+                "fullLabel": "15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
                 "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 535
+                "minutes": 326
+              },
+              {
+                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+                "label": "茶多酚测定原始数据（吸光度）：",
+                "dateLabel": "",
+                "timeLabel": "20:30 - 20:31",
+                "compactDuration": "1m",
+                "fullLabel": "20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
+                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "dateLabel": "",
+                "timeLabel": "20:31 - 23:59",
+                "compactDuration": "3h28m",
+                "fullLabel": "20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 208
               }
             ]
           }
@@ -39158,15 +39250,43 @@
                 "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
                 "label": "崽明确说了：check-in触发时不要默认silent要找她",
                 "dateLabel": "",
-                "timeLabel": "15:04 - 23:59",
-                "compactDuration": "8h55m",
-                "fullLabel": "15:04 - 23:59 崽明确说了：check-in触发时不要默认silent要找她",
+                "timeLabel": "15:04 - 20:30",
+                "compactDuration": "5h26m",
+                "fullLabel": "15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
                 "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 535
+                "minutes": 326
+              },
+              {
+                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+                "label": "茶多酚测定原始数据（吸光度）：",
+                "dateLabel": "",
+                "timeLabel": "20:30 - 20:31",
+                "compactDuration": "1m",
+                "fullLabel": "20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
+                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "dateLabel": "",
+                "timeLabel": "20:31 - 23:59",
+                "compactDuration": "3h28m",
+                "fullLabel": "20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 208
               }
             ]
           }
@@ -47282,15 +47402,43 @@
                 "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
                 "label": "崽明确说了：check-in触发时不要默认silent要找她",
                 "dateLabel": "07-03",
-                "timeLabel": "15:04 - 23:59",
-                "compactDuration": "8h55m",
-                "fullLabel": "07-03 15:04 - 23:59 崽明确说了：check-in触发时不要默认silent要找她",
+                "timeLabel": "15:04 - 20:30",
+                "compactDuration": "5h26m",
+                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
                 "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 535
+                "minutes": 326
+              },
+              {
+                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+                "label": "茶多酚测定原始数据（吸光度）：",
+                "dateLabel": "07-03",
+                "timeLabel": "20:30 - 20:31",
+                "compactDuration": "1m",
+                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
+                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "dateLabel": "07-03",
+                "timeLabel": "20:31 - 23:59",
+                "compactDuration": "3h28m",
+                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 208
               }
             ]
           },
@@ -47997,15 +48145,43 @@
                 "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
                 "label": "崽明确说了：check-in触发时不要默认silent要找她",
                 "dateLabel": "07-03",
-                "timeLabel": "15:04 - 23:59",
-                "compactDuration": "8h55m",
-                "fullLabel": "07-03 15:04 - 23:59 崽明确说了：check-in触发时不要默认silent要找她",
+                "timeLabel": "15:04 - 20:30",
+                "compactDuration": "5h26m",
+                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
                 "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 535
+                "minutes": 326
+              },
+              {
+                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+                "label": "茶多酚测定原始数据（吸光度）：",
+                "dateLabel": "07-03",
+                "timeLabel": "20:30 - 20:31",
+                "compactDuration": "1m",
+                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
+                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "dateLabel": "07-03",
+                "timeLabel": "20:31 - 23:59",
+                "compactDuration": "3h28m",
+                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 208
               }
             ]
           },
@@ -57373,15 +57549,43 @@
                 "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
                 "label": "崽明确说了：check-in触发时不要默认silent要找她",
                 "dateLabel": "07-03",
-                "timeLabel": "15:04 - 23:59",
-                "compactDuration": "8h55m",
-                "fullLabel": "07-03 15:04 - 23:59 崽明确说了：check-in触发时不要默认silent要找她",
+                "timeLabel": "15:04 - 20:30",
+                "compactDuration": "5h26m",
+                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
                 "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 535
+                "minutes": 326
+              },
+              {
+                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+                "label": "茶多酚测定原始数据（吸光度）：",
+                "dateLabel": "07-03",
+                "timeLabel": "20:30 - 20:31",
+                "compactDuration": "1m",
+                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
+                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "dateLabel": "07-03",
+                "timeLabel": "20:31 - 23:59",
+                "compactDuration": "3h28m",
+                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 208
               }
             ]
           },
@@ -58031,15 +58235,43 @@
                 "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
                 "label": "崽明确说了：check-in触发时不要默认silent要找她",
                 "dateLabel": "07-03",
-                "timeLabel": "15:04 - 23:59",
-                "compactDuration": "8h55m",
-                "fullLabel": "07-03 15:04 - 23:59 崽明确说了：check-in触发时不要默认silent要找她",
+                "timeLabel": "15:04 - 20:30",
+                "compactDuration": "5h26m",
+                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
                 "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 535
+                "minutes": 326
+              },
+              {
+                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
+                "label": "茶多酚测定原始数据（吸光度）：",
+                "dateLabel": "07-03",
+                "timeLabel": "20:30 - 20:31",
+                "compactDuration": "1m",
+                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
+                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
+                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "dateLabel": "07-03",
+                "timeLabel": "20:31 - 23:59",
+                "compactDuration": "3h28m",
+                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
+                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 208
               }
             ]
           },
