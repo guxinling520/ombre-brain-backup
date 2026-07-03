@@ -2872,6 +2872,52 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-03": {
+      "status": "draft",
+      "updatedAt": "2026-07-03T12:19:09.942Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
+          "startAt": "2026-07-03T04:51:00.000Z",
+          "endAt": "2026-07-03T07:03:00.000Z",
+          "title": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
+          "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
+          "startAt": "2026-07-03T07:03:00.000Z",
+          "endAt": "2026-07-03T07:04:00.000Z",
+          "title": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
+          "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
+          "startAt": "2026-07-03T07:04:00.000Z",
+          "endAt": "2026-07-03T15:59:00.000Z",
+          "title": "崽明确说了：check-in触发时不要默认silent要找她",
+          "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
