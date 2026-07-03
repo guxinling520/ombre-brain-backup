@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T15:24:27.671Z",
-    "updatedAt": "2026-07-02T15:24:18.314Z",
-    "taxonomyUpdatedAt": "2026-07-02T15:24:18.307Z",
-    "factsUpdatedAt": "2026-07-02T15:24:18.314Z",
+    "generatedAt": "2026-07-02T15:55:31.119Z",
+    "updatedAt": "2026-07-02T15:55:28.431Z",
+    "taxonomyUpdatedAt": "2026-07-02T15:55:28.429Z",
+    "factsUpdatedAt": "2026-07-02T15:55:28.431Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -3247,17 +3247,32 @@
           {
             "id": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
             "start": "2026-07-02T15:23:00.000Z",
-            "end": "2026-07-02T15:59:00.000Z",
-            "content": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（ | 36m",
+            "end": "2026-07-02T15:55:00.000Z",
+            "content": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（ | 32m",
             "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
             "tooltip": {
               "title": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
               "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
               "color": "var(--cat-work)",
-              "durationText": "36分钟",
-              "timeText": "23:23 - 23:59"
+              "durationText": "32分钟",
+              "timeText": "23:23 - 23:55"
             },
             "className": "cat-work"
+          },
+          {
+            "id": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+            "start": "2026-07-02T15:55:00.000Z",
+            "end": "2026-07-02T15:59:00.000Z",
+            "content": "2026-07-0223:55—终于回寝室了在实验室盯本科生 | 4m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+              "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+              "color": "var(--cat-travel)",
+              "durationText": "4分钟",
+              "timeText": "23:55 - 23:59"
+            },
+            "className": "cat-travel"
           }
         ]
       }
@@ -6260,18 +6275,35 @@
             "id": "2026-07-02:fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
             "group": "2026-07-02",
             "start": "2000-01-01T23:23:00+08:00",
-            "end": "2000-01-01T23:59:00+08:00",
-            "content": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（ | 36m",
+            "end": "2000-01-01T23:55:00+08:00",
+            "content": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（ | 32m",
             "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
             "tooltip": {
               "title": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
               "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
               "color": "var(--cat-work)",
-              "durationText": "36分钟",
-              "timeText": "23:23 - 23:59",
+              "durationText": "32分钟",
+              "timeText": "23:23 - 23:55",
               "dateText": "2026-07-02"
             },
             "className": "cat-work"
+          },
+          {
+            "id": "2026-07-02:fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+            "group": "2026-07-02",
+            "start": "2000-01-01T23:55:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "2026-07-0223:55—终于回寝室了在实验室盯本科生 | 4m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+              "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+              "color": "var(--cat-travel)",
+              "durationText": "4分钟",
+              "timeText": "23:55 - 23:59",
+              "dateText": "2026-07-02"
+            },
+            "className": "cat-travel"
           }
         ]
       }
@@ -37174,15 +37206,15 @@
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
-            "minutes": 226,
-            "percent": 0.3435
+            "minutes": 222,
+            "percent": 0.3374
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
-            "minutes": 2,
-            "percent": 0.003
+            "minutes": 6,
+            "percent": 0.0091
           }
         ],
         "categoryDetails": {
@@ -37484,7 +37516,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 59
+                "minutes": 55
               }
             ],
             "subcategories": [
@@ -37493,8 +37525,8 @@
                 "categoryId": "work",
                 "label": "其他工作",
                 "color": "var(--cat-work)",
-                "minutes": 224,
-                "percent": 0.9912
+                "minutes": 220,
+                "percent": 0.991
               },
               {
                 "subcategoryId": "work.communication",
@@ -37502,7 +37534,7 @@
                 "label": "沟通",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0088
+                "percent": 0.009
               }
             ],
             "events": [
@@ -37552,15 +37584,15 @@
                 "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
                 "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "dateLabel": "",
-                "timeLabel": "23:23 - 23:59",
-                "compactDuration": "36m",
-                "fullLabel": "23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 36
+                "minutes": 32
               }
             ]
           },
@@ -37687,7 +37719,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 4
               }
             ],
             "subcategories": [
@@ -37696,7 +37728,7 @@
                 "categoryId": "travel",
                 "label": "通勤",
                 "color": "var(--cat-travel)",
-                "minutes": 2,
+                "minutes": 6,
                 "percent": 1
               }
             ],
@@ -37728,6 +37760,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
               }
             ]
           }
@@ -38001,7 +38047,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 4
               }
             ],
             "events": [
@@ -38032,6 +38078,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
               }
             ]
           },
@@ -38461,7 +38521,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 59
+                "minutes": 55
               }
             ],
             "events": [
@@ -38483,15 +38543,15 @@
                 "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
                 "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "dateLabel": "",
-                "timeLabel": "23:23 - 23:59",
-                "compactDuration": "36m",
-                "fullLabel": "23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 36
+                "minutes": 32
               }
             ]
           }
@@ -46383,8 +46443,8 @@
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
-            "minutes": 855,
-            "percent": 0.3434
+            "minutes": 851,
+            "percent": 0.3418
           },
           {
             "categoryId": "rest",
@@ -46418,8 +46478,8 @@
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
-            "minutes": 3,
-            "percent": 0.0012
+            "minutes": 7,
+            "percent": 0.0028
           }
         ],
         "categoryDetails": {
@@ -46592,7 +46652,7 @@
               {
                 "label": "07-02",
                 "key": "2026-07-02",
-                "minutes": 226
+                "minutes": 222
               },
               {
                 "label": "07-03",
@@ -46616,8 +46676,8 @@
                 "categoryId": "work",
                 "label": "其他工作",
                 "color": "var(--cat-work)",
-                "minutes": 853,
-                "percent": 0.9977
+                "minutes": 849,
+                "percent": 0.9976
               },
               {
                 "subcategoryId": "work.communication",
@@ -46625,7 +46685,7 @@
                 "label": "沟通",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0023
+                "percent": 0.0024
               }
             ],
             "events": [
@@ -46745,15 +46805,15 @@
                 "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
                 "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "dateLabel": "07-02",
-                "timeLabel": "23:23 - 23:59",
-                "compactDuration": "36m",
-                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 36
+                "minutes": 32
               }
             ]
           },
@@ -47066,7 +47126,7 @@
               {
                 "label": "07-02",
                 "key": "2026-07-02",
-                "minutes": 2
+                "minutes": 6
               },
               {
                 "label": "07-03",
@@ -47090,7 +47150,7 @@
                 "categoryId": "travel",
                 "label": "通勤",
                 "color": "var(--cat-travel)",
-                "minutes": 3,
+                "minutes": 7,
                 "percent": 1
               }
             ],
@@ -47136,6 +47196,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "07-02",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
               }
             ]
           }
@@ -47280,7 +47354,7 @@
               {
                 "key": "2026-07-02",
                 "label": "07-02",
-                "minutes": 224
+                "minutes": 220
               },
               {
                 "key": "2026-07-03",
@@ -47387,15 +47461,15 @@
                 "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
                 "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "dateLabel": "07-02",
-                "timeLabel": "23:23 - 23:59",
-                "compactDuration": "36m",
-                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 36
+                "minutes": 32
               }
             ]
           },
@@ -47423,7 +47497,7 @@
               {
                 "key": "2026-07-02",
                 "label": "07-02",
-                "minutes": 2
+                "minutes": 6
               },
               {
                 "key": "2026-07-03",
@@ -47483,6 +47557,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "07-02",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
               }
             ]
           },
@@ -56392,8 +56480,8 @@
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
-            "minutes": 260,
-            "percent": 0.1973
+            "minutes": 256,
+            "percent": 0.1942
           },
           {
             "categoryId": "entertainment",
@@ -56420,8 +56508,8 @@
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
-            "minutes": 2,
-            "percent": 0.0015
+            "minutes": 6,
+            "percent": 0.0046
           }
         ],
         "categoryDetails": {
@@ -56546,7 +56634,7 @@
               {
                 "label": "07-02",
                 "key": "2026-07-02",
-                "minutes": 226
+                "minutes": 222
               }
             ],
             "subcategories": [
@@ -56555,8 +56643,8 @@
                 "categoryId": "work",
                 "label": "其他工作",
                 "color": "var(--cat-work)",
-                "minutes": 258,
-                "percent": 0.9923
+                "minutes": 254,
+                "percent": 0.9922
               },
               {
                 "subcategoryId": "work.communication",
@@ -56564,7 +56652,7 @@
                 "label": "沟通",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0077
+                "percent": 0.0078
               }
             ],
             "events": [
@@ -56628,15 +56716,15 @@
                 "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
                 "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "dateLabel": "07-02",
-                "timeLabel": "23:23 - 23:59",
-                "compactDuration": "36m",
-                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 36
+                "minutes": 32
               }
             ]
           },
@@ -56782,7 +56870,7 @@
               {
                 "label": "07-02",
                 "key": "2026-07-02",
-                "minutes": 2
+                "minutes": 6
               }
             ],
             "subcategories": [
@@ -56791,7 +56879,7 @@
                 "categoryId": "travel",
                 "label": "通勤",
                 "color": "var(--cat-travel)",
-                "minutes": 2,
+                "minutes": 6,
                 "percent": 1
               }
             ],
@@ -56823,6 +56911,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "07-02",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
               }
             ]
           }
@@ -56876,7 +56978,7 @@
               {
                 "key": "2026-07-02",
                 "label": "07-02",
-                "minutes": 224
+                "minutes": 220
               }
             ],
             "events": [
@@ -56912,15 +57014,15 @@
                 "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
                 "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "dateLabel": "07-02",
-                "timeLabel": "23:23 - 23:59",
-                "compactDuration": "36m",
-                "fullLabel": "07-02 23:23 - 23:59 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
                 "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
                 "status": "derived",
                 "categoryId": "work",
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
-                "minutes": 36
+                "minutes": 32
               }
             ]
           },
@@ -57074,7 +57176,7 @@
               {
                 "key": "2026-07-02",
                 "label": "07-02",
-                "minutes": 2
+                "minutes": 6
               }
             ],
             "events": [
@@ -57105,6 +57207,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "07-02",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
               }
             ]
           },
