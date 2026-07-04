@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T12:31:43.746Z",
-    "updatedAt": "2026-07-03T12:31:38.751Z",
-    "taxonomyUpdatedAt": "2026-07-03T12:31:38.748Z",
-    "factsUpdatedAt": "2026-07-03T12:31:38.751Z",
+    "generatedAt": "2026-07-03T17:07:00.352Z",
+    "updatedAt": "2026-07-03T17:06:56.692Z",
+    "taxonomyUpdatedAt": "2026-07-03T17:06:56.690Z",
+    "factsUpdatedAt": "2026-07-03T17:06:56.692Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -3284,6 +3284,21 @@
         "groups": [],
         "items": [
           {
+            "id": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+            "start": "2026-07-02T17:06:00.000Z",
+            "end": "2026-07-03T15:59:00.000Z",
+            "content": "2026-07-03将近凌晨1点——还在实验室测s4-s6从 | 22h53m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+              "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+              "color": "var(--cat-work)",
+              "durationText": "22小时53分钟",
+              "timeText": "01:06 - 23:59"
+            },
+            "className": "cat-work"
+          },
+          {
             "id": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
             "start": "2026-07-03T04:51:00.000Z",
             "end": "2026-07-03T07:03:00.000Z",
@@ -3340,21 +3355,6 @@
               "color": "var(--cat-life)",
               "durationText": "1分钟",
               "timeText": "20:30 - 20:31"
-            },
-            "className": "cat-life"
-          },
-          {
-            "id": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-            "start": "2026-07-03T12:31:00.000Z",
-            "end": "2026-07-03T15:59:00.000Z",
-            "content": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲 | 3h28m",
-            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
-            "tooltip": {
-              "title": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-              "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-              "color": "var(--cat-life)",
-              "durationText": "3小时28分钟",
-              "timeText": "20:31 - 23:59"
             },
             "className": "cat-life"
           }
@@ -6390,6 +6390,23 @@
             "className": "cat-travel"
           },
           {
+            "id": "2026-07-03:fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+            "group": "2026-07-03",
+            "start": "2000-01-01T01:06:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "2026-07-03将近凌晨1点——还在实验室测s4-s6从 | 22h53m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+              "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+              "color": "var(--cat-work)",
+              "durationText": "22小时53分钟",
+              "timeText": "01:06 - 23:59",
+              "dateText": "2026-07-03"
+            },
+            "className": "cat-work"
+          },
+          {
             "id": "2026-07-03:fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
             "group": "2026-07-03",
             "start": "2000-01-01T12:51:00+08:00",
@@ -6453,23 +6470,6 @@
               "color": "var(--cat-life)",
               "durationText": "1分钟",
               "timeText": "20:30 - 20:31",
-              "dateText": "2026-07-03"
-            },
-            "className": "cat-life"
-          },
-          {
-            "id": "2026-07-03:fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-            "group": "2026-07-03",
-            "start": "2000-01-01T20:31:00+08:00",
-            "end": "2000-01-01T23:59:00+08:00",
-            "content": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲 | 3h28m",
-            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
-            "tooltip": {
-              "title": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-              "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-              "color": "var(--cat-life)",
-              "durationText": "3小时28分钟",
-              "timeText": "20:31 - 23:59",
               "dateText": "2026-07-03"
             },
             "className": "cat-life"
@@ -38730,17 +38730,177 @@
         "key": "2026-07-03",
         "label": "2026-07-03",
         "unit": "hour",
-        "totalMinutes": 668,
+        "totalMinutes": 1833,
         "categories": [
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 1373,
+            "percent": 0.749
+          },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 668,
-            "percent": 1
+            "minutes": 460,
+            "percent": 0.251
           }
         ],
         "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 54
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 60
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 60
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 60
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 60
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 60
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 60
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 60
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 60
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 60
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 60
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 60
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 59
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 1373,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "dateLabel": "",
+                "timeLabel": "01:06 - 23:59",
+                "compactDuration": "22h53m",
+                "fullLabel": "01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 1373
+              }
+            ]
+          },
           "life": {
             "categoryId": "life",
             "label": "生活",
@@ -38849,22 +39009,22 @@
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 60
+                "minutes": 31
               },
               {
                 "key": "21",
                 "label": "21:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 59
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -38873,8 +39033,8 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 535,
-                "percent": 0.8009
+                "minutes": 327,
+                "percent": 0.7109
               },
               {
                 "subcategoryId": "life.meal",
@@ -38882,7 +39042,7 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 133,
-                "percent": 0.1991
+                "percent": 0.2891
               }
             ],
             "events": [
@@ -38941,25 +39101,155 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "dateLabel": "",
-                "timeLabel": "20:31 - 23:59",
-                "compactDuration": "3h28m",
-                "fullLabel": "20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 208
               }
             ]
           }
         },
         "subcategoryDetails": {
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "其他工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 54
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 60
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 60
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 60
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 60
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 60
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 60
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 60
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 60
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 60
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 60
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 60
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 59
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "dateLabel": "",
+                "timeLabel": "01:06 - 23:59",
+                "compactDuration": "22h53m",
+                "fullLabel": "01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 1373
+              }
+            ]
+          },
           "life.meal": {
             "subcategoryId": "life.meal",
             "categoryId": "life",
@@ -39227,22 +39517,22 @@
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 60
+                "minutes": 31
               },
               {
                 "key": "21",
                 "label": "21:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 59
+                "minutes": 0
               }
             ],
             "events": [
@@ -39273,20 +39563,6 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "dateLabel": "",
-                "timeLabel": "20:31 - 23:59",
-                "compactDuration": "3h28m",
-                "fullLabel": "20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 208
               }
             ]
           }
@@ -47165,59 +47441,261 @@
         "key": "2026-06-29",
         "label": "2026-06-29 当周",
         "unit": "day",
-        "totalMinutes": 3158,
+        "totalMinutes": 4323,
         "categories": [
-          {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
-            "minutes": 1673,
-            "percent": 0.5298
-          },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
-            "minutes": 851,
-            "percent": 0.2695
+            "minutes": 2224,
+            "percent": 0.5145
+          },
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 1465,
+            "percent": 0.3389
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 300,
-            "percent": 0.095
+            "percent": 0.0694
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0652
+            "percent": 0.0477
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 61,
-            "percent": 0.0193
+            "percent": 0.0141
           },
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 60,
-            "percent": 0.019
+            "percent": 0.0139
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 7,
-            "percent": 0.0022
+            "percent": 0.0016
           }
         ],
         "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "06-29",
+                "key": "2026-06-29",
+                "minutes": 160
+              },
+              {
+                "label": "06-30",
+                "key": "2026-06-30",
+                "minutes": 435
+              },
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 34
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 222
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 1373
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 2222,
+                "percent": 0.9991
+              },
+              {
+                "subcategoryId": "work.communication",
+                "categoryId": "work",
+                "label": "沟通",
+                "color": "var(--cat-work)",
+                "minutes": 2,
+                "percent": 0.0009
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:20:09还在工位今天没配试剂先不补这件事:2026-06-29T12-09-00-000Z",
+                "label": "20:09还在工位今天没配试剂先不补这件事",
+                "dateLabel": "06-29",
+                "timeLabel": "20:09 - 22:49",
+                "compactDuration": "2h40m",
+                "fullLabel": "06-29 20:09 - 22:49 20:09还在工位今天没配试剂先不补这件事",
+                "note": "20:09 还在工位。今天没配试剂，先不补这件事。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 160
+              },
+              {
+                "eventNodeId": "fact:13:34准备吃完饭去配试剂（AlCl₃、70%甲:2026-06-30T05-34-00-000Z",
+                "label": "13:34准备吃完饭去配试剂（AlCl₃、70%甲醇、茚三酮",
+                "dateLabel": "06-30",
+                "timeLabel": "13:34 - 14:40",
+                "compactDuration": "1h6m",
+                "fullLabel": "06-30 13:34 - 14:40 13:34准备吃完饭去配试剂（AlCl₃、70%甲醇、茚三酮",
+                "note": "13:34 准备吃完饭去配试剂（AlCl₃、70%甲醇、茚三酮、pH8.0磷酸盐缓冲液）。茚三酮需要静置一昼夜。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 66
+              },
+              {
+                "eventNodeId": "fact:14:40到实验室了开始配试剂:2026-06-30T06-40-00-000Z",
+                "label": "14:40到实验室了开始配试剂",
+                "dateLabel": "06-30",
+                "timeLabel": "14:40 - 15:27",
+                "compactDuration": "47m",
+                "fullLabel": "06-30 14:40 - 15:27 14:40到实验室了开始配试剂",
+                "note": "14:40 到实验室了，开始配试剂。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 47
+              },
+              {
+                "eventNodeId": "fact:18:36剩下试剂明天再配（茚三酮、pH80缓冲液:2026-06-30T10-36-00-000Z",
+                "label": "18:36剩下试剂明天再配（茚三酮、pH80缓冲液、Na₂C",
+                "dateLabel": "06-30",
+                "timeLabel": "18:36 - 23:58",
+                "compactDuration": "5h22m",
+                "fullLabel": "06-30 18:36 - 23:58 18:36剩下试剂明天再配（茚三酮、pH80缓冲液、Na₂C",
+                "note": "18:36 剩下试剂明天再配（茚三酮、pH8.0缓冲液、Na₂CO₃）。。## 健身→23:18。健身完回工位修checkin，又出问题了。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 322
+              },
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "07-01",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              },
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "07-02",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "07-02",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "07-02",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "07-02",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "dateLabel": "07-03",
+                "timeLabel": "01:06 - 23:59",
+                "compactDuration": "22h53m",
+                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 1373
+              }
+            ]
+          },
           "life": {
             "categoryId": "life",
             "label": "生活",
@@ -47246,7 +47724,7 @@
               {
                 "label": "07-03",
                 "key": "2026-07-03",
-                "minutes": 668
+                "minutes": 460
               },
               {
                 "label": "07-04",
@@ -47265,8 +47743,8 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 1539,
-                "percent": 0.9199
+                "minutes": 1331,
+                "percent": 0.9085
               },
               {
                 "subcategoryId": "life.meal",
@@ -47274,7 +47752,7 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 133,
-                "percent": 0.0795
+                "percent": 0.0908
               },
               {
                 "subcategoryId": "life.errand",
@@ -47282,7 +47760,7 @@
                 "label": "办事",
                 "color": "var(--cat-life)",
                 "minutes": 1,
-                "percent": 0.0006
+                "percent": 0.0007
               }
             ],
             "events": [
@@ -47425,208 +47903,6 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "dateLabel": "07-03",
-                "timeLabel": "20:31 - 23:59",
-                "compactDuration": "3h28m",
-                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 208
-              }
-            ]
-          },
-          "work": {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "trend": [
-              {
-                "label": "06-29",
-                "key": "2026-06-29",
-                "minutes": 160
-              },
-              {
-                "label": "06-30",
-                "key": "2026-06-30",
-                "minutes": 435
-              },
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 34
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 222
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "work.other",
-                "categoryId": "work",
-                "label": "其他工作",
-                "color": "var(--cat-work)",
-                "minutes": 849,
-                "percent": 0.9976
-              },
-              {
-                "subcategoryId": "work.communication",
-                "categoryId": "work",
-                "label": "沟通",
-                "color": "var(--cat-work)",
-                "minutes": 2,
-                "percent": 0.0024
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:20:09还在工位今天没配试剂先不补这件事:2026-06-29T12-09-00-000Z",
-                "label": "20:09还在工位今天没配试剂先不补这件事",
-                "dateLabel": "06-29",
-                "timeLabel": "20:09 - 22:49",
-                "compactDuration": "2h40m",
-                "fullLabel": "06-29 20:09 - 22:49 20:09还在工位今天没配试剂先不补这件事",
-                "note": "20:09 还在工位。今天没配试剂，先不补这件事。",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 160
-              },
-              {
-                "eventNodeId": "fact:13:34准备吃完饭去配试剂（AlCl₃、70%甲:2026-06-30T05-34-00-000Z",
-                "label": "13:34准备吃完饭去配试剂（AlCl₃、70%甲醇、茚三酮",
-                "dateLabel": "06-30",
-                "timeLabel": "13:34 - 14:40",
-                "compactDuration": "1h6m",
-                "fullLabel": "06-30 13:34 - 14:40 13:34准备吃完饭去配试剂（AlCl₃、70%甲醇、茚三酮",
-                "note": "13:34 准备吃完饭去配试剂（AlCl₃、70%甲醇、茚三酮、pH8.0磷酸盐缓冲液）。茚三酮需要静置一昼夜。",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 66
-              },
-              {
-                "eventNodeId": "fact:14:40到实验室了开始配试剂:2026-06-30T06-40-00-000Z",
-                "label": "14:40到实验室了开始配试剂",
-                "dateLabel": "06-30",
-                "timeLabel": "14:40 - 15:27",
-                "compactDuration": "47m",
-                "fullLabel": "06-30 14:40 - 15:27 14:40到实验室了开始配试剂",
-                "note": "14:40 到实验室了，开始配试剂。",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 47
-              },
-              {
-                "eventNodeId": "fact:18:36剩下试剂明天再配（茚三酮、pH80缓冲液:2026-06-30T10-36-00-000Z",
-                "label": "18:36剩下试剂明天再配（茚三酮、pH80缓冲液、Na₂C",
-                "dateLabel": "06-30",
-                "timeLabel": "18:36 - 23:58",
-                "compactDuration": "5h22m",
-                "fullLabel": "06-30 18:36 - 23:58 18:36剩下试剂明天再配（茚三酮、pH80缓冲液、Na₂C",
-                "note": "18:36 剩下试剂明天再配（茚三酮、pH8.0缓冲液、Na₂CO₃）。。## 健身→23:18。健身完回工位修checkin，又出问题了。",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 322
-              },
-              {
-                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
-                "label": "去实验室配试剂",
-                "dateLabel": "07-01",
-                "timeLabel": "14:00 - 14:34",
-                "compactDuration": "34m",
-                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
-                "note": "去实验室配了70%甲醇500mL，常温放置。",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 34
-              },
-              {
-                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
-                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
-                "dateLabel": "07-02",
-                "timeLabel": "20:12 - 20:13",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
-                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.communication",
-                "subcategoryLabel": "work.communication",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
-                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
-                "dateLabel": "07-02",
-                "timeLabel": "20:14 - 20:15",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
-                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.communication",
-                "subcategoryLabel": "work.communication",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
-                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
-                "dateLabel": "07-02",
-                "timeLabel": "20:15 - 23:23",
-                "compactDuration": "3h8m",
-                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
-                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 188
-              },
-              {
-                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
-                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
-                "dateLabel": "07-02",
-                "timeLabel": "23:23 - 23:55",
-                "compactDuration": "32m",
-                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
-                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 32
               }
             ]
           },
@@ -48057,7 +48333,7 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 535
+                "minutes": 327
               },
               {
                 "key": "2026-07-04",
@@ -48168,20 +48444,6 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "dateLabel": "07-03",
-                "timeLabel": "20:31 - 23:59",
-                "compactDuration": "3h28m",
-                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 208
               }
             ]
           },
@@ -48214,7 +48476,7 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 0
+                "minutes": 1373
               },
               {
                 "key": "2026-07-04",
@@ -48325,6 +48587,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "dateLabel": "07-03",
+                "timeLabel": "01:06 - 23:59",
+                "compactDuration": "22h53m",
+                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 1373
               }
             ]
           },
@@ -57388,59 +57664,185 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 1986,
+        "totalMinutes": 3151,
         "categories": [
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 1629,
+            "percent": 0.517
+          },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1098,
-            "percent": 0.5529
+            "minutes": 890,
+            "percent": 0.2825
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 300,
-            "percent": 0.1511
-          },
-          {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "minutes": 256,
-            "percent": 0.1289
+            "percent": 0.0952
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.1037
+            "percent": 0.0654
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0302
+            "percent": 0.019
           },
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 60,
-            "percent": 0.0302
+            "percent": 0.019
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 6,
-            "percent": 0.003
+            "percent": 0.0019
           }
         ],
         "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 34
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 222
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 1373
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 1627,
+                "percent": 0.9988
+              },
+              {
+                "subcategoryId": "work.communication",
+                "categoryId": "work",
+                "label": "沟通",
+                "color": "var(--cat-work)",
+                "minutes": 2,
+                "percent": 0.0012
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "07-01",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              },
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "07-02",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "07-02",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "07-02",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "07-02",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "dateLabel": "07-03",
+                "timeLabel": "01:06 - 23:59",
+                "compactDuration": "22h53m",
+                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 1373
+              }
+            ]
+          },
           "life": {
             "categoryId": "life",
             "label": "生活",
@@ -57459,7 +57861,7 @@
               {
                 "label": "07-03",
                 "key": "2026-07-03",
-                "minutes": 668
+                "minutes": 460
               }
             ],
             "subcategories": [
@@ -57468,8 +57870,8 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 964,
-                "percent": 0.878
+                "minutes": 756,
+                "percent": 0.8494
               },
               {
                 "subcategoryId": "life.meal",
@@ -57477,7 +57879,7 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 133,
-                "percent": 0.1211
+                "percent": 0.1494
               },
               {
                 "subcategoryId": "life.errand",
@@ -57485,7 +57887,7 @@
                 "label": "办事",
                 "color": "var(--cat-life)",
                 "minutes": 1,
-                "percent": 0.0009
+                "percent": 0.0011
               }
             ],
             "events": [
@@ -57572,20 +57974,6 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "dateLabel": "07-03",
-                "timeLabel": "20:31 - 23:59",
-                "compactDuration": "3h28m",
-                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 208
               }
             ]
           },
@@ -57634,118 +58022,6 @@
                 "subcategoryId": "rest.sleep",
                 "subcategoryLabel": "rest.sleep",
                 "minutes": 300
-              }
-            ]
-          },
-          "work": {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 34
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 222
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "work.other",
-                "categoryId": "work",
-                "label": "其他工作",
-                "color": "var(--cat-work)",
-                "minutes": 254,
-                "percent": 0.9922
-              },
-              {
-                "subcategoryId": "work.communication",
-                "categoryId": "work",
-                "label": "沟通",
-                "color": "var(--cat-work)",
-                "minutes": 2,
-                "percent": 0.0078
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
-                "label": "去实验室配试剂",
-                "dateLabel": "07-01",
-                "timeLabel": "14:00 - 14:34",
-                "compactDuration": "34m",
-                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
-                "note": "去实验室配了70%甲醇500mL，常温放置。",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 34
-              },
-              {
-                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
-                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
-                "dateLabel": "07-02",
-                "timeLabel": "20:12 - 20:13",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
-                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.communication",
-                "subcategoryLabel": "work.communication",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
-                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
-                "dateLabel": "07-02",
-                "timeLabel": "20:14 - 20:15",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
-                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.communication",
-                "subcategoryLabel": "work.communication",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
-                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
-                "dateLabel": "07-02",
-                "timeLabel": "20:15 - 23:23",
-                "compactDuration": "3h8m",
-                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
-                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 188
-              },
-              {
-                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
-                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
-                "dateLabel": "07-02",
-                "timeLabel": "23:23 - 23:55",
-                "compactDuration": "32m",
-                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
-                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 32
               }
             ]
           },
@@ -58029,7 +58305,7 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 0
+                "minutes": 1373
               }
             ],
             "events": [
@@ -58074,6 +58350,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "dateLabel": "07-03",
+                "timeLabel": "01:06 - 23:59",
+                "compactDuration": "22h53m",
+                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 1373
               }
             ]
           },
@@ -58213,7 +58503,7 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 535
+                "minutes": 327
               }
             ],
             "events": [
@@ -58258,20 +58548,6 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-03茶多酚测定原始数据（吸光度76:2026-07-03T12-31-00-000Z",
-                "label": "2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "dateLabel": "07-03",
-                "timeLabel": "20:31 - 23:59",
-                "compactDuration": "3h28m",
-                "fullLabel": "07-03 20:31 - 23:59 2026-07-03茶多酚测定原始数据（吸光度765nm标曲",
-                "note": "2026-07-03 茶多酚测定原始数据（吸光度765nm，标曲y=0.0718x-0.003）：。s1-1: 0.346, s1-2: 0.310, s1-3: 0.292。s2-1: 0.334, s2-2: 0.246, s2-3: 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308（+追加一管0.373）",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 208
               }
             ]
           },
