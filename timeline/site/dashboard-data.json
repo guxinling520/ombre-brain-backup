@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T14:39:22.828Z",
-    "updatedAt": "2026-07-04T13:28:02.417Z",
-    "taxonomyUpdatedAt": "2026-07-04T13:28:02.415Z",
-    "factsUpdatedAt": "2026-07-04T13:28:02.417Z",
+    "generatedAt": "2026-07-04T22:29:08.550Z",
+    "updatedAt": "2026-07-04T15:08:54.595Z",
+    "taxonomyUpdatedAt": "2026-07-04T15:08:54.593Z",
+    "factsUpdatedAt": "2026-07-04T15:08:54.595Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -3385,17 +3385,32 @@
           {
             "id": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
             "start": "2026-07-04T13:27:00.000Z",
-            "end": "2026-07-04T15:59:00.000Z",
-            "content": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相 | 2h32m",
+            "end": "2026-07-04T15:08:00.000Z",
+            "content": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相 | 1h41m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
               "title": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
               "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
               "color": "var(--cat-life)",
-              "durationText": "2小时32分钟",
-              "timeText": "21:27 - 23:59"
+              "durationText": "1小时41分钟",
+              "timeText": "21:27 - 23:08"
             },
             "className": "cat-life"
+          },
+          {
+            "id": "fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+            "start": "2026-07-04T15:08:00.000Z",
+            "end": "2026-07-04T15:59:00.000Z",
+            "content": "2026-07-0423:08—终于从实验室回寝了今天做了s | 51m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+              "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+              "color": "var(--cat-work)",
+              "durationText": "51分钟",
+              "timeText": "23:08 - 23:59"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -6534,18 +6549,35 @@
             "id": "2026-07-04:fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
             "group": "2026-07-04",
             "start": "2000-01-01T21:27:00+08:00",
-            "end": "2000-01-01T23:59:00+08:00",
-            "content": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相 | 2h32m",
+            "end": "2000-01-01T23:08:00+08:00",
+            "content": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相 | 1h41m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
               "title": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
               "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
               "color": "var(--cat-life)",
-              "durationText": "2小时32分钟",
-              "timeText": "21:27 - 23:59",
+              "durationText": "1小时41分钟",
+              "timeText": "21:27 - 23:08",
               "dateText": "2026-07-04"
             },
             "className": "cat-life"
+          },
+          {
+            "id": "2026-07-04:fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+            "group": "2026-07-04",
+            "start": "2000-01-01T23:08:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "2026-07-0423:08—终于从实验室回寝了今天做了s | 51m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+              "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+              "color": "var(--cat-work)",
+              "durationText": "51分钟",
+              "timeText": "23:08 - 23:59",
+              "dateText": "2026-07-04"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -39733,8 +39765,8 @@
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 338,
-            "percent": 0.569
+            "minutes": 287,
+            "percent": 0.4832
           },
           {
             "categoryId": "travel",
@@ -39742,6 +39774,13 @@
             "color": "var(--cat-travel)",
             "minutes": 256,
             "percent": 0.431
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 51,
+            "percent": 0.0859
           }
         ],
         "categoryDetails": {
@@ -39868,7 +39907,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 59
+                "minutes": 8
               }
             ],
             "subcategories": [
@@ -39877,7 +39916,7 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 338,
+                "minutes": 287,
                 "percent": 1
               }
             ],
@@ -39914,15 +39953,15 @@
                 "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
                 "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "dateLabel": "",
-                "timeLabel": "21:27 - 23:59",
-                "compactDuration": "2h32m",
-                "fullLabel": "21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "timeLabel": "21:27 - 23:08",
+                "compactDuration": "1h41m",
+                "fullLabel": "21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 152
+                "minutes": 101
               }
             ]
           },
@@ -40076,6 +40115,159 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 256
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 51
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 51,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+                "label": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "dateLabel": "",
+                "timeLabel": "23:08 - 23:59",
+                "compactDuration": "51m",
+                "fullLabel": "23:08 - 23:59 2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 51
               }
             ]
           }
@@ -40349,7 +40541,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 59
+                "minutes": 8
               }
             ],
             "events": [
@@ -40385,15 +40577,159 @@
                 "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
                 "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "dateLabel": "",
-                "timeLabel": "21:27 - 23:59",
-                "compactDuration": "2h32m",
-                "fullLabel": "21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "timeLabel": "21:27 - 23:08",
+                "compactDuration": "1h41m",
+                "fullLabel": "21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 152
+                "minutes": 101
+              }
+            ]
+          },
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "其他工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 51
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+                "label": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "dateLabel": "",
+                "timeLabel": "23:08 - 23:59",
+                "compactDuration": "51m",
+                "fullLabel": "23:08 - 23:59 2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 51
               }
             ]
           }
@@ -48278,15 +48614,15 @@
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1403,
-            "percent": 0.347
+            "minutes": 1352,
+            "percent": 0.3344
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
-            "minutes": 851,
-            "percent": 0.2105
+            "minutes": 902,
+            "percent": 0.2231
           },
           {
             "categoryId": "study",
@@ -48358,7 +48694,7 @@
               {
                 "label": "07-04",
                 "key": "2026-07-04",
-                "minutes": 338
+                "minutes": 287
               },
               {
                 "label": "07-05",
@@ -48372,8 +48708,8 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 1342,
-                "percent": 0.9565
+                "minutes": 1291,
+                "percent": 0.9549
               },
               {
                 "subcategoryId": "life.meal",
@@ -48381,7 +48717,7 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 60,
-                "percent": 0.0428
+                "percent": 0.0444
               },
               {
                 "subcategoryId": "life.errand",
@@ -48523,15 +48859,15 @@
                 "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
                 "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "dateLabel": "07-04",
-                "timeLabel": "21:27 - 23:59",
-                "compactDuration": "2h32m",
-                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "timeLabel": "21:27 - 23:08",
+                "compactDuration": "1h41m",
+                "fullLabel": "07-04 21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 152
+                "minutes": 101
               }
             ]
           },
@@ -48568,7 +48904,7 @@
               {
                 "label": "07-04",
                 "key": "2026-07-04",
-                "minutes": 0
+                "minutes": 51
               },
               {
                 "label": "07-05",
@@ -48582,8 +48918,8 @@
                 "categoryId": "work",
                 "label": "其他工作",
                 "color": "var(--cat-work)",
-                "minutes": 849,
-                "percent": 0.9976
+                "minutes": 900,
+                "percent": 0.9978
               },
               {
                 "subcategoryId": "work.communication",
@@ -48591,7 +48927,7 @@
                 "label": "沟通",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0024
+                "percent": 0.0022
               }
             ],
             "events": [
@@ -48720,6 +49056,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+                "label": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "dateLabel": "07-04",
+                "timeLabel": "23:08 - 23:59",
+                "compactDuration": "51m",
+                "fullLabel": "07-04 23:08 - 23:59 2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 51
               }
             ]
           },
@@ -49205,7 +49555,7 @@
               {
                 "key": "2026-07-04",
                 "label": "07-04",
-                "minutes": 338
+                "minutes": 287
               },
               {
                 "key": "2026-07-05",
@@ -49316,15 +49666,15 @@
                 "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
                 "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "dateLabel": "07-04",
-                "timeLabel": "21:27 - 23:59",
-                "compactDuration": "2h32m",
-                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "timeLabel": "21:27 - 23:08",
+                "compactDuration": "1h41m",
+                "fullLabel": "07-04 21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 152
+                "minutes": 101
               }
             ]
           },
@@ -49362,7 +49712,7 @@
               {
                 "key": "2026-07-04",
                 "label": "07-04",
-                "minutes": 0
+                "minutes": 51
               },
               {
                 "key": "2026-07-05",
@@ -49468,6 +49818,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+                "label": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "dateLabel": "07-04",
+                "timeLabel": "23:08 - 23:59",
+                "compactDuration": "51m",
+                "fullLabel": "07-04 23:08 - 23:59 2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 51
               }
             ]
           },
@@ -58610,8 +58974,8 @@
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 828,
-            "percent": 0.2884
+            "minutes": 777,
+            "percent": 0.2706
           },
           {
             "categoryId": "study",
@@ -58628,18 +58992,18 @@
             "percent": 0.209
           },
           {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 307,
+            "percent": 0.1069
+          },
+          {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 262,
             "percent": 0.0913
-          },
-          {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "minutes": 256,
-            "percent": 0.0892
           },
           {
             "categoryId": "entertainment",
@@ -58680,7 +59044,7 @@
               {
                 "label": "07-04",
                 "key": "2026-07-04",
-                "minutes": 338
+                "minutes": 287
               }
             ],
             "subcategories": [
@@ -58689,8 +59053,8 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 767,
-                "percent": 0.9263
+                "minutes": 716,
+                "percent": 0.9215
               },
               {
                 "subcategoryId": "life.meal",
@@ -58698,7 +59062,7 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 60,
-                "percent": 0.0725
+                "percent": 0.0772
               },
               {
                 "subcategoryId": "life.errand",
@@ -58706,7 +59070,7 @@
                 "label": "办事",
                 "color": "var(--cat-life)",
                 "minutes": 1,
-                "percent": 0.0012
+                "percent": 0.0013
               }
             ],
             "events": [
@@ -58784,15 +59148,15 @@
                 "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
                 "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "dateLabel": "07-04",
-                "timeLabel": "21:27 - 23:59",
-                "compactDuration": "2h32m",
-                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "timeLabel": "21:27 - 23:08",
+                "compactDuration": "1h41m",
+                "fullLabel": "07-04 21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 152
+                "minutes": 101
               }
             ]
           },
@@ -58938,6 +59302,137 @@
               }
             ]
           },
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 34
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 222
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 51
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "其他工作",
+                "color": "var(--cat-work)",
+                "minutes": 305,
+                "percent": 0.9935
+              },
+              {
+                "subcategoryId": "work.communication",
+                "categoryId": "work",
+                "label": "沟通",
+                "color": "var(--cat-work)",
+                "minutes": 2,
+                "percent": 0.0065
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
+                "label": "去实验室配试剂",
+                "dateLabel": "07-01",
+                "timeLabel": "14:00 - 14:34",
+                "compactDuration": "34m",
+                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
+                "note": "去实验室配了70%甲醇500mL，常温放置。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 34
+              },
+              {
+                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
+                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "dateLabel": "07-02",
+                "timeLabel": "20:12 - 20:13",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
+                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
+                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "dateLabel": "07-02",
+                "timeLabel": "20:14 - 20:15",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
+                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.communication",
+                "subcategoryLabel": "work.communication",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
+                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "dateLabel": "07-02",
+                "timeLabel": "20:15 - 23:23",
+                "compactDuration": "3h8m",
+                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
+                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 188
+              },
+              {
+                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
+                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "dateLabel": "07-02",
+                "timeLabel": "23:23 - 23:55",
+                "compactDuration": "32m",
+                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
+                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+                "label": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "dateLabel": "07-04",
+                "timeLabel": "23:08 - 23:59",
+                "compactDuration": "51m",
+                "fullLabel": "07-04 23:08 - 23:59 2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 51
+              }
+            ]
+          },
           "travel": {
             "categoryId": "travel",
             "label": "出行",
@@ -59030,123 +59525,6 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 256
-              }
-            ]
-          },
-          "work": {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 34
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 222
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "work.other",
-                "categoryId": "work",
-                "label": "其他工作",
-                "color": "var(--cat-work)",
-                "minutes": 254,
-                "percent": 0.9922
-              },
-              {
-                "subcategoryId": "work.communication",
-                "categoryId": "work",
-                "label": "沟通",
-                "color": "var(--cat-work)",
-                "minutes": 2,
-                "percent": 0.0078
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:去实验室配试剂:2026-07-01T06-00-00-000Z",
-                "label": "去实验室配试剂",
-                "dateLabel": "07-01",
-                "timeLabel": "14:00 - 14:34",
-                "compactDuration": "34m",
-                "fullLabel": "07-01 14:00 - 14:34 去实验室配试剂",
-                "note": "去实验室配了70%甲醇500mL，常温放置。",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 34
-              },
-              {
-                "eventNodeId": "fact:虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿:2026-07-02T12-12-00-000Z",
-                "label": "虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
-                "dateLabel": "07-02",
-                "timeLabel": "20:12 - 20:13",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:12 - 20:13 虽然黄老师建议八月不回家准备开题但崽昨晚磨了一会儿还是请了八",
-                "note": "虽然黄老师建议八月不回家准备开题，但崽昨晚磨了一会儿，还是请了八月份回家的假。[😊+1]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.communication",
-                "subcategoryLabel": "work.communication",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师:2026-07-02T12-14-00-000Z",
-                "label": "今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
-                "dateLabel": "07-02",
-                "timeLabel": "20:14 - 20:15",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:14 - 20:15 今天下午搞茶叶碳中和论文的封面搞了很久还要找黄老师签字而且本",
-                "note": "今天下午搞茶叶碳中和论文的封面搞了很久，还要找黄老师签字，而且本科生也在做实验，实验室人多有点乱。[😤+2]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.communication",
-                "subcategoryLabel": "work.communication",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不:2026-07-02T12-15-00-000Z",
-                "label": "刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
-                "dateLabel": "07-02",
-                "timeLabel": "20:15 - 23:23",
-                "compactDuration": "3h8m",
-                "fullLabel": "07-02 20:15 - 23:23 刚交上茶叶碳中和论文（封面改好了✅）本科生做实验不按国标看小",
-                "note": "刚交上茶叶碳中和论文（封面改好了✅）。本科生做实验不按国标，看小红书学步骤，崽让她们必须看国标。[😤+2][😂+1]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 188
-              },
-              {
-                "eventNodeId": "fact:2026-07-02晚上—本科生实验翻大车了标曲空:2026-07-02T15-23-00-000Z",
-                "label": "2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
-                "dateLabel": "07-02",
-                "timeLabel": "23:23 - 23:55",
-                "compactDuration": "32m",
-                "fullLabel": "07-02 23:23 - 23:55 2026-07-02晚上—本科生实验翻大车了标曲空白被污染（",
-                "note": "2026-07-02 晚上 — 本科生实验翻大车了。标曲空白被污染（倒出来是蓝的），移液枪有问题定容不准，整批数据全是负值，明天全部重做。崽在实验室盯到很晚。[😭+4]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 32
               }
             ]
           },
@@ -59340,7 +59718,7 @@
               {
                 "key": "2026-07-04",
                 "label": "07-04",
-                "minutes": 0
+                "minutes": 51
               }
             ],
             "events": [
@@ -59385,6 +59763,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:2026-07-0423:08—终于从实验室回寝了:2026-07-04T15-08-00-000Z",
+                "label": "2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "dateLabel": "07-04",
+                "timeLabel": "23:08 - 23:59",
+                "compactDuration": "51m",
+                "fullLabel": "07-04 23:08 - 23:59 2026-07-0423:08—终于从实验室回寝了今天做了s",
+                "note": "2026-07-04 23:08 — 终于从实验室回寝了。今天做了s3重做（全翻车）、配茚三酮、打扫实验室，从下午2点到晚上11点。[😪+3]",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 51
               }
             ]
           },
@@ -59544,7 +59936,7 @@
               {
                 "key": "2026-07-04",
                 "label": "07-04",
-                "minutes": 338
+                "minutes": 287
               }
             ],
             "events": [
@@ -59594,15 +59986,15 @@
                 "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
                 "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "dateLabel": "07-04",
-                "timeLabel": "21:27 - 23:59",
-                "compactDuration": "2h32m",
-                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "timeLabel": "21:27 - 23:08",
+                "compactDuration": "1h41m",
+                "fullLabel": "07-04 21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
                 "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 152
+                "minutes": 101
               }
             ]
           },
