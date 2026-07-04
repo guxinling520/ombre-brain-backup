@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T17:07:00.352Z",
-    "updatedAt": "2026-07-03T17:06:56.692Z",
-    "taxonomyUpdatedAt": "2026-07-03T17:06:56.690Z",
-    "factsUpdatedAt": "2026-07-03T17:06:56.692Z",
+    "generatedAt": "2026-07-04T14:39:22.828Z",
+    "updatedAt": "2026-07-04T13:28:02.417Z",
+    "taxonomyUpdatedAt": "2026-07-04T13:28:02.415Z",
+    "factsUpdatedAt": "2026-07-04T13:28:02.417Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -40,9 +40,10 @@
       "2026-06-30",
       "2026-07-01",
       "2026-07-02",
-      "2026-07-03"
+      "2026-07-03",
+      "2026-07-04"
     ],
-    "latestDate": "2026-07-03"
+    "latestDate": "2026-07-04"
   },
   "taxonomy": {
     "categories": [
@@ -3284,77 +3285,115 @@
         "groups": [],
         "items": [
           {
-            "id": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
-            "start": "2026-07-02T17:06:00.000Z",
+            "id": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+            "start": "2026-07-03T00:00:00.000Z",
+            "end": "2026-07-03T05:00:00.000Z",
+            "content": "上午补觉 | 5h",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
+            "tooltip": {
+              "title": "上午补觉",
+              "note": "",
+              "color": "var(--cat-rest)",
+              "durationText": "5小时",
+              "timeText": "08:00 - 13:00"
+            },
+            "className": "cat-rest"
+          },
+          {
+            "id": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+            "start": "2026-07-03T05:00:00.000Z",
+            "end": "2026-07-03T06:00:00.000Z",
+            "content": "午餐：肉酱拌米线 | 1h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "午餐：肉酱拌米线",
+              "note": "",
+              "color": "var(--cat-life)",
+              "durationText": "1小时",
+              "timeText": "13:00 - 14:00"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+            "start": "2026-07-03T06:00:00.000Z",
             "end": "2026-07-03T15:59:00.000Z",
-            "content": "2026-07-03将近凌晨1点——还在实验室测s4-s6从 | 22h53m",
-            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "content": "实验室：茶多酚测定（整日） | 9h59m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
             "tooltip": {
-              "title": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-              "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
-              "color": "var(--cat-work)",
-              "durationText": "22小时53分钟",
-              "timeText": "01:06 - 23:59"
+              "title": "实验室：茶多酚测定（整日）",
+              "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
+              "color": "var(--cat-study)",
+              "durationText": "9小时59分钟",
+              "timeText": "14:00 - 23:59"
             },
-            "className": "cat-work"
+            "className": "cat-study"
+          }
+        ]
+      },
+      "2026-07-04": {
+        "date": "2026-07-04",
+        "start": "2026-07-04T00:00:00.000+08:00",
+        "end": "2026-07-04T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+            "start": "2026-07-04T06:05:00.000Z",
+            "end": "2026-07-04T10:21:00.000Z",
+            "content": "2026-07-04~14:00—起床了提饭去工位[😐+1 | 4h16m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+              "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "4小时16分钟",
+              "timeText": "14:05 - 18:21"
+            },
+            "className": "cat-travel"
           },
           {
-            "id": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-            "start": "2026-07-03T04:51:00.000Z",
-            "end": "2026-07-03T07:03:00.000Z",
-            "content": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡 | 2h12m",
+            "id": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+            "start": "2026-07-04T10:21:00.000Z",
+            "end": "2026-07-04T11:16:00.000Z",
+            "content": "2026-07-04下午—s3重做9个平行15:38开始两次 | 55m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
-              "title": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-              "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
+              "title": "2026-07-04下午—s3重做9个平行15:38开始两次",
+              "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
               "color": "var(--cat-life)",
-              "durationText": "2小时12分钟",
-              "timeText": "12:51 - 15:03"
-            },
-            "className": "cat-life"
-          },
-          {
-            "id": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-            "start": "2026-07-03T07:03:00.000Z",
-            "end": "2026-07-03T07:04:00.000Z",
-            "content": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下 | 1m",
-            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
-            "tooltip": {
-              "title": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-              "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
-              "color": "var(--cat-life)",
-              "durationText": "1分钟",
-              "timeText": "15:03 - 15:04"
-            },
-            "className": "cat-life"
-          },
-          {
-            "id": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-            "start": "2026-07-03T07:04:00.000Z",
-            "end": "2026-07-03T12:30:00.000Z",
-            "content": "崽明确说了：check-in触发时不要默认silent要找她 | 5h26m",
-            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
-            "tooltip": {
-              "title": "崽明确说了：check-in触发时不要默认silent要找她",
-              "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
-              "color": "var(--cat-life)",
-              "durationText": "5小时26分钟",
-              "timeText": "15:04 - 20:30"
+              "durationText": "55分钟",
+              "timeText": "18:21 - 19:16"
             },
             "className": "cat-life"
           },
           {
-            "id": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-            "start": "2026-07-03T12:30:00.000Z",
-            "end": "2026-07-03T12:31:00.000Z",
-            "content": "茶多酚测定原始数据（吸光度）： | 1m",
+            "id": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+            "start": "2026-07-04T11:16:00.000Z",
+            "end": "2026-07-04T13:27:00.000Z",
+            "content": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来 | 2h11m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
-              "title": "茶多酚测定原始数据（吸光度）：",
-              "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+              "title": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+              "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
               "color": "var(--cat-life)",
-              "durationText": "1分钟",
-              "timeText": "20:30 - 20:31"
+              "durationText": "2小时11分钟",
+              "timeText": "19:16 - 21:27"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+            "start": "2026-07-04T13:27:00.000Z",
+            "end": "2026-07-04T15:59:00.000Z",
+            "content": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相 | 2h32m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+              "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+              "color": "var(--cat-life)",
+              "durationText": "2小时32分钟",
+              "timeText": "21:27 - 23:59"
             },
             "className": "cat-life"
           }
@@ -6390,87 +6429,121 @@
             "className": "cat-travel"
           },
           {
-            "id": "2026-07-03:fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
+            "id": "2026-07-03:fact:evt-sleep:2026-07-03T00-00-00-000Z",
             "group": "2026-07-03",
-            "start": "2000-01-01T01:06:00+08:00",
+            "start": "2000-01-01T08:00:00+08:00",
+            "end": "2000-01-01T13:00:00+08:00",
+            "content": "上午补觉 | 5h",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
+            "tooltip": {
+              "title": "上午补觉",
+              "note": "",
+              "color": "var(--cat-rest)",
+              "durationText": "5小时",
+              "timeText": "08:00 - 13:00",
+              "dateText": "2026-07-03"
+            },
+            "className": "cat-rest"
+          },
+          {
+            "id": "2026-07-03:fact:evt-lunch:2026-07-03T05-00-00-000Z",
+            "group": "2026-07-03",
+            "start": "2000-01-01T13:00:00+08:00",
+            "end": "2000-01-01T14:00:00+08:00",
+            "content": "午餐：肉酱拌米线 | 1h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "午餐：肉酱拌米线",
+              "note": "",
+              "color": "var(--cat-life)",
+              "durationText": "1小时",
+              "timeText": "13:00 - 14:00",
+              "dateText": "2026-07-03"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-03:fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+            "group": "2026-07-03",
+            "start": "2000-01-01T14:00:00+08:00",
             "end": "2000-01-01T23:59:00+08:00",
-            "content": "2026-07-03将近凌晨1点——还在实验室测s4-s6从 | 22h53m",
-            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "content": "实验室：茶多酚测定（整日） | 9h59m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
             "tooltip": {
-              "title": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-              "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
-              "color": "var(--cat-work)",
-              "durationText": "22小时53分钟",
-              "timeText": "01:06 - 23:59",
+              "title": "实验室：茶多酚测定（整日）",
+              "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
+              "color": "var(--cat-study)",
+              "durationText": "9小时59分钟",
+              "timeText": "14:00 - 23:59",
               "dateText": "2026-07-03"
             },
-            "className": "cat-work"
+            "className": "cat-study"
           },
           {
-            "id": "2026-07-03:fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-            "group": "2026-07-03",
-            "start": "2000-01-01T12:51:00+08:00",
-            "end": "2000-01-01T15:03:00+08:00",
-            "content": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡 | 2h12m",
-            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "id": "2026-07-04:fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+            "group": "2026-07-04",
+            "start": "2000-01-01T14:05:00+08:00",
+            "end": "2000-01-01T18:21:00+08:00",
+            "content": "2026-07-04~14:00—起床了提饭去工位[😐+1 | 4h16m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
             "tooltip": {
-              "title": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-              "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
-              "color": "var(--cat-life)",
-              "durationText": "2小时12分钟",
-              "timeText": "12:51 - 15:03",
-              "dateText": "2026-07-03"
+              "title": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+              "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "4小时16分钟",
+              "timeText": "14:05 - 18:21",
+              "dateText": "2026-07-04"
             },
-            "className": "cat-life"
+            "className": "cat-travel"
           },
           {
-            "id": "2026-07-03:fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-            "group": "2026-07-03",
-            "start": "2000-01-01T15:03:00+08:00",
-            "end": "2000-01-01T15:04:00+08:00",
-            "content": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下 | 1m",
+            "id": "2026-07-04:fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+            "group": "2026-07-04",
+            "start": "2000-01-01T18:21:00+08:00",
+            "end": "2000-01-01T19:16:00+08:00",
+            "content": "2026-07-04下午—s3重做9个平行15:38开始两次 | 55m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
-              "title": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-              "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
+              "title": "2026-07-04下午—s3重做9个平行15:38开始两次",
+              "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
               "color": "var(--cat-life)",
-              "durationText": "1分钟",
-              "timeText": "15:03 - 15:04",
-              "dateText": "2026-07-03"
-            },
-            "className": "cat-life"
-          },
-          {
-            "id": "2026-07-03:fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-            "group": "2026-07-03",
-            "start": "2000-01-01T15:04:00+08:00",
-            "end": "2000-01-01T20:30:00+08:00",
-            "content": "崽明确说了：check-in触发时不要默认silent要找她 | 5h26m",
-            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
-            "tooltip": {
-              "title": "崽明确说了：check-in触发时不要默认silent要找她",
-              "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
-              "color": "var(--cat-life)",
-              "durationText": "5小时26分钟",
-              "timeText": "15:04 - 20:30",
-              "dateText": "2026-07-03"
+              "durationText": "55分钟",
+              "timeText": "18:21 - 19:16",
+              "dateText": "2026-07-04"
             },
             "className": "cat-life"
           },
           {
-            "id": "2026-07-03:fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-            "group": "2026-07-03",
-            "start": "2000-01-01T20:30:00+08:00",
-            "end": "2000-01-01T20:31:00+08:00",
-            "content": "茶多酚测定原始数据（吸光度）： | 1m",
+            "id": "2026-07-04:fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+            "group": "2026-07-04",
+            "start": "2000-01-01T19:16:00+08:00",
+            "end": "2000-01-01T21:27:00+08:00",
+            "content": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来 | 2h11m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
-              "title": "茶多酚测定原始数据（吸光度）：",
-              "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+              "title": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+              "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
               "color": "var(--cat-life)",
-              "durationText": "1分钟",
-              "timeText": "20:30 - 20:31",
-              "dateText": "2026-07-03"
+              "durationText": "2小时11分钟",
+              "timeText": "19:16 - 21:27",
+              "dateText": "2026-07-04"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-04:fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+            "group": "2026-07-04",
+            "start": "2000-01-01T21:27:00+08:00",
+            "end": "2000-01-01T23:59:00+08:00",
+            "content": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相 | 2h32m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+              "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+              "color": "var(--cat-life)",
+              "durationText": "2小时32分钟",
+              "timeText": "21:27 - 23:59",
+              "dateText": "2026-07-04"
             },
             "className": "cat-life"
           }
@@ -38730,28 +38803,35 @@
         "key": "2026-07-03",
         "label": "2026-07-03",
         "unit": "hour",
-        "totalMinutes": 1833,
+        "totalMinutes": 959,
         "categories": [
           {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "minutes": 1373,
-            "percent": 0.749
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 599,
+            "percent": 0.6246
+          },
+          {
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "minutes": 300,
+            "percent": 0.3128
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 460,
-            "percent": 0.251
+            "minutes": 60,
+            "percent": 0.0626
           }
         ],
         "categoryDetails": {
-          "work": {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
             "trend": [
               {
                 "key": "0",
@@ -38761,67 +38841,67 @@
               {
                 "key": "1",
                 "label": "01:00",
-                "minutes": 54
+                "minutes": 0
               },
               {
                 "key": "2",
                 "label": "02:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "3",
                 "label": "03:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "4",
                 "label": "04:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "5",
                 "label": "05:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "6",
                 "label": "06:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "7",
                 "label": "07:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "8",
                 "label": "08:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "9",
                 "label": "09:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "10",
                 "label": "10:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "11",
                 "label": "11:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "12",
                 "label": "12:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "13",
                 "label": "13:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "14",
@@ -38876,28 +38956,181 @@
             ],
             "subcategories": [
               {
-                "subcategoryId": "work.other",
-                "categoryId": "work",
-                "label": "其他工作",
-                "color": "var(--cat-work)",
-                "minutes": 1373,
+                "subcategoryId": "study.other",
+                "categoryId": "study",
+                "label": "其他学习",
+                "color": "var(--cat-study)",
+                "minutes": 599,
                 "percent": 1
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
-                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+                "label": "实验室：茶多酚测定（整日）",
                 "dateLabel": "",
-                "timeLabel": "01:06 - 23:59",
-                "compactDuration": "22h53m",
-                "fullLabel": "01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
+                "timeLabel": "14:00 - 23:59",
+                "compactDuration": "9h59m",
+                "fullLabel": "14:00 - 23:59 实验室：茶多酚测定（整日）",
+                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
                 "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 1373
+                "categoryId": "study",
+                "subcategoryId": "study.other",
+                "subcategoryLabel": "study.other",
+                "minutes": 599
+              }
+            ]
+          },
+          "rest": {
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 60
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 60
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 60
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 60
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 60
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "睡眠",
+                "color": "var(--cat-rest)",
+                "minutes": 300,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "08:00 - 13:00 上午补觉",
+                "note": "",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
               }
             ]
           },
@@ -38969,7 +39202,7 @@
               {
                 "key": "12",
                 "label": "12:00",
-                "minutes": 9
+                "minutes": 0
               },
               {
                 "key": "13",
@@ -38979,37 +39212,37 @@
               {
                 "key": "14",
                 "label": "14:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "15",
                 "label": "15:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "16",
                 "label": "16:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "17",
                 "label": "17:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "18",
                 "label": "18:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "19",
                 "label": "19:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 31
+                "minutes": 0
               },
               {
                 "key": "21",
@@ -39029,88 +39262,38 @@
             ],
             "subcategories": [
               {
-                "subcategoryId": "life.other",
-                "categoryId": "life",
-                "label": "其他生活",
-                "color": "var(--cat-life)",
-                "minutes": 327,
-                "percent": 0.7109
-              },
-              {
                 "subcategoryId": "life.meal",
                 "categoryId": "life",
                 "label": "吃饭",
                 "color": "var(--cat-life)",
-                "minutes": 133,
-                "percent": 0.2891
+                "minutes": 60,
+                "percent": 1
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-                "label": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
+                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+                "label": "午餐：肉酱拌米线",
                 "dateLabel": "",
-                "timeLabel": "12:51 - 15:03",
-                "compactDuration": "2h12m",
-                "fullLabel": "12:51 - 15:03 2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-                "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
-                "status": "derived",
+                "timeLabel": "13:00 - 14:00",
+                "compactDuration": "1h",
+                "fullLabel": "13:00 - 14:00 午餐：肉酱拌米线",
+                "note": "",
+                "status": "official",
                 "categoryId": "life",
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
-                "minutes": 132
-              },
-              {
-                "eventNodeId": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-                "label": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "dateLabel": "",
-                "timeLabel": "15:03 - 15:04",
-                "compactDuration": "1m",
-                "fullLabel": "15:03 - 15:04 2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-                "label": "崽明确说了：check-in触发时不要默认silent要找她",
-                "dateLabel": "",
-                "timeLabel": "15:04 - 20:30",
-                "compactDuration": "5h26m",
-                "fullLabel": "15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
-                "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 326
-              },
-              {
-                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-                "label": "茶多酚测定原始数据（吸光度）：",
-                "dateLabel": "",
-                "timeLabel": "20:30 - 20:31",
-                "compactDuration": "1m",
-                "fullLabel": "20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
-                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 1
+                "minutes": 60
               }
             ]
           }
         },
         "subcategoryDetails": {
-          "work.other": {
-            "subcategoryId": "work.other",
-            "categoryId": "work",
-            "label": "其他工作",
-            "color": "var(--cat-work)",
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "睡眠",
+            "color": "var(--cat-rest)",
             "trend": [
               {
                 "key": "0",
@@ -39120,37 +39303,37 @@
               {
                 "key": "1",
                 "label": "01:00",
-                "minutes": 54
+                "minutes": 0
               },
               {
                 "key": "2",
                 "label": "02:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "3",
                 "label": "03:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "4",
                 "label": "04:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "5",
                 "label": "05:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "6",
                 "label": "06:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "7",
                 "label": "07:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "8",
@@ -39180,73 +39363,73 @@
               {
                 "key": "13",
                 "label": "13:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "14",
                 "label": "14:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "15",
                 "label": "15:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "16",
                 "label": "16:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "17",
                 "label": "17:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "18",
                 "label": "18:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "19",
                 "label": "19:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "21",
                 "label": "21:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 59
+                "minutes": 0
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
-                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
+                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+                "label": "上午补觉",
                 "dateLabel": "",
-                "timeLabel": "01:06 - 23:59",
-                "compactDuration": "22h53m",
-                "fullLabel": "01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 1373
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "08:00 - 13:00 上午补觉",
+                "note": "",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
               }
             ]
           },
@@ -39319,7 +39502,7 @@
               {
                 "key": "12",
                 "label": "12:00",
-                "minutes": 9
+                "minutes": 0
               },
               {
                 "key": "13",
@@ -39329,12 +39512,12 @@
               {
                 "key": "14",
                 "label": "14:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "15",
                 "label": "15:00",
-                "minutes": 4
+                "minutes": 0
               },
               {
                 "key": "16",
@@ -39379,32 +39562,666 @@
             ],
             "events": [
               {
-                "eventNodeId": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-                "label": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
+                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+                "label": "午餐：肉酱拌米线",
                 "dateLabel": "",
-                "timeLabel": "12:51 - 15:03",
-                "compactDuration": "2h12m",
-                "fullLabel": "12:51 - 15:03 2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-                "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
-                "status": "derived",
+                "timeLabel": "13:00 - 14:00",
+                "compactDuration": "1h",
+                "fullLabel": "13:00 - 14:00 午餐：肉酱拌米线",
+                "note": "",
+                "status": "official",
                 "categoryId": "life",
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
-                "minutes": 132
+                "minutes": 60
+              }
+            ]
+          },
+          "study.other": {
+            "subcategoryId": "study.other",
+            "categoryId": "study",
+            "label": "其他学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
               },
               {
-                "eventNodeId": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-                "label": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 59
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+                "label": "实验室：茶多酚测定（整日）",
                 "dateLabel": "",
-                "timeLabel": "15:03 - 15:04",
-                "compactDuration": "1m",
-                "fullLabel": "15:03 - 15:04 2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
+                "timeLabel": "14:00 - 23:59",
+                "compactDuration": "9h59m",
+                "fullLabel": "14:00 - 23:59 实验室：茶多酚测定（整日）",
+                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.other",
+                "subcategoryLabel": "study.other",
+                "minutes": 599
+              }
+            ]
+          }
+        }
+      },
+      "2026-07-04": {
+        "key": "2026-07-04",
+        "label": "2026-07-04",
+        "unit": "hour",
+        "totalMinutes": 594,
+        "categories": [
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 338,
+            "percent": 0.569
+          },
+          {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "minutes": 256,
+            "percent": 0.431
+          }
+        ],
+        "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 39
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 59
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 338,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
+                "dateLabel": "",
+                "timeLabel": "18:21 - 19:16",
+                "compactDuration": "55m",
+                "fullLabel": "18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
+                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
                 "status": "derived",
                 "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 1
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 55
+              },
+              {
+                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "dateLabel": "",
+                "timeLabel": "19:16 - 21:27",
+                "compactDuration": "2h11m",
+                "fullLabel": "19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 131
+              },
+              {
+                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "dateLabel": "",
+                "timeLabel": "21:27 - 23:59",
+                "compactDuration": "2h32m",
+                "fullLabel": "21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 152
+              }
+            ]
+          },
+          "travel": {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 55
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 21
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "travel.commute",
+                "categoryId": "travel",
+                "label": "通勤",
+                "color": "var(--cat-travel)",
+                "minutes": 256,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+                "label": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "dateLabel": "",
+                "timeLabel": "14:05 - 18:21",
+                "compactDuration": "4h16m",
+                "fullLabel": "14:05 - 18:21 2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 256
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "travel.commute": {
+            "subcategoryId": "travel.commute",
+            "categoryId": "travel",
+            "label": "通勤",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 55
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 21
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+                "label": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "dateLabel": "",
+                "timeLabel": "14:05 - 18:21",
+                "compactDuration": "4h16m",
+                "fullLabel": "14:05 - 18:21 2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 256
               }
             ]
           },
@@ -39492,22 +40309,22 @@
               {
                 "key": "15",
                 "label": "15:00",
-                "minutes": 56
+                "minutes": 0
               },
               {
                 "key": "16",
                 "label": "16:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "17",
                 "label": "17:00",
-                "minutes": 60
+                "minutes": 0
               },
               {
                 "key": "18",
                 "label": "18:00",
-                "minutes": 60
+                "minutes": 39
               },
               {
                 "key": "19",
@@ -39517,52 +40334,66 @@
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 31
+                "minutes": 60
               },
               {
                 "key": "21",
                 "label": "21:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 59
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-                "label": "崽明确说了：check-in触发时不要默认silent要找她",
+                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
                 "dateLabel": "",
-                "timeLabel": "15:04 - 20:30",
-                "compactDuration": "5h26m",
-                "fullLabel": "15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
-                "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
+                "timeLabel": "18:21 - 19:16",
+                "compactDuration": "55m",
+                "fullLabel": "18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
+                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 326
+                "minutes": 55
               },
               {
-                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-                "label": "茶多酚测定原始数据（吸光度）：",
+                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
                 "dateLabel": "",
-                "timeLabel": "20:30 - 20:31",
-                "compactDuration": "1m",
-                "fullLabel": "20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
-                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "timeLabel": "19:16 - 21:27",
+                "compactDuration": "2h11m",
+                "fullLabel": "19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 1
+                "minutes": 131
+              },
+              {
+                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "dateLabel": "",
+                "timeLabel": "21:27 - 23:59",
+                "compactDuration": "2h32m",
+                "fullLabel": "21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 152
               }
             ]
           }
@@ -47441,59 +48272,269 @@
         "key": "2026-06-29",
         "label": "2026-06-29 当周",
         "unit": "day",
-        "totalMinutes": 4323,
+        "totalMinutes": 4043,
         "categories": [
-          {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "minutes": 2224,
-            "percent": 0.5145
-          },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1465,
-            "percent": 0.3389
+            "minutes": 1403,
+            "percent": 0.347
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 851,
+            "percent": 0.2105
+          },
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 659,
+            "percent": 0.163
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
-            "minutes": 300,
-            "percent": 0.0694
+            "minutes": 600,
+            "percent": 0.1484
+          },
+          {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "minutes": 263,
+            "percent": 0.0651
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0477
+            "percent": 0.051
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 61,
-            "percent": 0.0141
-          },
-          {
-            "categoryId": "study",
-            "label": "学习",
-            "color": "var(--cat-study)",
-            "minutes": 60,
-            "percent": 0.0139
-          },
-          {
-            "categoryId": "travel",
-            "label": "出行",
-            "color": "var(--cat-travel)",
-            "minutes": 7,
-            "percent": 0.0016
+            "percent": 0.0151
           }
         ],
         "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "06-29",
+                "key": "2026-06-29",
+                "minutes": 386
+              },
+              {
+                "label": "06-30",
+                "key": "2026-06-30",
+                "minutes": 189
+              },
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 430
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 60
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 338
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 1342,
+                "percent": 0.9565
+              },
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "吃饭",
+                "color": "var(--cat-life)",
+                "minutes": 60,
+                "percent": 0.0428
+              },
+              {
+                "subcategoryId": "life.errand",
+                "categoryId": "life",
+                "label": "办事",
+                "color": "var(--cat-life)",
+                "minutes": 1,
+                "percent": 0.0007
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:下大雨了后来雨又停了人还在工位:2026-06-29T07-01-00-000Z",
+                "label": "下大雨了后来雨又停了人还在工位",
+                "dateLabel": "06-29",
+                "timeLabel": "15:01 - 20:09",
+                "compactDuration": "5h8m",
+                "fullLabel": "06-29 15:01 - 20:09 下大雨了后来雨又停了人还在工位",
+                "note": "下大雨了，后来雨又停了，人还在工位。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 308
+              },
+              {
+                "eventNodeId": "fact:明天中午要去学生中心签字先记着:2026-06-29T14-50-00-000Z",
+                "label": "明天中午要去学生中心签字先记着",
+                "dateLabel": "06-29",
+                "timeLabel": "22:50 - 23:59",
+                "compactDuration": "1h9m",
+                "fullLabel": "06-29 22:50 - 23:59 明天中午要去学生中心签字先记着",
+                "note": "明天中午要去学生中心签字，先记着。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 69
+              },
+              {
+                "eventNodeId": "fact:鞋子和袜子都被雨泡湿了还好裤子是速干裤:2026-06-29T15-03-00-000Z",
+                "label": "鞋子和袜子都被雨泡湿了还好裤子是速干裤",
+                "dateLabel": "06-29",
+                "timeLabel": "23:03 - 23:12",
+                "compactDuration": "9m",
+                "fullLabel": "06-29 23:03 - 23:12 鞋子和袜子都被雨泡湿了还好裤子是速干裤",
+                "note": "今天鞋子和袜子都被雨泡湿了，还好裤子是速干裤。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 9
+              },
+              {
+                "eventNodeId": "fact:15:27配好了1%AlCl₃✅:2026-06-30T07-27-00-000Z",
+                "label": "15:27配好了1%AlCl₃✅",
+                "dateLabel": "06-30",
+                "timeLabel": "15:27 - 18:36",
+                "compactDuration": "3h9m",
+                "fullLabel": "06-30 15:27 - 18:36 15:27配好了1%AlCl₃✅",
+                "note": "15:27 配好了1% AlCl₃ ✅",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 189
+              },
+              {
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "07-02",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 429
+              },
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "07-02",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+                "label": "午餐：肉酱拌米线",
+                "dateLabel": "07-03",
+                "timeLabel": "13:00 - 14:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-03 13:00 - 14:00 午餐：肉酱拌米线",
+                "note": "",
+                "status": "official",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
+                "dateLabel": "07-04",
+                "timeLabel": "18:21 - 19:16",
+                "compactDuration": "55m",
+                "fullLabel": "07-04 18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
+                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 55
+              },
+              {
+                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "dateLabel": "07-04",
+                "timeLabel": "19:16 - 21:27",
+                "compactDuration": "2h11m",
+                "fullLabel": "07-04 19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 131
+              },
+              {
+                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "dateLabel": "07-04",
+                "timeLabel": "21:27 - 23:59",
+                "compactDuration": "2h32m",
+                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 152
+              }
+            ]
+          },
           "work": {
             "categoryId": "work",
             "label": "工作",
@@ -47522,7 +48563,7 @@
               {
                 "label": "07-03",
                 "key": "2026-07-03",
-                "minutes": 1373
+                "minutes": 0
               },
               {
                 "label": "07-04",
@@ -47541,8 +48582,8 @@
                 "categoryId": "work",
                 "label": "其他工作",
                 "color": "var(--cat-work)",
-                "minutes": 2222,
-                "percent": 0.9991
+                "minutes": 849,
+                "percent": 0.9976
               },
               {
                 "subcategoryId": "work.communication",
@@ -47550,7 +48591,7 @@
                 "label": "沟通",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0009
+                "percent": 0.0024
               }
             ],
             "events": [
@@ -47679,52 +48720,38 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
-              },
-              {
-                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
-                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "dateLabel": "07-03",
-                "timeLabel": "01:06 - 23:59",
-                "compactDuration": "22h53m",
-                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 1373
               }
             ]
           },
-          "life": {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
             "trend": [
               {
                 "label": "06-29",
                 "key": "2026-06-29",
-                "minutes": 386
+                "minutes": 0
               },
               {
                 "label": "06-30",
                 "key": "2026-06-30",
-                "minutes": 189
+                "minutes": 0
               },
               {
                 "label": "07-01",
                 "key": "2026-07-01",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "label": "07-02",
                 "key": "2026-07-02",
-                "minutes": 430
+                "minutes": 0
               },
               {
                 "label": "07-03",
                 "key": "2026-07-03",
-                "minutes": 460
+                "minutes": 599
               },
               {
                 "label": "07-04",
@@ -47739,170 +48766,50 @@
             ],
             "subcategories": [
               {
-                "subcategoryId": "life.other",
-                "categoryId": "life",
-                "label": "其他生活",
-                "color": "var(--cat-life)",
-                "minutes": 1331,
-                "percent": 0.9085
+                "subcategoryId": "study.other",
+                "categoryId": "study",
+                "label": "其他学习",
+                "color": "var(--cat-study)",
+                "minutes": 599,
+                "percent": 0.909
               },
               {
-                "subcategoryId": "life.meal",
-                "categoryId": "life",
-                "label": "吃饭",
-                "color": "var(--cat-life)",
-                "minutes": 133,
-                "percent": 0.0908
-              },
-              {
-                "subcategoryId": "life.errand",
-                "categoryId": "life",
-                "label": "办事",
-                "color": "var(--cat-life)",
-                "minutes": 1,
-                "percent": 0.0007
+                "subcategoryId": "study.course",
+                "categoryId": "study",
+                "label": "课程",
+                "color": "var(--cat-study)",
+                "minutes": 60,
+                "percent": 0.091
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:下大雨了后来雨又停了人还在工位:2026-06-29T07-01-00-000Z",
-                "label": "下大雨了后来雨又停了人还在工位",
-                "dateLabel": "06-29",
-                "timeLabel": "15:01 - 20:09",
-                "compactDuration": "5h8m",
-                "fullLabel": "06-29 15:01 - 20:09 下大雨了后来雨又停了人还在工位",
-                "note": "下大雨了，后来雨又停了，人还在工位。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 308
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "07-01",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
               },
               {
-                "eventNodeId": "fact:明天中午要去学生中心签字先记着:2026-06-29T14-50-00-000Z",
-                "label": "明天中午要去学生中心签字先记着",
-                "dateLabel": "06-29",
-                "timeLabel": "22:50 - 23:59",
-                "compactDuration": "1h9m",
-                "fullLabel": "06-29 22:50 - 23:59 明天中午要去学生中心签字先记着",
-                "note": "明天中午要去学生中心签字，先记着。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 69
-              },
-              {
-                "eventNodeId": "fact:鞋子和袜子都被雨泡湿了还好裤子是速干裤:2026-06-29T15-03-00-000Z",
-                "label": "鞋子和袜子都被雨泡湿了还好裤子是速干裤",
-                "dateLabel": "06-29",
-                "timeLabel": "23:03 - 23:12",
-                "compactDuration": "9m",
-                "fullLabel": "06-29 23:03 - 23:12 鞋子和袜子都被雨泡湿了还好裤子是速干裤",
-                "note": "今天鞋子和袜子都被雨泡湿了，还好裤子是速干裤。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 9
-              },
-              {
-                "eventNodeId": "fact:15:27配好了1%AlCl₃✅:2026-06-30T07-27-00-000Z",
-                "label": "15:27配好了1%AlCl₃✅",
-                "dateLabel": "06-30",
-                "timeLabel": "15:27 - 18:36",
-                "compactDuration": "3h9m",
-                "fullLabel": "06-30 15:27 - 18:36 15:27配好了1%AlCl₃✅",
-                "note": "15:27 配好了1% AlCl₃ ✅",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 189
-              },
-              {
-                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
-                "label": "当前位置记录",
-                "dateLabel": "07-02",
-                "timeLabel": "13:01 - 20:10",
-                "compactDuration": "7h9m",
-                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
-                "note": "记录当前位置和当前状态。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 429
-              },
-              {
-                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
-                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
-                "dateLabel": "07-02",
-                "timeLabel": "20:13 - 20:14",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
-                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.errand",
-                "subcategoryLabel": "life.errand",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-                "label": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
+                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+                "label": "实验室：茶多酚测定（整日）",
                 "dateLabel": "07-03",
-                "timeLabel": "12:51 - 15:03",
-                "compactDuration": "2h12m",
-                "fullLabel": "07-03 12:51 - 15:03 2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-                "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
+                "timeLabel": "14:00 - 23:59",
+                "compactDuration": "9h59m",
+                "fullLabel": "07-03 14:00 - 23:59 实验室：茶多酚测定（整日）",
+                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
                 "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 132
-              },
-              {
-                "eventNodeId": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-                "label": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "dateLabel": "07-03",
-                "timeLabel": "15:03 - 15:04",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 15:03 - 15:04 2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-                "label": "崽明确说了：check-in触发时不要默认silent要找她",
-                "dateLabel": "07-03",
-                "timeLabel": "15:04 - 20:30",
-                "compactDuration": "5h26m",
-                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
-                "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 326
-              },
-              {
-                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-                "label": "茶多酚测定原始数据（吸光度）：",
-                "dateLabel": "07-03",
-                "timeLabel": "20:30 - 20:31",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
-                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 1
+                "categoryId": "study",
+                "subcategoryId": "study.other",
+                "subcategoryLabel": "study.other",
+                "minutes": 599
               }
             ]
           },
@@ -47934,7 +48841,7 @@
               {
                 "label": "07-03",
                 "key": "2026-07-03",
-                "minutes": 0
+                "minutes": 300
               },
               {
                 "label": "07-04",
@@ -47953,7 +48860,7 @@
                 "categoryId": "rest",
                 "label": "睡眠",
                 "color": "var(--cat-rest)",
-                "minutes": 300,
+                "minutes": 600,
                 "percent": 1
               }
             ],
@@ -47971,6 +48878,144 @@
                 "subcategoryId": "rest.sleep",
                 "subcategoryLabel": "rest.sleep",
                 "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-03",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-03 08:00 - 13:00 上午补觉",
+                "note": "",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "travel": {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "label": "06-29",
+                "key": "2026-06-29",
+                "minutes": 1
+              },
+              {
+                "label": "06-30",
+                "key": "2026-06-30",
+                "minutes": 0
+              },
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 6
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 256
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "travel.commute",
+                "categoryId": "travel",
+                "label": "通勤",
+                "color": "var(--cat-travel)",
+                "minutes": 263,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:下午两点半到现在都在工位等下准备回寝室:2026-06-29T14-49-00-000Z",
+                "label": "下午两点半到现在都在工位等下准备回寝室",
+                "dateLabel": "06-29",
+                "timeLabel": "22:49 - 22:50",
+                "compactDuration": "1m",
+                "fullLabel": "06-29 22:49 - 22:50 下午两点半到现在都在工位等下准备回寝室",
+                "note": "下午两点半到现在都在工位，等下准备回寝室。",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "dateLabel": "07-02",
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "07-02",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "07-02",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
+              },
+              {
+                "eventNodeId": "fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+                "label": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "dateLabel": "07-04",
+                "timeLabel": "14:05 - 18:21",
+                "compactDuration": "4h16m",
+                "fullLabel": "07-04 14:05 - 18:21 2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 256
               }
             ]
           },
@@ -48123,184 +49168,6 @@
                 "minutes": 60
               }
             ]
-          },
-          "study": {
-            "categoryId": "study",
-            "label": "学习",
-            "color": "var(--cat-study)",
-            "trend": [
-              {
-                "label": "06-29",
-                "key": "2026-06-29",
-                "minutes": 0
-              },
-              {
-                "label": "06-30",
-                "key": "2026-06-30",
-                "minutes": 0
-              },
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 60
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 0
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "study.course",
-                "categoryId": "study",
-                "label": "课程",
-                "color": "var(--cat-study)",
-                "minutes": 60,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
-                "label": "改茶树遗传与育种课程论文",
-                "dateLabel": "07-01",
-                "timeLabel": "22:00 - 23:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
-                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
-                "status": "official",
-                "categoryId": "study",
-                "subcategoryId": "study.course",
-                "subcategoryLabel": "study.course",
-                "minutes": 60
-              }
-            ]
-          },
-          "travel": {
-            "categoryId": "travel",
-            "label": "出行",
-            "color": "var(--cat-travel)",
-            "trend": [
-              {
-                "label": "06-29",
-                "key": "2026-06-29",
-                "minutes": 1
-              },
-              {
-                "label": "06-30",
-                "key": "2026-06-30",
-                "minutes": 0
-              },
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 0
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 6
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "travel.commute",
-                "categoryId": "travel",
-                "label": "通勤",
-                "color": "var(--cat-travel)",
-                "minutes": 7,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:下午两点半到现在都在工位等下准备回寝室:2026-06-29T14-49-00-000Z",
-                "label": "下午两点半到现在都在工位等下准备回寝室",
-                "dateLabel": "06-29",
-                "timeLabel": "22:49 - 22:50",
-                "compactDuration": "1m",
-                "fullLabel": "06-29 22:49 - 22:50 下午两点半到现在都在工位等下准备回寝室",
-                "note": "下午两点半到现在都在工位，等下准备回寝室。",
-                "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
-                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
-                "dateLabel": "07-02",
-                "timeLabel": "20:10 - 20:11",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
-                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
-                "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
-                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
-                "dateLabel": "07-02",
-                "timeLabel": "20:11 - 20:12",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
-                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
-                "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
-                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
-                "dateLabel": "07-02",
-                "timeLabel": "23:55 - 23:59",
-                "compactDuration": "4m",
-                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
-                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
-                "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 4
-              }
-            ]
           }
         },
         "subcategoryDetails": {
@@ -48333,12 +49200,12 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 327
+                "minutes": 0
               },
               {
                 "key": "2026-07-04",
                 "label": "07-04",
-                "minutes": 0
+                "minutes": 338
               },
               {
                 "key": "2026-07-05",
@@ -48418,32 +49285,46 @@
                 "minutes": 429
               },
               {
-                "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-                "label": "崽明确说了：check-in触发时不要默认silent要找她",
-                "dateLabel": "07-03",
-                "timeLabel": "15:04 - 20:30",
-                "compactDuration": "5h26m",
-                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
-                "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
+                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
+                "dateLabel": "07-04",
+                "timeLabel": "18:21 - 19:16",
+                "compactDuration": "55m",
+                "fullLabel": "07-04 18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
+                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 326
+                "minutes": 55
               },
               {
-                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-                "label": "茶多酚测定原始数据（吸光度）：",
-                "dateLabel": "07-03",
-                "timeLabel": "20:30 - 20:31",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
-                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "dateLabel": "07-04",
+                "timeLabel": "19:16 - 21:27",
+                "compactDuration": "2h11m",
+                "fullLabel": "07-04 19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 1
+                "minutes": 131
+              },
+              {
+                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "dateLabel": "07-04",
+                "timeLabel": "21:27 - 23:59",
+                "compactDuration": "2h32m",
+                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 152
               }
             ]
           },
@@ -48476,7 +49357,7 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 1373
+                "minutes": 0
               },
               {
                 "key": "2026-07-04",
@@ -48587,20 +49468,6 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
-              },
-              {
-                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
-                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "dateLabel": "07-03",
-                "timeLabel": "01:06 - 23:59",
-                "compactDuration": "22h53m",
-                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 1373
               }
             ]
           },
@@ -48638,7 +49505,7 @@
               {
                 "key": "2026-07-04",
                 "label": "07-04",
-                "minutes": 0
+                "minutes": 256
               },
               {
                 "key": "2026-07-05",
@@ -48702,6 +49569,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 4
+              },
+              {
+                "eventNodeId": "fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+                "label": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "dateLabel": "07-04",
+                "timeLabel": "14:05 - 18:21",
+                "compactDuration": "4h16m",
+                "fullLabel": "07-04 14:05 - 18:21 2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 256
               }
             ]
           },
@@ -48807,7 +49688,7 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 0
+                "minutes": 300
               },
               {
                 "key": "2026-07-04",
@@ -48829,6 +49710,20 @@
                 "compactDuration": "5h",
                 "fullLabel": "07-01 08:00 - 13:00 上午补觉",
                 "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-03",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-03 08:00 - 13:00 上午补觉",
+                "note": "",
                 "status": "official",
                 "categoryId": "rest",
                 "subcategoryId": "rest.sleep",
@@ -49116,7 +50011,7 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 133
+                "minutes": 60
               },
               {
                 "key": "2026-07-04",
@@ -49131,32 +50026,77 @@
             ],
             "events": [
               {
-                "eventNodeId": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-                "label": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
+                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+                "label": "午餐：肉酱拌米线",
                 "dateLabel": "07-03",
-                "timeLabel": "12:51 - 15:03",
-                "compactDuration": "2h12m",
-                "fullLabel": "07-03 12:51 - 15:03 2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-                "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
-                "status": "derived",
+                "timeLabel": "13:00 - 14:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-03 13:00 - 14:00 午餐：肉酱拌米线",
+                "note": "",
+                "status": "official",
                 "categoryId": "life",
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
-                "minutes": 132
+                "minutes": 60
+              }
+            ]
+          },
+          "study.other": {
+            "subcategoryId": "study.other",
+            "categoryId": "study",
+            "label": "其他学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-06-29",
+                "label": "06-29",
+                "minutes": 0
               },
               {
-                "eventNodeId": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-                "label": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
+                "key": "2026-06-30",
+                "label": "06-30",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 599
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+                "label": "实验室：茶多酚测定（整日）",
                 "dateLabel": "07-03",
-                "timeLabel": "15:03 - 15:04",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 15:03 - 15:04 2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
+                "timeLabel": "14:00 - 23:59",
+                "compactDuration": "9h59m",
+                "fullLabel": "07-03 14:00 - 23:59 实验室：茶多酚测定（整日）",
+                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
                 "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 1
+                "categoryId": "study",
+                "subcategoryId": "study.other",
+                "subcategoryLabel": "study.other",
+                "minutes": 599
               }
             ]
           }
@@ -57664,59 +58604,435 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 3151,
+        "totalMinutes": 2871,
         "categories": [
-          {
-            "categoryId": "work",
-            "label": "工作",
-            "color": "var(--cat-work)",
-            "minutes": 1629,
-            "percent": 0.517
-          },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 890,
-            "percent": 0.2825
+            "minutes": 828,
+            "percent": 0.2884
+          },
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 659,
+            "percent": 0.2295
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
-            "minutes": 300,
-            "percent": 0.0952
+            "minutes": 600,
+            "percent": 0.209
+          },
+          {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "minutes": 262,
+            "percent": 0.0913
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 256,
+            "percent": 0.0892
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0654
+            "percent": 0.0718
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.019
-          },
-          {
-            "categoryId": "study",
-            "label": "学习",
-            "color": "var(--cat-study)",
-            "minutes": 60,
-            "percent": 0.019
-          },
-          {
-            "categoryId": "travel",
-            "label": "出行",
-            "color": "var(--cat-travel)",
-            "minutes": 6,
-            "percent": 0.0019
+            "percent": 0.0209
           }
         ],
         "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 430
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 60
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 338
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 767,
+                "percent": 0.9263
+              },
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "吃饭",
+                "color": "var(--cat-life)",
+                "minutes": 60,
+                "percent": 0.0725
+              },
+              {
+                "subcategoryId": "life.errand",
+                "categoryId": "life",
+                "label": "办事",
+                "color": "var(--cat-life)",
+                "minutes": 1,
+                "percent": 0.0012
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "07-02",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 429
+              },
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "07-02",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+                "label": "午餐：肉酱拌米线",
+                "dateLabel": "07-03",
+                "timeLabel": "13:00 - 14:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-03 13:00 - 14:00 午餐：肉酱拌米线",
+                "note": "",
+                "status": "official",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
+                "dateLabel": "07-04",
+                "timeLabel": "18:21 - 19:16",
+                "compactDuration": "55m",
+                "fullLabel": "07-04 18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
+                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 55
+              },
+              {
+                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "dateLabel": "07-04",
+                "timeLabel": "19:16 - 21:27",
+                "compactDuration": "2h11m",
+                "fullLabel": "07-04 19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 131
+              },
+              {
+                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "dateLabel": "07-04",
+                "timeLabel": "21:27 - 23:59",
+                "compactDuration": "2h32m",
+                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 152
+              }
+            ]
+          },
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 60
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 599
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.other",
+                "categoryId": "study",
+                "label": "其他学习",
+                "color": "var(--cat-study)",
+                "minutes": 599,
+                "percent": 0.909
+              },
+              {
+                "subcategoryId": "study.course",
+                "categoryId": "study",
+                "label": "课程",
+                "color": "var(--cat-study)",
+                "minutes": 60,
+                "percent": 0.091
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "07-01",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+                "label": "实验室：茶多酚测定（整日）",
+                "dateLabel": "07-03",
+                "timeLabel": "14:00 - 23:59",
+                "compactDuration": "9h59m",
+                "fullLabel": "07-03 14:00 - 23:59 实验室：茶多酚测定（整日）",
+                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.other",
+                "subcategoryLabel": "study.other",
+                "minutes": 599
+              }
+            ]
+          },
+          "rest": {
+            "categoryId": "rest",
+            "label": "休息",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 300
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 300
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "睡眠",
+                "color": "var(--cat-rest)",
+                "minutes": 600,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-01",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-03",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-03 08:00 - 13:00 上午补觉",
+                "note": "",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              }
+            ]
+          },
+          "travel": {
+            "categoryId": "travel",
+            "label": "出行",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 6
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 256
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "travel.commute",
+                "categoryId": "travel",
+                "label": "通勤",
+                "color": "var(--cat-travel)",
+                "minutes": 262,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
+                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "dateLabel": "07-02",
+                "timeLabel": "20:10 - 20:11",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
+                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
+                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "dateLabel": "07-02",
+                "timeLabel": "20:11 - 20:12",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
+                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
+                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "dateLabel": "07-02",
+                "timeLabel": "23:55 - 23:59",
+                "compactDuration": "4m",
+                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
+                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 4
+              },
+              {
+                "eventNodeId": "fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+                "label": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "dateLabel": "07-04",
+                "timeLabel": "14:05 - 18:21",
+                "compactDuration": "4h16m",
+                "fullLabel": "07-04 14:05 - 18:21 2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 256
+              }
+            ]
+          },
           "work": {
             "categoryId": "work",
             "label": "工作",
@@ -57735,7 +59051,12 @@
               {
                 "label": "07-03",
                 "key": "2026-07-03",
-                "minutes": 1373
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -57744,8 +59065,8 @@
                 "categoryId": "work",
                 "label": "其他工作",
                 "color": "var(--cat-work)",
-                "minutes": 1627,
-                "percent": 0.9988
+                "minutes": 254,
+                "percent": 0.9922
               },
               {
                 "subcategoryId": "work.communication",
@@ -57753,7 +59074,7 @@
                 "label": "沟通",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0012
+                "percent": 0.0078
               }
             ],
             "events": [
@@ -57826,202 +59147,6 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
-              },
-              {
-                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
-                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "dateLabel": "07-03",
-                "timeLabel": "01:06 - 23:59",
-                "compactDuration": "22h53m",
-                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 1373
-              }
-            ]
-          },
-          "life": {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 0
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 430
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 460
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "life.other",
-                "categoryId": "life",
-                "label": "其他生活",
-                "color": "var(--cat-life)",
-                "minutes": 756,
-                "percent": 0.8494
-              },
-              {
-                "subcategoryId": "life.meal",
-                "categoryId": "life",
-                "label": "吃饭",
-                "color": "var(--cat-life)",
-                "minutes": 133,
-                "percent": 0.1494
-              },
-              {
-                "subcategoryId": "life.errand",
-                "categoryId": "life",
-                "label": "办事",
-                "color": "var(--cat-life)",
-                "minutes": 1,
-                "percent": 0.0011
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
-                "label": "当前位置记录",
-                "dateLabel": "07-02",
-                "timeLabel": "13:01 - 20:10",
-                "compactDuration": "7h9m",
-                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
-                "note": "记录当前位置和当前状态。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 429
-              },
-              {
-                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
-                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
-                "dateLabel": "07-02",
-                "timeLabel": "20:13 - 20:14",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
-                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.errand",
-                "subcategoryLabel": "life.errand",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-                "label": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-                "dateLabel": "07-03",
-                "timeLabel": "12:51 - 15:03",
-                "compactDuration": "2h12m",
-                "fullLabel": "07-03 12:51 - 15:03 2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-                "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 132
-              },
-              {
-                "eventNodeId": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-                "label": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "dateLabel": "07-03",
-                "timeLabel": "15:03 - 15:04",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 15:03 - 15:04 2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-                "label": "崽明确说了：check-in触发时不要默认silent要找她",
-                "dateLabel": "07-03",
-                "timeLabel": "15:04 - 20:30",
-                "compactDuration": "5h26m",
-                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
-                "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 326
-              },
-              {
-                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-                "label": "茶多酚测定原始数据（吸光度）：",
-                "dateLabel": "07-03",
-                "timeLabel": "20:30 - 20:31",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
-                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 1
-              }
-            ]
-          },
-          "rest": {
-            "categoryId": "rest",
-            "label": "休息",
-            "color": "var(--cat-rest)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 300
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 0
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "rest.sleep",
-                "categoryId": "rest",
-                "label": "睡眠",
-                "color": "var(--cat-rest)",
-                "minutes": 300,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
-                "label": "上午补觉",
-                "dateLabel": "07-01",
-                "timeLabel": "08:00 - 13:00",
-                "compactDuration": "5h",
-                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
-                "note": "凌晨快1点才睡，上午在睡觉。",
-                "status": "official",
-                "categoryId": "rest",
-                "subcategoryId": "rest.sleep",
-                "subcategoryLabel": "rest.sleep",
-                "minutes": 300
               }
             ]
           },
@@ -58043,6 +59168,11 @@
               {
                 "label": "07-03",
                 "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
                 "minutes": 0
               }
             ],
@@ -58092,6 +59222,11 @@
                 "label": "07-03",
                 "key": "2026-07-03",
                 "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -58120,130 +59255,6 @@
                 "minutes": 60
               }
             ]
-          },
-          "study": {
-            "categoryId": "study",
-            "label": "学习",
-            "color": "var(--cat-study)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 60
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 0
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "study.course",
-                "categoryId": "study",
-                "label": "课程",
-                "color": "var(--cat-study)",
-                "minutes": 60,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
-                "label": "改茶树遗传与育种课程论文",
-                "dateLabel": "07-01",
-                "timeLabel": "22:00 - 23:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
-                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
-                "status": "official",
-                "categoryId": "study",
-                "subcategoryId": "study.course",
-                "subcategoryLabel": "study.course",
-                "minutes": 60
-              }
-            ]
-          },
-          "travel": {
-            "categoryId": "travel",
-            "label": "出行",
-            "color": "var(--cat-travel)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 0
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 6
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "travel.commute",
-                "categoryId": "travel",
-                "label": "通勤",
-                "color": "var(--cat-travel)",
-                "minutes": 6,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:2026-07-0214:34—吃了青椒鸡肉饭去工:2026-07-02T12-10-00-000Z",
-                "label": "2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
-                "dateLabel": "07-02",
-                "timeLabel": "20:10 - 20:11",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:10 - 20:11 2026-07-0214:34—吃了青椒鸡肉饭去工位了[😐",
-                "note": "2026-07-02 14:34 — 吃了青椒鸡肉饭，去工位了。[😐+1]",
-                "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-02—去工位以后找了黄老师签字申请:2026-07-02T12-11-00-000Z",
-                "label": "2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
-                "dateLabel": "07-02",
-                "timeLabel": "20:11 - 20:12",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:11 - 20:12 2026-07-02—去工位以后找了黄老师签字申请暑假留校做",
-                "note": "2026-07-02 — 去工位以后找了黄老师签字，申请暑假留校做实验。[😐+1]",
-                "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:2026-07-0223:55—终于回寝室了在实验:2026-07-02T15-55-00-000Z",
-                "label": "2026-07-0223:55—终于回寝室了在实验室盯本科生",
-                "dateLabel": "07-02",
-                "timeLabel": "23:55 - 23:59",
-                "compactDuration": "4m",
-                "fullLabel": "07-02 23:55 - 23:59 2026-07-0223:55—终于回寝室了在实验室盯本科生",
-                "note": "2026-07-02 23:55 — 终于回寝室了。在实验室盯本科生做实验盯到快12点，结果空白污染整批废了明天重做。累死了。[😭+4]",
-                "status": "official",
-                "categoryId": "travel",
-                "subcategoryId": "travel.commute",
-                "subcategoryLabel": "travel.commute",
-                "minutes": 4
-              }
-            ]
           }
         },
         "subcategoryDetails": {
@@ -58266,6 +59277,11 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
+                "minutes": 300
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
                 "minutes": 0
               }
             ],
@@ -58278,6 +59294,20 @@
                 "compactDuration": "5h",
                 "fullLabel": "07-01 08:00 - 13:00 上午补觉",
                 "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-03",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-03 08:00 - 13:00 上午补觉",
+                "note": "",
                 "status": "official",
                 "categoryId": "rest",
                 "subcategoryId": "rest.sleep",
@@ -58305,7 +59335,12 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 1373
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
               }
             ],
             "events": [
@@ -58350,20 +59385,6 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 32
-              },
-              {
-                "eventNodeId": "fact:2026-07-03将近凌晨1点——还在实验室测s:2026-07-02T17-06-00-000Z",
-                "label": "2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "dateLabel": "07-03",
-                "timeLabel": "01:06 - 23:59",
-                "compactDuration": "22h53m",
-                "fullLabel": "07-03 01:06 - 23:59 2026-07-03将近凌晨1点——还在实验室测s4-s6从",
-                "note": "2026-07-03 将近凌晨1点——还在实验室测s4-s6。从下午做到现在，十几个小时了。[😪+3]",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 1373
               }
             ]
           },
@@ -58386,6 +59407,11 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
                 "minutes": 0
               }
             ],
@@ -58426,6 +59452,11 @@
                 "key": "2026-07-03",
                 "label": "07-03",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
               }
             ],
             "events": [
@@ -58465,6 +59496,11 @@
                 "key": "2026-07-03",
                 "label": "07-03",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
               }
             ],
             "events": [
@@ -58503,7 +59539,12 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 327
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 338
               }
             ],
             "events": [
@@ -58522,32 +59563,46 @@
                 "minutes": 429
               },
               {
-                "eventNodeId": "fact:崽明确说了：check-in触发时不要默认sile:2026-07-03T07-04-00-000Z",
-                "label": "崽明确说了：check-in触发时不要默认silent要找她",
-                "dateLabel": "07-03",
-                "timeLabel": "15:04 - 20:30",
-                "compactDuration": "5h26m",
-                "fullLabel": "07-03 15:04 - 20:30 崽明确说了：check-in触发时不要默认silent要找她",
-                "note": "崽明确说了：check-in触发时不要默认silent，要找她。不能自己判断\"她在忙就不打扰\"，那check-in就没意义了。[😤+2]",
+                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
+                "dateLabel": "07-04",
+                "timeLabel": "18:21 - 19:16",
+                "compactDuration": "55m",
+                "fullLabel": "07-04 18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
+                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 326
+                "minutes": 55
               },
               {
-                "eventNodeId": "fact:茶多酚测定原始数据（吸光度）：:2026-07-03T12-30-00-000Z",
-                "label": "茶多酚测定原始数据（吸光度）：",
-                "dateLabel": "07-03",
-                "timeLabel": "20:30 - 20:31",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 20:30 - 20:31 茶多酚测定原始数据（吸光度）：",
-                "note": "茶多酚测定原始数据（吸光度）：。标曲：y = 0.0718x - 0.003 (R²>0.99)。s1: 0.346, 0.310, 0.292。s2: 0.334, 0.246, 0.292。s3-1: 0.207, s3-2: 0.304, s3-3: 0.308, +0.373",
+                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "dateLabel": "07-04",
+                "timeLabel": "19:16 - 21:27",
+                "compactDuration": "2h11m",
+                "fullLabel": "07-04 19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 1
+                "minutes": 131
+              },
+              {
+                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "dateLabel": "07-04",
+                "timeLabel": "21:27 - 23:59",
+                "compactDuration": "2h32m",
+                "fullLabel": "07-04 21:27 - 23:59 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 152
               }
             ]
           },
@@ -58571,6 +59626,11 @@
                 "key": "2026-07-03",
                 "label": "07-03",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 256
               }
             ],
             "events": [
@@ -58615,6 +59675,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 4
+              },
+              {
+                "eventNodeId": "fact:2026-07-04~14:00—起床了提饭去工位:2026-07-04T06-05-00-000Z",
+                "label": "2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "dateLabel": "07-04",
+                "timeLabel": "14:05 - 18:21",
+                "compactDuration": "4h16m",
+                "fullLabel": "07-04 14:05 - 18:21 2026-07-04~14:00—起床了提饭去工位[😐+1",
+                "note": "2026-07-04 ~14:00 — 起床了，提饭去工位。[😐+1]",
+                "status": "official",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 256
               }
             ]
           },
@@ -58637,6 +59711,11 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
                 "minutes": 0
               }
             ],
@@ -58691,6 +59770,11 @@
                 "key": "2026-07-03",
                 "label": "07-03",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
               }
             ],
             "events": [
@@ -58729,37 +59813,72 @@
               {
                 "key": "2026-07-03",
                 "label": "07-03",
-                "minutes": 133
+                "minutes": 60
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:2026-07-0312:51—起床了去吃饭昨天熬:2026-07-03T04-51-00-000Z",
-                "label": "2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
+                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+                "label": "午餐：肉酱拌米线",
                 "dateLabel": "07-03",
-                "timeLabel": "12:51 - 15:03",
-                "compactDuration": "2h12m",
-                "fullLabel": "07-03 12:51 - 15:03 2026-07-0312:51—起床了去吃饭昨天熬太晚上午睡",
-                "note": "2026-07-03 12:51 — 起床了，去吃饭。昨天熬太晚上午睡过了，10点的实验重做估计推迟了。[😐+2]",
-                "status": "derived",
+                "timeLabel": "13:00 - 14:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-03 13:00 - 14:00 午餐：肉酱拌米线",
+                "note": "",
+                "status": "official",
                 "categoryId": "life",
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
-                "minutes": 132
+                "minutes": 60
+              }
+            ]
+          },
+          "study.other": {
+            "subcategoryId": "study.other",
+            "categoryId": "study",
+            "label": "其他学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
               },
               {
-                "eventNodeId": "fact:2026-07-03~13:00—起床去吃饭吃了肉:2026-07-03T07-03-00-000Z",
-                "label": "2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 599
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+                "label": "实验室：茶多酚测定（整日）",
                 "dateLabel": "07-03",
-                "timeLabel": "15:03 - 15:04",
-                "compactDuration": "1m",
-                "fullLabel": "07-03 15:03 - 15:04 2026-07-03~13:00—起床去吃饭吃了肉酱拌米线下",
-                "note": "2026-07-03 ~13:00 — 起床去吃饭，吃了肉酱拌米线。下午应该去实验室了。[😐+1]",
+                "timeLabel": "14:00 - 23:59",
+                "compactDuration": "9h59m",
+                "fullLabel": "07-03 14:00 - 23:59 实验室：茶多酚测定（整日）",
+                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
                 "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 1
+                "categoryId": "study",
+                "subcategoryId": "study.other",
+                "subcategoryLabel": "study.other",
+                "minutes": 599
               }
             ]
           }

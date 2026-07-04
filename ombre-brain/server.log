@@ -22499,3 +22499,2028 @@ INFO:     127.0.0.1:55938 - "GET /health HTTP/1.1" 200 OK
 [2026-07-03 22:58:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
 INFO:     127.0.0.1:55987 - "GET /health HTTP/1.1" 200 OK
 [2026-07-03 22:59:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56058 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:00:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56092 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:01:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56188 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:02:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56205 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:03:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56240 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:04:12] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56294 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:05:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56314 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:06:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56383 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:07:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56400 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:08:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56457 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:09:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56488 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:10:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56513 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:11:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56567 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:12:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56605 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:13:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56628 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:14:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56673 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:15:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56710 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:16:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56754 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:17:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56784 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:18:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56826 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:19:13] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56866 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:20:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56878 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:21:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56931 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:22:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56944 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:23:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56975 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:24:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57019 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:25:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57047 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:26:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57080 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:27:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57128 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:28:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57163 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:29:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57196 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:30:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57230 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:31:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57284 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:32:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57312 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:33:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57336 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:34:14] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57384 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:35:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57405 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:36:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-03 23:36:21] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-03 23:36:21] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/4f19f06607b6e28a8b6c62fcad4501801bee79b0 "HTTP/1.1 200 OK"
+[2026-07-03 23:36:23] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-03 23:36:24] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-03 23:36:24] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-03 23:36:25] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-03 23:36:26] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-03 23:36:26] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:57453 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:37:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57473 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:38:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57527 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:39:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57553 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:40:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57608 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:41:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57648 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:42:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57681 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:43:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57708 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:44:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57761 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:45:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57801 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:46:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57857 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:47:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57910 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:48:15] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57959 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:49:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57997 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:50:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58007 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:51:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58057 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:52:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58090 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:53:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58136 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:54:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58173 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:55:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58203 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:56:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58250 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:57:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58279 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:58:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58319 - "GET /health HTTP/1.1" 200 OK
+[2026-07-03 23:59:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58383 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:00:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58431 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:01:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:01 - nothing new.
+INFO:     127.0.0.1:58574 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:02:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58604 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:03:16] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:03 - nothing new.
+INFO:     127.0.0.1:58666 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:04:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58729 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:05:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:05 - nothing new.
+INFO:     127.0.0.1:58749 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:06:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58797 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:07:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:07 - nothing new.
+INFO:     127.0.0.1:58839 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:08:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58884 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:09:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:09 - nothing new.
+INFO:     127.0.0.1:58905 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:10:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58934 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:11:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:11 - nothing new.
+INFO:     127.0.0.1:58979 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:12:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59011 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:13:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:13 - nothing new.
+INFO:     127.0.0.1:59052 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:14:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59095 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:15:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:15 - nothing new.
+INFO:     127.0.0.1:59132 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:16:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59177 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:17:17] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:17 - nothing new.
+INFO:     127.0.0.1:59233 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:18:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59270 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:19:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:19 - nothing new.
+INFO:     127.0.0.1:59304 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:20:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59317 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:21:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:21 - nothing new.
+INFO:     127.0.0.1:59368 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:22:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59381 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:23:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:23 - nothing new.
+INFO:     127.0.0.1:59420 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:24:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59460 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:25:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:25 - nothing new.
+INFO:     127.0.0.1:59497 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:26:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59528 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:27:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:27 - nothing new.
+INFO:     127.0.0.1:59577 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:28:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59616 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:29:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:29 - nothing new.
+INFO:     127.0.0.1:59668 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:30:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59711 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:31:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:31 - nothing new.
+INFO:     127.0.0.1:59753 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:32:18] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59776 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:33:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:33 - nothing new.
+INFO:     127.0.0.1:59797 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:34:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59846 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:35:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:35 - nothing new.
+INFO:     127.0.0.1:59860 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:36:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 00:36:30] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 00:36:31] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/6de7b27fddc039043e2da793b504b82bb1bb24f2 "HTTP/1.1 200 OK"
+[2026-07-04 00:36:32] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 00:36:33] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 00:36:33] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 00:36:34] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 00:36:35] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 00:36:35] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:59914 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:37:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:37 - nothing new.
+INFO:     127.0.0.1:59931 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:38:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59956 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:39:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:39 - nothing new.
+INFO:     127.0.0.1:59995 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:40:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60018 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:41:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:41 - nothing new.
+INFO:     127.0.0.1:60079 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:42:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60119 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:43:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:43 - nothing new.
+INFO:     127.0.0.1:60153 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:44:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60215 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:45:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:45 - nothing new.
+INFO:     127.0.0.1:60253 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:46:19] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60292 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:47:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:47 - nothing new.
+INFO:     127.0.0.1:60341 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:48:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60400 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:49:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:49 - nothing new.
+INFO:     127.0.0.1:60459 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:50:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60473 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:51:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:51 - nothing new.
+INFO:     127.0.0.1:60532 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:52:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60546 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:53:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:53 - nothing new.
+INFO:     127.0.0.1:60572 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:54:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60647 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:55:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:55 - nothing new.
+INFO:     127.0.0.1:60684 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:56:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60710 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:57:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:57 - nothing new.
+INFO:     127.0.0.1:60737 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:58:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60758 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 00:59:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 00:59 - nothing new.
+INFO:     127.0.0.1:60831 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:00:20] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60896 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:01:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:01 - nothing new.
+INFO:     127.0.0.1:60973 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:02:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61008 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:03:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:03 - nothing new.
+INFO:     127.0.0.1:61046 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:04:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61108 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:05:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:05 - nothing new.
+INFO:     127.0.0.1:61147 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:06:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61171 - "GET /api/archive-search?q=12%3A51%202026-07-03%2012%3A51%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E4%BA%86%EF%BC%8C%E5%8E%BB%E5%90%83%E9%A5%AD%E3%80%82%E6%98%A8%E5%A4%A9%E7%86%AC%E5%A4%AA%E6%99%9A%E4%B8%8A%E5%8D%88%E7%9D%A1%E8%BF%87%E4%BA%86%EF%BC%8C10%E7%82%B9%E7%9A%84%E5%AE%9E%E9%AA%8C%E9%87%8D%E5%81%9A%E4%BC%B0%E8%AE%A1%E6%8E%A8%E8%BF%9F%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B2%5D15%3A03%202026-07-03%20~13%3A00%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E5%8E%BB%E5%90%83%E9%A5%AD%EF%BC%8C%E5%90%83%E4%BA%86%E8%82%89%E9%85%B1%E6%8B%8C%E7%B1%B3%E7%BA%BF%E3%80%82%E4%B8%8B%E5%8D%88%E5%BA%94%E8%AF%A5%E5%8E%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B1%5D13%3A01%20%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE%E8%AE%B0%E5%BD%95%20%E8%AE%B0%E5%BD%95%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE%E5%92%8C%E5%BD%93%E5%89%8D%E7%8A%B6%E6%80%81%E3%80%8220%3A10%202026-07-02%2014%3A34%20%E2%80%94%20%E5%90%83%E4%BA%86%E9%9D%92%E6%A4%92%E9%B8%A1%E8%82%89%E9%A5%AD%EF%BC%8C%E5%8E%BB%E5%B7%A5%E4%BD%8D%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B1%5D&limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61172 - "GET /api/archive-search?q=12%3A51%202026-07-03%2012%3A51%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E4%BA%86%EF%BC%8C%E5%8E%BB%E5%90%83%E9%A5%AD%E3%80%82%E6%98%A8%E5%A4%A9%E7%86%AC%E5%A4%AA%E6%99%9A%E4%B8%8A%E5%8D%88%E7%9D%A1%E8%BF%87%E4%BA%86%EF%BC%8C10%E7%82%B9%E7%9A%84%E5%AE%9E%E9%AA%8C%E9%87%8D%E5%81%9A%E4%BC%B0%E8%AE%A1%E6%8E%A8%E8%BF%9F%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B2%5D15%3A03%202026-07-03%20~13%3A00%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E5%8E%BB%E5%90%83%E9%A5%AD%EF%BC%8C%E5%90%83%E4%BA%86%E8%82%89%E9%85%B1%E6%8B%8C%E7%B1%B3%E7%BA%BF%E3%80%82%E4%B8%8B%E5%8D%88%E5%BA%94%E8%AF%A5%E5%8E%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B1%5D&limit=3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61263 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:07:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:07 - nothing new.
+INFO:     127.0.0.1:61325 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:08:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61403 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:09:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:09 - nothing new.
+INFO:     127.0.0.1:61446 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:10:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61523 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:11:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:11 - nothing new.
+INFO:     127.0.0.1:61605 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:12:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61705 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:13:21] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:13 - nothing new.
+INFO:     127.0.0.1:61761 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:14:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61835 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:15:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:15 - nothing new.
+INFO:     127.0.0.1:61912 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:16:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61950 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:17:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:17 - nothing new.
+INFO:     127.0.0.1:61994 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:18:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62025 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:19:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:19 - nothing new.
+INFO:     127.0.0.1:62099 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:20:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62114 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:21:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:21 - nothing new.
+INFO:     127.0.0.1:62166 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:22:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62228 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:23:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:23 - nothing new.
+INFO:     127.0.0.1:62259 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:24:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62288 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:25:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:25 - nothing new.
+INFO:     127.0.0.1:62316 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:26:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62346 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:27:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:27 - nothing new.
+INFO:     127.0.0.1:62399 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:28:22] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62450 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:29:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:29 - nothing new.
+INFO:     127.0.0.1:62497 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:30:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62527 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:31:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:31 - nothing new.
+INFO:     127.0.0.1:62577 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:32:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62637 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:33:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:33 - nothing new.
+INFO:     127.0.0.1:62671 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:34:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62716 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:35:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:35 - nothing new.
+INFO:     127.0.0.1:62756 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:36:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 01:36:40] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 01:36:40] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/ab0f5f820a7fe637bf1c6d859b5132df43b1b0fd "HTTP/1.1 200 OK"
+[2026-07-04 01:36:41] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 01:36:42] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 01:36:43] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 01:36:44] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 01:36:44] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 01:36:44] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:62808 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:37:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:37 - nothing new.
+INFO:     127.0.0.1:62844 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:38:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62858 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:39:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:39 - nothing new.
+INFO:     127.0.0.1:62915 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:40:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62930 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:41:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:41 - nothing new.
+INFO:     127.0.0.1:62978 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:42:23] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63025 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:43:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:43 - nothing new.
+INFO:     127.0.0.1:63047 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:44:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63097 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:45:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:45 - nothing new.
+INFO:     127.0.0.1:63134 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:46:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63191 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:47:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:47 - nothing new.
+INFO:     127.0.0.1:63222 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:48:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63264 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:49:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:49 - nothing new.
+INFO:     127.0.0.1:63315 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:50:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63339 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:51:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:51 - nothing new.
+INFO:     127.0.0.1:63383 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:52:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63423 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:53:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:53 - nothing new.
+INFO:     127.0.0.1:63438 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:54:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63480 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:55:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:55 - nothing new.
+INFO:     127.0.0.1:63494 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:56:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63531 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:57:24] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:57 - nothing new.
+INFO:     127.0.0.1:63548 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:58:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63576 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 01:59:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 01:59 - nothing new.
+INFO:     127.0.0.1:63616 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:00:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63652 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:01:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:01 - nothing new.
+INFO:     127.0.0.1:63735 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:02:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63749 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:03:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:03 - nothing new.
+INFO:     127.0.0.1:63777 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:04:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63845 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:05:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:05 - nothing new.
+INFO:     127.0.0.1:63874 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:06:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63908 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:07:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:07 - nothing new.
+INFO:     127.0.0.1:63936 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:08:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63954 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:09:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:09 - nothing new.
+INFO:     127.0.0.1:64035 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:10:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64054 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:11:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:11 - nothing new.
+INFO:     127.0.0.1:64107 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:12:25] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64133 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:13:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:13 - nothing new.
+INFO:     127.0.0.1:64167 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:14:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64201 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:15:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:15 - nothing new.
+INFO:     127.0.0.1:64231 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:16:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64298 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:17:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:17 - nothing new.
+INFO:     127.0.0.1:64319 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:18:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64347 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:19:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:19 - nothing new.
+INFO:     127.0.0.1:64391 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:20:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64414 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:21:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:21 - nothing new.
+INFO:     127.0.0.1:64452 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:22:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64481 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:23:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:23 - nothing new.
+INFO:     127.0.0.1:64498 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:24:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64540 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:25:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:25 - nothing new.
+INFO:     127.0.0.1:64564 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:26:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64608 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:27:26] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:27 - nothing new.
+INFO:     127.0.0.1:64626 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:28:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64659 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:29:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:29 - nothing new.
+INFO:     127.0.0.1:64717 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:30:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64769 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:31:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:31 - nothing new.
+INFO:     127.0.0.1:64809 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:32:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64824 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:33:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:33 - nothing new.
+INFO:     127.0.0.1:64852 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:34:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64899 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:35:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:35 - nothing new.
+INFO:     127.0.0.1:64952 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:36:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 02:36:49] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 02:36:49] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/0a9f4b8178433c8c49da5639c54b874708a35bc6 "HTTP/1.1 200 OK"
+[2026-07-04 02:36:51] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 02:36:52] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 02:36:52] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 02:36:53] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 02:36:54] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 02:36:54] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:65005 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:37:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:37 - nothing new.
+INFO:     127.0.0.1:65030 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:38:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65043 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:39:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:39 - nothing new.
+INFO:     127.0.0.1:65114 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:40:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65134 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:41:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:41 - nothing new.
+INFO:     127.0.0.1:65178 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:42:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65198 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:43:27] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:43 - nothing new.
+INFO:     127.0.0.1:65226 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:44:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65268 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:45:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:45 - nothing new.
+INFO:     127.0.0.1:65317 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:46:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65364 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:47:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:47 - nothing new.
+INFO:     127.0.0.1:65392 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:48:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49156 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:49:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:49 - nothing new.
+INFO:     127.0.0.1:49237 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:50:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49263 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:51:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:51 - nothing new.
+INFO:     127.0.0.1:49323 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:52:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49354 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:53:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:53 - nothing new.
+INFO:     127.0.0.1:49392 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:54:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49458 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:55:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:55 - nothing new.
+INFO:     127.0.0.1:49480 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:56:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49526 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:57:28] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:57 - nothing new.
+INFO:     127.0.0.1:49540 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:58:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49564 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 02:59:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 02:59 - nothing new.
+INFO:     127.0.0.1:49611 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:00:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49680 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:01:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:01 - nothing new.
+INFO:     127.0.0.1:49717 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:02:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49745 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:03:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:03 - nothing new.
+INFO:     127.0.0.1:49765 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:04:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49821 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:05:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:05 - nothing new.
+INFO:     127.0.0.1:49854 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:06:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49895 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:07:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:07 - nothing new.
+INFO:     127.0.0.1:49926 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:08:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49942 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:09:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:09 - nothing new.
+INFO:     127.0.0.1:50000 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:10:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50047 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:11:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:11 - nothing new.
+INFO:     127.0.0.1:50111 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:12:29] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50129 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:13:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:13 - nothing new.
+INFO:     127.0.0.1:50165 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:14:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50192 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:15:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:15 - nothing new.
+INFO:     127.0.0.1:50235 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:16:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50266 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:17:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:17 - nothing new.
+INFO:     127.0.0.1:50307 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:18:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50349 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:19:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:19 - nothing new.
+INFO:     127.0.0.1:50396 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:20:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50412 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:21:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:21 - nothing new.
+INFO:     127.0.0.1:50443 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:22:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50487 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:23:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:23 - nothing new.
+INFO:     127.0.0.1:50512 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:24:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50562 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:25:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:25 - nothing new.
+INFO:     127.0.0.1:50580 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:26:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50620 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:27:30] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:27 - nothing new.
+INFO:     127.0.0.1:50638 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:28:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50664 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:29:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:29 - nothing new.
+INFO:     127.0.0.1:50711 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:30:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50776 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:31:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:31 - nothing new.
+INFO:     127.0.0.1:50808 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:32:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50836 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:33:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:33 - nothing new.
+INFO:     127.0.0.1:50863 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:34:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50899 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:35:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:35 - nothing new.
+INFO:     127.0.0.1:50917 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:36:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 03:36:58] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 03:36:59] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/fa52dd709ab9288fe3f3c92a9e01a9df36fbe875 "HTTP/1.1 200 OK"
+[2026-07-04 03:37:00] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 03:37:01] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 03:37:01] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 03:37:02] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 03:37:02] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 03:37:02] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:50965 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:37:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:37 - nothing new.
+INFO:     127.0.0.1:50995 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:38:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51015 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:39:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:39 - nothing new.
+INFO:     127.0.0.1:51073 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:40:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51083 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:41:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:41 - nothing new.
+INFO:     127.0.0.1:51129 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:42:31] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51151 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:43:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:43 - nothing new.
+INFO:     127.0.0.1:51181 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:44:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51217 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:45:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:45 - nothing new.
+INFO:     127.0.0.1:51270 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:46:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51325 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:47:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:47 - nothing new.
+INFO:     127.0.0.1:51363 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:48:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51384 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:49:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:49 - nothing new.
+INFO:     127.0.0.1:51441 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:50:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51475 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:51:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:51 - nothing new.
+INFO:     127.0.0.1:51519 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:52:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51544 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:53:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:53 - nothing new.
+INFO:     127.0.0.1:51567 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:54:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51605 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:55:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:55 - nothing new.
+INFO:     127.0.0.1:51620 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:56:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51665 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:57:32] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:57 - nothing new.
+INFO:     127.0.0.1:51680 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:58:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51711 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 03:59:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 03:59 - nothing new.
+INFO:     127.0.0.1:51758 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:00:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51806 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:01:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:01 - nothing new.
+INFO:     127.0.0.1:51832 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:02:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51873 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:03:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:03 - nothing new.
+INFO:     127.0.0.1:51895 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:04:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51955 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:05:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:05 - nothing new.
+INFO:     127.0.0.1:51973 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:06:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52020 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:07:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:07 - nothing new.
+INFO:     127.0.0.1:52038 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:08:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52059 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:09:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:10 - nothing new.
+INFO:     127.0.0.1:52109 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:10:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52156 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:11:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:12 - nothing new.
+INFO:     127.0.0.1:52219 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:12:33] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52241 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:13:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:14 - nothing new.
+INFO:     127.0.0.1:52280 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:14:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52310 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:15:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:16 - nothing new.
+INFO:     127.0.0.1:52347 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:16:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52387 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:17:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:18 - nothing new.
+INFO:     127.0.0.1:52423 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:18:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52440 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:19:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:20 - nothing new.
+INFO:     127.0.0.1:52490 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:20:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52505 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:21:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:22 - nothing new.
+INFO:     127.0.0.1:52550 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:22:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52566 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:23:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:24 - nothing new.
+INFO:     127.0.0.1:52594 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:24:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52630 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:25:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:26 - nothing new.
+INFO:     127.0.0.1:52649 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:26:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52694 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:27:34] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:28 - nothing new.
+INFO:     127.0.0.1:52711 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:28:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52744 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:29:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:30 - nothing new.
+INFO:     127.0.0.1:52783 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:30:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52838 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:31:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:32 - nothing new.
+INFO:     127.0.0.1:52908 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:32:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52942 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:33:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:34 - nothing new.
+INFO:     127.0.0.1:52983 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:34:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53039 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:35:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:36 - nothing new.
+INFO:     127.0.0.1:53061 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:36:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 04:37:09] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 04:37:10] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/01eac6019a8e9d3e454b28c727ff90969f0bf6e4 "HTTP/1.1 200 OK"
+[2026-07-04 04:37:11] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 04:37:12] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 04:37:13] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 04:37:13] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 04:37:14] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 04:37:14] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:53127 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:37:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:38 - nothing new.
+INFO:     127.0.0.1:53144 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:38:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53169 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:39:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:40 - nothing new.
+INFO:     127.0.0.1:53208 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:40:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53240 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:41:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:42 - nothing new.
+INFO:     127.0.0.1:53277 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:42:35] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53296 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:43:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:44 - nothing new.
+INFO:     127.0.0.1:53323 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:44:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53365 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:45:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:46 - nothing new.
+INFO:     127.0.0.1:53413 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:46:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53455 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:47:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:48 - nothing new.
+INFO:     127.0.0.1:53499 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:48:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53521 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:49:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:50 - nothing new.
+INFO:     127.0.0.1:53550 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:50:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53590 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:51:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:52 - nothing new.
+INFO:     127.0.0.1:53655 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:52:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53671 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:53:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:54 - nothing new.
+INFO:     127.0.0.1:53703 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:54:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53734 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:55:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:56 - nothing new.
+INFO:     127.0.0.1:53759 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:56:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53789 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:57:36] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 04:58 - nothing new.
+INFO:     127.0.0.1:53805 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:58:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53828 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 04:59:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:00 - nothing new.
+INFO:     127.0.0.1:53867 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:00:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53935 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:01:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:02 - nothing new.
+INFO:     127.0.0.1:53990 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:02:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54031 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:03:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:04 - nothing new.
+INFO:     127.0.0.1:54058 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:04:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54124 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:05:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:06 - nothing new.
+INFO:     127.0.0.1:54152 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:06:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54195 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:07:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:08 - nothing new.
+INFO:     127.0.0.1:54212 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:08:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54252 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:09:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:10 - nothing new.
+INFO:     127.0.0.1:54271 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:10:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54326 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:11:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:12 - nothing new.
+INFO:     127.0.0.1:54387 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:12:37] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54403 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:13:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:14 - nothing new.
+INFO:     127.0.0.1:54442 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:14:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54480 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:15:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:16 - nothing new.
+INFO:     127.0.0.1:54529 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:16:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54570 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:17:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:18 - nothing new.
+INFO:     127.0.0.1:54608 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:18:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54625 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:19:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:20 - nothing new.
+INFO:     127.0.0.1:54653 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:20:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54687 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:21:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:22 - nothing new.
+INFO:     127.0.0.1:54729 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:22:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54747 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:23:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:24 - nothing new.
+INFO:     127.0.0.1:54779 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:24:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54815 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:25:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:26 - nothing new.
+INFO:     127.0.0.1:54842 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:26:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54875 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:27:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:28 - nothing new.
+INFO:     127.0.0.1:54910 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:28:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:54928 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:29:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:30 - nothing new.
+INFO:     127.0.0.1:54986 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:30:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55034 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:31:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:32 - nothing new.
+INFO:     127.0.0.1:55092 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:32:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55132 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:33:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:34 - nothing new.
+INFO:     127.0.0.1:55150 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:34:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55189 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:35:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:36 - nothing new.
+INFO:     127.0.0.1:55214 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:36:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 05:37:19] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 05:37:19] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/75a6de785ebe9d2bc0c98fcbd7bbdb82325eabf4 "HTTP/1.1 200 OK"
+[2026-07-04 05:37:20] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 05:37:21] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 05:37:22] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 05:37:22] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 05:37:23] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 05:37:23] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:55270 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:37:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:38 - nothing new.
+INFO:     127.0.0.1:55285 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:38:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55313 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:39:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:40 - nothing new.
+INFO:     127.0.0.1:55334 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:40:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55388 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:41:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:42 - nothing new.
+INFO:     127.0.0.1:55419 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:42:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55453 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:43:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:44 - nothing new.
+INFO:     127.0.0.1:55471 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:44:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55525 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:45:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:46 - nothing new.
+INFO:     127.0.0.1:55582 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:46:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55624 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:47:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:48 - nothing new.
+INFO:     127.0.0.1:55674 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:48:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55695 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:49:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:50 - nothing new.
+INFO:     127.0.0.1:55727 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:50:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55801 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:51:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:52 - nothing new.
+INFO:     127.0.0.1:55843 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:52:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55881 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:53:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:54 - nothing new.
+INFO:     127.0.0.1:55917 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:54:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:55945 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:55:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:56 - nothing new.
+INFO:     127.0.0.1:55972 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:56:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56005 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:57:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 05:58 - nothing new.
+INFO:     127.0.0.1:56033 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:58:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56047 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 05:59:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:00 - nothing new.
+INFO:     127.0.0.1:56097 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:00:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56155 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:01:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:02 - nothing new.
+INFO:     127.0.0.1:56195 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:02:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56266 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:03:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:04 - nothing new.
+INFO:     127.0.0.1:56282 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:04:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56347 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:05:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:06 - nothing new.
+INFO:     127.0.0.1:56364 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:06:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56405 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:07:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:08 - nothing new.
+INFO:     127.0.0.1:56420 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:08:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56455 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:09:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:10 - nothing new.
+INFO:     127.0.0.1:56473 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:10:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56523 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:11:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:12 - nothing new.
+INFO:     127.0.0.1:56554 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:12:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56603 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:13:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:14 - nothing new.
+INFO:     127.0.0.1:56623 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:14:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56692 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:15:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:16 - nothing new.
+INFO:     127.0.0.1:56714 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:16:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56745 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:17:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:18 - nothing new.
+INFO:     127.0.0.1:56781 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:18:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56818 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:19:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:20 - nothing new.
+INFO:     127.0.0.1:56845 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:20:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56891 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:21:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:22 - nothing new.
+INFO:     127.0.0.1:56934 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:22:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:56950 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:23:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:24 - nothing new.
+INFO:     127.0.0.1:56980 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:24:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57011 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:25:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:26 - nothing new.
+INFO:     127.0.0.1:57042 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:26:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57076 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:27:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:28 - nothing new.
+INFO:     127.0.0.1:57101 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:28:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57118 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:29:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:30 - nothing new.
+INFO:     127.0.0.1:57166 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:30:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57201 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:31:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:32 - nothing new.
+INFO:     127.0.0.1:57231 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:32:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57274 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:33:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:34 - nothing new.
+INFO:     127.0.0.1:57307 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:34:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57354 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:35:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:36 - nothing new.
+INFO:     127.0.0.1:57376 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:36:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 06:37:28] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 06:37:28] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/de8be991f0b0dc570c21c9b536791cfa844a60e9 "HTTP/1.1 200 OK"
+[2026-07-04 06:37:29] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 06:37:30] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 06:37:31] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 06:37:31] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 06:37:32] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 06:37:32] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:57434 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:37:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:38 - nothing new.
+INFO:     127.0.0.1:57453 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:38:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57484 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:39:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:40 - nothing new.
+INFO:     127.0.0.1:57507 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:40:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57587 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:41:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:42 - nothing new.
+INFO:     127.0.0.1:57623 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:42:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57674 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:43:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:44 - nothing new.
+INFO:     127.0.0.1:57690 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:44:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57756 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:45:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:46 - nothing new.
+INFO:     127.0.0.1:57794 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:46:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57843 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:47:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:48 - nothing new.
+INFO:     127.0.0.1:57878 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:48:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57927 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:49:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:50 - nothing new.
+INFO:     127.0.0.1:57953 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:50:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:57999 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:51:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:52 - nothing new.
+INFO:     127.0.0.1:58038 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:52:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58070 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:53:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:54 - nothing new.
+INFO:     127.0.0.1:58116 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:54:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58143 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:55:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:56 - nothing new.
+INFO:     127.0.0.1:58178 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:56:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58208 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:57:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 06:58 - nothing new.
+INFO:     127.0.0.1:58237 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:58:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58252 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 06:59:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:00 - nothing new.
+INFO:     127.0.0.1:58307 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:00:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58351 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:01:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:02 - nothing new.
+INFO:     127.0.0.1:58398 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:02:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58415 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:03:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:04 - nothing new.
+INFO:     127.0.0.1:58444 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:04:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58501 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:05:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:06 - nothing new.
+INFO:     127.0.0.1:58553 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:06:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58590 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:07:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:08 - nothing new.
+INFO:     127.0.0.1:58609 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:08:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58642 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:09:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:10 - nothing new.
+INFO:     127.0.0.1:58660 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:10:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58709 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:11:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:12 - nothing new.
+INFO:     127.0.0.1:58750 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:12:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58775 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:13:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:14 - nothing new.
+INFO:     127.0.0.1:58819 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:14:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58907 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:15:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:16 - nothing new.
+INFO:     127.0.0.1:58925 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:16:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:58978 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:17:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:18 - nothing new.
+INFO:     127.0.0.1:59007 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:18:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59033 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:19:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:20 - nothing new.
+INFO:     127.0.0.1:59051 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:20:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59092 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:21:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:22 - nothing new.
+INFO:     127.0.0.1:59130 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:22:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59145 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:23:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:24 - nothing new.
+INFO:     127.0.0.1:59183 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:24:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59214 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:25:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:26 - nothing new.
+INFO:     127.0.0.1:59247 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:26:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59281 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:27:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:28 - nothing new.
+INFO:     127.0.0.1:59308 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:28:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59325 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:29:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:30 - nothing new.
+INFO:     127.0.0.1:59383 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:30:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59452 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:31:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:32 - nothing new.
+INFO:     127.0.0.1:59502 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:32:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59517 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:33:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:34 - nothing new.
+INFO:     127.0.0.1:59584 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:34:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59616 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:35:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:36 - nothing new.
+INFO:     127.0.0.1:59654 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:36:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 07:37:37] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 07:37:37] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/2555ccf1e0664888b526f36fd7d012a817e558f4 "HTTP/1.1 200 OK"
+[2026-07-04 07:37:38] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 07:37:39] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 07:37:40] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 07:37:40] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 07:37:41] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 07:37:41] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+INFO:     127.0.0.1:59712 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:37:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:38 - nothing new.
+INFO:     127.0.0.1:59727 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:38:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59755 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:39:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:40 - nothing new.
+INFO:     127.0.0.1:59775 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:40:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59831 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:41:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:42 - nothing new.
+INFO:     127.0.0.1:59865 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:42:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59893 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:43:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:44 - nothing new.
+INFO:     127.0.0.1:59911 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:44:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59966 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:45:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:46 - nothing new.
+INFO:     127.0.0.1:59987 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:46:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60056 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:47:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:48 - nothing new.
+INFO:     127.0.0.1:60099 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:48:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60132 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:49:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:50 - nothing new.
+INFO:     127.0.0.1:60148 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:50:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60195 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:51:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:52 - nothing new.
+INFO:     127.0.0.1:60230 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:52:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60249 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:53:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:54 - nothing new.
+INFO:     127.0.0.1:60301 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:54:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60325 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:55:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:56 - nothing new.
+INFO:     127.0.0.1:60381 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:56:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60409 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:57:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 07:58 - nothing new.
+INFO:     127.0.0.1:60434 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:58:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60448 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 07:59:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:00 - nothing new.
+INFO:     127.0.0.1:60505 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:00:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60551 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:01:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:02 - nothing new.
+INFO:     127.0.0.1:60598 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:02:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60618 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:03:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:04 - nothing new.
+INFO:     127.0.0.1:60661 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:04:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60735 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:05:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:06 - nothing new.
+INFO:     127.0.0.1:60763 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:06:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60808 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:07:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:08 - nothing new.
+INFO:     127.0.0.1:60863 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:08:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60882 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:09:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:10 - nothing new.
+INFO:     127.0.0.1:60923 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:10:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:60972 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:11:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:12 - nothing new.
+INFO:     127.0.0.1:60998 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:12:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61042 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:13:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:14 - nothing new.
+INFO:     127.0.0.1:61070 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:14:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61143 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:15:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:16 - nothing new.
+INFO:     127.0.0.1:61167 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:16:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61219 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:17:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:18 - nothing new.
+INFO:     127.0.0.1:61235 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:18:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61306 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:19:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:20 - nothing new.
+INFO:     127.0.0.1:61328 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:20:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61377 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:21:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:22 - nothing new.
+INFO:     127.0.0.1:61409 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:22:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61439 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:23:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:24 - nothing new.
+INFO:     127.0.0.1:61471 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:24:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61493 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:25:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:26 - nothing new.
+INFO:     127.0.0.1:61519 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:26:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61548 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:27:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:28 - nothing new.
+INFO:     127.0.0.1:61591 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:28:51] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61608 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:29:51] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:30 - nothing new.
+INFO:     127.0.0.1:61752 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:30:51] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61829 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:31:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:32 - nothing new.
+INFO:     127.0.0.1:61882 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:32:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61902 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:33:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:34 - nothing new.
+INFO:     127.0.0.1:61947 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:34:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:61998 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:35:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:36 - nothing new.
+INFO:     127.0.0.1:62073 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:36:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62151 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:37:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 08:37:54] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 08:37:54] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/42cc3dade85281d3831c18b0255af8f1e68c258b "HTTP/1.1 200 OK"
+[2026-07-04 08:37:55] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 08:37:56] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 08:37:57] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 08:37:57] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 08:37:58] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 08:37:58] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+[sync] Poll at 08:38 - nothing new.
+INFO:     127.0.0.1:62172 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:38:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62212 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:39:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:40 - nothing new.
+INFO:     127.0.0.1:62256 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:40:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62297 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:41:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:42 - nothing new.
+INFO:     127.0.0.1:62329 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:42:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62387 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:43:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:44 - nothing new.
+INFO:     127.0.0.1:62416 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:44:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62472 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:45:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:46 - nothing new.
+INFO:     127.0.0.1:62503 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:46:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62552 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:47:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:48 - nothing new.
+INFO:     127.0.0.1:62591 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:48:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62631 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:49:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:50 - nothing new.
+INFO:     127.0.0.1:62647 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:50:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62687 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:51:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:52 - nothing new.
+INFO:     127.0.0.1:62720 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:52:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62740 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:53:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:54 - nothing new.
+INFO:     127.0.0.1:62791 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:54:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62851 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:55:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:56 - nothing new.
+INFO:     127.0.0.1:62886 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:56:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62917 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:57:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 08:58 - nothing new.
+INFO:     127.0.0.1:62952 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:58:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:62967 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 08:59:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:00 - nothing new.
+INFO:     127.0.0.1:63020 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:00:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63054 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:01:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:02 - nothing new.
+INFO:     127.0.0.1:63115 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:02:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63132 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:03:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:04 - nothing new.
+INFO:     127.0.0.1:63189 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:04:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63221 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:05:55] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:06 - nothing new.
+INFO:     127.0.0.1:63249 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:06:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63304 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:07:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:08 - nothing new.
+INFO:     127.0.0.1:63329 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:08:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63353 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:09:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:10 - nothing new.
+INFO:     127.0.0.1:63374 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:10:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63402 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:11:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:12 - nothing new.
+INFO:     127.0.0.1:63465 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:12:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63494 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:13:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:14 - nothing new.
+INFO:     127.0.0.1:63529 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:14:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63595 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:15:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:16 - nothing new.
+INFO:     127.0.0.1:63623 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:16:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63681 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:17:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:18 - nothing new.
+INFO:     127.0.0.1:63695 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:18:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63738 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:19:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:20 - nothing new.
+INFO:     127.0.0.1:63758 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:20:56] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63789 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:21:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:22 - nothing new.
+INFO:     127.0.0.1:63845 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:22:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63894 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:23:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:24 - nothing new.
+INFO:     127.0.0.1:63941 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:24:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:63956 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:25:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:26 - nothing new.
+INFO:     127.0.0.1:63984 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:26:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64034 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:27:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:28 - nothing new.
+INFO:     127.0.0.1:64062 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:28:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64104 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:29:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:30 - nothing new.
+INFO:     127.0.0.1:64159 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:30:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64187 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:31:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:32 - nothing new.
+INFO:     127.0.0.1:64241 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:32:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64253 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:33:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:34 - nothing new.
+INFO:     127.0.0.1:64306 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:34:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64316 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:35:57] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:36 - nothing new.
+INFO:     127.0.0.1:64374 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:36:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64421 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:37:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 09:38:03] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 09:38:03] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/ce8c4ae666311d1d310ec3b96892d3b365911160 "HTTP/1.1 200 OK"
+[2026-07-04 09:38:04] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 09:38:05] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 09:38:06] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 09:38:07] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 09:38:07] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 09:38:07] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+[sync] Poll at 09:38 - nothing new.
+INFO:     127.0.0.1:64477 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:38:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64498 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:39:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:40 - nothing new.
+INFO:     127.0.0.1:64528 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:40:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64545 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:41:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:42 - nothing new.
+INFO:     127.0.0.1:64594 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:42:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64619 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:43:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:44 - nothing new.
+INFO:     127.0.0.1:64663 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:44:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64701 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:45:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:46 - nothing new.
+INFO:     127.0.0.1:64721 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:46:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64776 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:47:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:48 - nothing new.
+INFO:     127.0.0.1:64794 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:48:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64864 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:49:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:50 - nothing new.
+INFO:     127.0.0.1:64887 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:50:58] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:64914 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:51:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:52 - nothing new.
+INFO:     127.0.0.1:64976 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:52:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65000 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:53:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:54 - nothing new.
+INFO:     127.0.0.1:65042 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:54:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65062 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:55:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:56 - nothing new.
+INFO:     127.0.0.1:65109 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:56:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65141 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:57:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 09:58 - nothing new.
+INFO:     127.0.0.1:65167 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:58:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65181 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 09:59:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:00 - nothing new.
+INFO:     127.0.0.1:65226 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:00:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65278 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:01:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:02 - nothing new.
+INFO:     127.0.0.1:65370 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:02:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65399 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:03:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:04 - nothing new.
+INFO:     127.0.0.1:65450 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:04:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:65488 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:05:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:06 - nothing new.
+INFO:     127.0.0.1:65506 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:07:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49174 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:08:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:08 - nothing new.
+INFO:     127.0.0.1:49192 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:09:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49227 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:10:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:10 - nothing new.
+INFO:     127.0.0.1:49243 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:11:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49267 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:12:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:12 - nothing new.
+INFO:     127.0.0.1:49342 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:13:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49373 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:14:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:14 - nothing new.
+INFO:     127.0.0.1:49413 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:15:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49465 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:16:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:16 - nothing new.
+INFO:     127.0.0.1:49515 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:17:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49569 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:18:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:18 - nothing new.
+INFO:     127.0.0.1:49588 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:19:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49618 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:20:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:20 - nothing new.
+INFO:     127.0.0.1:49638 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:21:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49660 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:22:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:22 - nothing new.
+INFO:     127.0.0.1:49729 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:23:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49741 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:24:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49784 - "GET /api/archive-search?q=12%3A51%202026-07-03%2012%3A51%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E4%BA%86%EF%BC%8C%E5%8E%BB%E5%90%83%E9%A5%AD%E3%80%82%E6%98%A8%E5%A4%A9%E7%86%AC%E5%A4%AA%E6%99%9A%E4%B8%8A%E5%8D%88%E7%9D%A1%E8%BF%87%E4%BA%86%EF%BC%8C10%E7%82%B9%E7%9A%84%E5%AE%9E%E9%AA%8C%E9%87%8D%E5%81%9A%E4%BC%B0%E8%AE%A1%E6%8E%A8%E8%BF%9F%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B2%5D15%3A03%202026-07-03%20~13%3A00%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E5%8E%BB%E5%90%83%E9%A5%AD%EF%BC%8C%E5%90%83%E4%BA%86%E8%82%89%E9%85%B1%E6%8B%8C%E7%B1%B3%E7%BA%BF%E3%80%82%E4%B8%8B%E5%8D%88%E5%BA%94%E8%AF%A5%E5%8E%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B1%5D13%3A01%20%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE%E8%AE%B0%E5%BD%95%20%E8%AE%B0%E5%BD%95%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE%E5%92%8C%E5%BD%93%E5%89%8D%E7%8A%B6%E6%80%81%E3%80%8220%3A10%202026-07-02%2014%3A34%20%E2%80%94%20%E5%90%83%E4%BA%86%E9%9D%92%E6%A4%92%E9%B8%A1%E8%82%89%E9%A5%AD%EF%BC%8C%E5%8E%BB%E5%B7%A5%E4%BD%8D%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B1%5D&limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49785 - "GET /api/archive-search?q=12%3A51%202026-07-03%2012%3A51%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E4%BA%86%EF%BC%8C%E5%8E%BB%E5%90%83%E9%A5%AD%E3%80%82%E6%98%A8%E5%A4%A9%E7%86%AC%E5%A4%AA%E6%99%9A%E4%B8%8A%E5%8D%88%E7%9D%A1%E8%BF%87%E4%BA%86%EF%BC%8C10%E7%82%B9%E7%9A%84%E5%AE%9E%E9%AA%8C%E9%87%8D%E5%81%9A%E4%BC%B0%E8%AE%A1%E6%8E%A8%E8%BF%9F%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B2%5D15%3A03%202026-07-03%20~13%3A00%20%E2%80%94%20%E8%B5%B7%E5%BA%8A%E5%8E%BB%E5%90%83%E9%A5%AD%EF%BC%8C%E5%90%83%E4%BA%86%E8%82%89%E9%85%B1%E6%8B%8C%E7%B1%B3%E7%BA%BF%E3%80%82%E4%B8%8B%E5%8D%88%E5%BA%94%E8%AF%A5%E5%8E%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BA%86%E3%80%82%5B%F0%9F%98%90%2B1%5D&limit=3 HTTP/1.1" 200 OK
+[sync] Poll at 10:24 - nothing new.
+INFO:     127.0.0.1:49847 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:25:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49876 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:26:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:26 - nothing new.
+INFO:     127.0.0.1:49903 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:27:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:49959 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:28:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:28 - nothing new.
+INFO:     127.0.0.1:49985 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:29:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50003 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:30:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:30 - nothing new.
+INFO:     127.0.0.1:50050 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:31:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50070 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:32:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:32 - nothing new.
+INFO:     127.0.0.1:50129 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:33:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50173 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:34:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:34 - nothing new.
+INFO:     127.0.0.1:50246 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:35:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50262 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:36:01] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:36 - nothing new.
+INFO:     127.0.0.1:50308 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:37:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50365 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:38:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 10:38:12] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 10:38:12] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/3fec1dc4cfeede3175819b75b56952a19f3da067 "HTTP/1.1 200 OK"
+[2026-07-04 10:38:13] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 10:38:14] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 10:38:15] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 10:38:15] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 10:38:16] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 10:38:16] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+[sync] Poll at 10:38 - nothing new.
+INFO:     127.0.0.1:50387 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:39:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50451 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:40:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:40 - nothing new.
+INFO:     127.0.0.1:50475 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:41:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50501 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:42:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:42 - nothing new.
+INFO:     127.0.0.1:50568 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:43:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50603 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:44:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:44 - nothing new.
+INFO:     127.0.0.1:50638 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:45:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50676 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:46:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:46 - nothing new.
+INFO:     127.0.0.1:50710 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:47:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50760 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:48:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:48 - nothing new.
+INFO:     127.0.0.1:50784 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:49:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50834 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:50:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:50 - nothing new.
+INFO:     127.0.0.1:50857 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:51:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50879 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:52:02] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:52 - nothing new.
+INFO:     127.0.0.1:50935 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:53:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:50953 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:54:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:54 - nothing new.
+INFO:     127.0.0.1:51013 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:55:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51026 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:56:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:56 - nothing new.
+INFO:     127.0.0.1:51051 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:57:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51113 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:58:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 10:58 - nothing new.
+INFO:     127.0.0.1:51143 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 10:59:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51169 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:00:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:00 - nothing new.
+INFO:     127.0.0.1:51231 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:01:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51267 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:02:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:02 - nothing new.
+INFO:     127.0.0.1:51343 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:03:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51379 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:04:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:04 - nothing new.
+INFO:     127.0.0.1:51435 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:05:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51468 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:06:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:06 - nothing new.
+INFO:     127.0.0.1:51496 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:07:03] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51532 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:08:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:08 - nothing new.
+INFO:     127.0.0.1:51548 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:09:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51573 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:10:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:10 - nothing new.
+INFO:     127.0.0.1:51592 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:11:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51625 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:12:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:12 - nothing new.
+INFO:     127.0.0.1:51708 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:13:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51736 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:14:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:14 - nothing new.
+INFO:     127.0.0.1:51780 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:15:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51821 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:16:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:16 - nothing new.
+INFO:     127.0.0.1:51859 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:17:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:51940 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:18:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:18 - nothing new.
+INFO:     127.0.0.1:51975 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:19:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52015 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:20:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:20 - nothing new.
+INFO:     127.0.0.1:52034 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:21:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52063 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:22:04] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:22 - nothing new.
+INFO:     127.0.0.1:52120 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:23:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52168 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:24:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:24 - nothing new.
+INFO:     127.0.0.1:52225 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:25:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52248 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:26:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:26 - nothing new.
+INFO:     127.0.0.1:52274 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:27:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52305 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:28:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:28 - nothing new.
+INFO:     127.0.0.1:52334 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:29:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52345 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:30:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:30 - nothing new.
+INFO:     127.0.0.1:52395 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:31:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52412 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:32:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:32 - nothing new.
+INFO:     127.0.0.1:52468 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:33:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52509 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:34:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:34 - nothing new.
+INFO:     127.0.0.1:52561 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:35:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52577 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:36:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:36 - nothing new.
+INFO:     127.0.0.1:52613 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:37:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52677 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:38:05] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-04 11:38:21] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 11:38:21] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/58a4e79b66ac17f6122dd56f5ac634c04b117fb0 "HTTP/1.1 200 OK"
+[2026-07-04 11:38:23] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 11:38:23] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 11:38:24] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-04 11:38:24] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-04 11:38:25] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-04 11:38:25] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+[sync] Poll at 11:38 - nothing new.
+INFO:     127.0.0.1:52713 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:39:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52729 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:40:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:40 - nothing new.
+INFO:     127.0.0.1:52755 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:41:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52779 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:42:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:42 - nothing new.
+INFO:     127.0.0.1:52836 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:43:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52893 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:44:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:44 - nothing new.
+INFO:     127.0.0.1:52935 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:45:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:52981 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:46:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:46 - nothing new.
+INFO:     127.0.0.1:53011 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:47:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53059 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:48:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:48 - nothing new.
+INFO:     127.0.0.1:53098 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:49:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53134 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:50:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:50 - nothing new.
+INFO:     127.0.0.1:53150 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:51:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53179 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:52:06] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:52 - nothing new.
+INFO:     127.0.0.1:53228 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:53:07] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53250 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:54:07] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:54 - nothing new.
+INFO:     127.0.0.1:53302 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:55:07] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53327 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:56:07] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:56 - nothing new.
+INFO:     127.0.0.1:53360 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:57:07] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:53412 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:58:07] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[sync] Poll at 11:58 - nothing new.
+INFO:     127.0.0.1:53450 - "GET /health HTTP/1.1" 200 OK
+[2026-07-04 11:59:07] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"

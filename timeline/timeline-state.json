@@ -2918,6 +2918,52 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-04": {
+      "status": "final",
+      "updatedAt": "2026-07-04T14:45:56.128Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:evt-sleep:2026-07-04T00-00-00-000Z",
+          "startAt": "2026-07-04T00:00:00.000Z",
+          "endAt": "2026-07-04T06:00:00.000Z",
+          "title": "补觉",
+          "note": "凌晨1点多睡，上午睡觉。",
+          "categoryId": "rest",
+          "subcategoryId": "rest.sleep",
+          "eventNodeId": "evt.sleep",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:下午去工位:2026-07-04T06-00-00-000Z",
+          "startAt": "2026-07-04T06:00:00.000Z",
+          "endAt": "2026-07-04T07:30:00.000Z",
+          "title": "下午去工位",
+          "note": "14:00起床，提饭去工位。",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:实验室-s3重做9平行全部失败:2026-07-04T07-30-00-000Z",
+          "startAt": "2026-07-04T07:30:00.000Z",
+          "endAt": "2026-07-04T15:00:00.000Z",
+          "title": "实验室：s3重做9平行全部失败",
+          "note": "15:38-21:30在实验室。s3重做9个平行全部翻车，组间相对误差全部>5%。提取液冻存-20℃明天重测。晚上配了茚三酮（静置一昼夜）。[😭+4]",
+          "categoryId": "study",
+          "subcategoryId": "study.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
