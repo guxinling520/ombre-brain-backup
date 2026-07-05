@@ -2520,6 +2520,143 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-05": {
+      "status": "final",
+      "updatedAt": "2026-07-05T13:56:44.343Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:数据分析结果-对照组-s20-s35-s80部分合格-s50-s65全不过要重做:2026-07-04T22-06-00-000Z",
+          "startAt": "2026-07-04T22:06:00.000Z",
+          "endAt": "2026-07-04T22:15:00.000Z",
+          "title": "数据分析结果：对照组/s20/s35/s80部分合格，s50/s65全不过要重做",
+          "note": "用正确标曲重新算全部样品：对照组0.310/0.352 RE=1.7%✅，s20 0.411/0.426 RE=3.6%✅，s35第一组有两个配对OK，s80 0.423/0.415 RE=1.87%✅。s50和s65数据太散，全部配对超5%。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:茶多酚重测样品在静置-讨论gc-ms明天安排:2026-07-04T23-46-00-000Z",
+          "startAt": "2026-07-04T23:46:00.000Z",
+          "endAt": "2026-07-04T23:50:00.000Z",
+          "title": "茶多酚重测样品在静置，讨论GC-MS明天安排",
+          "note": "冻存茶汤解冻重新测茶多酚。设了16:50测吸光度提醒。讨论了GC-MS前处理方案，明天下午1点做SPME 18个样，跑图45min/样。和永琪闹掰了，自己做。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:s50-s65重测完成-茶多酚全部数据出炉:2026-07-05T01-00-00-000Z",
+          "startAt": "2026-07-05T01:00:00.000Z",
+          "endAt": "2026-07-05T02:00:00.000Z",
+          "title": "s50/s65重测完成，茶多酚全部数据出炉",
+          "note": "s50有3组过5%，s65有1组过5%。最终数据：CK=26.01%, s20=29.90%, s35=16.04%, s50=20.93%, s65=14.37%, s80=30.26%。趋势波动大但文献有支撑。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:整理了memory-baseline存储体系-建了git仓库备份memory:2026-07-05T02-00-00-000Z",
+          "startAt": "2026-07-05T02:00:00.000Z",
+          "endAt": "2026-07-05T03:00:00.000Z",
+          "title": "整理了memory/baseline存储体系，建了git仓库备份memory",
+          "note": "把lab内容从baseline移到memory，MEMORY.md索引全部修正。创建了~/.cyberboss/memory的git仓库并初始化。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:2026-07-0512:16—起床了准备去实验室:2026-07-05T04-16-00-000Z",
+          "startAt": "2026-07-05T04:16:00.000Z",
+          "endAt": "2026-07-05T05:13:00.000Z",
+          "title": "2026-07-0512:16—起床了准备去实验室重测茶多酚",
+          "note": "2026-07-05 12:16 — 起床了。准备去实验室重测茶多酚和做游离氨基酸。[😐+1]",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:2026-07-05中午起床了在检查昨天两台分光光:2026-07-05T05-13-00-000Z",
+          "startAt": "2026-07-05T05:13:00.000Z",
+          "endAt": "2026-07-05T05:27:00.000Z",
+          "title": "2026-07-05中午起床了在检查昨天两台分光光度计的茶多",
+          "note": "2026-07-05 中午起床了，在检查昨天两台分光光度计的茶多酚数据，看看有没有能过5%的配对。没有一对能过。[😤+2]",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:2026-07-0513:27—已经吃完饭到实验室:2026-07-05T05-27-00-000Z",
+          "startAt": "2026-07-05T05:27:00.000Z",
+          "endAt": "2026-07-05T05:54:00.000Z",
+          "title": "2026-07-0513:27—已经吃完饭到实验室了在翻昨天",
+          "note": "2026-07-05 13:27 — 已经吃完饭到实验室了，在翻昨天的两台分光光度计数据找能过5%的配对。[😐+1]",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:健身完回工位-洗明天gc-ms顶空瓶:2026-07-05T05-50-00-000Z",
+          "startAt": "2026-07-05T05:50:00.000Z",
+          "endAt": "2026-07-05T05:56:00.000Z",
+          "title": "健身完回工位，洗明天GC-MS顶空瓶",
+          "note": "健身完回工位了。洗20个顶空瓶，烘干备用。明天中午12点开始做SPME-GC-MS。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:2026-07-0513:53—在实验室翻旧数据发:2026-07-05T05-54-00-000Z",
+          "startAt": "2026-07-05T05:54:00.000Z",
+          "endAt": "2026-07-05T06:06:00.000Z",
+          "title": "2026-07-0513:53—在实验室翻旧数据发现之前标曲",
+          "note": "2026-07-05 13:53 — 在实验室翻旧数据。发现之前标曲用错了（把浓度编号1-5当成了实际浓度），实际标曲y=0.00718x-0.003。绿茶茶多酚含量在20-30%范围，正常了！部分配对能过5%。[😊+1]",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:2026-07-0514:06—还在实验室对数据之:2026-07-05T06-06-00-000Z",
+          "startAt": "2026-07-05T06:06:00.000Z",
+          "endAt": "2026-07-05T15:59:00.000Z",
+          "title": "2026-07-0514:06—还在实验室对数据之前标曲用错",
+          "note": "2026-07-05 14:06 — 还在实验室对数据。之前标曲用错导致含量算成2%太低了，用正确标曲和公式算出来绿茶茶多酚在20-40%，合理了。[😊+1]",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
