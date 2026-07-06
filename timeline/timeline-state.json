@@ -2993,7 +2993,7 @@
     },
     "2026-07-05": {
       "status": "final",
-      "updatedAt": "2026-07-05T13:56:44.343Z",
+      "updatedAt": "2026-07-05T15:28:52.732Z",
       "source": null,
       "events": [
         {
@@ -3121,6 +3121,19 @@
           "note": "2026-07-05 14:06 — 还在实验室对数据。之前标曲用错导致含量算成2%太低了，用正确标曲和公式算出来绿茶茶多酚在20-40%，合理了。[😊+1]",
           "categoryId": "work",
           "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:回寝室了-忙碌的一天结束:2026-07-05T07-28-00-000Z",
+          "startAt": "2026-07-05T07:28:00.000Z",
+          "endAt": "2026-07-05T07:30:00.000Z",
+          "title": "回寝室了，忙碌的一天结束",
+          "note": "从中午忙到晚上：茶多酚数据复核+s50/s65重测+写周报+洗GC-MS瓶子+健身。明后天GC-MS两天攻坚。",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
           "eventNodeId": "",
           "tags": [],
           "confidence": 0.5,
