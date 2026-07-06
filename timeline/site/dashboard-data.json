@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T15:28:57.323Z",
-    "updatedAt": "2026-07-05T15:28:52.737Z",
-    "taxonomyUpdatedAt": "2026-07-05T15:28:52.736Z",
-    "factsUpdatedAt": "2026-07-05T15:28:52.737Z",
+    "generatedAt": "2026-07-06T13:46:47.983Z",
+    "updatedAt": "2026-07-06T13:46:42.653Z",
+    "taxonomyUpdatedAt": "2026-07-06T13:46:42.651Z",
+    "factsUpdatedAt": "2026-07-06T13:46:42.653Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -42,9 +42,10 @@
       "2026-07-02",
       "2026-07-03",
       "2026-07-04",
-      "2026-07-05"
+      "2026-07-05",
+      "2026-07-06"
     ],
-    "latestDate": "2026-07-05"
+    "latestDate": "2026-07-06"
   },
   "taxonomy": {
     "categories": [
@@ -3587,6 +3588,89 @@
             "className": "cat-life"
           }
         ]
+      },
+      "2026-07-06": {
+        "date": "2026-07-06",
+        "start": "2026-07-06T00:00:00.000+08:00",
+        "end": "2026-07-06T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+            "start": "2026-07-05T20:28:00.000Z",
+            "end": "2026-07-05T21:00:00.000Z",
+            "content": "到工位了，准备开始GC-MS第一天 | 32m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "到工位了，准备开始GC-MS第一天",
+              "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+              "color": "var(--cat-work)",
+              "durationText": "32 min",
+              "timeText": "04:28 - 05:00"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+            "start": "2026-07-05T21:00:00.000Z",
+            "end": "2026-07-05T23:00:00.000Z",
+            "content": "师姐用GC，崽趁空档做s80茶多酚复测 | 2h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "师姐用GC，崽趁空档做s80茶多酚复测",
+              "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+              "color": "var(--cat-work)",
+              "durationText": "2 hr",
+              "timeText": "05:00 - 07:00"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+            "start": "2026-07-06T02:00:00.000Z",
+            "end": "2026-07-06T03:00:00.000Z",
+            "content": "GC-MS软件崩溃，师兄帮忙修好 | 1h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "GC-MS软件崩溃，师兄帮忙修好",
+              "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr",
+              "timeText": "10:00 - 11:00"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+            "start": "2026-07-06T04:00:00.000Z",
+            "end": "2026-07-06T04:30:00.000Z",
+            "content": "上第一个样，SPME-GC-MS开始 | 30m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "上第一个样，SPME-GC-MS开始",
+              "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+              "color": "var(--cat-work)",
+              "durationText": "30 min",
+              "timeText": "12:00 - 12:30"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+            "start": "2026-07-06T05:00:00.000Z",
+            "end": "2026-07-06T05:30:00.000Z",
+            "content": "s80复测结果出炉，第一针SPME吸附中 | 30m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "s80复测结果出炉，第一针SPME吸附中",
+              "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+              "color": "var(--cat-work)",
+              "durationText": "30 min",
+              "timeText": "13:00 - 13:30"
+            },
+            "className": "cat-work"
+          }
+        ]
       }
     },
     "week": {
@@ -6939,6 +7023,129 @@
               "dateText": "2026-07-05"
             },
             "className": "cat-life"
+          }
+        ]
+      },
+      "2026-07-06": {
+        "key": "2026-07-06",
+        "label": "Week of 2026-07-06",
+        "start": "2000-01-01T00:00:00.000+08:00",
+        "end": "2000-01-01T23:59:59.999+08:00",
+        "groups": [
+          {
+            "id": "2026-07-06",
+            "content": "Mon"
+          },
+          {
+            "id": "2026-07-07",
+            "content": "Tue"
+          },
+          {
+            "id": "2026-07-08",
+            "content": "Wed"
+          },
+          {
+            "id": "2026-07-09",
+            "content": "Thu"
+          },
+          {
+            "id": "2026-07-10",
+            "content": "Fri"
+          },
+          {
+            "id": "2026-07-11",
+            "content": "Sat"
+          },
+          {
+            "id": "2026-07-12",
+            "content": "Sun"
+          }
+        ],
+        "items": [
+          {
+            "id": "2026-07-06:fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T04:28:00+08:00",
+            "end": "2000-01-01T05:00:00+08:00",
+            "content": "到工位了，准备开始GC-MS第一天 | 32m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "到工位了，准备开始GC-MS第一天",
+              "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+              "color": "var(--cat-work)",
+              "durationText": "32 min",
+              "timeText": "04:28 - 05:00",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-06:fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T05:00:00+08:00",
+            "end": "2000-01-01T07:00:00+08:00",
+            "content": "师姐用GC，崽趁空档做s80茶多酚复测 | 2h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "师姐用GC，崽趁空档做s80茶多酚复测",
+              "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+              "color": "var(--cat-work)",
+              "durationText": "2 hr",
+              "timeText": "05:00 - 07:00",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-06:fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T10:00:00+08:00",
+            "end": "2000-01-01T11:00:00+08:00",
+            "content": "GC-MS软件崩溃，师兄帮忙修好 | 1h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "GC-MS软件崩溃，师兄帮忙修好",
+              "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr",
+              "timeText": "10:00 - 11:00",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-06:fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T12:00:00+08:00",
+            "end": "2000-01-01T12:30:00+08:00",
+            "content": "上第一个样，SPME-GC-MS开始 | 30m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "上第一个样，SPME-GC-MS开始",
+              "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+              "color": "var(--cat-work)",
+              "durationText": "30 min",
+              "timeText": "12:00 - 12:30",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-06:fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T13:00:00+08:00",
+            "end": "2000-01-01T13:30:00+08:00",
+            "content": "s80复测结果出炉，第一针SPME吸附中 | 30m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "s80复测结果出炉，第一针SPME吸附中",
+              "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+              "color": "var(--cat-work)",
+              "durationText": "30 min",
+              "timeText": "13:00 - 13:30",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -41967,6 +42174,434 @@
             ]
           }
         }
+      },
+      "2026-07-06": {
+        "key": "2026-07-06",
+        "label": "2026-07-06",
+        "unit": "hour",
+        "totalMinutes": 272,
+        "categories": [
+          {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "minutes": 272,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 32
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 60
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 60
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 60
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 30
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 30
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "Other Work",
+                "color": "var(--cat-work)",
+                "minutes": 272,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+                "label": "到工位了，准备开始GC-MS第一天",
+                "dateLabel": "",
+                "timeLabel": "04:28 - 05:00",
+                "compactDuration": "32m",
+                "fullLabel": "04:28 - 05:00 到工位了，准备开始GC-MS第一天",
+                "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+                "label": "师姐用GC，崽趁空档做s80茶多酚复测",
+                "dateLabel": "",
+                "timeLabel": "05:00 - 07:00",
+                "compactDuration": "2h",
+                "fullLabel": "05:00 - 07:00 师姐用GC，崽趁空档做s80茶多酚复测",
+                "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+                "label": "GC-MS软件崩溃，师兄帮忙修好",
+                "dateLabel": "",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "10:00 - 11:00 GC-MS软件崩溃，师兄帮忙修好",
+                "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+                "label": "上第一个样，SPME-GC-MS开始",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "12:00 - 12:30 上第一个样，SPME-GC-MS开始",
+                "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+                "label": "s80复测结果出炉，第一针SPME吸附中",
+                "dateLabel": "",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "13:00 - 13:30 s80复测结果出炉，第一针SPME吸附中",
+                "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "Other Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 32
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 60
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 60
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 60
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 30
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 30
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+                "label": "到工位了，准备开始GC-MS第一天",
+                "dateLabel": "",
+                "timeLabel": "04:28 - 05:00",
+                "compactDuration": "32m",
+                "fullLabel": "04:28 - 05:00 到工位了，准备开始GC-MS第一天",
+                "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+                "label": "师姐用GC，崽趁空档做s80茶多酚复测",
+                "dateLabel": "",
+                "timeLabel": "05:00 - 07:00",
+                "compactDuration": "2h",
+                "fullLabel": "05:00 - 07:00 师姐用GC，崽趁空档做s80茶多酚复测",
+                "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+                "label": "GC-MS软件崩溃，师兄帮忙修好",
+                "dateLabel": "",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "10:00 - 11:00 GC-MS软件崩溃，师兄帮忙修好",
+                "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+                "label": "上第一个样，SPME-GC-MS开始",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "12:00 - 12:30 上第一个样，SPME-GC-MS开始",
+                "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+                "label": "s80复测结果出炉，第一针SPME吸附中",
+                "dateLabel": "",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "13:00 - 13:30 s80复测结果出炉，第一针SPME吸附中",
+                "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              }
+            ]
+          }
+        }
       }
     },
     "week": {
@@ -52006,6 +52641,264 @@
             ]
           }
         }
+      },
+      "2026-07-06": {
+        "key": "2026-07-06",
+        "label": "Week of 2026-07-06",
+        "unit": "day",
+        "totalMinutes": 272,
+        "categories": [
+          {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "minutes": 272,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 272
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 0
+              },
+              {
+                "label": "07-09",
+                "key": "2026-07-09",
+                "minutes": 0
+              },
+              {
+                "label": "07-10",
+                "key": "2026-07-10",
+                "minutes": 0
+              },
+              {
+                "label": "07-11",
+                "key": "2026-07-11",
+                "minutes": 0
+              },
+              {
+                "label": "07-12",
+                "key": "2026-07-12",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "Other Work",
+                "color": "var(--cat-work)",
+                "minutes": 272,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+                "label": "到工位了，准备开始GC-MS第一天",
+                "dateLabel": "07-06",
+                "timeLabel": "04:28 - 05:00",
+                "compactDuration": "32m",
+                "fullLabel": "07-06 04:28 - 05:00 到工位了，准备开始GC-MS第一天",
+                "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+                "label": "师姐用GC，崽趁空档做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "05:00 - 07:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 05:00 - 07:00 师姐用GC，崽趁空档做s80茶多酚复测",
+                "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+                "label": "GC-MS软件崩溃，师兄帮忙修好",
+                "dateLabel": "07-06",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 10:00 - 11:00 GC-MS软件崩溃，师兄帮忙修好",
+                "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+                "label": "上第一个样，SPME-GC-MS开始",
+                "dateLabel": "07-06",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 12:00 - 12:30 上第一个样，SPME-GC-MS开始",
+                "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+                "label": "s80复测结果出炉，第一针SPME吸附中",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 13:00 - 13:30 s80复测结果出炉，第一针SPME吸附中",
+                "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "Other Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 272
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+                "label": "到工位了，准备开始GC-MS第一天",
+                "dateLabel": "07-06",
+                "timeLabel": "04:28 - 05:00",
+                "compactDuration": "32m",
+                "fullLabel": "07-06 04:28 - 05:00 到工位了，准备开始GC-MS第一天",
+                "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+                "label": "师姐用GC，崽趁空档做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "05:00 - 07:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 05:00 - 07:00 师姐用GC，崽趁空档做s80茶多酚复测",
+                "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+                "label": "GC-MS软件崩溃，师兄帮忙修好",
+                "dateLabel": "07-06",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 10:00 - 11:00 GC-MS软件崩溃，师兄帮忙修好",
+                "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+                "label": "上第一个样，SPME-GC-MS开始",
+                "dateLabel": "07-06",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 12:00 - 12:30 上第一个样，SPME-GC-MS开始",
+                "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+                "label": "s80复测结果出炉，第一针SPME吸附中",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 13:00 - 13:30 s80复测结果出炉，第一针SPME吸附中",
+                "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              }
+            ]
+          }
+        }
       }
     },
     "month": {
@@ -60509,56 +61402,56 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 3715,
+        "totalMinutes": 3987,
         "categories": [
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 1135,
-            "percent": 0.3055
+            "minutes": 1407,
+            "percent": 0.3529
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 793,
-            "percent": 0.2135
+            "percent": 0.1989
           },
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 659,
-            "percent": 0.1774
+            "percent": 0.1653
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 600,
-            "percent": 0.1615
+            "percent": 0.1505
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 262,
-            "percent": 0.0705
+            "percent": 0.0657
           },
           {
             "categoryId": "entertainment",
             "label": "Entertainment",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0555
+            "percent": 0.0517
           },
           {
             "categoryId": "exercise",
             "label": "Exercise",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0162
+            "percent": 0.015
           }
         ],
         "categoryDetails": {
@@ -60591,6 +61484,11 @@
                 "label": "07-05",
                 "key": "2026-07-05",
                 "minutes": 828
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 272
               }
             ],
             "subcategories": [
@@ -60599,8 +61497,8 @@
                 "categoryId": "work",
                 "label": "Other Work",
                 "color": "var(--cat-work)",
-                "minutes": 1133,
-                "percent": 0.9982
+                "minutes": 1405,
+                "percent": 0.9986
               },
               {
                 "subcategoryId": "work.communication",
@@ -60608,7 +61506,7 @@
                 "label": "Communication",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0018
+                "percent": 0.0014
               }
             ],
             "events": [
@@ -60821,6 +61719,76 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 593
+              },
+              {
+                "eventNodeId": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+                "label": "到工位了，准备开始GC-MS第一天",
+                "dateLabel": "07-06",
+                "timeLabel": "04:28 - 05:00",
+                "compactDuration": "32m",
+                "fullLabel": "07-06 04:28 - 05:00 到工位了，准备开始GC-MS第一天",
+                "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+                "label": "师姐用GC，崽趁空档做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "05:00 - 07:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 05:00 - 07:00 师姐用GC，崽趁空档做s80茶多酚复测",
+                "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+                "label": "GC-MS软件崩溃，师兄帮忙修好",
+                "dateLabel": "07-06",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 10:00 - 11:00 GC-MS软件崩溃，师兄帮忙修好",
+                "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+                "label": "上第一个样，SPME-GC-MS开始",
+                "dateLabel": "07-06",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 12:00 - 12:30 上第一个样，SPME-GC-MS开始",
+                "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+                "label": "s80复测结果出炉，第一针SPME吸附中",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 13:00 - 13:30 s80复测结果出炉，第一针SPME吸附中",
+                "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
               }
             ]
           },
@@ -60853,6 +61821,11 @@
                 "label": "07-05",
                 "key": "2026-07-05",
                 "minutes": 16
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -61025,6 +61998,11 @@
                 "label": "07-05",
                 "key": "2026-07-05",
                 "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -61105,6 +62083,11 @@
                 "label": "07-05",
                 "key": "2026-07-05",
                 "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -61176,6 +62159,11 @@
               {
                 "label": "07-05",
                 "key": "2026-07-05",
+                "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
                 "minutes": 0
               }
             ],
@@ -61277,6 +62265,11 @@
                 "label": "07-05",
                 "key": "2026-07-05",
                 "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -61334,6 +62327,11 @@
               {
                 "label": "07-05",
                 "key": "2026-07-05",
+                "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
                 "minutes": 0
               }
             ],
@@ -61395,6 +62393,11 @@
               {
                 "key": "2026-07-05",
                 "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
                 "minutes": 0
               }
             ],
@@ -61459,6 +62462,11 @@
                 "key": "2026-07-05",
                 "label": "07-05",
                 "minutes": 828
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 272
               }
             ],
             "events": [
@@ -61643,6 +62651,76 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 593
+              },
+              {
+                "eventNodeId": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+                "label": "到工位了，准备开始GC-MS第一天",
+                "dateLabel": "07-06",
+                "timeLabel": "04:28 - 05:00",
+                "compactDuration": "32m",
+                "fullLabel": "07-06 04:28 - 05:00 到工位了，准备开始GC-MS第一天",
+                "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 32
+              },
+              {
+                "eventNodeId": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+                "label": "师姐用GC，崽趁空档做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "05:00 - 07:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 05:00 - 07:00 师姐用GC，崽趁空档做s80茶多酚复测",
+                "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+                "label": "GC-MS软件崩溃，师兄帮忙修好",
+                "dateLabel": "07-06",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 10:00 - 11:00 GC-MS软件崩溃，师兄帮忙修好",
+                "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+                "label": "上第一个样，SPME-GC-MS开始",
+                "dateLabel": "07-06",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 12:00 - 12:30 上第一个样，SPME-GC-MS开始",
+                "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+                "label": "s80复测结果出炉，第一针SPME吸附中",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-06 13:00 - 13:30 s80复测结果出炉，第一针SPME吸附中",
+                "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 30
               }
             ]
           },
@@ -61675,6 +62753,11 @@
               {
                 "key": "2026-07-05",
                 "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
                 "minutes": 0
               }
             ],
@@ -61725,6 +62808,11 @@
                 "key": "2026-07-05",
                 "label": "07-05",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
               }
             ],
             "events": [
@@ -61773,6 +62861,11 @@
               {
                 "key": "2026-07-05",
                 "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
                 "minutes": 0
               }
             ],
@@ -61823,6 +62916,11 @@
                 "key": "2026-07-05",
                 "label": "07-05",
                 "minutes": 16
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
               }
             ],
             "events": [
@@ -61942,6 +63040,11 @@
                 "key": "2026-07-05",
                 "label": "07-05",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
               }
             ],
             "events": [
@@ -62033,6 +63136,11 @@
                 "key": "2026-07-05",
                 "label": "07-05",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
               }
             ],
             "events": [
@@ -62096,6 +63204,11 @@
                 "key": "2026-07-05",
                 "label": "07-05",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
               }
             ],
             "events": [
@@ -62145,6 +63258,11 @@
                 "key": "2026-07-05",
                 "label": "07-05",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
               }
             ],
             "events": [
@@ -62193,6 +63311,11 @@
               {
                 "key": "2026-07-05",
                 "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
                 "minutes": 0
               }
             ],

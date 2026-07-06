@@ -2670,6 +2670,78 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-06": {
+      "status": "draft",
+      "updatedAt": "2026-07-06T13:46:42.643Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:到工位了-准备开始gc-ms第一天:2026-07-05T20-28-00-000Z",
+          "startAt": "2026-07-05T20:28:00.000Z",
+          "endAt": "2026-07-05T21:00:00.000Z",
+          "title": "到工位了，准备开始GC-MS第一天",
+          "note": "吃了午饭，准备做SPME-GC-MS第一天（9个样）。黄老师回复周报要求补重复性数据和方差分析。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:师姐用gc-崽趁空档做s80茶多酚复测:2026-07-05T21-00-00-000Z",
+          "startAt": "2026-07-05T21:00:00.000Z",
+          "endAt": "2026-07-05T23:00:00.000Z",
+          "title": "师姐用GC，崽趁空档做s80茶多酚复测",
+          "note": "师姐用气相到下午3点多，崽趁这两小时做s80复测（浸提中）。今天计划做6个GC-MS样到10点收工，剩下3个明天做。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gc-ms软件崩溃-师兄帮忙修好:2026-07-06T02-00-00-000Z",
+          "startAt": "2026-07-06T02:00:00.000Z",
+          "endAt": "2026-07-06T03:00:00.000Z",
+          "title": "GC-MS软件崩溃，师兄帮忙修好",
+          "note": "不小心关了实时分析软件，重启报[0102]无效自变量。被师姐说了一顿。发消息求师兄帮忙远程修好了。老化针中。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:上第一个样-spme-gc-ms开始:2026-07-06T04-00-00-000Z",
+          "startAt": "2026-07-06T04:00:00.000Z",
+          "endAt": "2026-07-06T04:30:00.000Z",
+          "title": "上第一个样，SPME-GC-MS开始",
+          "note": "60℃磁力搅拌平衡中，等升温到60℃后计时15min平衡→30min吸附→进样。今晚能做几个做几个，剩下的明天。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:s80复测结果出炉-第一针spme吸附中:2026-07-06T05-00-00-000Z",
+          "startAt": "2026-07-06T05:00:00.000Z",
+          "endAt": "2026-07-06T05:30:00.000Z",
+          "title": "s80复测结果出炉，第一针SPME吸附中",
+          "note": "s80茶多酚复测结果17.84%（远低于第一次30.26%），有一组平行配对过5%✅。21:42开始扎针吸附，预计22:12进GC，22:57收工。今晚只做一个样试手。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
