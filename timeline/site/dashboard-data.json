@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-06T15:36:37.165Z",
-    "updatedAt": "2026-07-06T15:36:34.521Z",
-    "taxonomyUpdatedAt": "2026-07-06T15:36:34.519Z",
-    "factsUpdatedAt": "2026-07-06T15:36:34.521Z",
+    "generatedAt": "2026-07-06T15:40:41.472Z",
+    "updatedAt": "2026-07-06T15:39:01.373Z",
+    "taxonomyUpdatedAt": "2026-07-06T15:39:01.371Z",
+    "factsUpdatedAt": "2026-07-06T15:39:01.373Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -3596,6 +3596,21 @@
         "groups": [],
         "items": [
           {
+            "id": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+            "start": "2026-07-06T04:28:00.000Z",
+            "end": "2026-07-06T04:50:00.000Z",
+            "content": "12:28 到工位吃饭 | 22m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "12:28 到工位吃饭",
+              "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+              "color": "var(--cat-life)",
+              "durationText": "22分钟",
+              "timeText": "12:28 - 12:50"
+            },
+            "className": "cat-life"
+          },
+          {
             "id": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
             "start": "2026-07-06T04:28:00.000Z",
             "end": "2026-07-06T15:28:00.000Z",
@@ -3609,6 +3624,81 @@
               "timeText": "12:28 - 23:28"
             },
             "className": "cat-life"
+          },
+          {
+            "id": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+            "start": "2026-07-06T05:00:00.000Z",
+            "end": "2026-07-06T07:00:00.000Z",
+            "content": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测 | 2h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+              "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+              "color": "var(--cat-life)",
+              "durationText": "2小时",
+              "timeText": "13:00 - 15:00"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+            "start": "2026-07-06T09:00:00.000Z",
+            "end": "2026-07-06T11:00:00.000Z",
+            "content": "18:00-19:00 GC-MS软件崩溃→修复 | 2h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "18:00-19:00 GC-MS软件崩溃→修复",
+              "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+              "color": "var(--cat-life)",
+              "durationText": "2小时",
+              "timeText": "17:00 - 19:00"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+            "start": "2026-07-06T11:00:00.000Z",
+            "end": "2026-07-06T14:00:00.000Z",
+            "content": "20:00-22:00 GC-MS第一个样走通 | 3h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "20:00-22:00 GC-MS第一个样走通",
+              "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+              "color": "var(--cat-life)",
+              "durationText": "3小时",
+              "timeText": "19:00 - 22:00"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+            "start": "2026-07-06T14:00:00.000Z",
+            "end": "2026-07-06T15:00:00.000Z",
+            "content": "22:00-23:00 GC-MS预实验结束，让给永琪 | 1h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "22:00-23:00 GC-MS预实验结束，让给永琪",
+              "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+              "color": "var(--cat-life)",
+              "durationText": "1小时",
+              "timeText": "22:00 - 23:00"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+            "start": "2026-07-06T15:28:00.000Z",
+            "end": "2026-07-06T15:40:00.000Z",
+            "content": "23:28 回寝室 | 12m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "23:28 回寝室",
+              "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "12分钟",
+              "timeText": "23:28 - 23:40"
+            },
+            "className": "cat-travel"
           },
           {
             "id": "fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
@@ -7018,6 +7108,23 @@
         ],
         "items": [
           {
+            "id": "2026-07-06:fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T12:28:00+08:00",
+            "end": "2000-01-01T12:50:00+08:00",
+            "content": "12:28 到工位吃饭 | 22m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "12:28 到工位吃饭",
+              "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+              "color": "var(--cat-life)",
+              "durationText": "22分钟",
+              "timeText": "12:28 - 12:50",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-life"
+          },
+          {
             "id": "2026-07-06:fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
             "group": "2026-07-06",
             "start": "2000-01-01T12:28:00+08:00",
@@ -7033,6 +7140,91 @@
               "dateText": "2026-07-06"
             },
             "className": "cat-life"
+          },
+          {
+            "id": "2026-07-06:fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T13:00:00+08:00",
+            "end": "2000-01-01T15:00:00+08:00",
+            "content": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测 | 2h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+              "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+              "color": "var(--cat-life)",
+              "durationText": "2小时",
+              "timeText": "13:00 - 15:00",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "2026-07-06:fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T17:00:00+08:00",
+            "end": "2000-01-01T19:00:00+08:00",
+            "content": "18:00-19:00 GC-MS软件崩溃→修复 | 2h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "18:00-19:00 GC-MS软件崩溃→修复",
+              "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+              "color": "var(--cat-life)",
+              "durationText": "2小时",
+              "timeText": "17:00 - 19:00",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "2026-07-06:fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T19:00:00+08:00",
+            "end": "2000-01-01T22:00:00+08:00",
+            "content": "20:00-22:00 GC-MS第一个样走通 | 3h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "20:00-22:00 GC-MS第一个样走通",
+              "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+              "color": "var(--cat-life)",
+              "durationText": "3小时",
+              "timeText": "19:00 - 22:00",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "2026-07-06:fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T22:00:00+08:00",
+            "end": "2000-01-01T23:00:00+08:00",
+            "content": "22:00-23:00 GC-MS预实验结束，让给永琪 | 1h",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "22:00-23:00 GC-MS预实验结束，让给永琪",
+              "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+              "color": "var(--cat-life)",
+              "durationText": "1小时",
+              "timeText": "22:00 - 23:00",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "2026-07-06:fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+            "group": "2026-07-06",
+            "start": "2000-01-01T23:28:00+08:00",
+            "end": "2000-01-01T23:40:00+08:00",
+            "content": "23:28 回寝室 | 12m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "23:28 回寝室",
+              "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+              "color": "var(--cat-travel)",
+              "durationText": "12分钟",
+              "timeText": "23:28 - 23:40",
+              "dateText": "2026-07-06"
+            },
+            "className": "cat-travel"
           },
           {
             "id": "2026-07-06:fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
@@ -42083,21 +42275,28 @@
         "key": "2026-07-06",
         "label": "2026-07-06",
         "unit": "hour",
-        "totalMinutes": 691,
+        "totalMinutes": 1205,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 660,
-            "percent": 0.9551
+            "minutes": 682,
+            "percent": 0.566
+          },
+          {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "minutes": 480,
+            "percent": 0.3983
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
-            "minutes": 31,
-            "percent": 0.0449
+            "minutes": 43,
+            "percent": 0.0357
           }
         ],
         "categoryDetails": {
@@ -42169,7 +42368,7 @@
               {
                 "key": "12",
                 "label": "12:00",
-                "minutes": 32
+                "minutes": 54
               },
               {
                 "key": "13",
@@ -42233,11 +42432,25 @@
                 "categoryId": "life",
                 "label": "吃饭",
                 "color": "var(--cat-life)",
-                "minutes": 660,
+                "minutes": 682,
                 "percent": 1
               }
             ],
             "events": [
+              {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
+              },
               {
                 "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
                 "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
@@ -42251,6 +42464,217 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 660
+              }
+            ]
+          },
+          "lab": {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "lab.gcms",
+                "categoryId": "lab",
+                "label": "lab.gcms",
+                "color": "var(--cat-life)",
+                "minutes": 300,
+                "percent": 0.625
+              },
+              {
+                "subcategoryId": "lab.analysis",
+                "categoryId": "lab",
+                "label": "lab.analysis",
+                "color": "var(--cat-life)",
+                "minutes": 120,
+                "percent": 0.25
+              },
+              {
+                "subcategoryId": "lab.decision",
+                "categoryId": "lab",
+                "label": "lab.decision",
+                "color": "var(--cat-life)",
+                "minutes": 60,
+                "percent": 0.125
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "dateLabel": "",
+                "timeLabel": "13:00 - 15:00",
+                "compactDuration": "2h",
+                "fullLabel": "13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+                "label": "18:00-19:00 GC-MS软件崩溃→修复",
+                "dateLabel": "",
+                "timeLabel": "17:00 - 19:00",
+                "compactDuration": "2h",
+                "fullLabel": "17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
+                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+                "label": "20:00-22:00 GC-MS第一个样走通",
+                "dateLabel": "",
+                "timeLabel": "19:00 - 22:00",
+                "compactDuration": "3h",
+                "fullLabel": "19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
+                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 180
+              },
+              {
+                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
+                "dateLabel": "",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
+                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.decision",
+                "subcategoryLabel": "lab.decision",
+                "minutes": 60
               }
             ]
           },
@@ -42377,7 +42801,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 31
+                "minutes": 43
               }
             ],
             "subcategories": [
@@ -42386,11 +42810,25 @@
                 "categoryId": "travel",
                 "label": "通勤",
                 "color": "var(--cat-travel)",
-                "minutes": 31,
+                "minutes": 43,
                 "percent": 1
               }
             ],
             "events": [
+              {
+                "eventNodeId": "fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+                "label": "23:28 回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:28 - 23:40",
+                "compactDuration": "12m",
+                "fullLabel": "23:28 - 23:40 23:28 回寝室",
+                "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 12
+              },
               {
                 "eventNodeId": "fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
                 "label": "回寝室了今天GC-MS第一天一波三折（软件崩了被师姐骂、加热",
@@ -42478,7 +42916,7 @@
               {
                 "key": "12",
                 "label": "12:00",
-                "minutes": 32
+                "minutes": 54
               },
               {
                 "key": "13",
@@ -42538,6 +42976,20 @@
             ],
             "events": [
               {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
+              },
+              {
                 "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
                 "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
                 "dateLabel": "",
@@ -42550,6 +43002,452 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 660
+              }
+            ]
+          },
+          "lab.analysis": {
+            "subcategoryId": "lab.analysis",
+            "categoryId": "lab",
+            "label": "lab.analysis",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "dateLabel": "",
+                "timeLabel": "13:00 - 15:00",
+                "compactDuration": "2h",
+                "fullLabel": "13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 120
+              }
+            ]
+          },
+          "lab.gcms": {
+            "subcategoryId": "lab.gcms",
+            "categoryId": "lab",
+            "label": "lab.gcms",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+                "label": "18:00-19:00 GC-MS软件崩溃→修复",
+                "dateLabel": "",
+                "timeLabel": "17:00 - 19:00",
+                "compactDuration": "2h",
+                "fullLabel": "17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
+                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+                "label": "20:00-22:00 GC-MS第一个样走通",
+                "dateLabel": "",
+                "timeLabel": "19:00 - 22:00",
+                "compactDuration": "3h",
+                "fullLabel": "19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
+                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 180
+              }
+            ]
+          },
+          "lab.decision": {
+            "subcategoryId": "lab.decision",
+            "categoryId": "lab",
+            "label": "lab.decision",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 60
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
+                "dateLabel": "",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
+                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.decision",
+                "subcategoryLabel": "lab.decision",
+                "minutes": 60
               }
             ]
           },
@@ -42677,10 +43575,24 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 31
+                "minutes": 43
               }
             ],
             "events": [
+              {
+                "eventNodeId": "fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+                "label": "23:28 回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:28 - 23:40",
+                "compactDuration": "12m",
+                "fullLabel": "23:28 - 23:40 23:28 回寝室",
+                "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 12
+              },
               {
                 "eventNodeId": "fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
                 "label": "回寝室了今天GC-MS第一天一波三折（软件崩了被师姐骂、加热",
@@ -52742,21 +53654,28 @@
         "key": "2026-07-06",
         "label": "2026-07-06 当周",
         "unit": "day",
-        "totalMinutes": 691,
+        "totalMinutes": 1205,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 660,
-            "percent": 0.9551
+            "minutes": 682,
+            "percent": 0.566
+          },
+          {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "minutes": 480,
+            "percent": 0.3983
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
-            "minutes": 31,
-            "percent": 0.0449
+            "minutes": 43,
+            "percent": 0.0357
           }
         ],
         "categoryDetails": {
@@ -52768,7 +53687,7 @@
               {
                 "label": "07-06",
                 "key": "2026-07-06",
-                "minutes": 660
+                "minutes": 682
               },
               {
                 "label": "07-07",
@@ -52807,11 +53726,25 @@
                 "categoryId": "life",
                 "label": "吃饭",
                 "color": "var(--cat-life)",
-                "minutes": 660,
+                "minutes": 682,
                 "percent": 1
               }
             ],
             "events": [
+              {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
+              },
               {
                 "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
                 "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
@@ -52828,6 +53761,132 @@
               }
             ]
           },
+          "lab": {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 480
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 0
+              },
+              {
+                "label": "07-09",
+                "key": "2026-07-09",
+                "minutes": 0
+              },
+              {
+                "label": "07-10",
+                "key": "2026-07-10",
+                "minutes": 0
+              },
+              {
+                "label": "07-11",
+                "key": "2026-07-11",
+                "minutes": 0
+              },
+              {
+                "label": "07-12",
+                "key": "2026-07-12",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "lab.gcms",
+                "categoryId": "lab",
+                "label": "lab.gcms",
+                "color": "var(--cat-life)",
+                "minutes": 300,
+                "percent": 0.625
+              },
+              {
+                "subcategoryId": "lab.analysis",
+                "categoryId": "lab",
+                "label": "lab.analysis",
+                "color": "var(--cat-life)",
+                "minutes": 120,
+                "percent": 0.25
+              },
+              {
+                "subcategoryId": "lab.decision",
+                "categoryId": "lab",
+                "label": "lab.decision",
+                "color": "var(--cat-life)",
+                "minutes": 60,
+                "percent": 0.125
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 15:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+                "label": "18:00-19:00 GC-MS软件崩溃→修复",
+                "dateLabel": "07-06",
+                "timeLabel": "17:00 - 19:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
+                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+                "label": "20:00-22:00 GC-MS第一个样走通",
+                "dateLabel": "07-06",
+                "timeLabel": "19:00 - 22:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-06 19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
+                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 180
+              },
+              {
+                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
+                "dateLabel": "07-06",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
+                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.decision",
+                "subcategoryLabel": "lab.decision",
+                "minutes": 60
+              }
+            ]
+          },
           "travel": {
             "categoryId": "travel",
             "label": "出行",
@@ -52836,7 +53895,7 @@
               {
                 "label": "07-06",
                 "key": "2026-07-06",
-                "minutes": 31
+                "minutes": 43
               },
               {
                 "label": "07-07",
@@ -52875,11 +53934,25 @@
                 "categoryId": "travel",
                 "label": "通勤",
                 "color": "var(--cat-travel)",
-                "minutes": 31,
+                "minutes": 43,
                 "percent": 1
               }
             ],
             "events": [
+              {
+                "eventNodeId": "fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+                "label": "23:28 回寝室",
+                "dateLabel": "07-06",
+                "timeLabel": "23:28 - 23:40",
+                "compactDuration": "12m",
+                "fullLabel": "07-06 23:28 - 23:40 23:28 回寝室",
+                "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 12
+              },
               {
                 "eventNodeId": "fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
                 "label": "回寝室了今天GC-MS第一天一波三折（软件崩了被师姐骂、加热",
@@ -52907,7 +53980,7 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
-                "minutes": 660
+                "minutes": 682
               },
               {
                 "key": "2026-07-07",
@@ -52941,6 +54014,20 @@
               }
             ],
             "events": [
+              {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
+              },
               {
                 "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
                 "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
@@ -52957,16 +54044,16 @@
               }
             ]
           },
-          "travel.commute": {
-            "subcategoryId": "travel.commute",
-            "categoryId": "travel",
-            "label": "通勤",
-            "color": "var(--cat-travel)",
+          "lab.analysis": {
+            "subcategoryId": "lab.analysis",
+            "categoryId": "lab",
+            "label": "lab.analysis",
+            "color": "var(--cat-life)",
             "trend": [
               {
                 "key": "2026-07-06",
                 "label": "07-06",
-                "minutes": 31
+                "minutes": 120
               },
               {
                 "key": "2026-07-07",
@@ -53000,6 +54087,211 @@
               }
             ],
             "events": [
+              {
+                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 15:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 120
+              }
+            ]
+          },
+          "lab.gcms": {
+            "subcategoryId": "lab.gcms",
+            "categoryId": "lab",
+            "label": "lab.gcms",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 300
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+                "label": "18:00-19:00 GC-MS软件崩溃→修复",
+                "dateLabel": "07-06",
+                "timeLabel": "17:00 - 19:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
+                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+                "label": "20:00-22:00 GC-MS第一个样走通",
+                "dateLabel": "07-06",
+                "timeLabel": "19:00 - 22:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-06 19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
+                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 180
+              }
+            ]
+          },
+          "lab.decision": {
+            "subcategoryId": "lab.decision",
+            "categoryId": "lab",
+            "label": "lab.decision",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 60
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
+                "dateLabel": "07-06",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
+                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.decision",
+                "subcategoryLabel": "lab.decision",
+                "minutes": 60
+              }
+            ]
+          },
+          "travel.commute": {
+            "subcategoryId": "travel.commute",
+            "categoryId": "travel",
+            "label": "通勤",
+            "color": "var(--cat-travel)",
+            "trend": [
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 43
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+                "label": "23:28 回寝室",
+                "dateLabel": "07-06",
+                "timeLabel": "23:28 - 23:40",
+                "compactDuration": "12m",
+                "fullLabel": "07-06 23:28 - 23:40 23:28 回寝室",
+                "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 12
+              },
               {
                 "eventNodeId": "fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
                 "label": "回寝室了今天GC-MS第一天一波三折（软件崩了被师姐骂、加热",
@@ -61520,56 +62812,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 4406,
+        "totalMinutes": 4920,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1453,
-            "percent": 0.3298
+            "minutes": 1475,
+            "percent": 0.2998
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 1135,
-            "percent": 0.2576
+            "percent": 0.2307
           },
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 659,
-            "percent": 0.1496
+            "percent": 0.1339
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 600,
-            "percent": 0.1362
+            "percent": 0.122
+          },
+          {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "minutes": 480,
+            "percent": 0.0976
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
-            "minutes": 293,
-            "percent": 0.0665
+            "minutes": 305,
+            "percent": 0.062
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0468
+            "percent": 0.0419
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0136
+            "percent": 0.0122
           }
         ],
         "categoryDetails": {
@@ -61606,25 +62905,25 @@
               {
                 "label": "07-06",
                 "key": "2026-07-06",
-                "minutes": 660
+                "minutes": 682
               }
             ],
             "subcategories": [
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "吃饭",
+                "color": "var(--cat-life)",
+                "minutes": 742,
+                "percent": 0.5031
+              },
               {
                 "subcategoryId": "life.other",
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
                 "minutes": 732,
-                "percent": 0.5038
-              },
-              {
-                "subcategoryId": "life.meal",
-                "categoryId": "life",
-                "label": "吃饭",
-                "color": "var(--cat-life)",
-                "minutes": 720,
-                "percent": 0.4955
+                "percent": 0.4963
               },
               {
                 "subcategoryId": "life.errand",
@@ -61747,6 +63046,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
               },
               {
                 "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
@@ -62193,6 +63506,127 @@
               }
             ]
           },
+          "lab": {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 480
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "lab.gcms",
+                "categoryId": "lab",
+                "label": "lab.gcms",
+                "color": "var(--cat-life)",
+                "minutes": 300,
+                "percent": 0.625
+              },
+              {
+                "subcategoryId": "lab.analysis",
+                "categoryId": "lab",
+                "label": "lab.analysis",
+                "color": "var(--cat-life)",
+                "minutes": 120,
+                "percent": 0.25
+              },
+              {
+                "subcategoryId": "lab.decision",
+                "categoryId": "lab",
+                "label": "lab.decision",
+                "color": "var(--cat-life)",
+                "minutes": 60,
+                "percent": 0.125
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 15:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+                "label": "18:00-19:00 GC-MS软件崩溃→修复",
+                "dateLabel": "07-06",
+                "timeLabel": "17:00 - 19:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
+                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+                "label": "20:00-22:00 GC-MS第一个样走通",
+                "dateLabel": "07-06",
+                "timeLabel": "19:00 - 22:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-06 19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
+                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 180
+              },
+              {
+                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
+                "dateLabel": "07-06",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
+                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.decision",
+                "subcategoryLabel": "lab.decision",
+                "minutes": 60
+              }
+            ]
+          },
           "travel": {
             "categoryId": "travel",
             "label": "出行",
@@ -62226,7 +63660,7 @@
               {
                 "label": "07-06",
                 "key": "2026-07-06",
-                "minutes": 31
+                "minutes": 43
               }
             ],
             "subcategories": [
@@ -62235,7 +63669,7 @@
                 "categoryId": "travel",
                 "label": "通勤",
                 "color": "var(--cat-travel)",
-                "minutes": 293,
+                "minutes": 305,
                 "percent": 1
               }
             ],
@@ -62295,6 +63729,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 256
+              },
+              {
+                "eventNodeId": "fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+                "label": "23:28 回寝室",
+                "dateLabel": "07-06",
+                "timeLabel": "23:28 - 23:40",
+                "compactDuration": "12m",
+                "fullLabel": "07-06 23:28 - 23:40 23:28 回寝室",
+                "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 12
               },
               {
                 "eventNodeId": "fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
@@ -63050,7 +64498,7 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
-                "minutes": 31
+                "minutes": 43
               }
             ],
             "events": [
@@ -63109,6 +64557,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 256
+              },
+              {
+                "eventNodeId": "fact:23-28-回寝室:2026-07-06T15-28-00-000Z",
+                "label": "23:28 回寝室",
+                "dateLabel": "07-06",
+                "timeLabel": "23:28 - 23:40",
+                "compactDuration": "12m",
+                "fullLabel": "07-06 23:28 - 23:40 23:28 回寝室",
+                "note": "回寝室了。今天GC-MS一波三折但s80复测过了、第一次完整走通SPME-GC-MS。[😊+1]",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 12
               },
               {
                 "eventNodeId": "fact:回寝室了今天GC-MS第一天一波三折（软件崩了被师:2026-07-06T15-28-00-000Z",
@@ -63282,7 +64744,7 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
-                "minutes": 660
+                "minutes": 682
               }
             ],
             "events": [
@@ -63299,6 +64761,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
               },
               {
                 "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
@@ -63367,6 +64843,182 @@
                 "subcategoryId": "study.other",
                 "subcategoryLabel": "study.other",
                 "minutes": 599
+              }
+            ]
+          },
+          "lab.analysis": {
+            "subcategoryId": "lab.analysis",
+            "categoryId": "lab",
+            "label": "lab.analysis",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 120
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 15:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 120
+              }
+            ]
+          },
+          "lab.gcms": {
+            "subcategoryId": "lab.gcms",
+            "categoryId": "lab",
+            "label": "lab.gcms",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 300
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+                "label": "18:00-19:00 GC-MS软件崩溃→修复",
+                "dateLabel": "07-06",
+                "timeLabel": "17:00 - 19:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
+                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+                "label": "20:00-22:00 GC-MS第一个样走通",
+                "dateLabel": "07-06",
+                "timeLabel": "19:00 - 22:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-06 19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
+                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 180
+              }
+            ]
+          },
+          "lab.decision": {
+            "subcategoryId": "lab.decision",
+            "categoryId": "lab",
+            "label": "lab.decision",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 60
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
+                "dateLabel": "07-06",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
+                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.decision",
+                "subcategoryLabel": "lab.decision",
+                "minutes": 60
               }
             ]
           }
