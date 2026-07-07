@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-06T15:40:41.472Z",
-    "updatedAt": "2026-07-06T15:39:01.373Z",
-    "taxonomyUpdatedAt": "2026-07-06T15:39:01.371Z",
-    "factsUpdatedAt": "2026-07-06T15:39:01.373Z",
+    "generatedAt": "2026-07-07T10:46:49.500Z",
+    "updatedAt": "2026-07-07T10:46:45.299Z",
+    "taxonomyUpdatedAt": "2026-07-07T10:46:45.297Z",
+    "factsUpdatedAt": "2026-07-07T10:46:45.299Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -43,9 +43,10 @@
       "2026-07-03",
       "2026-07-04",
       "2026-07-05",
-      "2026-07-06"
+      "2026-07-06",
+      "2026-07-07"
     ],
-    "latestDate": "2026-07-06"
+    "latestDate": "2026-07-07"
   },
   "taxonomy": {
     "categories": [
@@ -3716,6 +3717,74 @@
             "className": "cat-travel"
           }
         ]
+      },
+      "2026-07-07": {
+        "date": "2026-07-07",
+        "start": "2026-07-07T00:00:00.000+08:00",
+        "end": "2026-07-07T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+            "start": "2026-07-07T05:31:00.000Z",
+            "end": "2026-07-07T06:00:00.000Z",
+            "content": "13:31 吃完饭准备回实验室 | 29m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "13:31 吃完饭准备回实验室",
+              "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+              "color": "var(--cat-life)",
+              "durationText": "29分钟",
+              "timeText": "13:31 - 14:00"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+            "start": "2026-07-07T05:48:00.000Z",
+            "end": "2026-07-07T06:33:00.000Z",
+            "content": "13:48-14:33 黄酮苷实验准备 | 45m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "13:48-14:33 黄酮苷实验准备",
+              "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+              "color": "var(--cat-life)",
+              "durationText": "45分钟",
+              "timeText": "13:48 - 14:33"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+            "start": "2026-07-07T07:00:00.000Z",
+            "end": "2026-07-07T07:50:00.000Z",
+            "content": "15:00-15:50 黄酮苷称样+水浴锅升温 | 50m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "15:00-15:50 黄酮苷称样+水浴锅升温",
+              "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+              "color": "var(--cat-life)",
+              "durationText": "50分钟",
+              "timeText": "15:00 - 15:50"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+            "start": "2026-07-07T07:57:00.000Z",
+            "end": "2026-07-07T10:00:00.000Z",
+            "content": "15:57-18:00 黄酮苷分批提取中 | 2h3m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "15:57-18:00 黄酮苷分批提取中",
+              "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+              "color": "var(--cat-life)",
+              "durationText": "2小时3分钟",
+              "timeText": "15:57 - 18:00"
+            },
+            "className": "cat-lab"
+          }
+        ]
       }
     },
     "week": {
@@ -7242,6 +7311,74 @@
               "dateText": "2026-07-06"
             },
             "className": "cat-travel"
+          },
+          {
+            "id": "2026-07-07:fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+            "group": "2026-07-07",
+            "start": "2000-01-01T13:31:00+08:00",
+            "end": "2000-01-01T14:00:00+08:00",
+            "content": "13:31 吃完饭准备回实验室 | 29m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "13:31 吃完饭准备回实验室",
+              "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+              "color": "var(--cat-life)",
+              "durationText": "29分钟",
+              "timeText": "13:31 - 14:00",
+              "dateText": "2026-07-07"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-07:fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+            "group": "2026-07-07",
+            "start": "2000-01-01T13:48:00+08:00",
+            "end": "2000-01-01T14:33:00+08:00",
+            "content": "13:48-14:33 黄酮苷实验准备 | 45m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "13:48-14:33 黄酮苷实验准备",
+              "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+              "color": "var(--cat-life)",
+              "durationText": "45分钟",
+              "timeText": "13:48 - 14:33",
+              "dateText": "2026-07-07"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "2026-07-07:fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+            "group": "2026-07-07",
+            "start": "2000-01-01T15:00:00+08:00",
+            "end": "2000-01-01T15:50:00+08:00",
+            "content": "15:00-15:50 黄酮苷称样+水浴锅升温 | 50m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "15:00-15:50 黄酮苷称样+水浴锅升温",
+              "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+              "color": "var(--cat-life)",
+              "durationText": "50分钟",
+              "timeText": "15:00 - 15:50",
+              "dateText": "2026-07-07"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "2026-07-07:fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+            "group": "2026-07-07",
+            "start": "2000-01-01T15:57:00+08:00",
+            "end": "2000-01-01T18:00:00+08:00",
+            "content": "15:57-18:00 黄酮苷分批提取中 | 2h3m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "15:57-18:00 黄酮苷分批提取中",
+              "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+              "color": "var(--cat-life)",
+              "durationText": "2小时3分钟",
+              "timeText": "15:57 - 18:00",
+              "dateText": "2026-07-07"
+            },
+            "className": "cat-lab"
           }
         ]
       }
@@ -43610,6 +43747,682 @@
             ]
           }
         }
+      },
+      "2026-07-07": {
+        "key": "2026-07-07",
+        "label": "2026-07-07",
+        "unit": "hour",
+        "totalMinutes": 247,
+        "categories": [
+          {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "minutes": 218,
+            "percent": 0.8826
+          },
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 29,
+            "percent": 0.1174
+          }
+        ],
+        "categoryDetails": {
+          "lab": {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 12
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 33
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 53
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "lab.analysis",
+                "categoryId": "lab",
+                "label": "lab.analysis",
+                "color": "var(--cat-life)",
+                "minutes": 218,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+                "label": "13:48-14:33 黄酮苷实验准备",
+                "dateLabel": "",
+                "timeLabel": "13:48 - 14:33",
+                "compactDuration": "45m",
+                "fullLabel": "13:48 - 14:33 13:48-14:33 黄酮苷实验准备",
+                "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 45
+              },
+              {
+                "eventNodeId": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+                "label": "15:00-15:50 黄酮苷称样+水浴锅升温",
+                "dateLabel": "",
+                "timeLabel": "15:00 - 15:50",
+                "compactDuration": "50m",
+                "fullLabel": "15:00 - 15:50 15:00-15:50 黄酮苷称样+水浴锅升温",
+                "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 50
+              },
+              {
+                "eventNodeId": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+                "label": "15:57-18:00 黄酮苷分批提取中",
+                "dateLabel": "",
+                "timeLabel": "15:57 - 18:00",
+                "compactDuration": "2h3m",
+                "fullLabel": "15:57 - 18:00 15:57-18:00 黄酮苷分批提取中",
+                "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 123
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 29
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "吃饭",
+                "color": "var(--cat-life)",
+                "minutes": 29,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "life.meal": {
+            "subcategoryId": "life.meal",
+            "categoryId": "life",
+            "label": "吃饭",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 29
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
+              }
+            ]
+          },
+          "lab.analysis": {
+            "subcategoryId": "lab.analysis",
+            "categoryId": "lab",
+            "label": "lab.analysis",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 12
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 33
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 53
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+                "label": "13:48-14:33 黄酮苷实验准备",
+                "dateLabel": "",
+                "timeLabel": "13:48 - 14:33",
+                "compactDuration": "45m",
+                "fullLabel": "13:48 - 14:33 13:48-14:33 黄酮苷实验准备",
+                "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 45
+              },
+              {
+                "eventNodeId": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+                "label": "15:00-15:50 黄酮苷称样+水浴锅升温",
+                "dateLabel": "",
+                "timeLabel": "15:00 - 15:50",
+                "compactDuration": "50m",
+                "fullLabel": "15:00 - 15:50 15:00-15:50 黄酮苷称样+水浴锅升温",
+                "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 50
+              },
+              {
+                "eventNodeId": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+                "label": "15:57-18:00 黄酮苷分批提取中",
+                "dateLabel": "",
+                "timeLabel": "15:57 - 18:00",
+                "compactDuration": "2h3m",
+                "fullLabel": "15:57 - 18:00 15:57-18:00 黄酮苷分批提取中",
+                "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 123
+              }
+            ]
+          }
+        }
       }
     },
     "week": {
@@ -53654,28 +54467,28 @@
         "key": "2026-07-06",
         "label": "2026-07-06 当周",
         "unit": "day",
-        "totalMinutes": 1205,
+        "totalMinutes": 1452,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 682,
-            "percent": 0.566
+            "minutes": 711,
+            "percent": 0.4897
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
-            "minutes": 480,
-            "percent": 0.3983
+            "minutes": 698,
+            "percent": 0.4807
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 43,
-            "percent": 0.0357
+            "percent": 0.0296
           }
         ],
         "categoryDetails": {
@@ -53692,7 +54505,7 @@
               {
                 "label": "07-07",
                 "key": "2026-07-07",
-                "minutes": 0
+                "minutes": 29
               },
               {
                 "label": "07-08",
@@ -53726,7 +54539,7 @@
                 "categoryId": "life",
                 "label": "吃饭",
                 "color": "var(--cat-life)",
-                "minutes": 682,
+                "minutes": 711,
                 "percent": 1
               }
             ],
@@ -53758,6 +54571,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 660
+              },
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "07-07",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
               }
             ]
           },
@@ -53774,7 +54601,7 @@
               {
                 "label": "07-07",
                 "key": "2026-07-07",
-                "minutes": 0
+                "minutes": 218
               },
               {
                 "label": "07-08",
@@ -53804,20 +54631,20 @@
             ],
             "subcategories": [
               {
+                "subcategoryId": "lab.analysis",
+                "categoryId": "lab",
+                "label": "lab.analysis",
+                "color": "var(--cat-life)",
+                "minutes": 338,
+                "percent": 0.4842
+              },
+              {
                 "subcategoryId": "lab.gcms",
                 "categoryId": "lab",
                 "label": "lab.gcms",
                 "color": "var(--cat-life)",
                 "minutes": 300,
-                "percent": 0.625
-              },
-              {
-                "subcategoryId": "lab.analysis",
-                "categoryId": "lab",
-                "label": "lab.analysis",
-                "color": "var(--cat-life)",
-                "minutes": 120,
-                "percent": 0.25
+                "percent": 0.4298
               },
               {
                 "subcategoryId": "lab.decision",
@@ -53825,7 +54652,7 @@
                 "label": "lab.decision",
                 "color": "var(--cat-life)",
                 "minutes": 60,
-                "percent": 0.125
+                "percent": 0.086
               }
             ],
             "events": [
@@ -53884,6 +54711,48 @@
                 "subcategoryId": "lab.decision",
                 "subcategoryLabel": "lab.decision",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+                "label": "13:48-14:33 黄酮苷实验准备",
+                "dateLabel": "07-07",
+                "timeLabel": "13:48 - 14:33",
+                "compactDuration": "45m",
+                "fullLabel": "07-07 13:48 - 14:33 13:48-14:33 黄酮苷实验准备",
+                "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 45
+              },
+              {
+                "eventNodeId": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+                "label": "15:00-15:50 黄酮苷称样+水浴锅升温",
+                "dateLabel": "07-07",
+                "timeLabel": "15:00 - 15:50",
+                "compactDuration": "50m",
+                "fullLabel": "07-07 15:00 - 15:50 15:00-15:50 黄酮苷称样+水浴锅升温",
+                "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 50
+              },
+              {
+                "eventNodeId": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+                "label": "15:57-18:00 黄酮苷分批提取中",
+                "dateLabel": "07-07",
+                "timeLabel": "15:57 - 18:00",
+                "compactDuration": "2h3m",
+                "fullLabel": "07-07 15:57 - 18:00 15:57-18:00 黄酮苷分批提取中",
+                "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 123
               }
             ]
           },
@@ -53985,7 +54854,7 @@
               {
                 "key": "2026-07-07",
                 "label": "07-07",
-                "minutes": 0
+                "minutes": 29
               },
               {
                 "key": "2026-07-08",
@@ -54041,6 +54910,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 660
+              },
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "07-07",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
               }
             ]
           },
@@ -54058,7 +54941,7 @@
               {
                 "key": "2026-07-07",
                 "label": "07-07",
-                "minutes": 0
+                "minutes": 218
               },
               {
                 "key": "2026-07-08",
@@ -54100,6 +54983,48 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+                "label": "13:48-14:33 黄酮苷实验准备",
+                "dateLabel": "07-07",
+                "timeLabel": "13:48 - 14:33",
+                "compactDuration": "45m",
+                "fullLabel": "07-07 13:48 - 14:33 13:48-14:33 黄酮苷实验准备",
+                "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 45
+              },
+              {
+                "eventNodeId": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+                "label": "15:00-15:50 黄酮苷称样+水浴锅升温",
+                "dateLabel": "07-07",
+                "timeLabel": "15:00 - 15:50",
+                "compactDuration": "50m",
+                "fullLabel": "07-07 15:00 - 15:50 15:00-15:50 黄酮苷称样+水浴锅升温",
+                "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 50
+              },
+              {
+                "eventNodeId": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+                "label": "15:57-18:00 黄酮苷分批提取中",
+                "dateLabel": "07-07",
+                "timeLabel": "15:57 - 18:00",
+                "compactDuration": "2h3m",
+                "fullLabel": "07-07 15:57 - 18:00 15:57-18:00 黄酮苷分批提取中",
+                "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 123
               }
             ]
           },
@@ -62812,63 +63737,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 4920,
+        "totalMinutes": 5167,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1475,
-            "percent": 0.2998
+            "minutes": 1504,
+            "percent": 0.2911
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 1135,
-            "percent": 0.2307
+            "percent": 0.2197
+          },
+          {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "minutes": 698,
+            "percent": 0.1351
           },
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 659,
-            "percent": 0.1339
+            "percent": 0.1275
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 600,
-            "percent": 0.122
-          },
-          {
-            "categoryId": "lab",
-            "label": "lab",
-            "color": "var(--cat-life)",
-            "minutes": 480,
-            "percent": 0.0976
+            "percent": 0.1161
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 305,
-            "percent": 0.062
+            "percent": 0.059
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0419
+            "percent": 0.0399
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0122
+            "percent": 0.0116
           }
         ],
         "categoryDetails": {
@@ -62906,6 +63831,11 @@
                 "label": "07-06",
                 "key": "2026-07-06",
                 "minutes": 682
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 29
               }
             ],
             "subcategories": [
@@ -62914,8 +63844,8 @@
                 "categoryId": "life",
                 "label": "吃饭",
                 "color": "var(--cat-life)",
-                "minutes": 742,
-                "percent": 0.5031
+                "minutes": 771,
+                "percent": 0.5126
               },
               {
                 "subcategoryId": "life.other",
@@ -62923,7 +63853,7 @@
                 "label": "其他生活",
                 "color": "var(--cat-life)",
                 "minutes": 732,
-                "percent": 0.4963
+                "percent": 0.4867
               },
               {
                 "subcategoryId": "life.errand",
@@ -63074,6 +64004,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 660
+              },
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "07-07",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
               }
             ]
           },
@@ -63110,6 +64054,11 @@
               {
                 "label": "07-06",
                 "key": "2026-07-06",
+                "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
                 "minutes": 0
               }
             ],
@@ -63344,6 +64293,174 @@
               }
             ]
           },
+          "lab": {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 0
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 480
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 218
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "lab.analysis",
+                "categoryId": "lab",
+                "label": "lab.analysis",
+                "color": "var(--cat-life)",
+                "minutes": 338,
+                "percent": 0.4842
+              },
+              {
+                "subcategoryId": "lab.gcms",
+                "categoryId": "lab",
+                "label": "lab.gcms",
+                "color": "var(--cat-life)",
+                "minutes": 300,
+                "percent": 0.4298
+              },
+              {
+                "subcategoryId": "lab.decision",
+                "categoryId": "lab",
+                "label": "lab.decision",
+                "color": "var(--cat-life)",
+                "minutes": 60,
+                "percent": 0.086
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
+                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "dateLabel": "07-06",
+                "timeLabel": "13:00 - 15:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
+                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
+                "label": "18:00-19:00 GC-MS软件崩溃→修复",
+                "dateLabel": "07-06",
+                "timeLabel": "17:00 - 19:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-06 17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
+                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
+                "label": "20:00-22:00 GC-MS第一个样走通",
+                "dateLabel": "07-06",
+                "timeLabel": "19:00 - 22:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-06 19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
+                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.gcms",
+                "subcategoryLabel": "lab.gcms",
+                "minutes": 180
+              },
+              {
+                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
+                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
+                "dateLabel": "07-06",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-06 22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
+                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.decision",
+                "subcategoryLabel": "lab.decision",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+                "label": "13:48-14:33 黄酮苷实验准备",
+                "dateLabel": "07-07",
+                "timeLabel": "13:48 - 14:33",
+                "compactDuration": "45m",
+                "fullLabel": "07-07 13:48 - 14:33 13:48-14:33 黄酮苷实验准备",
+                "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 45
+              },
+              {
+                "eventNodeId": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+                "label": "15:00-15:50 黄酮苷称样+水浴锅升温",
+                "dateLabel": "07-07",
+                "timeLabel": "15:00 - 15:50",
+                "compactDuration": "50m",
+                "fullLabel": "07-07 15:00 - 15:50 15:00-15:50 黄酮苷称样+水浴锅升温",
+                "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 50
+              },
+              {
+                "eventNodeId": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+                "label": "15:57-18:00 黄酮苷分批提取中",
+                "dateLabel": "07-07",
+                "timeLabel": "15:57 - 18:00",
+                "compactDuration": "2h3m",
+                "fullLabel": "07-07 15:57 - 18:00 15:57-18:00 黄酮苷分批提取中",
+                "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 123
+              }
+            ]
+          },
           "study": {
             "categoryId": "study",
             "label": "学习",
@@ -63377,6 +64494,11 @@
               {
                 "label": "07-06",
                 "key": "2026-07-06",
+                "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
                 "minutes": 0
               }
             ],
@@ -63463,6 +64585,11 @@
                 "label": "07-06",
                 "key": "2026-07-06",
                 "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -63506,127 +64633,6 @@
               }
             ]
           },
-          "lab": {
-            "categoryId": "lab",
-            "label": "lab",
-            "color": "var(--cat-life)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 0
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 0
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 0
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 0
-              },
-              {
-                "label": "07-06",
-                "key": "2026-07-06",
-                "minutes": 480
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "lab.gcms",
-                "categoryId": "lab",
-                "label": "lab.gcms",
-                "color": "var(--cat-life)",
-                "minutes": 300,
-                "percent": 0.625
-              },
-              {
-                "subcategoryId": "lab.analysis",
-                "categoryId": "lab",
-                "label": "lab.analysis",
-                "color": "var(--cat-life)",
-                "minutes": 120,
-                "percent": 0.25
-              },
-              {
-                "subcategoryId": "lab.decision",
-                "categoryId": "lab",
-                "label": "lab.decision",
-                "color": "var(--cat-life)",
-                "minutes": 60,
-                "percent": 0.125
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:13-00-15-00-师姐用气相-崽崽做s80茶多酚复测:2026-07-06T05-00-00-000Z",
-                "label": "13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
-                "dateLabel": "07-06",
-                "timeLabel": "13:00 - 15:00",
-                "compactDuration": "2h",
-                "fullLabel": "07-06 13:00 - 15:00 13:00-15:00 师姐用气相，崽崽做s80茶多酚复测",
-                "note": "师姐用气相到下午3点，崽崽趁空档做s80茶多酚复测（浸提中）。",
-                "status": "derived",
-                "categoryId": "lab",
-                "subcategoryId": "lab.analysis",
-                "subcategoryLabel": "lab.analysis",
-                "minutes": 120
-              },
-              {
-                "eventNodeId": "fact:18-00-19-00-gc-ms软件崩溃-修复:2026-07-06T09-00-00-000Z",
-                "label": "18:00-19:00 GC-MS软件崩溃→修复",
-                "dateLabel": "07-06",
-                "timeLabel": "17:00 - 19:00",
-                "compactDuration": "2h",
-                "fullLabel": "07-06 17:00 - 19:00 18:00-19:00 GC-MS软件崩溃→修复",
-                "note": "误关实时分析软件后启动不了[0102]无效自变量，被师姐骂。求师兄远程指导修好了。老化针中。[😭+3]",
-                "status": "derived",
-                "categoryId": "lab",
-                "subcategoryId": "lab.gcms",
-                "subcategoryLabel": "lab.gcms",
-                "minutes": 120
-              },
-              {
-                "eventNodeId": "fact:20-00-22-00-gc-ms第一个样走通:2026-07-06T11-00-00-000Z",
-                "label": "20:00-22:00 GC-MS第一个样走通",
-                "dateLabel": "07-06",
-                "timeLabel": "19:00 - 22:00",
-                "compactDuration": "3h",
-                "fullLabel": "07-06 19:00 - 22:00 20:00-22:00 GC-MS第一个样走通",
-                "note": "60℃磁力搅拌平衡→吸附30min→进样。s80复测结果17.84%✅。第一次独立走通SPME-GC-MS全流程。[😊+1]",
-                "status": "derived",
-                "categoryId": "lab",
-                "subcategoryId": "lab.gcms",
-                "subcategoryLabel": "lab.gcms",
-                "minutes": 180
-              },
-              {
-                "eventNodeId": "fact:22-00-23-00-gc-ms预实验结束-让给永琪:2026-07-06T14-00-00-000Z",
-                "label": "22:00-23:00 GC-MS预实验结束，让给永琪",
-                "dateLabel": "07-06",
-                "timeLabel": "22:00 - 23:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-06 22:00 - 23:00 22:00-23:00 GC-MS预实验结束，让给永琪",
-                "note": "操作不熟练，决定当预实验。把气相让给永琪做。明天转做黄酮苷。[😐+1]",
-                "status": "derived",
-                "categoryId": "lab",
-                "subcategoryId": "lab.decision",
-                "subcategoryLabel": "lab.decision",
-                "minutes": 60
-              }
-            ]
-          },
           "travel": {
             "categoryId": "travel",
             "label": "出行",
@@ -63661,6 +64667,11 @@
                 "label": "07-06",
                 "key": "2026-07-06",
                 "minutes": 43
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -63794,6 +64805,11 @@
                 "label": "07-06",
                 "key": "2026-07-06",
                 "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -63856,6 +64872,11 @@
               {
                 "label": "07-06",
                 "key": "2026-07-06",
+                "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
                 "minutes": 0
               }
             ],
@@ -63922,6 +64943,11 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
                 "minutes": 0
               }
             ],
@@ -63990,6 +65016,11 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
                 "minutes": 0
               }
             ],
@@ -64213,6 +65244,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
               }
             ],
             "events": [
@@ -64266,6 +65302,11 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
                 "minutes": 0
               }
             ],
@@ -64321,6 +65362,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
               }
             ],
             "events": [
@@ -64374,6 +65420,11 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
                 "minutes": 0
               }
             ],
@@ -64499,6 +65550,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 43
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
               }
             ],
             "events": [
@@ -64623,6 +65679,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
               }
             ],
             "events": [
@@ -64691,6 +65752,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
               }
             ],
             "events": [
@@ -64745,6 +65811,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 682
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 29
               }
             ],
             "events": [
@@ -64789,6 +65860,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 660
+              },
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "07-07",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
               }
             ]
           },
@@ -64826,6 +65911,11 @@
               {
                 "key": "2026-07-06",
                 "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
                 "minutes": 0
               }
             ],
@@ -64881,6 +65971,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 120
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 218
               }
             ],
             "events": [
@@ -64897,6 +65992,48 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+                "label": "13:48-14:33 黄酮苷实验准备",
+                "dateLabel": "07-07",
+                "timeLabel": "13:48 - 14:33",
+                "compactDuration": "45m",
+                "fullLabel": "07-07 13:48 - 14:33 13:48-14:33 黄酮苷实验准备",
+                "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 45
+              },
+              {
+                "eventNodeId": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+                "label": "15:00-15:50 黄酮苷称样+水浴锅升温",
+                "dateLabel": "07-07",
+                "timeLabel": "15:00 - 15:50",
+                "compactDuration": "50m",
+                "fullLabel": "07-07 15:00 - 15:50 15:00-15:50 黄酮苷称样+水浴锅升温",
+                "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 50
+              },
+              {
+                "eventNodeId": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+                "label": "15:57-18:00 黄酮苷分批提取中",
+                "dateLabel": "07-07",
+                "timeLabel": "15:57 - 18:00",
+                "compactDuration": "2h3m",
+                "fullLabel": "07-07 15:57 - 18:00 15:57-18:00 黄酮苷分批提取中",
+                "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 123
               }
             ]
           },
@@ -64935,6 +66072,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 300
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
               }
             ],
             "events": [
@@ -65003,6 +66145,11 @@
                 "key": "2026-07-06",
                 "label": "07-06",
                 "minutes": 60
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
               }
             ],
             "events": [

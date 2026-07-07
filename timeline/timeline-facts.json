@@ -2781,6 +2781,65 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-07": {
+      "status": "draft",
+      "updatedAt": "2026-07-07T10:46:45.292Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+          "startAt": "2026-07-07T05:31:00.000Z",
+          "endAt": "2026-07-07T06:00:00.000Z",
+          "title": "13:31 吃完饭准备回实验室",
+          "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:13-48-14-33-黄酮苷实验准备:2026-07-07T05-48-00-000Z",
+          "startAt": "2026-07-07T05:48:00.000Z",
+          "endAt": "2026-07-07T06:33:00.000Z",
+          "title": "13:48-14:33 黄酮苷实验准备",
+          "note": "AlCl₃配250mL，借了6个10mL容量瓶+6根比色管。分两批做18个平行，开始称样超声提取。",
+          "categoryId": "lab",
+          "subcategoryId": "lab.analysis",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:15-00-15-50-黄酮苷称样-水浴锅升温:2026-07-07T07-00-00-000Z",
+          "startAt": "2026-07-07T07:00:00.000Z",
+          "endAt": "2026-07-07T07:50:00.000Z",
+          "title": "15:00-15:50 黄酮苷称样+水浴锅升温",
+          "note": "称好第一批0.2g×6，正在等水浴锅到100℃。方法：沸水浴30min→离心10min→定容→AlCl₃显色→420nm测。公式黄酮苷(mg/g)=A×32。",
+          "categoryId": "lab",
+          "subcategoryId": "lab.analysis",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:15-57-18-00-黄酮苷分批提取中:2026-07-07T07-57-00-000Z",
+          "startAt": "2026-07-07T07:57:00.000Z",
+          "endAt": "2026-07-07T10:00:00.000Z",
+          "title": "15:57-18:00 黄酮苷分批提取中",
+          "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+          "categoryId": "lab",
+          "subcategoryId": "lab.analysis",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
