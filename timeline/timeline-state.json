@@ -3254,7 +3254,7 @@
     },
     "2026-07-07": {
       "status": "draft",
-      "updatedAt": "2026-07-07T10:46:45.292Z",
+      "updatedAt": "2026-07-07T15:10:55.511Z",
       "source": null,
       "events": [
         {
@@ -3302,6 +3302,19 @@
           "endAt": "2026-07-07T10:00:00.000Z",
           "title": "15:57-18:00 黄酮苷分批提取中",
           "note": "水浴锅95℃开始浸提。先做s0和s20×3平行，后续继续做其他样品。分批沸水浴提取→离心→定容→AlCl₃显色。",
+          "categoryId": "lab",
+          "subcategoryId": "lab.analysis",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+          "startAt": "2026-07-07T10:28:00.000Z",
+          "endAt": "2026-07-07T14:31:00.000Z",
+          "title": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+          "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
           "categoryId": "lab",
           "subcategoryId": "lab.analysis",
           "eventNodeId": "",

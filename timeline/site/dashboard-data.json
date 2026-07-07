@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T10:46:49.500Z",
-    "updatedAt": "2026-07-07T10:46:45.299Z",
-    "taxonomyUpdatedAt": "2026-07-07T10:46:45.297Z",
-    "factsUpdatedAt": "2026-07-07T10:46:45.299Z",
+    "generatedAt": "2026-07-07T16:16:47.964Z",
+    "updatedAt": "2026-07-07T15:10:55.518Z",
+    "taxonomyUpdatedAt": "2026-07-07T15:10:55.515Z",
+    "factsUpdatedAt": "2026-07-07T15:10:55.518Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -3783,6 +3783,21 @@
               "timeText": "15:57 - 18:00"
             },
             "className": "cat-lab"
+          },
+          {
+            "id": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+            "start": "2026-07-07T10:28:00.000Z",
+            "end": "2026-07-07T14:31:00.000Z",
+            "content": "19:59-22:31 吃完麦当劳→黄酮苷全部测完 | 4h3m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+              "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+              "color": "var(--cat-life)",
+              "durationText": "4小时3分钟",
+              "timeText": "18:28 - 22:31"
+            },
+            "className": "cat-lab"
           }
         ]
       }
@@ -7376,6 +7391,23 @@
               "color": "var(--cat-life)",
               "durationText": "2小时3分钟",
               "timeText": "15:57 - 18:00",
+              "dateText": "2026-07-07"
+            },
+            "className": "cat-lab"
+          },
+          {
+            "id": "2026-07-07:fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+            "group": "2026-07-07",
+            "start": "2000-01-01T18:28:00+08:00",
+            "end": "2000-01-01T22:31:00+08:00",
+            "content": "19:59-22:31 吃完麦当劳→黄酮苷全部测完 | 4h3m",
+            "style": "background:#4E79A7;border-color:#4E79A7;color:var(--text);",
+            "tooltip": {
+              "title": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+              "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+              "color": "var(--cat-life)",
+              "durationText": "4小时3分钟",
+              "timeText": "18:28 - 22:31",
               "dateText": "2026-07-07"
             },
             "className": "cat-lab"
@@ -43752,21 +43784,21 @@
         "key": "2026-07-07",
         "label": "2026-07-07",
         "unit": "hour",
-        "totalMinutes": 247,
+        "totalMinutes": 490,
         "categories": [
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
-            "minutes": 218,
-            "percent": 0.8826
+            "minutes": 461,
+            "percent": 0.9408
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
             "minutes": 29,
-            "percent": 0.1174
+            "percent": 0.0592
           }
         ],
         "categoryDetails": {
@@ -43868,27 +43900,27 @@
               {
                 "key": "18",
                 "label": "18:00",
-                "minutes": 0
+                "minutes": 32
               },
               {
                 "key": "19",
                 "label": "19:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "21",
                 "label": "21:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 0
+                "minutes": 31
               },
               {
                 "key": "23",
@@ -43902,7 +43934,7 @@
                 "categoryId": "lab",
                 "label": "lab.analysis",
                 "color": "var(--cat-life)",
-                "minutes": 218,
+                "minutes": 461,
                 "percent": 1
               }
             ],
@@ -43948,6 +43980,20 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 123
+              },
+              {
+                "eventNodeId": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+                "label": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "dateLabel": "",
+                "timeLabel": "18:28 - 22:31",
+                "compactDuration": "4h3m",
+                "fullLabel": "18:28 - 22:31 19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 243
               }
             ]
           },
@@ -44349,27 +44395,27 @@
               {
                 "key": "18",
                 "label": "18:00",
-                "minutes": 0
+                "minutes": 32
               },
               {
                 "key": "19",
                 "label": "19:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "20",
                 "label": "20:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "21",
                 "label": "21:00",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 0
+                "minutes": 31
               },
               {
                 "key": "23",
@@ -44419,6 +44465,20 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 123
+              },
+              {
+                "eventNodeId": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+                "label": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "dateLabel": "",
+                "timeLabel": "18:28 - 22:31",
+                "compactDuration": "4h3m",
+                "fullLabel": "18:28 - 22:31 19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 243
               }
             ]
           }
@@ -54467,127 +54527,31 @@
         "key": "2026-07-06",
         "label": "2026-07-06 当周",
         "unit": "day",
-        "totalMinutes": 1452,
+        "totalMinutes": 1695,
         "categories": [
+          {
+            "categoryId": "lab",
+            "label": "lab",
+            "color": "var(--cat-life)",
+            "minutes": 941,
+            "percent": 0.5552
+          },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
             "minutes": 711,
-            "percent": 0.4897
-          },
-          {
-            "categoryId": "lab",
-            "label": "lab",
-            "color": "var(--cat-life)",
-            "minutes": 698,
-            "percent": 0.4807
+            "percent": 0.4195
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 43,
-            "percent": 0.0296
+            "percent": 0.0254
           }
         ],
         "categoryDetails": {
-          "life": {
-            "categoryId": "life",
-            "label": "生活",
-            "color": "var(--cat-life)",
-            "trend": [
-              {
-                "label": "07-06",
-                "key": "2026-07-06",
-                "minutes": 682
-              },
-              {
-                "label": "07-07",
-                "key": "2026-07-07",
-                "minutes": 29
-              },
-              {
-                "label": "07-08",
-                "key": "2026-07-08",
-                "minutes": 0
-              },
-              {
-                "label": "07-09",
-                "key": "2026-07-09",
-                "minutes": 0
-              },
-              {
-                "label": "07-10",
-                "key": "2026-07-10",
-                "minutes": 0
-              },
-              {
-                "label": "07-11",
-                "key": "2026-07-11",
-                "minutes": 0
-              },
-              {
-                "label": "07-12",
-                "key": "2026-07-12",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "life.meal",
-                "categoryId": "life",
-                "label": "吃饭",
-                "color": "var(--cat-life)",
-                "minutes": 711,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
-                "label": "12:28 到工位吃饭",
-                "dateLabel": "07-06",
-                "timeLabel": "12:28 - 12:50",
-                "compactDuration": "22m",
-                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
-                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 22
-              },
-              {
-                "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
-                "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
-                "dateLabel": "07-06",
-                "timeLabel": "12:28 - 23:28",
-                "compactDuration": "11h",
-                "fullLabel": "07-06 12:28 - 23:28 2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
-                "note": "2026-07-06 12:28 — 到工位了，在吃饭。吃完饭准备做GC-MS（SPME法）。黄老师回复周报要求加重复性数据和方差分析。[😐+1]。## 13:00-15:00。师姐在用气相色谱仪（用到下午3点多），崽崽趁空档在做s80茶多酚复测（浸提中）。[😐+1]。## 18:00-19:00。GC-MS软件出问题（误关实时分析软件后启动不了，[0102]无效自变量），被师姐说了。最后发消息求师兄帮忙，远程指导修好了。老化针中。[😭+3]。## 20:00-。开始上第一个样了（60℃磁力搅拌平衡中）。今晚能做几个算几个，剩下的明天做。[😐+1]。## 21:00-22:00。s80复测结果出来了（17.84%，远低于第一次的30.26%），选了合格配对。21:42开始扎针吸附，第一次独立做SPME-GC-MS。[😊+1]。## 22:00-23:00。GC-MS第一个样跑上了，但操作不熟练（针打早了、顶空瓶壁挂茶粉等问题）。决定把今天当预实验，把气相让给永琪做。明天转做黄酮苷。[😐+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 660
-              },
-              {
-                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
-                "label": "13:31 吃完饭准备回实验室",
-                "dateLabel": "07-07",
-                "timeLabel": "13:31 - 14:00",
-                "compactDuration": "29m",
-                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
-                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 29
-              }
-            ]
-          },
           "lab": {
             "categoryId": "lab",
             "label": "lab",
@@ -54601,7 +54565,7 @@
               {
                 "label": "07-07",
                 "key": "2026-07-07",
-                "minutes": 218
+                "minutes": 461
               },
               {
                 "label": "07-08",
@@ -54635,8 +54599,8 @@
                 "categoryId": "lab",
                 "label": "lab.analysis",
                 "color": "var(--cat-life)",
-                "minutes": 338,
-                "percent": 0.4842
+                "minutes": 581,
+                "percent": 0.6174
               },
               {
                 "subcategoryId": "lab.gcms",
@@ -54644,7 +54608,7 @@
                 "label": "lab.gcms",
                 "color": "var(--cat-life)",
                 "minutes": 300,
-                "percent": 0.4298
+                "percent": 0.3188
               },
               {
                 "subcategoryId": "lab.decision",
@@ -54652,7 +54616,7 @@
                 "label": "lab.decision",
                 "color": "var(--cat-life)",
                 "minutes": 60,
-                "percent": 0.086
+                "percent": 0.0638
               }
             ],
             "events": [
@@ -54753,6 +54717,116 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 123
+              },
+              {
+                "eventNodeId": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+                "label": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "dateLabel": "07-07",
+                "timeLabel": "18:28 - 22:31",
+                "compactDuration": "4h3m",
+                "fullLabel": "07-07 18:28 - 22:31 19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 243
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 682
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 29
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 0
+              },
+              {
+                "label": "07-09",
+                "key": "2026-07-09",
+                "minutes": 0
+              },
+              {
+                "label": "07-10",
+                "key": "2026-07-10",
+                "minutes": 0
+              },
+              {
+                "label": "07-11",
+                "key": "2026-07-11",
+                "minutes": 0
+              },
+              {
+                "label": "07-12",
+                "key": "2026-07-12",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "吃饭",
+                "color": "var(--cat-life)",
+                "minutes": 711,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
+              },
+              {
+                "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
+                "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 23:28",
+                "compactDuration": "11h",
+                "fullLabel": "07-06 12:28 - 23:28 2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
+                "note": "2026-07-06 12:28 — 到工位了，在吃饭。吃完饭准备做GC-MS（SPME法）。黄老师回复周报要求加重复性数据和方差分析。[😐+1]。## 13:00-15:00。师姐在用气相色谱仪（用到下午3点多），崽崽趁空档在做s80茶多酚复测（浸提中）。[😐+1]。## 18:00-19:00。GC-MS软件出问题（误关实时分析软件后启动不了，[0102]无效自变量），被师姐说了。最后发消息求师兄帮忙，远程指导修好了。老化针中。[😭+3]。## 20:00-。开始上第一个样了（60℃磁力搅拌平衡中）。今晚能做几个算几个，剩下的明天做。[😐+1]。## 21:00-22:00。s80复测结果出来了（17.84%，远低于第一次的30.26%），选了合格配对。21:42开始扎针吸附，第一次独立做SPME-GC-MS。[😊+1]。## 22:00-23:00。GC-MS第一个样跑上了，但操作不熟练（针打早了、顶空瓶壁挂茶粉等问题）。决定把今天当预实验，把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 660
+              },
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "07-07",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
               }
             ]
           },
@@ -54941,7 +55015,7 @@
               {
                 "key": "2026-07-07",
                 "label": "07-07",
-                "minutes": 218
+                "minutes": 461
               },
               {
                 "key": "2026-07-08",
@@ -55025,6 +55099,20 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 123
+              },
+              {
+                "eventNodeId": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+                "label": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "dateLabel": "07-07",
+                "timeLabel": "18:28 - 22:31",
+                "compactDuration": "4h3m",
+                "fullLabel": "07-07 18:28 - 22:31 19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 243
               }
             ]
           },
@@ -63737,63 +63825,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 5167,
+        "totalMinutes": 5410,
         "categories": [
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
             "minutes": 1504,
-            "percent": 0.2911
+            "percent": 0.278
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 1135,
-            "percent": 0.2197
+            "percent": 0.2098
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
-            "minutes": 698,
-            "percent": 0.1351
+            "minutes": 941,
+            "percent": 0.1739
           },
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 659,
-            "percent": 0.1275
+            "percent": 0.1218
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 600,
-            "percent": 0.1161
+            "percent": 0.1109
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 305,
-            "percent": 0.059
+            "percent": 0.0564
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0399
+            "percent": 0.0381
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0116
+            "percent": 0.0111
           }
         ],
         "categoryDetails": {
@@ -64331,7 +64419,7 @@
               {
                 "label": "07-07",
                 "key": "2026-07-07",
-                "minutes": 218
+                "minutes": 461
               }
             ],
             "subcategories": [
@@ -64340,8 +64428,8 @@
                 "categoryId": "lab",
                 "label": "lab.analysis",
                 "color": "var(--cat-life)",
-                "minutes": 338,
-                "percent": 0.4842
+                "minutes": 581,
+                "percent": 0.6174
               },
               {
                 "subcategoryId": "lab.gcms",
@@ -64349,7 +64437,7 @@
                 "label": "lab.gcms",
                 "color": "var(--cat-life)",
                 "minutes": 300,
-                "percent": 0.4298
+                "percent": 0.3188
               },
               {
                 "subcategoryId": "lab.decision",
@@ -64357,7 +64445,7 @@
                 "label": "lab.decision",
                 "color": "var(--cat-life)",
                 "minutes": 60,
-                "percent": 0.086
+                "percent": 0.0638
               }
             ],
             "events": [
@@ -64458,6 +64546,20 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 123
+              },
+              {
+                "eventNodeId": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+                "label": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "dateLabel": "07-07",
+                "timeLabel": "18:28 - 22:31",
+                "compactDuration": "4h3m",
+                "fullLabel": "07-07 18:28 - 22:31 19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 243
               }
             ]
           },
@@ -65975,7 +66077,7 @@
               {
                 "key": "2026-07-07",
                 "label": "07-07",
-                "minutes": 218
+                "minutes": 461
               }
             ],
             "events": [
@@ -66034,6 +66136,20 @@
                 "subcategoryId": "lab.analysis",
                 "subcategoryLabel": "lab.analysis",
                 "minutes": 123
+              },
+              {
+                "eventNodeId": "fact:19-59-22-31-吃完麦当劳-黄酮苷全部测完:2026-07-07T10-28-00-000Z",
+                "label": "19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "dateLabel": "07-07",
+                "timeLabel": "18:28 - 22:31",
+                "compactDuration": "4h3m",
+                "fullLabel": "07-07 18:28 - 22:31 19:59-22:31 吃完麦当劳→黄酮苷全部测完",
+                "note": "吃完麦当劳回实验室继续测。全部6样18平行测完。黄酮苷数据：CK=15.38, s20=12.43, s35待定, s50=10.66, s65待定, s80=11.79 mg/g。趋势：晒青后黄酮苷整体下降。",
+                "status": "derived",
+                "categoryId": "lab",
+                "subcategoryId": "lab.analysis",
+                "subcategoryLabel": "lab.analysis",
+                "minutes": 243
               }
             ]
           },
