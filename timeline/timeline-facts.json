@@ -2855,8 +2855,8 @@
       ]
     },
     "2026-07-08": {
-      "status": "draft",
-      "updatedAt": "2026-07-07T18:52:12.769Z",
+      "status": "final",
+      "updatedAt": "2026-07-08T14:49:14.915Z",
       "source": null,
       "events": [
         {
@@ -2883,6 +2883,71 @@
           "note": "回寝室了。黄酮苷全部测完。明天计划：重测s35/s65黄酮苷+游离氨基酸。",
           "categoryId": "travel",
           "subcategoryId": "travel.commute",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+          "startAt": "2026-07-08T05:21:00.000Z",
+          "endAt": "2026-07-08T08:30:00.000Z",
+          "title": "睡觉睡到下午",
+          "note": "凌晨3点睡到13:21才醒",
+          "categoryId": "rest",
+          "subcategoryId": "rest.sleep",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+          "startAt": "2026-07-08T05:50:00.000Z",
+          "endAt": "2026-07-08T06:10:00.000Z",
+          "title": "吃外卖午餐",
+          "note": "",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+          "startAt": "2026-07-08T06:30:00.000Z",
+          "endAt": "2026-07-08T08:35:00.000Z",
+          "title": "黄酮苷重测s35/s65",
+          "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+          "startAt": "2026-07-08T08:35:00.000Z",
+          "endAt": "2026-07-08T09:00:00.000Z",
+          "title": "配pH8.0磷酸缓冲液",
+          "note": "准备游离氨基酸测定",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+          "startAt": "2026-07-08T09:30:00.000Z",
+          "endAt": "2026-07-08T14:45:00.000Z",
+          "title": "游离氨基酸标曲制作",
+          "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
           "eventNodeId": "",
           "tags": [],
           "confidence": 0.5,

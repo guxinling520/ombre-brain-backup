@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T18:52:17.885Z",
-    "updatedAt": "2026-07-07T18:52:12.781Z",
-    "taxonomyUpdatedAt": "2026-07-07T18:52:12.778Z",
-    "factsUpdatedAt": "2026-07-07T18:52:12.781Z",
+    "generatedAt": "2026-07-08T14:49:19.623Z",
+    "updatedAt": "2026-07-08T14:49:14.921Z",
+    "taxonomyUpdatedAt": "2026-07-08T14:49:14.919Z",
+    "factsUpdatedAt": "2026-07-08T14:49:14.921Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -3837,6 +3837,81 @@
               "timeText": "00:35 - 00:50"
             },
             "className": "cat-travel"
+          },
+          {
+            "id": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+            "start": "2026-07-08T05:21:00.000Z",
+            "end": "2026-07-08T08:30:00.000Z",
+            "content": "睡觉睡到下午 | 3h9m",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
+            "tooltip": {
+              "title": "睡觉睡到下午",
+              "note": "凌晨3点睡到13:21才醒",
+              "color": "var(--cat-rest)",
+              "durationText": "3 hr 9 min",
+              "timeText": "13:21 - 16:30"
+            },
+            "className": "cat-rest"
+          },
+          {
+            "id": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+            "start": "2026-07-08T05:50:00.000Z",
+            "end": "2026-07-08T06:10:00.000Z",
+            "content": "吃外卖午餐 | 20m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "吃外卖午餐",
+              "note": "",
+              "color": "var(--cat-life)",
+              "durationText": "20 min",
+              "timeText": "13:50 - 14:10"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+            "start": "2026-07-08T06:30:00.000Z",
+            "end": "2026-07-08T08:35:00.000Z",
+            "content": "黄酮苷重测s35/s65 | 2h5m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "黄酮苷重测s35/s65",
+              "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+              "color": "var(--cat-study)",
+              "durationText": "2 hr 5 min",
+              "timeText": "14:30 - 16:35"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+            "start": "2026-07-08T08:35:00.000Z",
+            "end": "2026-07-08T09:00:00.000Z",
+            "content": "配pH8.0磷酸缓冲液 | 25m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "配pH8.0磷酸缓冲液",
+              "note": "准备游离氨基酸测定",
+              "color": "var(--cat-study)",
+              "durationText": "25 min",
+              "timeText": "16:35 - 17:00"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+            "start": "2026-07-08T09:30:00.000Z",
+            "end": "2026-07-08T14:45:00.000Z",
+            "content": "游离氨基酸标曲制作 | 5h15m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "游离氨基酸标曲制作",
+              "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+              "color": "var(--cat-study)",
+              "durationText": "5 hr 15 min",
+              "timeText": "17:30 - 22:45"
+            },
+            "className": "cat-study"
           }
         ]
       }
@@ -7484,6 +7559,91 @@
               "dateText": "2026-07-08"
             },
             "className": "cat-travel"
+          },
+          {
+            "id": "2026-07-08:fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+            "group": "2026-07-08",
+            "start": "2000-01-01T13:21:00+08:00",
+            "end": "2000-01-01T16:30:00+08:00",
+            "content": "睡觉睡到下午 | 3h9m",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
+            "tooltip": {
+              "title": "睡觉睡到下午",
+              "note": "凌晨3点睡到13:21才醒",
+              "color": "var(--cat-rest)",
+              "durationText": "3 hr 9 min",
+              "timeText": "13:21 - 16:30",
+              "dateText": "2026-07-08"
+            },
+            "className": "cat-rest"
+          },
+          {
+            "id": "2026-07-08:fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+            "group": "2026-07-08",
+            "start": "2000-01-01T13:50:00+08:00",
+            "end": "2000-01-01T14:10:00+08:00",
+            "content": "吃外卖午餐 | 20m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "吃外卖午餐",
+              "note": "",
+              "color": "var(--cat-life)",
+              "durationText": "20 min",
+              "timeText": "13:50 - 14:10",
+              "dateText": "2026-07-08"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-08:fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+            "group": "2026-07-08",
+            "start": "2000-01-01T14:30:00+08:00",
+            "end": "2000-01-01T16:35:00+08:00",
+            "content": "黄酮苷重测s35/s65 | 2h5m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "黄酮苷重测s35/s65",
+              "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+              "color": "var(--cat-study)",
+              "durationText": "2 hr 5 min",
+              "timeText": "14:30 - 16:35",
+              "dateText": "2026-07-08"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-08:fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+            "group": "2026-07-08",
+            "start": "2000-01-01T16:35:00+08:00",
+            "end": "2000-01-01T17:00:00+08:00",
+            "content": "配pH8.0磷酸缓冲液 | 25m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "配pH8.0磷酸缓冲液",
+              "note": "准备游离氨基酸测定",
+              "color": "var(--cat-study)",
+              "durationText": "25 min",
+              "timeText": "16:35 - 17:00",
+              "dateText": "2026-07-08"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-08:fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+            "group": "2026-07-08",
+            "start": "2000-01-01T17:30:00+08:00",
+            "end": "2000-01-01T22:45:00+08:00",
+            "content": "游离氨基酸标曲制作 | 5h15m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "游离氨基酸标曲制作",
+              "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+              "color": "var(--cat-study)",
+              "durationText": "5 hr 15 min",
+              "timeText": "17:30 - 22:45",
+              "dateText": "2026-07-08"
+            },
+            "className": "cat-study"
           }
         ]
       }
@@ -44561,24 +44721,372 @@
         "key": "2026-07-08",
         "label": "2026-07-08",
         "unit": "hour",
-        "totalMinutes": 150,
+        "totalMinutes": 824,
         "categories": [
+          {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "minutes": 465,
+            "percent": 0.5643
+          },
+          {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "minutes": 189,
+            "percent": 0.2294
+          },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 135,
-            "percent": 0.9
+            "minutes": 155,
+            "percent": 0.1881
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 15,
-            "percent": 0.1
+            "percent": 0.0182
           }
         ],
         "categoryDetails": {
+          "study": {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 30
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 30
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 45
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "Practice",
+                "color": "var(--cat-study)",
+                "minutes": 465,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+                "label": "黄酮苷重测s35/s65",
+                "dateLabel": "",
+                "timeLabel": "14:30 - 16:35",
+                "compactDuration": "2h5m",
+                "fullLabel": "14:30 - 16:35 黄酮苷重测s35/s65",
+                "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 125
+              },
+              {
+                "eventNodeId": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+                "label": "配pH8.0磷酸缓冲液",
+                "dateLabel": "",
+                "timeLabel": "16:35 - 17:00",
+                "compactDuration": "25m",
+                "fullLabel": "16:35 - 17:00 配pH8.0磷酸缓冲液",
+                "note": "准备游离氨基酸测定",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 25
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+                "label": "游离氨基酸标曲制作",
+                "dateLabel": "",
+                "timeLabel": "17:30 - 22:45",
+                "compactDuration": "5h15m",
+                "fullLabel": "17:30 - 22:45 游离氨基酸标曲制作",
+                "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 315
+              }
+            ]
+          },
+          "rest": {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 39
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 30
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "Sleep",
+                "color": "var(--cat-rest)",
+                "minutes": 189,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+                "label": "睡觉睡到下午",
+                "dateLabel": "",
+                "timeLabel": "13:21 - 16:30",
+                "compactDuration": "3h9m",
+                "fullLabel": "13:21 - 16:30 睡觉睡到下午",
+                "note": "凌晨3点睡到13:21才醒",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 189
+              }
+            ]
+          },
           "life": {
             "categoryId": "life",
             "label": "Life",
@@ -44652,12 +45160,12 @@
               {
                 "key": "13",
                 "label": "13:00",
-                "minutes": 0
+                "minutes": 10
               },
               {
                 "key": "14",
                 "label": "14:00",
-                "minutes": 0
+                "minutes": 10
               },
               {
                 "key": "15",
@@ -44712,7 +45220,15 @@
                 "label": "Other Life",
                 "color": "var(--cat-life)",
                 "minutes": 135,
-                "percent": 1
+                "percent": 0.871
+              },
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "Meals",
+                "color": "var(--cat-life)",
+                "minutes": 20,
+                "percent": 0.129
               }
             ],
             "events": [
@@ -44729,6 +45245,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 135
+              },
+              {
+                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+                "label": "吃外卖午餐",
+                "dateLabel": "",
+                "timeLabel": "13:50 - 14:10",
+                "compactDuration": "20m",
+                "fullLabel": "13:50 - 14:10 吃外卖午餐",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
               }
             ]
           },
@@ -45172,6 +45702,466 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 15
+              }
+            ]
+          },
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "Sleep",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 39
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 30
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+                "label": "睡觉睡到下午",
+                "dateLabel": "",
+                "timeLabel": "13:21 - 16:30",
+                "compactDuration": "3h9m",
+                "fullLabel": "13:21 - 16:30 睡觉睡到下午",
+                "note": "凌晨3点睡到13:21才醒",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 189
+              }
+            ]
+          },
+          "life.meal": {
+            "subcategoryId": "life.meal",
+            "categoryId": "life",
+            "label": "Meals",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 10
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 10
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+                "label": "吃外卖午餐",
+                "dateLabel": "",
+                "timeLabel": "13:50 - 14:10",
+                "compactDuration": "20m",
+                "fullLabel": "13:50 - 14:10 吃外卖午餐",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
+              }
+            ]
+          },
+          "study.practice": {
+            "subcategoryId": "study.practice",
+            "categoryId": "study",
+            "label": "Practice",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 30
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 30
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 45
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+                "label": "黄酮苷重测s35/s65",
+                "dateLabel": "",
+                "timeLabel": "14:30 - 16:35",
+                "compactDuration": "2h5m",
+                "fullLabel": "14:30 - 16:35 黄酮苷重测s35/s65",
+                "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 125
+              },
+              {
+                "eventNodeId": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+                "label": "配pH8.0磷酸缓冲液",
+                "dateLabel": "",
+                "timeLabel": "16:35 - 17:00",
+                "compactDuration": "25m",
+                "fullLabel": "16:35 - 17:00 配pH8.0磷酸缓冲液",
+                "note": "准备游离氨基酸测定",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 25
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+                "label": "游离氨基酸标曲制作",
+                "dateLabel": "",
+                "timeLabel": "17:30 - 22:45",
+                "compactDuration": "5h15m",
+                "fullLabel": "17:30 - 22:45 游离氨基酸标曲制作",
+                "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 315
               }
             ]
           }
@@ -55220,28 +56210,42 @@
         "key": "2026-07-06",
         "label": "Week of 2026-07-06",
         "unit": "day",
-        "totalMinutes": 1845,
+        "totalMinutes": 2519,
         "categories": [
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.51
+            "percent": 0.3736
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 846,
-            "percent": 0.4585
+            "minutes": 866,
+            "percent": 0.3438
+          },
+          {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "minutes": 465,
+            "percent": 0.1846
+          },
+          {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "minutes": 189,
+            "percent": 0.075
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 58,
-            "percent": 0.0314
+            "percent": 0.023
           }
         ],
         "categoryDetails": {
@@ -55445,7 +56449,7 @@
               {
                 "label": "07-08",
                 "key": "2026-07-08",
-                "minutes": 135
+                "minutes": 155
               },
               {
                 "label": "07-09",
@@ -55474,8 +56478,8 @@
                 "categoryId": "life",
                 "label": "Meals",
                 "color": "var(--cat-life)",
-                "minutes": 711,
-                "percent": 0.8404
+                "minutes": 731,
+                "percent": 0.8441
               },
               {
                 "subcategoryId": "life.other",
@@ -55483,7 +56487,7 @@
                 "label": "Other Life",
                 "color": "var(--cat-life)",
                 "minutes": 135,
-                "percent": 0.1596
+                "percent": 0.1559
               }
             ],
             "events": [
@@ -55542,6 +56546,184 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 135
+              },
+              {
+                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+                "label": "吃外卖午餐",
+                "dateLabel": "07-08",
+                "timeLabel": "13:50 - 14:10",
+                "compactDuration": "20m",
+                "fullLabel": "07-08 13:50 - 14:10 吃外卖午餐",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
+              }
+            ]
+          },
+          "study": {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 465
+              },
+              {
+                "label": "07-09",
+                "key": "2026-07-09",
+                "minutes": 0
+              },
+              {
+                "label": "07-10",
+                "key": "2026-07-10",
+                "minutes": 0
+              },
+              {
+                "label": "07-11",
+                "key": "2026-07-11",
+                "minutes": 0
+              },
+              {
+                "label": "07-12",
+                "key": "2026-07-12",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "Practice",
+                "color": "var(--cat-study)",
+                "minutes": 465,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+                "label": "黄酮苷重测s35/s65",
+                "dateLabel": "07-08",
+                "timeLabel": "14:30 - 16:35",
+                "compactDuration": "2h5m",
+                "fullLabel": "07-08 14:30 - 16:35 黄酮苷重测s35/s65",
+                "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 125
+              },
+              {
+                "eventNodeId": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+                "label": "配pH8.0磷酸缓冲液",
+                "dateLabel": "07-08",
+                "timeLabel": "16:35 - 17:00",
+                "compactDuration": "25m",
+                "fullLabel": "07-08 16:35 - 17:00 配pH8.0磷酸缓冲液",
+                "note": "准备游离氨基酸测定",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 25
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+                "label": "游离氨基酸标曲制作",
+                "dateLabel": "07-08",
+                "timeLabel": "17:30 - 22:45",
+                "compactDuration": "5h15m",
+                "fullLabel": "07-08 17:30 - 22:45 游离氨基酸标曲制作",
+                "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 315
+              }
+            ]
+          },
+          "rest": {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 189
+              },
+              {
+                "label": "07-09",
+                "key": "2026-07-09",
+                "minutes": 0
+              },
+              {
+                "label": "07-10",
+                "key": "2026-07-10",
+                "minutes": 0
+              },
+              {
+                "label": "07-11",
+                "key": "2026-07-11",
+                "minutes": 0
+              },
+              {
+                "label": "07-12",
+                "key": "2026-07-12",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "Sleep",
+                "color": "var(--cat-rest)",
+                "minutes": 189,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+                "label": "睡觉睡到下午",
+                "dateLabel": "07-08",
+                "timeLabel": "13:21 - 16:30",
+                "compactDuration": "3h9m",
+                "fullLabel": "07-08 13:21 - 16:30 睡觉睡到下午",
+                "note": "凌晨3点睡到13:21才醒",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 189
               }
             ]
           },
@@ -55662,7 +56844,7 @@
               {
                 "key": "2026-07-08",
                 "label": "07-08",
-                "minutes": 0
+                "minutes": 20
               },
               {
                 "key": "2026-07-09",
@@ -55727,6 +56909,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 29
+              },
+              {
+                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+                "label": "吃外卖午餐",
+                "dateLabel": "07-08",
+                "timeLabel": "13:50 - 14:10",
+                "compactDuration": "20m",
+                "fullLabel": "07-08 13:50 - 14:10 吃外卖午餐",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
               }
             ]
           },
@@ -56120,6 +57316,152 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 135
+              }
+            ]
+          },
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "Sleep",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 189
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+                "label": "睡觉睡到下午",
+                "dateLabel": "07-08",
+                "timeLabel": "13:21 - 16:30",
+                "compactDuration": "3h9m",
+                "fullLabel": "07-08 13:21 - 16:30 睡觉睡到下午",
+                "note": "凌晨3点睡到13:21才醒",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 189
+              }
+            ]
+          },
+          "study.practice": {
+            "subcategoryId": "study.practice",
+            "categoryId": "study",
+            "label": "Practice",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 465
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+                "label": "黄酮苷重测s35/s65",
+                "dateLabel": "07-08",
+                "timeLabel": "14:30 - 16:35",
+                "compactDuration": "2h5m",
+                "fullLabel": "07-08 14:30 - 16:35 黄酮苷重测s35/s65",
+                "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 125
+              },
+              {
+                "eventNodeId": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+                "label": "配pH8.0磷酸缓冲液",
+                "dateLabel": "07-08",
+                "timeLabel": "16:35 - 17:00",
+                "compactDuration": "25m",
+                "fullLabel": "07-08 16:35 - 17:00 配pH8.0磷酸缓冲液",
+                "note": "准备游离氨基酸测定",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 25
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+                "label": "游离氨基酸标曲制作",
+                "dateLabel": "07-08",
+                "timeLabel": "17:30 - 22:45",
+                "compactDuration": "5h15m",
+                "fullLabel": "07-08 17:30 - 22:45 游离氨基酸标曲制作",
+                "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 315
               }
             ]
           }
@@ -64627,63 +65969,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 5560,
+        "totalMinutes": 6234,
         "categories": [
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 1639,
-            "percent": 0.2948
+            "minutes": 1659,
+            "percent": 0.2661
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 1135,
-            "percent": 0.2041
+            "percent": 0.1821
+          },
+          {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "minutes": 1124,
+            "percent": 0.1803
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.1692
-          },
-          {
-            "categoryId": "study",
-            "label": "Study",
-            "color": "var(--cat-study)",
-            "minutes": 659,
-            "percent": 0.1185
+            "percent": 0.1509
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
-            "minutes": 600,
-            "percent": 0.1079
+            "minutes": 789,
+            "percent": 0.1266
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 320,
-            "percent": 0.0576
+            "percent": 0.0513
           },
           {
             "categoryId": "entertainment",
             "label": "Entertainment",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0371
+            "percent": 0.033
           },
           {
             "categoryId": "exercise",
             "label": "Exercise",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0108
+            "percent": 0.0096
           }
         ],
         "categoryDetails": {
@@ -64730,7 +66072,7 @@
               {
                 "label": "07-08",
                 "key": "2026-07-08",
-                "minutes": 135
+                "minutes": 155
               }
             ],
             "subcategories": [
@@ -64740,15 +66082,15 @@
                 "label": "Other Life",
                 "color": "var(--cat-life)",
                 "minutes": 867,
-                "percent": 0.529
+                "percent": 0.5226
               },
               {
                 "subcategoryId": "life.meal",
                 "categoryId": "life",
                 "label": "Meals",
                 "color": "var(--cat-life)",
-                "minutes": 771,
-                "percent": 0.4704
+                "minutes": 791,
+                "percent": 0.4768
               },
               {
                 "subcategoryId": "life.errand",
@@ -64927,6 +66269,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 135
+              },
+              {
+                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+                "label": "吃外卖午餐",
+                "dateLabel": "07-08",
+                "timeLabel": "13:50 - 14:10",
+                "compactDuration": "20m",
+                "fullLabel": "07-08 13:50 - 14:10 吃外卖午餐",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
               }
             ]
           },
@@ -65207,6 +66563,151 @@
               }
             ]
           },
+          "study": {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 60
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 599
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 465
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.other",
+                "categoryId": "study",
+                "label": "Other Study",
+                "color": "var(--cat-study)",
+                "minutes": 599,
+                "percent": 0.5329
+              },
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "Practice",
+                "color": "var(--cat-study)",
+                "minutes": 465,
+                "percent": 0.4137
+              },
+              {
+                "subcategoryId": "study.course",
+                "categoryId": "study",
+                "label": "Courses",
+                "color": "var(--cat-study)",
+                "minutes": 60,
+                "percent": 0.0534
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
+                "label": "改茶树遗传与育种课程论文",
+                "dateLabel": "07-01",
+                "timeLabel": "22:00 - 23:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
+                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
+                "status": "official",
+                "categoryId": "study",
+                "subcategoryId": "study.course",
+                "subcategoryLabel": "study.course",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
+                "label": "实验室：茶多酚测定（整日）",
+                "dateLabel": "07-03",
+                "timeLabel": "14:00 - 23:59",
+                "compactDuration": "9h59m",
+                "fullLabel": "07-03 14:00 - 23:59 实验室：茶多酚测定（整日）",
+                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.other",
+                "subcategoryLabel": "study.other",
+                "minutes": 599
+              },
+              {
+                "eventNodeId": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+                "label": "黄酮苷重测s35/s65",
+                "dateLabel": "07-08",
+                "timeLabel": "14:30 - 16:35",
+                "compactDuration": "2h5m",
+                "fullLabel": "07-08 14:30 - 16:35 黄酮苷重测s35/s65",
+                "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 125
+              },
+              {
+                "eventNodeId": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+                "label": "配pH8.0磷酸缓冲液",
+                "dateLabel": "07-08",
+                "timeLabel": "16:35 - 17:00",
+                "compactDuration": "25m",
+                "fullLabel": "07-08 16:35 - 17:00 配pH8.0磷酸缓冲液",
+                "note": "准备游离氨基酸测定",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 25
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+                "label": "游离氨基酸标曲制作",
+                "dateLabel": "07-08",
+                "timeLabel": "17:30 - 22:45",
+                "compactDuration": "5h15m",
+                "fullLabel": "07-08 17:30 - 22:45 游离氨基酸标曲制作",
+                "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 315
+              }
+            ]
+          },
           "lab": {
             "categoryId": "lab",
             "label": "lab",
@@ -65394,101 +66895,6 @@
               }
             ]
           },
-          "study": {
-            "categoryId": "study",
-            "label": "Study",
-            "color": "var(--cat-study)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 60
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 0
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 599
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 0
-              },
-              {
-                "label": "07-06",
-                "key": "2026-07-06",
-                "minutes": 0
-              },
-              {
-                "label": "07-07",
-                "key": "2026-07-07",
-                "minutes": 0
-              },
-              {
-                "label": "07-08",
-                "key": "2026-07-08",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "study.other",
-                "categoryId": "study",
-                "label": "Other Study",
-                "color": "var(--cat-study)",
-                "minutes": 599,
-                "percent": 0.909
-              },
-              {
-                "subcategoryId": "study.course",
-                "categoryId": "study",
-                "label": "Courses",
-                "color": "var(--cat-study)",
-                "minutes": 60,
-                "percent": 0.091
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:evt-learning:2026-07-01T14-00-00-000Z",
-                "label": "改茶树遗传与育种课程论文",
-                "dateLabel": "07-01",
-                "timeLabel": "22:00 - 23:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-01 22:00 - 23:00 改茶树遗传与育种课程论文",
-                "note": "健身回来改论文格式，23:00交上去了 ✅。[😤+1]",
-                "status": "official",
-                "categoryId": "study",
-                "subcategoryId": "study.course",
-                "subcategoryLabel": "study.course",
-                "minutes": 60
-              },
-              {
-                "eventNodeId": "fact:实验室-茶多酚测定-整日:2026-07-03T06-00-00-000Z",
-                "label": "实验室：茶多酚测定（整日）",
-                "dateLabel": "07-03",
-                "timeLabel": "14:00 - 23:59",
-                "compactDuration": "9h59m",
-                "fullLabel": "07-03 14:00 - 23:59 实验室：茶多酚测定（整日）",
-                "note": "从午后到凌晨一直在实验室。标曲漂亮✅，s2重测，s4-s6持续测到深夜。",
-                "status": "derived",
-                "categoryId": "study",
-                "subcategoryId": "study.other",
-                "subcategoryLabel": "study.other",
-                "minutes": 599
-              }
-            ]
-          },
           "rest": {
             "categoryId": "rest",
             "label": "Rest",
@@ -65532,7 +66938,7 @@
               {
                 "label": "07-08",
                 "key": "2026-07-08",
-                "minutes": 0
+                "minutes": 189
               }
             ],
             "subcategories": [
@@ -65541,7 +66947,7 @@
                 "categoryId": "rest",
                 "label": "Sleep",
                 "color": "var(--cat-rest)",
-                "minutes": 600,
+                "minutes": 789,
                 "percent": 1
               }
             ],
@@ -65573,6 +66979,20 @@
                 "subcategoryId": "rest.sleep",
                 "subcategoryLabel": "rest.sleep",
                 "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+                "label": "睡觉睡到下午",
+                "dateLabel": "07-08",
+                "timeLabel": "13:21 - 16:30",
+                "compactDuration": "3h9m",
+                "fullLabel": "07-08 13:21 - 16:30 睡觉睡到下午",
+                "note": "凌晨3点睡到13:21才醒",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 189
               }
             ]
           },
@@ -65925,7 +67345,7 @@
               {
                 "key": "2026-07-08",
                 "label": "07-08",
-                "minutes": 0
+                "minutes": 189
               }
             ],
             "events": [
@@ -65956,6 +67376,20 @@
                 "subcategoryId": "rest.sleep",
                 "subcategoryLabel": "rest.sleep",
                 "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+                "label": "睡觉睡到下午",
+                "dateLabel": "07-08",
+                "timeLabel": "13:21 - 16:30",
+                "compactDuration": "3h9m",
+                "fullLabel": "07-08 13:21 - 16:30 睡觉睡到下午",
+                "note": "凌晨3点睡到13:21才醒",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 189
               }
             ]
           },
@@ -66865,7 +68299,7 @@
               {
                 "key": "2026-07-08",
                 "label": "07-08",
-                "minutes": 0
+                "minutes": 20
               }
             ],
             "events": [
@@ -66924,6 +68358,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 29
+              },
+              {
+                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+                "label": "吃外卖午餐",
+                "dateLabel": "07-08",
+                "timeLabel": "13:50 - 14:10",
+                "compactDuration": "20m",
+                "fullLabel": "07-08 13:50 - 14:10 吃外卖午餐",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
               }
             ]
           },
@@ -67250,6 +68698,98 @@
                 "subcategoryId": "lab.decision",
                 "subcategoryLabel": "lab.decision",
                 "minutes": 60
+              }
+            ]
+          },
+          "study.practice": {
+            "subcategoryId": "study.practice",
+            "categoryId": "study",
+            "label": "Practice",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 465
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:黄酮苷重测s35-s65:2026-07-08T06-30-00-000Z",
+                "label": "黄酮苷重测s35/s65",
+                "dateLabel": "07-08",
+                "timeLabel": "14:30 - 16:35",
+                "compactDuration": "2h5m",
+                "fullLabel": "07-08 14:30 - 16:35 黄酮苷重测s35/s65",
+                "note": "s35用0.2542/0.2552配对✅(RE=0.39%)含量约8.14mg/g；s65用0.3228/0.3337配对✅(RE=3.3%)含量约10.50mg/g",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 125
+              },
+              {
+                "eventNodeId": "fact:配ph8-0磷酸缓冲液:2026-07-08T08-35-00-000Z",
+                "label": "配pH8.0磷酸缓冲液",
+                "dateLabel": "07-08",
+                "timeLabel": "16:35 - 17:00",
+                "compactDuration": "25m",
+                "fullLabel": "07-08 16:35 - 17:00 配pH8.0磷酸缓冲液",
+                "note": "准备游离氨基酸测定",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 25
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸标曲制作:2026-07-08T09-30-00-000Z",
+                "label": "游离氨基酸标曲制作",
+                "dateLabel": "07-08",
+                "timeLabel": "17:30 - 22:45",
+                "compactDuration": "5h15m",
+                "fullLabel": "07-08 17:30 - 22:45 游离氨基酸标曲制作",
+                "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 315
               }
             ]
           }
