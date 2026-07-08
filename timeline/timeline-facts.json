@@ -2853,6 +2853,42 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-08": {
+      "status": "draft",
+      "updatedAt": "2026-07-07T18:52:12.769Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:00-35-02-06-apk逆向安全测试:2026-07-07T16-35-00-000Z",
+          "startAt": "2026-07-07T16:35:00.000Z",
+          "endAt": "2026-07-07T18:50:00.000Z",
+          "title": "00:35-02:50 APK逆向安全测试",
+          "note": "凌晨熬夜帮朋友测app防御。找到BuyManagerImpl.isVip()本地漏洞+TimerTemplateModel.isVip()无服务端验证，均改为始终返回true。改微信SDK checkSumConsistent绕过本地签名校验但微信服务器端验证仍失败。分析SharedPreferences发现com.crossroad.multiTimer.preference。R8混淆严重，逆向难度较高。结论：需要加固VIP服务端验证+签名校验，微信登录回调也需要加固。",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [
+            "apk逆向",
+            "安全测试"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:00-35-回寝室:2026-07-07T16-35-00-000Z",
+          "startAt": "2026-07-07T16:35:00.000Z",
+          "endAt": "2026-07-07T16:50:00.000Z",
+          "title": "00:35 回寝室",
+          "note": "回寝室了。黄酮苷全部测完。明天计划：重测s35/s65黄酮苷+游离氨基酸。",
+          "categoryId": "travel",
+          "subcategoryId": "travel.commute",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
