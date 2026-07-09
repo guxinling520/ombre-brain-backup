@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T14:49:19.623Z",
-    "updatedAt": "2026-07-08T14:49:14.921Z",
-    "taxonomyUpdatedAt": "2026-07-08T14:49:14.919Z",
-    "factsUpdatedAt": "2026-07-08T14:49:14.921Z",
+    "generatedAt": "2026-07-08T15:48:39.403Z",
+    "updatedAt": "2026-07-08T15:48:33.434Z",
+    "taxonomyUpdatedAt": "2026-07-08T15:48:33.431Z",
+    "factsUpdatedAt": "2026-07-08T15:48:33.434Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -3912,6 +3912,21 @@
               "timeText": "17:30 - 22:45"
             },
             "className": "cat-study"
+          },
+          {
+            "id": "fact:回寝室:2026-07-08T15-48-00-000Z",
+            "start": "2026-07-08T15:48:00.000Z",
+            "end": "2026-07-08T15:55:00.000Z",
+            "content": "回寝室 | 7m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+              "color": "var(--cat-travel)",
+              "durationText": "7 min",
+              "timeText": "23:48 - 23:55"
+            },
+            "className": "cat-travel"
           }
         ]
       }
@@ -7644,6 +7659,23 @@
               "dateText": "2026-07-08"
             },
             "className": "cat-study"
+          },
+          {
+            "id": "2026-07-08:fact:回寝室:2026-07-08T15-48-00-000Z",
+            "group": "2026-07-08",
+            "start": "2000-01-01T23:48:00+08:00",
+            "end": "2000-01-01T23:55:00+08:00",
+            "content": "回寝室 | 7m",
+            "style": "background:var(--cat-travel);border-color:var(--cat-travel);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+              "color": "var(--cat-travel)",
+              "durationText": "7 min",
+              "timeText": "23:48 - 23:55",
+              "dateText": "2026-07-08"
+            },
+            "className": "cat-travel"
           }
         ]
       }
@@ -44721,35 +44753,35 @@
         "key": "2026-07-08",
         "label": "2026-07-08",
         "unit": "hour",
-        "totalMinutes": 824,
+        "totalMinutes": 831,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 465,
-            "percent": 0.5643
+            "percent": 0.5596
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 189,
-            "percent": 0.2294
+            "percent": 0.2274
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 155,
-            "percent": 0.1881
+            "percent": 0.1865
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
-            "minutes": 15,
-            "percent": 0.0182
+            "minutes": 22,
+            "percent": 0.0265
           }
         ],
         "categoryDetails": {
@@ -45385,7 +45417,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 7
               }
             ],
             "subcategories": [
@@ -45394,7 +45426,7 @@
                 "categoryId": "travel",
                 "label": "Commute",
                 "color": "var(--cat-travel)",
-                "minutes": 15,
+                "minutes": 22,
                 "percent": 1
               }
             ],
@@ -45412,6 +45444,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 15
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-08T15-48-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:48 - 23:55",
+                "compactDuration": "7m",
+                "fullLabel": "23:48 - 23:55 回寝室",
+                "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 7
               }
             ]
           }
@@ -45685,7 +45731,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 7
               }
             ],
             "events": [
@@ -45702,6 +45748,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 15
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-08T15-48-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:48 - 23:55",
+                "compactDuration": "7m",
+                "fullLabel": "23:48 - 23:55 回寝室",
+                "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 7
               }
             ]
           },
@@ -56210,42 +56270,42 @@
         "key": "2026-07-06",
         "label": "Week of 2026-07-06",
         "unit": "day",
-        "totalMinutes": 2519,
+        "totalMinutes": 2526,
         "categories": [
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.3736
+            "percent": 0.3725
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 866,
-            "percent": 0.3438
+            "percent": 0.3428
           },
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 465,
-            "percent": 0.1846
+            "percent": 0.1841
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 189,
-            "percent": 0.075
+            "percent": 0.0748
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
-            "minutes": 58,
-            "percent": 0.023
+            "minutes": 65,
+            "percent": 0.0257
           }
         ],
         "categoryDetails": {
@@ -56745,7 +56805,7 @@
               {
                 "label": "07-08",
                 "key": "2026-07-08",
-                "minutes": 15
+                "minutes": 22
               },
               {
                 "label": "07-09",
@@ -56774,7 +56834,7 @@
                 "categoryId": "travel",
                 "label": "Commute",
                 "color": "var(--cat-travel)",
-                "minutes": 58,
+                "minutes": 65,
                 "percent": 1
               }
             ],
@@ -56820,6 +56880,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 15
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-08T15-48-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-08",
+                "timeLabel": "23:48 - 23:55",
+                "compactDuration": "7m",
+                "fullLabel": "07-08 23:48 - 23:55 回寝室",
+                "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 7
               }
             ]
           }
@@ -57192,7 +57266,7 @@
               {
                 "key": "2026-07-08",
                 "label": "07-08",
-                "minutes": 15
+                "minutes": 22
               },
               {
                 "key": "2026-07-09",
@@ -57257,6 +57331,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 15
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-08T15-48-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-08",
+                "timeLabel": "23:48 - 23:55",
+                "compactDuration": "7m",
+                "fullLabel": "07-08 23:48 - 23:55 回寝室",
+                "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 7
               }
             ]
           },
@@ -65969,49 +66057,49 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 6234,
+        "totalMinutes": 6241,
         "categories": [
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 1659,
-            "percent": 0.2661
+            "percent": 0.2658
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 1135,
-            "percent": 0.1821
+            "percent": 0.1819
           },
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 1124,
-            "percent": 0.1803
+            "percent": 0.1801
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.1509
+            "percent": 0.1508
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 789,
-            "percent": 0.1266
+            "percent": 0.1264
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
-            "minutes": 320,
-            "percent": 0.0513
+            "minutes": 327,
+            "percent": 0.0524
           },
           {
             "categoryId": "entertainment",
@@ -67039,7 +67127,7 @@
               {
                 "label": "07-08",
                 "key": "2026-07-08",
-                "minutes": 15
+                "minutes": 22
               }
             ],
             "subcategories": [
@@ -67048,7 +67136,7 @@
                 "categoryId": "travel",
                 "label": "Commute",
                 "color": "var(--cat-travel)",
-                "minutes": 320,
+                "minutes": 327,
                 "percent": 1
               }
             ],
@@ -67150,6 +67238,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 15
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-08T15-48-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-08",
+                "timeLabel": "23:48 - 23:55",
+                "compactDuration": "7m",
+                "fullLabel": "07-08 23:48 - 23:55 回寝室",
+                "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 7
               }
             ]
           },
@@ -68009,7 +68111,7 @@
               {
                 "key": "2026-07-08",
                 "label": "07-08",
-                "minutes": 15
+                "minutes": 22
               }
             ],
             "events": [
@@ -68110,6 +68212,20 @@
                 "subcategoryId": "travel.commute",
                 "subcategoryLabel": "travel.commute",
                 "minutes": 15
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-08T15-48-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-08",
+                "timeLabel": "23:48 - 23:55",
+                "compactDuration": "7m",
+                "fullLabel": "07-08 23:48 - 23:55 回寝室",
+                "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+                "status": "derived",
+                "categoryId": "travel",
+                "subcategoryId": "travel.commute",
+                "subcategoryLabel": "travel.commute",
+                "minutes": 7
               }
             ]
           },

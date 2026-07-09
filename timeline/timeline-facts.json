@@ -2856,7 +2856,7 @@
     },
     "2026-07-08": {
       "status": "final",
-      "updatedAt": "2026-07-08T14:49:14.915Z",
+      "updatedAt": "2026-07-08T15:48:33.426Z",
       "source": null,
       "events": [
         {
@@ -2948,6 +2948,19 @@
           "note": "配谷氨酸母液+6个标液，过滤茚三酮沉淀，做显色反应。标曲方程y=1.672x-0.2135 R²=0.9999✅ 样品明天测",
           "categoryId": "study",
           "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:回寝室:2026-07-08T15-48-00-000Z",
+          "startAt": "2026-07-08T15:48:00.000Z",
+          "endAt": "2026-07-08T15:55:00.000Z",
+          "title": "回寝室",
+          "note": "23:48到寝室，今天从凌晨2:50到晚上11点都在忙",
+          "categoryId": "travel",
+          "subcategoryId": "travel.commute",
           "eventNodeId": "",
           "tags": [],
           "confidence": 0.5,
