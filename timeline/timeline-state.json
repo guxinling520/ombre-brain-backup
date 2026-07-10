@@ -3459,6 +3459,84 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-10": {
+      "status": "draft",
+      "updatedAt": "2026-07-10T14:32:58.957Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:老化spme针头:2026-07-10T05-00-00-000Z",
+          "startAt": "2026-07-10T05:00:00.000Z",
+          "endAt": "2026-07-10T05:30:00.000Z",
+          "title": "老化SPME针头",
+          "note": "中午去实验室，先老化针头准备上样",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gc-ms-s0重做:2026-07-10T05-30-00-000Z",
+          "startAt": "2026-07-10T05:30:00.000Z",
+          "endAt": "2026-07-10T08:00:00.000Z",
+          "title": "GC-MS s0重做",
+          "note": "继续昨天的GC-MS，s0重新上样",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gc-ms-s20上样:2026-07-10T08-00-00-000Z",
+          "startAt": "2026-07-10T08:00:00.000Z",
+          "endAt": "2026-07-10T10:30:00.000Z",
+          "title": "GC-MS s20上样",
+          "note": "s0跑完后继续跑s20，3个平行",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:evt-dinner:2026-07-10T10-40-00-000Z",
+          "startAt": "2026-07-10T10:40:00.000Z",
+          "endAt": "2026-07-10T11:00:00.000Z",
+          "title": "吃木桶饭（爆炒猪肝）",
+          "note": "打包带回，老板娘嫌女生饭给少了，有点气人",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "evt.dinner",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:分析s20-gc-ms数据:2026-07-10T14-29-00-000Z",
+          "startAt": "2026-07-10T14:29:00.000Z",
+          "endAt": "2026-07-10T14:32:00.000Z",
+          "title": "分析s20 GC-MS数据",
+          "note": "检出364个峰，Linalool 4.76%、Geraniol 2.68%，数据质量不错",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
