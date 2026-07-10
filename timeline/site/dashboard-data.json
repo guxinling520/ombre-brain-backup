@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-09T14:44:56.495Z",
-    "updatedAt": "2026-07-09T14:44:51.612Z",
-    "taxonomyUpdatedAt": "2026-07-09T14:44:51.609Z",
-    "factsUpdatedAt": "2026-07-09T14:44:51.612Z",
+    "generatedAt": "2026-07-09T15:41:38.635Z",
+    "updatedAt": "2026-07-09T15:41:34.017Z",
+    "taxonomyUpdatedAt": "2026-07-09T15:41:34.017Z",
+    "factsUpdatedAt": "2026-07-09T15:41:34.017Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -3940,15 +3940,15 @@
           {
             "id": "fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
             "start": "2026-07-09T13:30:00.000Z",
-            "end": "2026-07-09T14:45:00.000Z",
-            "content": "SPME-GC-MS开始上样 | 1h15m",
+            "end": "2026-07-09T15:50:00.000Z",
+            "content": "SPME-GC-MS s0尝试 | 2h20m",
             "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
             "tooltip": {
-              "title": "SPME-GC-MS开始上样",
-              "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+              "title": "SPME-GC-MS s0尝试",
+              "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
               "color": "var(--cat-study)",
-              "durationText": "1 hr 15 min",
-              "timeText": "21:30 - 22:45"
+              "durationText": "2 hr 20 min",
+              "timeText": "21:30 - 23:50"
             },
             "className": "cat-study"
           }
@@ -7705,15 +7705,15 @@
             "id": "2026-07-09:fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
             "group": "2026-07-09",
             "start": "2000-01-01T21:30:00+08:00",
-            "end": "2000-01-01T22:45:00+08:00",
-            "content": "SPME-GC-MS开始上样 | 1h15m",
+            "end": "2000-01-01T23:50:00+08:00",
+            "content": "SPME-GC-MS s0尝试 | 2h20m",
             "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
             "tooltip": {
-              "title": "SPME-GC-MS开始上样",
-              "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+              "title": "SPME-GC-MS s0尝试",
+              "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
               "color": "var(--cat-study)",
-              "durationText": "1 hr 15 min",
-              "timeText": "21:30 - 22:45",
+              "durationText": "2 hr 20 min",
+              "timeText": "21:30 - 23:50",
               "dateText": "2026-07-09"
             },
             "className": "cat-study"
@@ -46272,13 +46272,13 @@
         "key": "2026-07-09",
         "label": "2026-07-09",
         "unit": "hour",
-        "totalMinutes": 75,
+        "totalMinutes": 140,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
-            "minutes": 75,
+            "minutes": 140,
             "percent": 1
           }
         ],
@@ -46401,12 +46401,12 @@
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 45
+                "minutes": 60
               },
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 50
               }
             ],
             "subcategories": [
@@ -46415,24 +46415,24 @@
                 "categoryId": "study",
                 "label": "Practice",
                 "color": "var(--cat-study)",
-                "minutes": 75,
+                "minutes": 140,
                 "percent": 1
               }
             ],
             "events": [
               {
                 "eventNodeId": "fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
-                "label": "SPME-GC-MS开始上样",
+                "label": "SPME-GC-MS s0尝试",
                 "dateLabel": "",
-                "timeLabel": "21:30 - 22:45",
-                "compactDuration": "1h15m",
-                "fullLabel": "21:30 - 22:45 SPME-GC-MS开始上样",
-                "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+                "timeLabel": "21:30 - 23:50",
+                "compactDuration": "2h20m",
+                "fullLabel": "21:30 - 23:50 SPME-GC-MS s0尝试",
+                "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
                 "status": "derived",
                 "categoryId": "study",
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
-                "minutes": 75
+                "minutes": 140
               }
             ]
           }
@@ -46557,28 +46557,28 @@
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 45
+                "minutes": 60
               },
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 50
               }
             ],
             "events": [
               {
                 "eventNodeId": "fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
-                "label": "SPME-GC-MS开始上样",
+                "label": "SPME-GC-MS s0尝试",
                 "dateLabel": "",
-                "timeLabel": "21:30 - 22:45",
-                "compactDuration": "1h15m",
-                "fullLabel": "21:30 - 22:45 SPME-GC-MS开始上样",
-                "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+                "timeLabel": "21:30 - 23:50",
+                "compactDuration": "2h20m",
+                "fullLabel": "21:30 - 23:50 SPME-GC-MS s0尝试",
+                "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
                 "status": "derived",
                 "categoryId": "study",
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
-                "minutes": 75
+                "minutes": 140
               }
             ]
           }
@@ -56627,42 +56627,42 @@
         "key": "2026-07-06",
         "label": "Week of 2026-07-06",
         "unit": "day",
-        "totalMinutes": 2601,
+        "totalMinutes": 2666,
         "categories": [
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.3618
+            "percent": 0.353
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 866,
-            "percent": 0.3329
+            "percent": 0.3248
           },
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
-            "minutes": 540,
-            "percent": 0.2076
+            "minutes": 605,
+            "percent": 0.2269
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 189,
-            "percent": 0.0727
+            "percent": 0.0709
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 65,
-            "percent": 0.025
+            "percent": 0.0244
           }
         ],
         "categoryDetails": {
@@ -57003,7 +57003,7 @@
               {
                 "label": "07-09",
                 "key": "2026-07-09",
-                "minutes": 75
+                "minutes": 140
               },
               {
                 "label": "07-10",
@@ -57027,7 +57027,7 @@
                 "categoryId": "study",
                 "label": "Practice",
                 "color": "var(--cat-study)",
-                "minutes": 540,
+                "minutes": 605,
                 "percent": 1
               }
             ],
@@ -57076,17 +57076,17 @@
               },
               {
                 "eventNodeId": "fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
-                "label": "SPME-GC-MS开始上样",
+                "label": "SPME-GC-MS s0尝试",
                 "dateLabel": "07-09",
-                "timeLabel": "21:30 - 22:45",
-                "compactDuration": "1h15m",
-                "fullLabel": "07-09 21:30 - 22:45 SPME-GC-MS开始上样",
-                "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+                "timeLabel": "21:30 - 23:50",
+                "compactDuration": "2h20m",
+                "fullLabel": "07-09 21:30 - 23:50 SPME-GC-MS s0尝试",
+                "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
                 "status": "derived",
                 "categoryId": "study",
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
-                "minutes": 75
+                "minutes": 140
               }
             ]
           },
@@ -57861,7 +57861,7 @@
               {
                 "key": "2026-07-09",
                 "label": "07-09",
-                "minutes": 75
+                "minutes": 140
               },
               {
                 "key": "2026-07-10",
@@ -57924,17 +57924,17 @@
               },
               {
                 "eventNodeId": "fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
-                "label": "SPME-GC-MS开始上样",
+                "label": "SPME-GC-MS s0尝试",
                 "dateLabel": "07-09",
-                "timeLabel": "21:30 - 22:45",
-                "compactDuration": "1h15m",
-                "fullLabel": "07-09 21:30 - 22:45 SPME-GC-MS开始上样",
-                "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+                "timeLabel": "21:30 - 23:50",
+                "compactDuration": "2h20m",
+                "fullLabel": "07-09 21:30 - 23:50 SPME-GC-MS s0尝试",
+                "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
                 "status": "derived",
                 "categoryId": "study",
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
-                "minutes": 75
+                "minutes": 140
               }
             ]
           }
@@ -66442,63 +66442,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 6316,
+        "totalMinutes": 6381,
         "categories": [
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 1659,
-            "percent": 0.2627
+            "percent": 0.26
           },
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
-            "minutes": 1199,
-            "percent": 0.1898
+            "minutes": 1264,
+            "percent": 0.1981
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 1135,
-            "percent": 0.1797
+            "percent": 0.1779
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.149
+            "percent": 0.1475
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 789,
-            "percent": 0.1249
+            "percent": 0.1236
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0518
+            "percent": 0.0512
           },
           {
             "categoryId": "entertainment",
             "label": "Entertainment",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0326
+            "percent": 0.0323
           },
           {
             "categoryId": "exercise",
             "label": "Exercise",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0095
+            "percent": 0.0094
           }
         ],
         "categoryDetails": {
@@ -66812,25 +66812,25 @@
               {
                 "label": "07-09",
                 "key": "2026-07-09",
-                "minutes": 75
+                "minutes": 140
               }
             ],
             "subcategories": [
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "Practice",
+                "color": "var(--cat-study)",
+                "minutes": 605,
+                "percent": 0.4786
+              },
               {
                 "subcategoryId": "study.other",
                 "categoryId": "study",
                 "label": "Other Study",
                 "color": "var(--cat-study)",
                 "minutes": 599,
-                "percent": 0.4996
-              },
-              {
-                "subcategoryId": "study.practice",
-                "categoryId": "study",
-                "label": "Practice",
-                "color": "var(--cat-study)",
-                "minutes": 540,
-                "percent": 0.4504
+                "percent": 0.4739
               },
               {
                 "subcategoryId": "study.course",
@@ -66838,7 +66838,7 @@
                 "label": "Courses",
                 "color": "var(--cat-study)",
                 "minutes": 60,
-                "percent": 0.05
+                "percent": 0.0475
               }
             ],
             "events": [
@@ -66914,17 +66914,17 @@
               },
               {
                 "eventNodeId": "fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
-                "label": "SPME-GC-MS开始上样",
+                "label": "SPME-GC-MS s0尝试",
                 "dateLabel": "07-09",
-                "timeLabel": "21:30 - 22:45",
-                "compactDuration": "1h15m",
-                "fullLabel": "07-09 21:30 - 22:45 SPME-GC-MS开始上样",
-                "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+                "timeLabel": "21:30 - 23:50",
+                "compactDuration": "2h20m",
+                "fullLabel": "07-09 21:30 - 23:50 SPME-GC-MS s0尝试",
+                "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
                 "status": "derived",
                 "categoryId": "study",
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
-                "minutes": 75
+                "minutes": 140
               }
             ]
           },
@@ -69375,7 +69375,7 @@
               {
                 "key": "2026-07-09",
                 "label": "07-09",
-                "minutes": 75
+                "minutes": 140
               }
             ],
             "events": [
@@ -69423,17 +69423,17 @@
               },
               {
                 "eventNodeId": "fact:spme-gc-ms开始上样:2026-07-09T13-30-00-000Z",
-                "label": "SPME-GC-MS开始上样",
+                "label": "SPME-GC-MS s0尝试",
                 "dateLabel": "07-09",
-                "timeLabel": "21:30 - 22:45",
-                "compactDuration": "1h15m",
-                "fullLabel": "07-09 21:30 - 22:45 SPME-GC-MS开始上样",
-                "note": "傍晚去实验室开始做GC-MS。s0开始上样，3个平行。21:30左右吸附完忘记立刻进样，补吸后进样",
+                "timeLabel": "21:30 - 23:50",
+                "compactDuration": "2h20m",
+                "fullLabel": "07-09 21:30 - 23:50 SPME-GC-MS s0尝试",
+                "note": "傍晚去实验室做GC-MS。s0处理3个平行，操作不熟练都失败了。明天继续。",
                 "status": "derived",
                 "categoryId": "study",
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
-                "minutes": 75
+                "minutes": 140
               }
             ]
           }
