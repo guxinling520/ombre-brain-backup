@@ -3067,6 +3067,59 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-11": {
+      "status": "draft",
+      "updatedAt": "2026-07-11T13:50:14.222Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:gc-ms-spme-上样:2026-07-11T07-34-00-000Z",
+          "startAt": "2026-07-11T07:34:00.000Z",
+          "endAt": "2026-07-11T08:19:00.000Z",
+          "title": "GC-MS SPME 上样",
+          "note": "台风巴威登陆前抓紧去实验室跑样。第一次平衡→吸附30min→准备进样",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:s0-vs-s20-内标法数据分析:2026-07-11T09-00-00-000Z",
+          "startAt": "2026-07-11T09:00:00.000Z",
+          "endAt": "2026-07-11T09:15:00.000Z",
+          "title": "s0 vs s20 内标法数据分析",
+          "note": "癸酸乙酯10ppm×30μL，茶粉0.5g。SI≥85过滤后48个共有化合物对比。Hexanoic acid 3-hexenyl ester↑3.90x、α-Farnesene↑2.26x、Indole↑1.95x、(E)-Nerolidol↑2.27x",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS",
+            "数据分析"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gc-ms-继续跑样:2026-07-11T09-15-00-000Z",
+          "startAt": "2026-07-11T09:15:00.000Z",
+          "endAt": "2026-07-11T13:45:00.000Z",
+          "title": "GC-MS 继续跑样",
+          "note": "测了s30三个平行、s50两个平行。台风巴威靠近，安溪晚上开始下雨",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
