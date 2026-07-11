@@ -46380,3 +46380,76 @@ INFO:     127.0.0.1:63011 - "POST /mcp HTTP/1.1" 404 Not Found
 [sync] Poll at 00:35 - nothing new.
 [2026-07-11 00:36:11] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
 [2026-07-11 00:37:13] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:37 - nothing new.
+[2026-07-11 00:38:15] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:39:17] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:39 - nothing new.
+[2026-07-11 00:40:19] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:41:21] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:41 - nothing new.
+[2026-07-11 00:42:23] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:43:25] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:43 - nothing new.
+[2026-07-11 00:44:27] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:45:29] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:45 - nothing new.
+[2026-07-11 00:46:31] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:47 - nothing new.
+[2026-07-11 00:47:33] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:48:35] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:49 - nothing new.
+[2026-07-11 00:49:37] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:50:39] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:51 - nothing new.
+[2026-07-11 00:51:41] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:52:43] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:53 - nothing new.
+[2026-07-11 00:53:46] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:54:48] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:55 - nothing new.
+[2026-07-11 00:55:50] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:56:52] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:57 - nothing new.
+[2026-07-11 00:57:54] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:58:56] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 00:59 - nothing new.
+[2026-07-11 00:59:58] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:00:23] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-11 01:00:23] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/9b5f9f6ef5f9aefa2b301f71b4108b904d7154b9 "HTTP/1.1 200 OK"
+[2026-07-11 01:00:25] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-11 01:00:27] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-11 01:00:28] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-11 01:00:28] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-11 01:00:29] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-11 01:00:29] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+[2026-07-11 01:01:00] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:01 - nothing new.
+[2026-07-11 01:02:02] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:03:04] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:03 - nothing new.
+[2026-07-11 01:04:06] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:05:08] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:05 - nothing new.
+[2026-07-11 01:06:10] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:07:12] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:07 - nothing new.
+[2026-07-11 01:08:14] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:09:16] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:09 - nothing new.
+[2026-07-11 01:10:18] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:11:20] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:11 - nothing new.
+[2026-07-11 01:12:22] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:13:24] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:13 - nothing new.
+[2026-07-11 01:14:26] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:15:29] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:15 - nothing new.
+[2026-07-11 01:16:31] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:17:33] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:17 - nothing new.
+INFO:     127.0.0.1:51987 - "GET /api/archive-search?q=22%3A29-22%3A32%20%E5%9C%A8%E5%AF%9D%E5%AE%A4%E5%88%86%E6%9E%90%20s20%20GC-MS%20%E6%95%B0%E6%8D%AE%E3%80%82%0A-%20s20%20%E6%A3%80%E5%87%BA%20364%20%E4%B8%AA%E5%B3%B0%EF%BC%8CSI%E2%89%A590%20%E7%9A%84%E6%9C%89%20103%20%E4%B8%AA%20%E2%9C%85%0A-%20%E4%B8%BB%E8%A6%81%E9%A6%99%E6%B0%94%E6%88%90%E5%88%86%EF%BC%9ALinalool%204.76%25%20%28SI%2097%29%E3%80%81Geraniol%202.68%25%20%28SI%2095%29%E3%80%81%CE%B1-Farnesene%207.82%25%E3%80%81Indole%206.90%25%0A-%20%E5%92%96%E5%95%A1%E5%9B%A0%202.13%25&limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51988 - "GET /api/archive-search?q=22%3A29-22%3A32%20%E5%9C%A8%E5%AF%9D%E5%AE%A4%E5%88%86%E6%9E%90%20s20%20GC-MS%20%E6%95%B0%E6%8D%AE%E3%80%82%0A-%20s20%20%E6%A3%80%E5%87%BA%20364%20%E4%B8%AA%E5%B3%B0%EF%BC%8CSI%E2%89%A590%20%E7%9A%84%E6%9C%89%20103%20%E4%B8%AA%20%E2%9C%85%0A-%20%E4%B8%BB%E8%A6%81%E9%A6%99%E6%B0%94%E6%88%90%E5%88%86%EF%BC%9ALinalool%204.76%25%20%28SI%2097%29%E3%80%81Geraniol%202.68%25%20&limit=3 HTTP/1.1" 200 OK
+[2026-07-11 01:18:35] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[sync] Poll at 01:19 - nothing new.
+[2026-07-11 01:19:37] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed

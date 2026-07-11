@@ -1097,3 +1097,52 @@
 [2026-07-11 00:35:09] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
 [2026-07-11 00:36:11] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
 [2026-07-11 00:37:13] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:38:15] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:39:17] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:40:19] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:41:21] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:42:23] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:43:25] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:44:27] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:45:29] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:46:31] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:47:33] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:48:35] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:49:37] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:50:39] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:51:41] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:52:43] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:53:46] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:54:48] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:55:50] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:56:52] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:57:54] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:58:56] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 00:59:58] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:00:23] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/ref/heads/main "HTTP/1.1 200 OK"
+[2026-07-11 01:00:23] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits/9b5f9f6ef5f9aefa2b301f71b4108b904d7154b9 "HTTP/1.1 200 OK"
+[2026-07-11 01:00:25] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-11 01:00:27] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-11 01:00:28] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/trees "HTTP/1.1 201 Created"
+[2026-07-11 01:00:28] httpx INFO: HTTP Request: POST https://api.github.com/repos/guxinling520/ombre-brain-backup/git/commits "HTTP/1.1 201 Created"
+[2026-07-11 01:00:29] httpx INFO: HTTP Request: PATCH https://api.github.com/repos/guxinling520/ombre-brain-backup/git/refs/heads/main "HTTP/1.1 200 OK"
+[2026-07-11 01:00:29] ombre_brain INFO: [github_sync] auto-sync ok: 475 files
+[2026-07-11 01:01:00] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:02:02] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:03:04] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:04:06] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:05:08] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:06:10] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:07:12] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:08:14] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:09:16] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:10:18] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:11:20] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:12:22] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:13:24] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:14:26] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:15:29] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:16:31] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:17:33] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:18:35] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
+[2026-07-11 01:19:37] ombre_brain WARNING: Keepalive ping failed / 保活 ping 失败: All connection attempts failed
