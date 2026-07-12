@@ -3120,6 +3120,134 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-12": {
+      "status": "draft",
+      "updatedAt": "2026-07-12T14:30:08.411Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:到工位:2026-07-12T06-00-00-000Z",
+          "startAt": "2026-07-12T06:00:00.000Z",
+          "endAt": "2026-07-12T06:10:00.000Z",
+          "title": "到工位",
+          "note": "周末到工位，老化SPME针头准备跑样",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gcms-runs:2026-07-12T06-10-00-000Z",
+          "startAt": "2026-07-12T06:10:00.000Z",
+          "endAt": "2026-07-12T09:00:00.000Z",
+          "title": "SPME-GC-MS跑样",
+          "note": "s50-3, s65-1/2/3, s80-1/2共6个样，s65三平行完成，s80差一个",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:写周报:2026-07-12T08-30-00-000Z",
+          "startAt": "2026-07-12T08:30:00.000Z",
+          "endAt": "2026-07-12T09:30:00.000Z",
+          "title": "写周报",
+          "note": "整理本周实验进展，生成周报.docx发给黄老师",
+          "categoryId": "work",
+          "subcategoryId": "work.writing",
+          "eventNodeId": "",
+          "tags": [
+            "周报"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:茶多酚数据分析:2026-07-12T10-00-00-000Z",
+          "startAt": "2026-07-12T10:00:00.000Z",
+          "endAt": "2026-07-12T12:00:00.000Z",
+          "title": "茶多酚数据分析",
+          "note": "6样品×6重复茶多酚数据做描述统计+单因素方差分析，生成Excel",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "数据分析",
+            "茶多酚"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:黄酮苷数据分析:2026-07-12T12-15-00-000Z",
+          "startAt": "2026-07-12T12:15:00.000Z",
+          "endAt": "2026-07-12T12:30:00.000Z",
+          "title": "黄酮苷数据分析",
+          "note": "ck~s80共6组×3重复黄酮苷数据做统计分析和ANOVA，生成Excel",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "数据分析",
+            "黄酮苷"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:spss数据格式尝试:2026-07-12T12-30-00-000Z",
+          "startAt": "2026-07-12T12:30:00.000Z",
+          "endAt": "2026-07-12T13:00:00.000Z",
+          "title": "SPSS数据格式尝试",
+          "note": "尝试.sps语法→.sav→CSV，最终用CSV在SPSS v19打开",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "数据分析",
+            "SPSS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:github代码提交:2026-07-12T13-32-00-000Z",
+          "startAt": "2026-07-12T13:32:00.000Z",
+          "endAt": "2026-07-12T13:44:00.000Z",
+          "title": "GitHub代码提交",
+          "note": "提交cyberboss代码更新，检查zaizai-baseline/memory仓库",
+          "categoryId": "work",
+          "subcategoryId": "work.coding",
+          "eventNodeId": "",
+          "tags": [
+            "git"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:回寝室:2026-07-12T14-29-00-000Z",
+          "startAt": "2026-07-12T14:29:00.000Z",
+          "endAt": "2026-07-12T14:35:00.000Z",
+          "title": "回寝室",
+          "note": "一天实验结束，困了",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
