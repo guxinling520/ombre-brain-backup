@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T14:30:13.691Z",
-    "updatedAt": "2026-07-12T14:30:08.416Z",
-    "taxonomyUpdatedAt": "2026-07-12T14:30:08.415Z",
-    "factsUpdatedAt": "2026-07-12T14:30:08.416Z",
+    "generatedAt": "2026-07-12T15:55:54.346Z",
+    "updatedAt": "2026-07-12T15:55:49.774Z",
+    "taxonomyUpdatedAt": "2026-07-12T15:55:49.772Z",
+    "factsUpdatedAt": "2026-07-12T15:55:49.774Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -4207,15 +4207,15 @@
           {
             "id": "fact:回寝室:2026-07-12T14-29-00-000Z",
             "start": "2026-07-12T14:29:00.000Z",
-            "end": "2026-07-12T14:35:00.000Z",
-            "content": "回寝室 | 6m",
+            "end": "2026-07-12T14:40:00.000Z",
+            "content": "回寝室 | 11m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
               "title": "回寝室",
-              "note": "一天实验结束，困了",
+              "note": "一天实验结束，到寝室了",
               "color": "var(--cat-life)",
-              "durationText": "6分钟",
-              "timeText": "22:29 - 22:35"
+              "durationText": "11分钟",
+              "timeText": "22:29 - 22:40"
             },
             "className": "cat-life"
           }
@@ -8244,15 +8244,15 @@
             "id": "2026-07-12:fact:回寝室:2026-07-12T14-29-00-000Z",
             "group": "2026-07-12",
             "start": "2000-01-01T22:29:00+08:00",
-            "end": "2000-01-01T22:35:00+08:00",
-            "content": "回寝室 | 6m",
+            "end": "2000-01-01T22:40:00+08:00",
+            "content": "回寝室 | 11m",
             "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
             "tooltip": {
               "title": "回寝室",
-              "note": "一天实验结束，困了",
+              "note": "一天实验结束，到寝室了",
               "color": "var(--cat-life)",
-              "durationText": "6分钟",
-              "timeText": "22:29 - 22:35",
+              "durationText": "11分钟",
+              "timeText": "22:29 - 22:40",
               "dateText": "2026-07-12"
             },
             "className": "cat-life"
@@ -48203,28 +48203,28 @@
         "key": "2026-07-12",
         "label": "2026-07-12",
         "unit": "hour",
-        "totalMinutes": 423,
+        "totalMinutes": 428,
         "categories": [
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 345,
-            "percent": 0.8156
+            "percent": 0.8061
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 72,
-            "percent": 0.1702
+            "percent": 0.1682
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 6,
-            "percent": 0.0142
+            "minutes": 11,
+            "percent": 0.0257
           }
         ],
         "categoryDetails": {
@@ -48730,7 +48730,7 @@
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 6
+                "minutes": 11
               },
               {
                 "key": "23",
@@ -48744,7 +48744,7 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 6,
+                "minutes": 11,
                 "percent": 1
               }
             ],
@@ -48753,15 +48753,15 @@
                 "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
                 "label": "回寝室",
                 "dateLabel": "",
-                "timeLabel": "22:29 - 22:35",
-                "compactDuration": "6m",
-                "fullLabel": "22:29 - 22:35 回寝室",
-                "note": "一天实验结束，困了",
+                "timeLabel": "22:29 - 22:40",
+                "compactDuration": "11m",
+                "fullLabel": "22:29 - 22:40 回寝室",
+                "note": "一天实验结束，到寝室了",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 6
+                "minutes": 11
               }
             ]
           }
@@ -49374,7 +49374,7 @@
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 6
+                "minutes": 11
               },
               {
                 "key": "23",
@@ -49387,15 +49387,15 @@
                 "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
                 "label": "回寝室",
                 "dateLabel": "",
-                "timeLabel": "22:29 - 22:35",
-                "compactDuration": "6m",
-                "fullLabel": "22:29 - 22:35 回寝室",
-                "note": "一天实验结束，困了",
+                "timeLabel": "22:29 - 22:40",
+                "compactDuration": "11m",
+                "fullLabel": "22:29 - 22:40 回寝室",
+                "note": "一天实验结束，到寝室了",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 6
+                "minutes": 11
               }
             ]
           }
@@ -59444,35 +59444,35 @@
         "key": "2026-07-06",
         "label": "2026-07-06 当周",
         "unit": "day",
-        "totalMinutes": 3772,
+        "totalMinutes": 3777,
         "categories": [
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 1613,
-            "percent": 0.4276
+            "percent": 0.4271
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.2495
+            "percent": 0.2491
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 892,
-            "percent": 0.2365
+            "minutes": 897,
+            "percent": 0.2375
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 189,
-            "percent": 0.0501
+            "percent": 0.05
           },
           {
             "categoryId": "work",
@@ -59988,7 +59988,7 @@
               {
                 "label": "07-12",
                 "key": "2026-07-12",
-                "minutes": 6
+                "minutes": 11
               }
             ],
             "subcategories": [
@@ -59998,15 +59998,15 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 751,
-                "percent": 0.8419
+                "percent": 0.8372
               },
               {
                 "subcategoryId": "life.other",
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 141,
-                "percent": 0.1581
+                "minutes": 146,
+                "percent": 0.1628
               }
             ],
             "events": [
@@ -60098,15 +60098,15 @@
                 "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
                 "label": "回寝室",
                 "dateLabel": "07-12",
-                "timeLabel": "22:29 - 22:35",
-                "compactDuration": "6m",
-                "fullLabel": "07-12 22:29 - 22:35 回寝室",
-                "note": "一天实验结束，困了",
+                "timeLabel": "22:29 - 22:40",
+                "compactDuration": "11m",
+                "fullLabel": "07-12 22:29 - 22:40 回寝室",
+                "note": "一天实验结束，到寝室了",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 6
+                "minutes": 11
               }
             ]
           },
@@ -60882,7 +60882,7 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
-                "minutes": 6
+                "minutes": 11
               }
             ],
             "events": [
@@ -60904,15 +60904,15 @@
                 "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
                 "label": "回寝室",
                 "dateLabel": "07-12",
-                "timeLabel": "22:29 - 22:35",
-                "compactDuration": "6m",
-                "fullLabel": "07-12 22:29 - 22:35 回寝室",
-                "note": "一天实验结束，困了",
+                "timeLabel": "22:29 - 22:40",
+                "compactDuration": "11m",
+                "fullLabel": "07-12 22:29 - 22:40 回寝室",
+                "note": "一天实验结束，到寝室了",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 6
+                "minutes": 11
               }
             ]
           },
@@ -69866,49 +69866,49 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 7487,
+        "totalMinutes": 7492,
         "categories": [
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
             "minutes": 2272,
-            "percent": 0.3035
+            "percent": 0.3033
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1685,
-            "percent": 0.2251
+            "minutes": 1690,
+            "percent": 0.2256
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 1207,
-            "percent": 0.1612
+            "percent": 0.1611
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.1257
+            "percent": 0.1256
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 789,
-            "percent": 0.1054
+            "percent": 0.1053
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0437
+            "percent": 0.0436
           },
           {
             "categoryId": "entertainment",
@@ -70336,7 +70336,7 @@
               {
                 "label": "07-12",
                 "key": "2026-07-12",
-                "minutes": 6
+                "minutes": 11
               }
             ],
             "subcategories": [
@@ -70345,8 +70345,8 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 873,
-                "percent": 0.5181
+                "minutes": 878,
+                "percent": 0.5195
               },
               {
                 "subcategoryId": "life.meal",
@@ -70354,7 +70354,7 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 811,
-                "percent": 0.4813
+                "percent": 0.4799
               },
               {
                 "subcategoryId": "life.errand",
@@ -70566,15 +70566,15 @@
                 "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
                 "label": "回寝室",
                 "dateLabel": "07-12",
-                "timeLabel": "22:29 - 22:35",
-                "compactDuration": "6m",
-                "fullLabel": "07-12 22:29 - 22:35 回寝室",
-                "note": "一天实验结束，困了",
+                "timeLabel": "22:29 - 22:40",
+                "compactDuration": "11m",
+                "fullLabel": "07-12 22:29 - 22:40 回寝室",
+                "note": "一天实验结束，到寝室了",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 6
+                "minutes": 11
               }
             ]
           },
@@ -72306,7 +72306,7 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
-                "minutes": 6
+                "minutes": 11
               }
             ],
             "events": [
@@ -72412,15 +72412,15 @@
                 "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
                 "label": "回寝室",
                 "dateLabel": "07-12",
-                "timeLabel": "22:29 - 22:35",
-                "compactDuration": "6m",
-                "fullLabel": "07-12 22:29 - 22:35 回寝室",
-                "note": "一天实验结束，困了",
+                "timeLabel": "22:29 - 22:40",
+                "compactDuration": "11m",
+                "fullLabel": "07-12 22:29 - 22:40 回寝室",
+                "note": "一天实验结束，到寝室了",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
-                "minutes": 6
+                "minutes": 11
               }
             ]
           },

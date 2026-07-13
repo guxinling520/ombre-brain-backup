@@ -3123,7 +3123,7 @@
     },
     "2026-07-12": {
       "status": "draft",
-      "updatedAt": "2026-07-12T14:30:08.411Z",
+      "updatedAt": "2026-07-12T15:55:49.769Z",
       "source": null,
       "events": [
         {
@@ -3237,9 +3237,9 @@
         {
           "id": "fact:回寝室:2026-07-12T14-29-00-000Z",
           "startAt": "2026-07-12T14:29:00.000Z",
-          "endAt": "2026-07-12T14:35:00.000Z",
+          "endAt": "2026-07-12T14:40:00.000Z",
           "title": "回寝室",
-          "note": "一天实验结束，困了",
+          "note": "一天实验结束，到寝室了",
           "categoryId": "life",
           "subcategoryId": "life.other",
           "eventNodeId": "",
