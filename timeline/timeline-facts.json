@@ -3248,6 +3248,152 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-13": {
+      "status": "draft",
+      "updatedAt": "2026-07-13T15:01:01.525Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:起床:2026-07-13T04-38-00-000Z",
+          "startAt": "2026-07-13T04:38:00.000Z",
+          "endAt": "2026-07-13T04:40:00.000Z",
+          "title": "起床",
+          "note": "中午12:38醒",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+          "startAt": "2026-07-13T04:58:00.000Z",
+          "endAt": "2026-07-13T06:00:00.000Z",
+          "title": "讨论周报回复",
+          "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+          "categoryId": "study",
+          "subcategoryId": "study.communication",
+          "eventNodeId": "",
+          "tags": [
+            "周报"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:到工位:2026-07-13T06-00-00-000Z",
+          "startAt": "2026-07-13T06:00:00.000Z",
+          "endAt": "2026-07-13T06:10:00.000Z",
+          "title": "到实验室",
+          "note": "老化SPME针头，继续GC-MS",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gcms-2026-07-13-afternoon",
+          "startAt": "2026-07-13T06:10:00.000Z",
+          "endAt": "2026-07-13T08:00:00.000Z",
+          "title": "GC-MS跑样",
+          "note": "针头黄黑但继续跑，s80-3+重复样",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:paper-submit-2026-07-13",
+          "startAt": "2026-07-13T08:00:00.000Z",
+          "endAt": "2026-07-13T08:10:00.000Z",
+          "title": "交了一篇课程论文",
+          "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+          "categoryId": "work",
+          "subcategoryId": "work.writing",
+          "eventNodeId": "",
+          "tags": [
+            "论文"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:hplc-study-2026-07-13",
+          "startAt": "2026-07-13T11:00:00.000Z",
+          "endAt": "2026-07-13T12:00:00.000Z",
+          "title": "液相标曲学习",
+          "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "HPLC"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:晚lab-2026-07-13",
+          "startAt": "2026-07-13T12:00:00.000Z",
+          "endAt": "2026-07-13T14:30:00.000Z",
+          "title": "GC-MS晚班+准备HPLC",
+          "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS",
+            "HPLC"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:回寝-2026-07-13",
+          "startAt": "2026-07-13T15:00:00.000Z",
+          "endAt": "2026-07-13T15:05:00.000Z",
+          "title": "回寝室",
+          "note": "一天实验结束，GC-MS收工，明天上液相",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
+    },
+    "2026-07-14": {
+      "status": "draft",
+      "updatedAt": "2026-07-14T05:50:19.272Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:hplc-balance-2026-07-14",
+          "startAt": "2026-07-14T02:00:00.000Z",
+          "endAt": "2026-07-14T06:00:00.000Z",
+          "title": "HPLC开机活化+平衡",
+          "note": "Waters2695新柱子活化+平衡",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "HPLC"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T15:55:54.346Z",
-    "updatedAt": "2026-07-12T15:55:49.774Z",
-    "taxonomyUpdatedAt": "2026-07-12T15:55:49.772Z",
-    "factsUpdatedAt": "2026-07-12T15:55:49.774Z",
+    "generatedAt": "2026-07-13T15:01:07.091Z",
+    "updatedAt": "2026-07-13T15:01:01.534Z",
+    "taxonomyUpdatedAt": "2026-07-13T15:01:01.529Z",
+    "factsUpdatedAt": "2026-07-13T15:01:01.534Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -49,9 +49,10 @@
       "2026-07-09",
       "2026-07-10",
       "2026-07-11",
-      "2026-07-12"
+      "2026-07-12",
+      "2026-07-13"
     ],
-    "latestDate": "2026-07-12"
+    "latestDate": "2026-07-13"
   },
   "taxonomy": {
     "categories": [
@@ -4220,6 +4221,134 @@
             "className": "cat-life"
           }
         ]
+      },
+      "2026-07-13": {
+        "date": "2026-07-13",
+        "start": "2026-07-13T00:00:00.000+08:00",
+        "end": "2026-07-13T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:起床:2026-07-13T04-38-00-000Z",
+            "start": "2026-07-13T04:38:00.000Z",
+            "end": "2026-07-13T04:40:00.000Z",
+            "content": "起床 | 2m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "起床",
+              "note": "中午12:38醒",
+              "color": "var(--cat-life)",
+              "durationText": "2分钟",
+              "timeText": "12:38 - 12:40"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+            "start": "2026-07-13T04:58:00.000Z",
+            "end": "2026-07-13T06:00:00.000Z",
+            "content": "讨论周报回复 | 1h2m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "讨论周报回复",
+              "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+              "color": "var(--cat-study)",
+              "durationText": "1小时2分钟",
+              "timeText": "12:58 - 14:00"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:到工位:2026-07-13T06-00-00-000Z",
+            "start": "2026-07-13T06:00:00.000Z",
+            "end": "2026-07-13T06:10:00.000Z",
+            "content": "到实验室 | 10m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "到实验室",
+              "note": "老化SPME针头，继续GC-MS",
+              "color": "var(--cat-study)",
+              "durationText": "10分钟",
+              "timeText": "14:00 - 14:10"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:gcms-2026-07-13-afternoon",
+            "start": "2026-07-13T06:10:00.000Z",
+            "end": "2026-07-13T08:00:00.000Z",
+            "content": "GC-MS跑样 | 1h50m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "GC-MS跑样",
+              "note": "针头黄黑但继续跑，s80-3+重复样",
+              "color": "var(--cat-study)",
+              "durationText": "1小时50分钟",
+              "timeText": "14:10 - 16:00"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:paper-submit-2026-07-13",
+            "start": "2026-07-13T08:00:00.000Z",
+            "end": "2026-07-13T08:10:00.000Z",
+            "content": "交了一篇课程论文 | 10m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "交了一篇课程论文",
+              "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+              "color": "var(--cat-work)",
+              "durationText": "10分钟",
+              "timeText": "16:00 - 16:10"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:hplc-study-2026-07-13",
+            "start": "2026-07-13T11:00:00.000Z",
+            "end": "2026-07-13T12:00:00.000Z",
+            "content": "液相标曲学习 | 1h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "液相标曲学习",
+              "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+              "color": "var(--cat-study)",
+              "durationText": "1小时",
+              "timeText": "19:00 - 20:00"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:晚lab-2026-07-13",
+            "start": "2026-07-13T12:00:00.000Z",
+            "end": "2026-07-13T14:30:00.000Z",
+            "content": "GC-MS晚班+准备HPLC | 2h30m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "GC-MS晚班+准备HPLC",
+              "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+              "color": "var(--cat-study)",
+              "durationText": "2小时30分钟",
+              "timeText": "20:00 - 22:30"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:回寝-2026-07-13",
+            "start": "2026-07-13T15:00:00.000Z",
+            "end": "2026-07-13T15:05:00.000Z",
+            "content": "回寝室 | 5m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "一天实验结束，GC-MS收工，明天上液相",
+              "color": "var(--cat-life)",
+              "durationText": "5分钟",
+              "timeText": "23:00 - 23:05"
+            },
+            "className": "cat-life"
+          }
+        ]
       }
     },
     "week": {
@@ -8254,6 +8383,180 @@
               "durationText": "11分钟",
               "timeText": "22:29 - 22:40",
               "dateText": "2026-07-12"
+            },
+            "className": "cat-life"
+          }
+        ]
+      },
+      "2026-07-13": {
+        "key": "2026-07-13",
+        "label": "2026-07-13 当周",
+        "start": "2000-01-01T00:00:00.000+08:00",
+        "end": "2000-01-01T23:59:59.999+08:00",
+        "groups": [
+          {
+            "id": "2026-07-13",
+            "content": "周一"
+          },
+          {
+            "id": "2026-07-14",
+            "content": "周二"
+          },
+          {
+            "id": "2026-07-15",
+            "content": "周三"
+          },
+          {
+            "id": "2026-07-16",
+            "content": "周四"
+          },
+          {
+            "id": "2026-07-17",
+            "content": "周五"
+          },
+          {
+            "id": "2026-07-18",
+            "content": "周六"
+          },
+          {
+            "id": "2026-07-19",
+            "content": "周日"
+          }
+        ],
+        "items": [
+          {
+            "id": "2026-07-13:fact:起床:2026-07-13T04-38-00-000Z",
+            "group": "2026-07-13",
+            "start": "2000-01-01T12:38:00+08:00",
+            "end": "2000-01-01T12:40:00+08:00",
+            "content": "起床 | 2m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "起床",
+              "note": "中午12:38醒",
+              "color": "var(--cat-life)",
+              "durationText": "2分钟",
+              "timeText": "12:38 - 12:40",
+              "dateText": "2026-07-13"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-13:fact:讨论周报:2026-07-13T04-58-00-000Z",
+            "group": "2026-07-13",
+            "start": "2000-01-01T12:58:00+08:00",
+            "end": "2000-01-01T14:00:00+08:00",
+            "content": "讨论周报回复 | 1h2m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "讨论周报回复",
+              "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+              "color": "var(--cat-study)",
+              "durationText": "1小时2分钟",
+              "timeText": "12:58 - 14:00",
+              "dateText": "2026-07-13"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-13:fact:到工位:2026-07-13T06-00-00-000Z",
+            "group": "2026-07-13",
+            "start": "2000-01-01T14:00:00+08:00",
+            "end": "2000-01-01T14:10:00+08:00",
+            "content": "到实验室 | 10m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "到实验室",
+              "note": "老化SPME针头，继续GC-MS",
+              "color": "var(--cat-study)",
+              "durationText": "10分钟",
+              "timeText": "14:00 - 14:10",
+              "dateText": "2026-07-13"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-13:fact:gcms-2026-07-13-afternoon",
+            "group": "2026-07-13",
+            "start": "2000-01-01T14:10:00+08:00",
+            "end": "2000-01-01T16:00:00+08:00",
+            "content": "GC-MS跑样 | 1h50m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "GC-MS跑样",
+              "note": "针头黄黑但继续跑，s80-3+重复样",
+              "color": "var(--cat-study)",
+              "durationText": "1小时50分钟",
+              "timeText": "14:10 - 16:00",
+              "dateText": "2026-07-13"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-13:fact:paper-submit-2026-07-13",
+            "group": "2026-07-13",
+            "start": "2000-01-01T16:00:00+08:00",
+            "end": "2000-01-01T16:10:00+08:00",
+            "content": "交了一篇课程论文 | 10m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "交了一篇课程论文",
+              "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+              "color": "var(--cat-work)",
+              "durationText": "10分钟",
+              "timeText": "16:00 - 16:10",
+              "dateText": "2026-07-13"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-13:fact:hplc-study-2026-07-13",
+            "group": "2026-07-13",
+            "start": "2000-01-01T19:00:00+08:00",
+            "end": "2000-01-01T20:00:00+08:00",
+            "content": "液相标曲学习 | 1h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "液相标曲学习",
+              "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+              "color": "var(--cat-study)",
+              "durationText": "1小时",
+              "timeText": "19:00 - 20:00",
+              "dateText": "2026-07-13"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-13:fact:晚lab-2026-07-13",
+            "group": "2026-07-13",
+            "start": "2000-01-01T20:00:00+08:00",
+            "end": "2000-01-01T22:30:00+08:00",
+            "content": "GC-MS晚班+准备HPLC | 2h30m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "GC-MS晚班+准备HPLC",
+              "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+              "color": "var(--cat-study)",
+              "durationText": "2小时30分钟",
+              "timeText": "20:00 - 22:30",
+              "dateText": "2026-07-13"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-13:fact:回寝-2026-07-13",
+            "group": "2026-07-13",
+            "start": "2000-01-01T23:00:00+08:00",
+            "end": "2000-01-01T23:05:00+08:00",
+            "content": "回寝室 | 5m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "一天实验结束，GC-MS收工，明天上液相",
+              "color": "var(--cat-life)",
+              "durationText": "5分钟",
+              "timeText": "23:00 - 23:05",
+              "dateText": "2026-07-13"
             },
             "className": "cat-life"
           }
@@ -49400,6 +49703,1208 @@
             ]
           }
         }
+      },
+      "2026-07-13": {
+        "key": "2026-07-13",
+        "label": "2026-07-13",
+        "unit": "hour",
+        "totalMinutes": 409,
+        "categories": [
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 392,
+            "percent": 0.9584
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 10,
+            "percent": 0.0244
+          },
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 7,
+            "percent": 0.0171
+          }
+        ],
+        "categoryDetails": {
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 2
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 30
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "练习",
+                "color": "var(--cat-study)",
+                "minutes": 330,
+                "percent": 0.8418
+              },
+              {
+                "subcategoryId": "study.communication",
+                "categoryId": "study",
+                "label": "study.communication",
+                "color": "var(--cat-study)",
+                "minutes": 62,
+                "percent": 0.1582
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+                "label": "讨论周报回复",
+                "dateLabel": "",
+                "timeLabel": "12:58 - 14:00",
+                "compactDuration": "1h2m",
+                "fullLabel": "12:58 - 14:00 讨论周报回复",
+                "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.communication",
+                "subcategoryLabel": "study.communication",
+                "minutes": 62
+              },
+              {
+                "eventNodeId": "fact:到工位:2026-07-13T06-00-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "",
+                "timeLabel": "14:00 - 14:10",
+                "compactDuration": "10m",
+                "fullLabel": "14:00 - 14:10 到实验室",
+                "note": "老化SPME针头，继续GC-MS",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:gcms-2026-07-13-afternoon",
+                "label": "GC-MS跑样",
+                "dateLabel": "",
+                "timeLabel": "14:10 - 16:00",
+                "compactDuration": "1h50m",
+                "fullLabel": "14:10 - 16:00 GC-MS跑样",
+                "note": "针头黄黑但继续跑，s80-3+重复样",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 110
+              },
+              {
+                "eventNodeId": "fact:hplc-study-2026-07-13",
+                "label": "液相标曲学习",
+                "dateLabel": "",
+                "timeLabel": "19:00 - 20:00",
+                "compactDuration": "1h",
+                "fullLabel": "19:00 - 20:00 液相标曲学习",
+                "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:晚lab-2026-07-13",
+                "label": "GC-MS晚班+准备HPLC",
+                "dateLabel": "",
+                "timeLabel": "20:00 - 22:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "20:00 - 22:30 GC-MS晚班+准备HPLC",
+                "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 150
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 10
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.writing",
+                "categoryId": "work",
+                "label": "写作",
+                "color": "var(--cat-work)",
+                "minutes": 10,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:paper-submit-2026-07-13",
+                "label": "交了一篇课程论文",
+                "dateLabel": "",
+                "timeLabel": "16:00 - 16:10",
+                "compactDuration": "10m",
+                "fullLabel": "16:00 - 16:10 交了一篇课程论文",
+                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.writing",
+                "subcategoryLabel": "work.writing",
+                "minutes": 10
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 2
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 5
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 7,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
+                "label": "起床",
+                "dateLabel": "",
+                "timeLabel": "12:38 - 12:40",
+                "compactDuration": "2m",
+                "fullLabel": "12:38 - 12:40 起床",
+                "note": "中午12:38醒",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:回寝-2026-07-13",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:00 - 23:05",
+                "compactDuration": "5m",
+                "fullLabel": "23:00 - 23:05 回寝室",
+                "note": "一天实验结束，GC-MS收工，明天上液相",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 5
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "life.other": {
+            "subcategoryId": "life.other",
+            "categoryId": "life",
+            "label": "其他生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 2
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 5
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
+                "label": "起床",
+                "dateLabel": "",
+                "timeLabel": "12:38 - 12:40",
+                "compactDuration": "2m",
+                "fullLabel": "12:38 - 12:40 起床",
+                "note": "中午12:38醒",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:回寝-2026-07-13",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:00 - 23:05",
+                "compactDuration": "5m",
+                "fullLabel": "23:00 - 23:05 回寝室",
+                "note": "一天实验结束，GC-MS收工，明天上液相",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 5
+              }
+            ]
+          },
+          "study.communication": {
+            "subcategoryId": "study.communication",
+            "categoryId": "study",
+            "label": "study.communication",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 2
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+                "label": "讨论周报回复",
+                "dateLabel": "",
+                "timeLabel": "12:58 - 14:00",
+                "compactDuration": "1h2m",
+                "fullLabel": "12:58 - 14:00 讨论周报回复",
+                "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.communication",
+                "subcategoryLabel": "study.communication",
+                "minutes": 62
+              }
+            ]
+          },
+          "study.practice": {
+            "subcategoryId": "study.practice",
+            "categoryId": "study",
+            "label": "练习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 30
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到工位:2026-07-13T06-00-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "",
+                "timeLabel": "14:00 - 14:10",
+                "compactDuration": "10m",
+                "fullLabel": "14:00 - 14:10 到实验室",
+                "note": "老化SPME针头，继续GC-MS",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:gcms-2026-07-13-afternoon",
+                "label": "GC-MS跑样",
+                "dateLabel": "",
+                "timeLabel": "14:10 - 16:00",
+                "compactDuration": "1h50m",
+                "fullLabel": "14:10 - 16:00 GC-MS跑样",
+                "note": "针头黄黑但继续跑，s80-3+重复样",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 110
+              },
+              {
+                "eventNodeId": "fact:hplc-study-2026-07-13",
+                "label": "液相标曲学习",
+                "dateLabel": "",
+                "timeLabel": "19:00 - 20:00",
+                "compactDuration": "1h",
+                "fullLabel": "19:00 - 20:00 液相标曲学习",
+                "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:晚lab-2026-07-13",
+                "label": "GC-MS晚班+准备HPLC",
+                "dateLabel": "",
+                "timeLabel": "20:00 - 22:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "20:00 - 22:30 GC-MS晚班+准备HPLC",
+                "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 150
+              }
+            ]
+          },
+          "work.writing": {
+            "subcategoryId": "work.writing",
+            "categoryId": "work",
+            "label": "写作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 10
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:paper-submit-2026-07-13",
+                "label": "交了一篇课程论文",
+                "dateLabel": "",
+                "timeLabel": "16:00 - 16:10",
+                "compactDuration": "10m",
+                "fullLabel": "16:00 - 16:10 交了一篇课程论文",
+                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.writing",
+                "subcategoryLabel": "work.writing",
+                "minutes": 10
+              }
+            ]
+          }
+        }
       }
     },
     "week": {
@@ -61363,6 +62868,613 @@
             ]
           }
         }
+      },
+      "2026-07-13": {
+        "key": "2026-07-13",
+        "label": "2026-07-13 当周",
+        "unit": "day",
+        "totalMinutes": 409,
+        "categories": [
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 392,
+            "percent": 0.9584
+          },
+          {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "minutes": 10,
+            "percent": 0.0244
+          },
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 7,
+            "percent": 0.0171
+          }
+        ],
+        "categoryDetails": {
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 392
+              },
+              {
+                "label": "07-14",
+                "key": "2026-07-14",
+                "minutes": 0
+              },
+              {
+                "label": "07-15",
+                "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
+              },
+              {
+                "label": "07-19",
+                "key": "2026-07-19",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "练习",
+                "color": "var(--cat-study)",
+                "minutes": 330,
+                "percent": 0.8418
+              },
+              {
+                "subcategoryId": "study.communication",
+                "categoryId": "study",
+                "label": "study.communication",
+                "color": "var(--cat-study)",
+                "minutes": 62,
+                "percent": 0.1582
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+                "label": "讨论周报回复",
+                "dateLabel": "07-13",
+                "timeLabel": "12:58 - 14:00",
+                "compactDuration": "1h2m",
+                "fullLabel": "07-13 12:58 - 14:00 讨论周报回复",
+                "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.communication",
+                "subcategoryLabel": "study.communication",
+                "minutes": 62
+              },
+              {
+                "eventNodeId": "fact:到工位:2026-07-13T06-00-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-13",
+                "timeLabel": "14:00 - 14:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 14:00 - 14:10 到实验室",
+                "note": "老化SPME针头，继续GC-MS",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:gcms-2026-07-13-afternoon",
+                "label": "GC-MS跑样",
+                "dateLabel": "07-13",
+                "timeLabel": "14:10 - 16:00",
+                "compactDuration": "1h50m",
+                "fullLabel": "07-13 14:10 - 16:00 GC-MS跑样",
+                "note": "针头黄黑但继续跑，s80-3+重复样",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 110
+              },
+              {
+                "eventNodeId": "fact:hplc-study-2026-07-13",
+                "label": "液相标曲学习",
+                "dateLabel": "07-13",
+                "timeLabel": "19:00 - 20:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-13 19:00 - 20:00 液相标曲学习",
+                "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:晚lab-2026-07-13",
+                "label": "GC-MS晚班+准备HPLC",
+                "dateLabel": "07-13",
+                "timeLabel": "20:00 - 22:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-13 20:00 - 22:30 GC-MS晚班+准备HPLC",
+                "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 150
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "工作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 10
+              },
+              {
+                "label": "07-14",
+                "key": "2026-07-14",
+                "minutes": 0
+              },
+              {
+                "label": "07-15",
+                "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
+              },
+              {
+                "label": "07-19",
+                "key": "2026-07-19",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.writing",
+                "categoryId": "work",
+                "label": "写作",
+                "color": "var(--cat-work)",
+                "minutes": 10,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:paper-submit-2026-07-13",
+                "label": "交了一篇课程论文",
+                "dateLabel": "07-13",
+                "timeLabel": "16:00 - 16:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 16:00 - 16:10 交了一篇课程论文",
+                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.writing",
+                "subcategoryLabel": "work.writing",
+                "minutes": 10
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 7
+              },
+              {
+                "label": "07-14",
+                "key": "2026-07-14",
+                "minutes": 0
+              },
+              {
+                "label": "07-15",
+                "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
+              },
+              {
+                "label": "07-19",
+                "key": "2026-07-19",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "其他生活",
+                "color": "var(--cat-life)",
+                "minutes": 7,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
+                "label": "起床",
+                "dateLabel": "07-13",
+                "timeLabel": "12:38 - 12:40",
+                "compactDuration": "2m",
+                "fullLabel": "07-13 12:38 - 12:40 起床",
+                "note": "中午12:38醒",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:回寝-2026-07-13",
+                "label": "回寝室",
+                "dateLabel": "07-13",
+                "timeLabel": "23:00 - 23:05",
+                "compactDuration": "5m",
+                "fullLabel": "07-13 23:00 - 23:05 回寝室",
+                "note": "一天实验结束，GC-MS收工，明天上液相",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 5
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "life.other": {
+            "subcategoryId": "life.other",
+            "categoryId": "life",
+            "label": "其他生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 7
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-19",
+                "label": "07-19",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
+                "label": "起床",
+                "dateLabel": "07-13",
+                "timeLabel": "12:38 - 12:40",
+                "compactDuration": "2m",
+                "fullLabel": "07-13 12:38 - 12:40 起床",
+                "note": "中午12:38醒",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:回寝-2026-07-13",
+                "label": "回寝室",
+                "dateLabel": "07-13",
+                "timeLabel": "23:00 - 23:05",
+                "compactDuration": "5m",
+                "fullLabel": "07-13 23:00 - 23:05 回寝室",
+                "note": "一天实验结束，GC-MS收工，明天上液相",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 5
+              }
+            ]
+          },
+          "study.communication": {
+            "subcategoryId": "study.communication",
+            "categoryId": "study",
+            "label": "study.communication",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 62
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-19",
+                "label": "07-19",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+                "label": "讨论周报回复",
+                "dateLabel": "07-13",
+                "timeLabel": "12:58 - 14:00",
+                "compactDuration": "1h2m",
+                "fullLabel": "07-13 12:58 - 14:00 讨论周报回复",
+                "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.communication",
+                "subcategoryLabel": "study.communication",
+                "minutes": 62
+              }
+            ]
+          },
+          "study.practice": {
+            "subcategoryId": "study.practice",
+            "categoryId": "study",
+            "label": "练习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 330
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-19",
+                "label": "07-19",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到工位:2026-07-13T06-00-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-13",
+                "timeLabel": "14:00 - 14:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 14:00 - 14:10 到实验室",
+                "note": "老化SPME针头，继续GC-MS",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:gcms-2026-07-13-afternoon",
+                "label": "GC-MS跑样",
+                "dateLabel": "07-13",
+                "timeLabel": "14:10 - 16:00",
+                "compactDuration": "1h50m",
+                "fullLabel": "07-13 14:10 - 16:00 GC-MS跑样",
+                "note": "针头黄黑但继续跑，s80-3+重复样",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 110
+              },
+              {
+                "eventNodeId": "fact:hplc-study-2026-07-13",
+                "label": "液相标曲学习",
+                "dateLabel": "07-13",
+                "timeLabel": "19:00 - 20:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-13 19:00 - 20:00 液相标曲学习",
+                "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:晚lab-2026-07-13",
+                "label": "GC-MS晚班+准备HPLC",
+                "dateLabel": "07-13",
+                "timeLabel": "20:00 - 22:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-13 20:00 - 22:30 GC-MS晚班+准备HPLC",
+                "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 150
+              }
+            ]
+          },
+          "work.writing": {
+            "subcategoryId": "work.writing",
+            "categoryId": "work",
+            "label": "写作",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 10
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-19",
+                "label": "07-19",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:paper-submit-2026-07-13",
+                "label": "交了一篇课程论文",
+                "dateLabel": "07-13",
+                "timeLabel": "16:00 - 16:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 16:00 - 16:10 交了一篇课程论文",
+                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.writing",
+                "subcategoryLabel": "work.writing",
+                "minutes": 10
+              }
+            ]
+          }
+        }
       }
     },
     "month": {
@@ -69866,63 +71978,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 7492,
+        "totalMinutes": 7901,
         "categories": [
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
-            "minutes": 2272,
-            "percent": 0.3033
+            "minutes": 2664,
+            "percent": 0.3372
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 1690,
-            "percent": 0.2256
+            "minutes": 1697,
+            "percent": 0.2148
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
-            "minutes": 1207,
-            "percent": 0.1611
+            "minutes": 1217,
+            "percent": 0.154
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.1256
+            "percent": 0.1191
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 789,
-            "percent": 0.1053
+            "percent": 0.0999
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0436
+            "percent": 0.0414
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0275
+            "percent": 0.0261
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.008
+            "percent": 0.0076
           }
         ],
         "categoryDetails": {
@@ -69990,6 +72102,11 @@
                 "label": "07-12",
                 "key": "2026-07-12",
                 "minutes": 345
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 392
               }
             ],
             "subcategories": [
@@ -69998,8 +72115,8 @@
                 "categoryId": "study",
                 "label": "练习",
                 "color": "var(--cat-study)",
-                "minutes": 1613,
-                "percent": 0.7099
+                "minutes": 1943,
+                "percent": 0.7294
               },
               {
                 "subcategoryId": "study.other",
@@ -70007,7 +72124,15 @@
                 "label": "其他学习",
                 "color": "var(--cat-study)",
                 "minutes": 599,
-                "percent": 0.2636
+                "percent": 0.2248
+              },
+              {
+                "subcategoryId": "study.communication",
+                "categoryId": "study",
+                "label": "study.communication",
+                "color": "var(--cat-study)",
+                "minutes": 62,
+                "percent": 0.0233
               },
               {
                 "subcategoryId": "study.course",
@@ -70015,7 +72140,7 @@
                 "label": "课程",
                 "color": "var(--cat-study)",
                 "minutes": 60,
-                "percent": 0.0264
+                "percent": 0.0225
               }
             ],
             "events": [
@@ -70270,6 +72395,76 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+                "label": "讨论周报回复",
+                "dateLabel": "07-13",
+                "timeLabel": "12:58 - 14:00",
+                "compactDuration": "1h2m",
+                "fullLabel": "07-13 12:58 - 14:00 讨论周报回复",
+                "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.communication",
+                "subcategoryLabel": "study.communication",
+                "minutes": 62
+              },
+              {
+                "eventNodeId": "fact:到工位:2026-07-13T06-00-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-13",
+                "timeLabel": "14:00 - 14:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 14:00 - 14:10 到实验室",
+                "note": "老化SPME针头，继续GC-MS",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:gcms-2026-07-13-afternoon",
+                "label": "GC-MS跑样",
+                "dateLabel": "07-13",
+                "timeLabel": "14:10 - 16:00",
+                "compactDuration": "1h50m",
+                "fullLabel": "07-13 14:10 - 16:00 GC-MS跑样",
+                "note": "针头黄黑但继续跑，s80-3+重复样",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 110
+              },
+              {
+                "eventNodeId": "fact:hplc-study-2026-07-13",
+                "label": "液相标曲学习",
+                "dateLabel": "07-13",
+                "timeLabel": "19:00 - 20:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-13 19:00 - 20:00 液相标曲学习",
+                "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:晚lab-2026-07-13",
+                "label": "GC-MS晚班+准备HPLC",
+                "dateLabel": "07-13",
+                "timeLabel": "20:00 - 22:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-13 20:00 - 22:30 GC-MS晚班+准备HPLC",
+                "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 150
               }
             ]
           },
@@ -70337,6 +72532,11 @@
                 "label": "07-12",
                 "key": "2026-07-12",
                 "minutes": 11
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 7
               }
             ],
             "subcategories": [
@@ -70345,8 +72545,8 @@
                 "categoryId": "life",
                 "label": "其他生活",
                 "color": "var(--cat-life)",
-                "minutes": 878,
-                "percent": 0.5195
+                "minutes": 885,
+                "percent": 0.5215
               },
               {
                 "subcategoryId": "life.meal",
@@ -70354,7 +72554,7 @@
                 "label": "吃饭",
                 "color": "var(--cat-life)",
                 "minutes": 811,
-                "percent": 0.4799
+                "percent": 0.4779
               },
               {
                 "subcategoryId": "life.errand",
@@ -70575,6 +72775,34 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 11
+              },
+              {
+                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
+                "label": "起床",
+                "dateLabel": "07-13",
+                "timeLabel": "12:38 - 12:40",
+                "compactDuration": "2m",
+                "fullLabel": "07-13 12:38 - 12:40 起床",
+                "note": "中午12:38醒",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:回寝-2026-07-13",
+                "label": "回寝室",
+                "dateLabel": "07-13",
+                "timeLabel": "23:00 - 23:05",
+                "compactDuration": "5m",
+                "fullLabel": "07-13 23:00 - 23:05 回寝室",
+                "note": "一天实验结束，GC-MS收工，明天上液相",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 5
               }
             ]
           },
@@ -70642,6 +72870,11 @@
                 "label": "07-12",
                 "key": "2026-07-12",
                 "minutes": 72
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 10
               }
             ],
             "subcategories": [
@@ -70651,15 +72884,15 @@
                 "label": "其他工作",
                 "color": "var(--cat-work)",
                 "minutes": 1133,
-                "percent": 0.9387
+                "percent": 0.931
               },
               {
                 "subcategoryId": "work.writing",
                 "categoryId": "work",
                 "label": "写作",
                 "color": "var(--cat-work)",
-                "minutes": 60,
-                "percent": 0.0497
+                "minutes": 70,
+                "percent": 0.0575
               },
               {
                 "subcategoryId": "work.coding",
@@ -70675,7 +72908,7 @@
                 "label": "沟通",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0017
+                "percent": 0.0016
               }
             ],
             "events": [
@@ -70916,6 +73149,20 @@
                 "subcategoryId": "work.coding",
                 "subcategoryLabel": "work.coding",
                 "minutes": 12
+              },
+              {
+                "eventNodeId": "fact:paper-submit-2026-07-13",
+                "label": "交了一篇课程论文",
+                "dateLabel": "07-13",
+                "timeLabel": "16:00 - 16:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 16:00 - 16:10 交了一篇课程论文",
+                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.writing",
+                "subcategoryLabel": "work.writing",
+                "minutes": 10
               }
             ]
           },
@@ -70982,6 +73229,11 @@
               {
                 "label": "07-12",
                 "key": "2026-07-12",
+                "minutes": 0
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
                 "minutes": 0
               }
             ],
@@ -71190,6 +73442,11 @@
                 "label": "07-12",
                 "key": "2026-07-12",
                 "minutes": 0
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -71310,6 +73567,11 @@
               {
                 "label": "07-12",
                 "key": "2026-07-12",
+                "minutes": 0
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
                 "minutes": 0
               }
             ],
@@ -71502,6 +73764,11 @@
                 "label": "07-12",
                 "key": "2026-07-12",
                 "minutes": 0
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -71594,6 +73861,11 @@
               {
                 "label": "07-12",
                 "key": "2026-07-12",
+                "minutes": 0
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
                 "minutes": 0
               }
             ],
@@ -71690,6 +73962,11 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
                 "minutes": 0
               }
             ],
@@ -71802,6 +74079,11 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
                 "minutes": 0
               }
             ],
@@ -72055,6 +74337,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -72138,6 +74425,11 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
                 "minutes": 0
               }
             ],
@@ -72223,6 +74515,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -72307,6 +74604,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 11
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 7
               }
             ],
             "events": [
@@ -72421,6 +74723,34 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 11
+              },
+              {
+                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
+                "label": "起床",
+                "dateLabel": "07-13",
+                "timeLabel": "12:38 - 12:40",
+                "compactDuration": "2m",
+                "fullLabel": "07-13 12:38 - 12:40 起床",
+                "note": "中午12:38醒",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:回寝-2026-07-13",
+                "label": "回寝室",
+                "dateLabel": "07-13",
+                "timeLabel": "23:00 - 23:05",
+                "compactDuration": "5m",
+                "fullLabel": "07-13 23:00 - 23:05 回寝室",
+                "note": "一天实验结束，GC-MS收工，明天上液相",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 5
               }
             ]
           },
@@ -72488,6 +74818,11 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
                 "minutes": 0
               }
             ],
@@ -72671,6 +75006,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -72769,6 +75109,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -72852,6 +75197,11 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
                 "minutes": 0
               }
             ],
@@ -73007,6 +75357,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -73090,6 +75445,11 @@
               {
                 "key": "2026-07-12",
                 "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
                 "minutes": 0
               }
             ],
@@ -73231,6 +75591,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -73329,6 +75694,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -73413,6 +75783,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 345
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 330
               }
             ],
             "events": [
@@ -73639,6 +76014,62 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:到工位:2026-07-13T06-00-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-13",
+                "timeLabel": "14:00 - 14:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 14:00 - 14:10 到实验室",
+                "note": "老化SPME针头，继续GC-MS",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:gcms-2026-07-13-afternoon",
+                "label": "GC-MS跑样",
+                "dateLabel": "07-13",
+                "timeLabel": "14:10 - 16:00",
+                "compactDuration": "1h50m",
+                "fullLabel": "07-13 14:10 - 16:00 GC-MS跑样",
+                "note": "针头黄黑但继续跑，s80-3+重复样",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 110
+              },
+              {
+                "eventNodeId": "fact:hplc-study-2026-07-13",
+                "label": "液相标曲学习",
+                "dateLabel": "07-13",
+                "timeLabel": "19:00 - 20:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-13 19:00 - 20:00 液相标曲学习",
+                "note": "梅梅带本科生做咖啡碱液相标曲，崽崽帮忙顺便学习",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:晚lab-2026-07-13",
+                "label": "GC-MS晚班+准备HPLC",
+                "dateLabel": "07-13",
+                "timeLabel": "20:00 - 22:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-13 20:00 - 22:30 GC-MS晚班+准备HPLC",
+                "note": "继续跑GC-MS重复样，同时梅梅带本科生做咖啡碱标曲，崽崽帮忙并学习明天HPLC操作",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 150
               }
             ]
           },
@@ -73707,6 +76138,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 60
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 10
               }
             ],
             "events": [
@@ -73723,6 +76159,20 @@
                 "subcategoryId": "work.writing",
                 "subcategoryLabel": "work.writing",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:paper-submit-2026-07-13",
+                "label": "交了一篇课程论文",
+                "dateLabel": "07-13",
+                "timeLabel": "16:00 - 16:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 16:00 - 16:10 交了一篇课程论文",
+                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.writing",
+                "subcategoryLabel": "work.writing",
+                "minutes": 10
               }
             ]
           },
@@ -73791,6 +76241,11 @@
                 "key": "2026-07-12",
                 "label": "07-12",
                 "minutes": 12
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
               }
             ],
             "events": [
@@ -73807,6 +76262,95 @@
                 "subcategoryId": "work.coding",
                 "subcategoryLabel": "work.coding",
                 "minutes": 12
+              }
+            ]
+          },
+          "study.communication": {
+            "subcategoryId": "study.communication",
+            "categoryId": "study",
+            "label": "study.communication",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 62
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:讨论周报:2026-07-13T04-58-00-000Z",
+                "label": "讨论周报回复",
+                "dateLabel": "07-13",
+                "timeLabel": "12:58 - 14:00",
+                "compactDuration": "1h2m",
+                "fullLabel": "07-13 12:58 - 14:00 讨论周报回复",
+                "note": "黄老师质疑茶多酚重复性，讨论怎么回复",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.communication",
+                "subcategoryLabel": "study.communication",
+                "minutes": 62
               }
             ]
           }
