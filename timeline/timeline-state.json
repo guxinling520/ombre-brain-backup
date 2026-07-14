@@ -3845,20 +3845,36 @@
     },
     "2026-07-14": {
       "status": "draft",
-      "updatedAt": "2026-07-14T05:50:19.272Z",
+      "updatedAt": "2026-07-14T14:19:39.137Z",
       "source": null,
       "events": [
         {
           "id": "fact:hplc-balance-2026-07-14",
           "startAt": "2026-07-14T02:00:00.000Z",
-          "endAt": "2026-07-14T06:00:00.000Z",
-          "title": "HPLC开机活化+平衡",
-          "note": "Waters2695新柱子活化+平衡",
+          "endAt": "2026-07-14T14:20:00.000Z",
+          "title": "HPLC开机+活化+平衡+白天实验室",
+          "note": "新柱活化平衡，GC-MS s0重复，配流动相，等标品；19:20开跑序列(overnight)，22:19离室回寝",
           "categoryId": "study",
           "subcategoryId": "study.practice",
           "eventNodeId": "",
           "tags": [
-            "HPLC"
+            "HPLC",
+            "GC-MS"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gcms-s0-repeat-2026-07-14",
+          "startAt": "2026-07-14T07:30:00.000Z",
+          "endAt": "2026-07-14T08:30:00.000Z",
+          "title": "GC-MS s0重复样",
+          "note": "等HPLC标品期间抽空做s0重复，刚才做的因搞液相用老方法作废了",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "GC-MS"
           ],
           "confidence": 0.5,
           "sourceMessageIds": []

@@ -5694,3 +5694,64 @@
 [2026-07-14 13:48:54] mcp.server.streamable_http_manager INFO: Created new transport with session ID: cc6f66c2a92346e7b3f204b599adde72
 [2026-07-14 13:48:59] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
 [2026-07-14 13:50:00] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 13:56:21] ombre_brain INFO: Ombre Brain v2.0.3
+[2026-07-14 13:56:21] ombre_brain INFO: [migration] C:\Users\Lenovo\.cyberboss\ombre-brain\buckets is empty — fresh install assumed.
+[2026-07-14 13:56:26] ombre_brain INFO: Ombre Brain starting | transport: streamable-http
+[2026-07-14 13:56:26] ombre_brain INFO: streamable-http 模式：已回灌 7 个副集工具到 /mcp
+[2026-07-14 13:56:26] ombre_brain INFO: MCP split / MCP 拆分：主连接器 /mcp（5 高频工具）+ 副连接器 /mcp-extra（6 低频工具）
+[2026-07-14 13:56:26] ombre_brain INFO: CORS middleware enabled for remote transport / 已启用 CORS 中间件
+[2026-07-14 13:56:26] ombre_brain INFO: MCP OAuth middleware enabled / MCP OAuth 中间件已启用
+[2026-07-14 13:56:26] mcp.server.streamable_http_manager INFO: StreamableHTTP session manager started
+[2026-07-14 13:56:26] mcp.server.streamable_http_manager INFO: StreamableHTTP session manager started
+[2026-07-14 13:56:27] ombre_brain.baseline_search INFO: [baseline_search] 索引完成: 7 文件, 16 段落
+[2026-07-14 13:56:27] ombre_brain INFO: [baseline_search] 索引重建完成
+[2026-07-14 13:56:27] ombre_brain.sync_integration INFO: [sync] 后台线程已启动
+[2026-07-14 13:56:27] ombre_brain INFO: [github_sync] auto-sync loop started, interval=60min
+[2026-07-14 13:56:27] ombre_brain.sync_integration INFO: [sync] 后台线程启动 sync_loop
+[2026-07-14 13:56:30] mcp.server.streamable_http_manager INFO: Created new transport with session ID: 92a33d72cdc0492bafcfde791598de5f
+[2026-07-14 13:56:30] httpx INFO: HTTP Request: POST http://127.0.0.1:8001/mcp "HTTP/1.1 200 OK"
+[2026-07-14 13:56:30] mcp.server.streamable_http_manager INFO: Created new transport with session ID: 40eb9aab1c52403981528c8b4258e67b
+[2026-07-14 13:56:31] httpx INFO: HTTP Request: GET https://api.github.com/repos/guxinling520/ombre-brain-backup "HTTP/1.1 200 OK"
+[2026-07-14 13:56:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 13:57:38] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 13:58:39] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 13:59:40] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:00:41] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:01:30] mcp.server.streamable_http_manager INFO: Session 92a33d72cdc0492bafcfde791598de5f idle timeout
+[2026-07-14 14:01:30] mcp.server.streamable_http INFO: Terminating session: 92a33d72cdc0492bafcfde791598de5f
+[2026-07-14 14:01:30] mcp.server.streamable_http_manager INFO: Session 40eb9aab1c52403981528c8b4258e67b idle timeout
+[2026-07-14 14:01:30] mcp.server.streamable_http INFO: Terminating session: 40eb9aab1c52403981528c8b4258e67b
+[2026-07-14 14:01:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:02:42] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:03:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:04:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:05:43] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:06:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:07:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:08:44] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:09:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:10:45] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:11:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:12:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:13:46] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:14:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:15:47] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:16:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:17:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:18:48] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:19:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:20:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:21:49] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:22:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:23:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:24:50] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:25:51] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:26:51] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:27:51] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:28:52] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:29:52] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:30:52] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:31:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:32:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:33:53] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
+[2026-07-14 14:34:54] httpx INFO: HTTP Request: GET http://localhost:8001/health "HTTP/1.1 200 OK"
