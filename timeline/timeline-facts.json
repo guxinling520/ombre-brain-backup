@@ -3466,6 +3466,142 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-16": {
+      "status": "final",
+      "updatedAt": "2026-07-16T14:18:11.558Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+          "startAt": "2026-07-16T04:00:00.000Z",
+          "endAt": "2026-07-16T06:00:00.000Z",
+          "title": "实验室蹲液相+写开题报告",
+          "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "opening-report",
+            "GC-MS",
+            "HPLC"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+          "startAt": "2026-07-16T04:00:00.000Z",
+          "endAt": "2026-07-16T06:00:00.000Z",
+          "title": "实验室蹲液相",
+          "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "HPLC"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+          "startAt": "2026-07-16T06:00:00.000Z",
+          "endAt": "2026-07-16T07:00:00.000Z",
+          "title": "生理期+宿舍强制断电换宿舍",
+          "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+          "categoryId": "life",
+          "subcategoryId": "life.chores",
+          "eventNodeId": "",
+          "tags": [
+            "period",
+            "moving"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+          "startAt": "2026-07-16T07:00:00.000Z",
+          "endAt": "2026-07-16T08:00:00.000Z",
+          "title": "搞Tailset登录（未成功）",
+          "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+          "categoryId": "work",
+          "subcategoryId": "work.coding",
+          "eventNodeId": "",
+          "tags": [
+            "Tailscale"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+          "startAt": "2026-07-16T07:00:00.000Z",
+          "endAt": "2026-07-16T09:00:00.000Z",
+          "title": "折腾远程访问+等搬家",
+          "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+          "categoryId": "work",
+          "subcategoryId": "work.coding",
+          "eventNodeId": "",
+          "tags": [
+            "Tailscale",
+            "tunnel",
+            "networking"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+          "startAt": "2026-07-16T09:00:00.000Z",
+          "endAt": "2026-07-16T11:30:00.000Z",
+          "title": "准备搬家",
+          "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+          "categoryId": "life",
+          "subcategoryId": "life.chores",
+          "eventNodeId": "",
+          "tags": [
+            "moving",
+            "period"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+          "startAt": "2026-07-16T11:30:00.000Z",
+          "endAt": "2026-07-16T12:00:00.000Z",
+          "title": "收拾东西准备搬家",
+          "note": "生理期第一天。收拾必备衣物和洗漱用品",
+          "categoryId": "life",
+          "subcategoryId": "life.chores",
+          "eventNodeId": "",
+          "tags": [
+            "moving",
+            "period"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+          "startAt": "2026-07-16T12:00:00.000Z",
+          "endAt": "2026-07-16T14:00:00.000Z",
+          "title": "从A6 603搬到A5 603——白搬了",
+          "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+          "categoryId": "life",
+          "subcategoryId": "life.chores",
+          "eventNodeId": "",
+          "tags": [
+            "moving",
+            "dorm",
+            "power-out"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []

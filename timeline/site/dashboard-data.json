@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-15T15:30:16.054Z",
-    "updatedAt": "2026-07-15T15:30:10.946Z",
-    "taxonomyUpdatedAt": "2026-07-15T15:30:10.943Z",
-    "factsUpdatedAt": "2026-07-15T15:30:10.946Z",
+    "generatedAt": "2026-07-16T14:18:16.624Z",
+    "updatedAt": "2026-07-16T14:18:11.566Z",
+    "taxonomyUpdatedAt": "2026-07-16T14:18:11.563Z",
+    "factsUpdatedAt": "2026-07-16T14:18:11.566Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -52,9 +52,10 @@
       "2026-07-12",
       "2026-07-13",
       "2026-07-14",
-      "2026-07-15"
+      "2026-07-15",
+      "2026-07-16"
     ],
-    "latestDate": "2026-07-15"
+    "latestDate": "2026-07-16"
   },
   "taxonomy": {
     "categories": [
@@ -4442,6 +4443,134 @@
             "className": "cat-study"
           }
         ]
+      },
+      "2026-07-16": {
+        "date": "2026-07-16",
+        "start": "2026-07-16T00:00:00.000+08:00",
+        "end": "2026-07-16T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+            "start": "2026-07-16T04:00:00.000Z",
+            "end": "2026-07-16T06:00:00.000Z",
+            "content": "实验室蹲液相+写开题报告 | 2h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "实验室蹲液相+写开题报告",
+              "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+              "color": "var(--cat-study)",
+              "durationText": "2 hr",
+              "timeText": "12:00 - 14:00"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+            "start": "2026-07-16T04:00:00.000Z",
+            "end": "2026-07-16T06:00:00.000Z",
+            "content": "实验室蹲液相 | 2h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "实验室蹲液相",
+              "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+              "color": "var(--cat-study)",
+              "durationText": "2 hr",
+              "timeText": "12:00 - 14:00"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+            "start": "2026-07-16T06:00:00.000Z",
+            "end": "2026-07-16T07:00:00.000Z",
+            "content": "生理期+宿舍强制断电换宿舍 | 1h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "生理期+宿舍强制断电换宿舍",
+              "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+              "color": "var(--cat-life)",
+              "durationText": "1 hr",
+              "timeText": "14:00 - 15:00"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+            "start": "2026-07-16T07:00:00.000Z",
+            "end": "2026-07-16T08:00:00.000Z",
+            "content": "搞Tailset登录（未成功） | 1h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "搞Tailset登录（未成功）",
+              "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr",
+              "timeText": "15:00 - 16:00"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+            "start": "2026-07-16T07:00:00.000Z",
+            "end": "2026-07-16T09:00:00.000Z",
+            "content": "折腾远程访问+等搬家 | 2h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "折腾远程访问+等搬家",
+              "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+              "color": "var(--cat-work)",
+              "durationText": "2 hr",
+              "timeText": "15:00 - 17:00"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+            "start": "2026-07-16T09:00:00.000Z",
+            "end": "2026-07-16T11:30:00.000Z",
+            "content": "准备搬家 | 2h30m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "准备搬家",
+              "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+              "color": "var(--cat-life)",
+              "durationText": "2 hr 30 min",
+              "timeText": "17:00 - 19:30"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+            "start": "2026-07-16T11:30:00.000Z",
+            "end": "2026-07-16T12:00:00.000Z",
+            "content": "收拾东西准备搬家 | 30m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "收拾东西准备搬家",
+              "note": "生理期第一天。收拾必备衣物和洗漱用品",
+              "color": "var(--cat-life)",
+              "durationText": "30 min",
+              "timeText": "19:30 - 20:00"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+            "start": "2026-07-16T12:00:00.000Z",
+            "end": "2026-07-16T14:00:00.000Z",
+            "content": "从A6 603搬到A5 603——白搬了 | 2h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "从A6 603搬到A5 603——白搬了",
+              "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+              "color": "var(--cat-life)",
+              "durationText": "2 hr",
+              "timeText": "20:00 - 22:00"
+            },
+            "className": "cat-life"
+          }
+        ]
       }
     },
     "week": {
@@ -8737,6 +8866,142 @@
               "dateText": "2026-07-15"
             },
             "className": "cat-study"
+          },
+          {
+            "id": "2026-07-16:fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T12:00:00+08:00",
+            "end": "2000-01-01T14:00:00+08:00",
+            "content": "实验室蹲液相+写开题报告 | 2h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "实验室蹲液相+写开题报告",
+              "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+              "color": "var(--cat-study)",
+              "durationText": "2 hr",
+              "timeText": "12:00 - 14:00",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-16:fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T12:00:00+08:00",
+            "end": "2000-01-01T14:00:00+08:00",
+            "content": "实验室蹲液相 | 2h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "实验室蹲液相",
+              "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+              "color": "var(--cat-study)",
+              "durationText": "2 hr",
+              "timeText": "12:00 - 14:00",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-16:fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T14:00:00+08:00",
+            "end": "2000-01-01T15:00:00+08:00",
+            "content": "生理期+宿舍强制断电换宿舍 | 1h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "生理期+宿舍强制断电换宿舍",
+              "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+              "color": "var(--cat-life)",
+              "durationText": "1 hr",
+              "timeText": "14:00 - 15:00",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-16:fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T15:00:00+08:00",
+            "end": "2000-01-01T16:00:00+08:00",
+            "content": "搞Tailset登录（未成功） | 1h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "搞Tailset登录（未成功）",
+              "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr",
+              "timeText": "15:00 - 16:00",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-16:fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T15:00:00+08:00",
+            "end": "2000-01-01T17:00:00+08:00",
+            "content": "折腾远程访问+等搬家 | 2h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "折腾远程访问+等搬家",
+              "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+              "color": "var(--cat-work)",
+              "durationText": "2 hr",
+              "timeText": "15:00 - 17:00",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-16:fact:准备搬家:2026-07-16T09-00-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T17:00:00+08:00",
+            "end": "2000-01-01T19:30:00+08:00",
+            "content": "准备搬家 | 2h30m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "准备搬家",
+              "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+              "color": "var(--cat-life)",
+              "durationText": "2 hr 30 min",
+              "timeText": "17:00 - 19:30",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-16:fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T19:30:00+08:00",
+            "end": "2000-01-01T20:00:00+08:00",
+            "content": "收拾东西准备搬家 | 30m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "收拾东西准备搬家",
+              "note": "生理期第一天。收拾必备衣物和洗漱用品",
+              "color": "var(--cat-life)",
+              "durationText": "30 min",
+              "timeText": "19:30 - 20:00",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-16:fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+            "group": "2026-07-16",
+            "start": "2000-01-01T20:00:00+08:00",
+            "end": "2000-01-01T22:00:00+08:00",
+            "content": "从A6 603搬到A5 603——白搬了 | 2h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "从A6 603搬到A5 603——白搬了",
+              "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+              "color": "var(--cat-life)",
+              "durationText": "2 hr",
+              "timeText": "20:00 - 22:00",
+              "dateText": "2026-07-16"
+            },
+            "className": "cat-life"
           }
         ]
       }
@@ -51799,6 +52064,1070 @@
             ]
           }
         }
+      },
+      "2026-07-16": {
+        "key": "2026-07-16",
+        "label": "2026-07-16",
+        "unit": "hour",
+        "totalMinutes": 780,
+        "categories": [
+          {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "minutes": 360,
+            "percent": 0.4615
+          },
+          {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "minutes": 240,
+            "percent": 0.3077
+          },
+          {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "minutes": 180,
+            "percent": 0.2308
+          }
+        ],
+        "categoryDetails": {
+          "life": {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.chores",
+                "categoryId": "life",
+                "label": "Chores",
+                "color": "var(--cat-life)",
+                "minutes": 360,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+                "label": "生理期+宿舍强制断电换宿舍",
+                "dateLabel": "",
+                "timeLabel": "14:00 - 15:00",
+                "compactDuration": "1h",
+                "fullLabel": "14:00 - 15:00 生理期+宿舍强制断电换宿舍",
+                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+                "label": "准备搬家",
+                "dateLabel": "",
+                "timeLabel": "17:00 - 19:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "17:00 - 19:30 准备搬家",
+                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+                "label": "收拾东西准备搬家",
+                "dateLabel": "",
+                "timeLabel": "19:30 - 20:00",
+                "compactDuration": "30m",
+                "fullLabel": "19:30 - 20:00 收拾东西准备搬家",
+                "note": "生理期第一天。收拾必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+                "label": "从A6 603搬到A5 603——白搬了",
+                "dateLabel": "",
+                "timeLabel": "20:00 - 22:00",
+                "compactDuration": "2h",
+                "fullLabel": "20:00 - 22:00 从A6 603搬到A5 603——白搬了",
+                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 120
+              }
+            ]
+          },
+          "study": {
+            "categoryId": "study",
+            "label": "Study",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 120
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 120
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "Practice",
+                "color": "var(--cat-study)",
+                "minutes": 240,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相+写开题报告",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "12:00 - 14:00 实验室蹲液相+写开题报告",
+                "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "12:00 - 14:00 实验室蹲液相",
+                "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 120
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.coding",
+                "categoryId": "work",
+                "label": "Coding",
+                "color": "var(--cat-work)",
+                "minutes": 180,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+                "label": "搞Tailset登录（未成功）",
+                "dateLabel": "",
+                "timeLabel": "15:00 - 16:00",
+                "compactDuration": "1h",
+                "fullLabel": "15:00 - 16:00 搞Tailset登录（未成功）",
+                "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+                "label": "折腾远程访问+等搬家",
+                "dateLabel": "",
+                "timeLabel": "15:00 - 17:00",
+                "compactDuration": "2h",
+                "fullLabel": "15:00 - 17:00 折腾远程访问+等搬家",
+                "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 120
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "study.practice": {
+            "subcategoryId": "study.practice",
+            "categoryId": "study",
+            "label": "Practice",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 120
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 120
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相+写开题报告",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "12:00 - 14:00 实验室蹲液相+写开题报告",
+                "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "12:00 - 14:00 实验室蹲液相",
+                "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              }
+            ]
+          },
+          "life.chores": {
+            "subcategoryId": "life.chores",
+            "categoryId": "life",
+            "label": "Chores",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 60
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 60
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 60
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 60
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+                "label": "生理期+宿舍强制断电换宿舍",
+                "dateLabel": "",
+                "timeLabel": "14:00 - 15:00",
+                "compactDuration": "1h",
+                "fullLabel": "14:00 - 15:00 生理期+宿舍强制断电换宿舍",
+                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+                "label": "准备搬家",
+                "dateLabel": "",
+                "timeLabel": "17:00 - 19:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "17:00 - 19:30 准备搬家",
+                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+                "label": "收拾东西准备搬家",
+                "dateLabel": "",
+                "timeLabel": "19:30 - 20:00",
+                "compactDuration": "30m",
+                "fullLabel": "19:30 - 20:00 收拾东西准备搬家",
+                "note": "生理期第一天。收拾必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+                "label": "从A6 603搬到A5 603——白搬了",
+                "dateLabel": "",
+                "timeLabel": "20:00 - 22:00",
+                "compactDuration": "2h",
+                "fullLabel": "20:00 - 22:00 从A6 603搬到A5 603——白搬了",
+                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 120
+              }
+            ]
+          },
+          "work.coding": {
+            "subcategoryId": "work.coding",
+            "categoryId": "work",
+            "label": "Coding",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 120
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+                "label": "搞Tailset登录（未成功）",
+                "dateLabel": "",
+                "timeLabel": "15:00 - 16:00",
+                "compactDuration": "1h",
+                "fullLabel": "15:00 - 16:00 搞Tailset登录（未成功）",
+                "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+                "label": "折腾远程访问+等搬家",
+                "dateLabel": "",
+                "timeLabel": "15:00 - 17:00",
+                "compactDuration": "2h",
+                "fullLabel": "15:00 - 17:00 折腾远程访问+等搬家",
+                "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 120
+              }
+            ]
+          }
+        }
       }
     },
     "week": {
@@ -63767,28 +65096,28 @@
         "key": "2026-07-13",
         "label": "Week of 2026-07-13",
         "unit": "day",
-        "totalMinutes": 2109,
+        "totalMinutes": 2889,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
-            "minutes": 2092,
-            "percent": 0.9919
-          },
-          {
-            "categoryId": "work",
-            "label": "Work",
-            "color": "var(--cat-work)",
-            "minutes": 10,
-            "percent": 0.0047
+            "minutes": 2332,
+            "percent": 0.8072
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 7,
-            "percent": 0.0033
+            "minutes": 367,
+            "percent": 0.127
+          },
+          {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "minutes": 190,
+            "percent": 0.0658
           }
         ],
         "categoryDetails": {
@@ -63815,7 +65144,7 @@
               {
                 "label": "07-16",
                 "key": "2026-07-16",
-                "minutes": 0
+                "minutes": 240
               },
               {
                 "label": "07-17",
@@ -63839,8 +65168,8 @@
                 "categoryId": "study",
                 "label": "Practice",
                 "color": "var(--cat-study)",
-                "minutes": 2030,
-                "percent": 0.9704
+                "minutes": 2270,
+                "percent": 0.9734
               },
               {
                 "subcategoryId": "study.communication",
@@ -63848,7 +65177,7 @@
                 "label": "study.communication",
                 "color": "var(--cat-study)",
                 "minutes": 62,
-                "percent": 0.0296
+                "percent": 0.0266
               }
             ],
             "events": [
@@ -63991,74 +65320,34 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 30
-              }
-            ]
-          },
-          "work": {
-            "categoryId": "work",
-            "label": "Work",
-            "color": "var(--cat-work)",
-            "trend": [
-              {
-                "label": "07-13",
-                "key": "2026-07-13",
-                "minutes": 10
               },
               {
-                "label": "07-14",
-                "key": "2026-07-14",
-                "minutes": 0
-              },
-              {
-                "label": "07-15",
-                "key": "2026-07-15",
-                "minutes": 0
-              },
-              {
-                "label": "07-16",
-                "key": "2026-07-16",
-                "minutes": 0
-              },
-              {
-                "label": "07-17",
-                "key": "2026-07-17",
-                "minutes": 0
-              },
-              {
-                "label": "07-18",
-                "key": "2026-07-18",
-                "minutes": 0
-              },
-              {
-                "label": "07-19",
-                "key": "2026-07-19",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "work.writing",
-                "categoryId": "work",
-                "label": "Writing",
-                "color": "var(--cat-work)",
-                "minutes": 10,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:paper-submit-2026-07-13",
-                "label": "交了一篇课程论文",
-                "dateLabel": "07-13",
-                "timeLabel": "16:00 - 16:10",
-                "compactDuration": "10m",
-                "fullLabel": "07-13 16:00 - 16:10 交了一篇课程论文",
-                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "eventNodeId": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相+写开题报告",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相+写开题报告",
+                "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
                 "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.writing",
-                "subcategoryLabel": "work.writing",
-                "minutes": 10
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相",
+                "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
               }
             ]
           },
@@ -64085,7 +65374,7 @@
               {
                 "label": "07-16",
                 "key": "2026-07-16",
-                "minutes": 0
+                "minutes": 360
               },
               {
                 "label": "07-17",
@@ -64105,12 +65394,20 @@
             ],
             "subcategories": [
               {
+                "subcategoryId": "life.chores",
+                "categoryId": "life",
+                "label": "Chores",
+                "color": "var(--cat-life)",
+                "minutes": 360,
+                "percent": 0.9809
+              },
+              {
                 "subcategoryId": "life.other",
                 "categoryId": "life",
                 "label": "Other Life",
                 "color": "var(--cat-life)",
                 "minutes": 7,
-                "percent": 1
+                "percent": 0.0191
               }
             ],
             "events": [
@@ -64141,6 +65438,166 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 5
+              },
+              {
+                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+                "label": "生理期+宿舍强制断电换宿舍",
+                "dateLabel": "07-16",
+                "timeLabel": "14:00 - 15:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 14:00 - 15:00 生理期+宿舍强制断电换宿舍",
+                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+                "label": "准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "17:00 - 19:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-16 17:00 - 19:30 准备搬家",
+                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+                "label": "收拾东西准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "19:30 - 20:00",
+                "compactDuration": "30m",
+                "fullLabel": "07-16 19:30 - 20:00 收拾东西准备搬家",
+                "note": "生理期第一天。收拾必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+                "label": "从A6 603搬到A5 603——白搬了",
+                "dateLabel": "07-16",
+                "timeLabel": "20:00 - 22:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 20:00 - 22:00 从A6 603搬到A5 603——白搬了",
+                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 120
+              }
+            ]
+          },
+          "work": {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 10
+              },
+              {
+                "label": "07-14",
+                "key": "2026-07-14",
+                "minutes": 0
+              },
+              {
+                "label": "07-15",
+                "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 180
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
+              },
+              {
+                "label": "07-19",
+                "key": "2026-07-19",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.coding",
+                "categoryId": "work",
+                "label": "Coding",
+                "color": "var(--cat-work)",
+                "minutes": 180,
+                "percent": 0.9474
+              },
+              {
+                "subcategoryId": "work.writing",
+                "categoryId": "work",
+                "label": "Writing",
+                "color": "var(--cat-work)",
+                "minutes": 10,
+                "percent": 0.0526
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:paper-submit-2026-07-13",
+                "label": "交了一篇课程论文",
+                "dateLabel": "07-13",
+                "timeLabel": "16:00 - 16:10",
+                "compactDuration": "10m",
+                "fullLabel": "07-13 16:00 - 16:10 交了一篇课程论文",
+                "note": "茶叶智慧生产与加工课程论文，直接交PDF没改格式",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.writing",
+                "subcategoryLabel": "work.writing",
+                "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+                "label": "搞Tailset登录（未成功）",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 16:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 15:00 - 16:00 搞Tailset登录（未成功）",
+                "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+                "label": "折腾远程访问+等搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 17:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 15:00 - 17:00 折腾远程访问+等搬家",
+                "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 120
               }
             ]
           }
@@ -64302,7 +65759,7 @@
               {
                 "key": "2026-07-16",
                 "label": "07-16",
-                "minutes": 0
+                "minutes": 240
               },
               {
                 "key": "2026-07-17",
@@ -64446,6 +65903,34 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相+写开题报告",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相+写开题报告",
+                "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相",
+                "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
               }
             ]
           },
@@ -64505,6 +65990,180 @@
                 "subcategoryId": "work.writing",
                 "subcategoryLabel": "work.writing",
                 "minutes": 10
+              }
+            ]
+          },
+          "life.chores": {
+            "subcategoryId": "life.chores",
+            "categoryId": "life",
+            "label": "Chores",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 360
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-19",
+                "label": "07-19",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+                "label": "生理期+宿舍强制断电换宿舍",
+                "dateLabel": "07-16",
+                "timeLabel": "14:00 - 15:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 14:00 - 15:00 生理期+宿舍强制断电换宿舍",
+                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+                "label": "准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "17:00 - 19:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-16 17:00 - 19:30 准备搬家",
+                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+                "label": "收拾东西准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "19:30 - 20:00",
+                "compactDuration": "30m",
+                "fullLabel": "07-16 19:30 - 20:00 收拾东西准备搬家",
+                "note": "生理期第一天。收拾必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+                "label": "从A6 603搬到A5 603——白搬了",
+                "dateLabel": "07-16",
+                "timeLabel": "20:00 - 22:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 20:00 - 22:00 从A6 603搬到A5 603——白搬了",
+                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 120
+              }
+            ]
+          },
+          "work.coding": {
+            "subcategoryId": "work.coding",
+            "categoryId": "work",
+            "label": "Coding",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 180
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-19",
+                "label": "07-19",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+                "label": "搞Tailset登录（未成功）",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 16:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 15:00 - 16:00 搞Tailset登录（未成功）",
+                "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+                "label": "折腾远程访问+等搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 17:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 15:00 - 17:00 折腾远程访问+等搬家",
+                "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 120
               }
             ]
           }
@@ -73012,63 +74671,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 9601,
+        "totalMinutes": 10381,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
-            "minutes": 4364,
-            "percent": 0.4545
+            "minutes": 4604,
+            "percent": 0.4435
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 1697,
-            "percent": 0.1768
+            "minutes": 2057,
+            "percent": 0.1982
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 1217,
-            "percent": 0.1268
+            "minutes": 1397,
+            "percent": 0.1346
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.098
+            "percent": 0.0906
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 789,
-            "percent": 0.0822
+            "percent": 0.076
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0341
+            "percent": 0.0315
           },
           {
             "categoryId": "entertainment",
             "label": "Entertainment",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0215
+            "percent": 0.0198
           },
           {
             "categoryId": "exercise",
             "label": "Exercise",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0062
+            "percent": 0.0058
           }
         ],
         "categoryDetails": {
@@ -73151,6 +74810,11 @@
                 "label": "07-15",
                 "key": "2026-07-15",
                 "minutes": 900
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 240
               }
             ],
             "subcategories": [
@@ -73159,8 +74823,8 @@
                 "categoryId": "study",
                 "label": "Practice",
                 "color": "var(--cat-study)",
-                "minutes": 3643,
-                "percent": 0.8348
+                "minutes": 3883,
+                "percent": 0.8434
               },
               {
                 "subcategoryId": "study.other",
@@ -73168,7 +74832,7 @@
                 "label": "Other Study",
                 "color": "var(--cat-study)",
                 "minutes": 599,
-                "percent": 0.1373
+                "percent": 0.1301
               },
               {
                 "subcategoryId": "study.communication",
@@ -73176,7 +74840,7 @@
                 "label": "study.communication",
                 "color": "var(--cat-study)",
                 "minutes": 62,
-                "percent": 0.0142
+                "percent": 0.0135
               },
               {
                 "subcategoryId": "study.course",
@@ -73184,7 +74848,7 @@
                 "label": "Courses",
                 "color": "var(--cat-study)",
                 "minutes": 60,
-                "percent": 0.0137
+                "percent": 0.013
               }
             ],
             "events": [
@@ -73579,6 +75243,34 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相+写开题报告",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相+写开题报告",
+                "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相",
+                "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
               }
             ]
           },
@@ -73661,6 +75353,11 @@
                 "label": "07-15",
                 "key": "2026-07-15",
                 "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 360
               }
             ],
             "subcategories": [
@@ -73670,7 +75367,7 @@
                 "label": "Other Life",
                 "color": "var(--cat-life)",
                 "minutes": 885,
-                "percent": 0.5215
+                "percent": 0.4302
               },
               {
                 "subcategoryId": "life.meal",
@@ -73678,7 +75375,15 @@
                 "label": "Meals",
                 "color": "var(--cat-life)",
                 "minutes": 811,
-                "percent": 0.4779
+                "percent": 0.3943
+              },
+              {
+                "subcategoryId": "life.chores",
+                "categoryId": "life",
+                "label": "Chores",
+                "color": "var(--cat-life)",
+                "minutes": 360,
+                "percent": 0.175
               },
               {
                 "subcategoryId": "life.errand",
@@ -73686,7 +75391,7 @@
                 "label": "Errands",
                 "color": "var(--cat-life)",
                 "minutes": 1,
-                "percent": 0.0006
+                "percent": 0.0005
               }
             ],
             "events": [
@@ -73927,6 +75632,62 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 5
+              },
+              {
+                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+                "label": "生理期+宿舍强制断电换宿舍",
+                "dateLabel": "07-16",
+                "timeLabel": "14:00 - 15:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 14:00 - 15:00 生理期+宿舍强制断电换宿舍",
+                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+                "label": "准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "17:00 - 19:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-16 17:00 - 19:30 准备搬家",
+                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+                "label": "收拾东西准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "19:30 - 20:00",
+                "compactDuration": "30m",
+                "fullLabel": "07-16 19:30 - 20:00 收拾东西准备搬家",
+                "note": "生理期第一天。收拾必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+                "label": "从A6 603搬到A5 603——白搬了",
+                "dateLabel": "07-16",
+                "timeLabel": "20:00 - 22:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 20:00 - 22:00 从A6 603搬到A5 603——白搬了",
+                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 120
               }
             ]
           },
@@ -74009,6 +75770,11 @@
                 "label": "07-15",
                 "key": "2026-07-15",
                 "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 180
               }
             ],
             "subcategories": [
@@ -74018,7 +75784,15 @@
                 "label": "Other Work",
                 "color": "var(--cat-work)",
                 "minutes": 1133,
-                "percent": 0.931
+                "percent": 0.811
+              },
+              {
+                "subcategoryId": "work.coding",
+                "categoryId": "work",
+                "label": "Coding",
+                "color": "var(--cat-work)",
+                "minutes": 192,
+                "percent": 0.1374
               },
               {
                 "subcategoryId": "work.writing",
@@ -74026,15 +75800,7 @@
                 "label": "Writing",
                 "color": "var(--cat-work)",
                 "minutes": 70,
-                "percent": 0.0575
-              },
-              {
-                "subcategoryId": "work.coding",
-                "categoryId": "work",
-                "label": "Coding",
-                "color": "var(--cat-work)",
-                "minutes": 12,
-                "percent": 0.0099
+                "percent": 0.0501
               },
               {
                 "subcategoryId": "work.communication",
@@ -74042,7 +75808,7 @@
                 "label": "Communication",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0016
+                "percent": 0.0014
               }
             ],
             "events": [
@@ -74297,6 +76063,34 @@
                 "subcategoryId": "work.writing",
                 "subcategoryLabel": "work.writing",
                 "minutes": 10
+              },
+              {
+                "eventNodeId": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+                "label": "搞Tailset登录（未成功）",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 16:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 15:00 - 16:00 搞Tailset登录（未成功）",
+                "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+                "label": "折腾远程访问+等搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 17:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 15:00 - 17:00 折腾远程访问+等搬家",
+                "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 120
               }
             ]
           },
@@ -74378,6 +76172,11 @@
               {
                 "label": "07-15",
                 "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
                 "minutes": 0
               }
             ],
@@ -74601,6 +76400,11 @@
                 "label": "07-15",
                 "key": "2026-07-15",
                 "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -74736,6 +76540,11 @@
               {
                 "label": "07-15",
                 "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
                 "minutes": 0
               }
             ],
@@ -74943,6 +76752,11 @@
                 "label": "07-15",
                 "key": "2026-07-15",
                 "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -75050,6 +76864,11 @@
               {
                 "label": "07-15",
                 "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
                 "minutes": 0
               }
             ],
@@ -75161,6 +76980,11 @@
               {
                 "key": "2026-07-15",
                 "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
                 "minutes": 0
               }
             ],
@@ -75288,6 +77112,11 @@
               {
                 "key": "2026-07-15",
                 "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
                 "minutes": 0
               }
             ],
@@ -75556,6 +77385,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -75654,6 +77488,11 @@
               {
                 "key": "2026-07-15",
                 "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
                 "minutes": 0
               }
             ],
@@ -75754,6 +77593,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -75852,6 +77696,11 @@
               {
                 "key": "2026-07-15",
                 "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
                 "minutes": 0
               }
             ],
@@ -76078,6 +77927,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -76275,6 +78129,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -76388,6 +78247,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -76486,6 +78350,11 @@
               {
                 "key": "2026-07-15",
                 "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
                 "minutes": 0
               }
             ],
@@ -76656,6 +78525,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -76754,6 +78628,11 @@
               {
                 "key": "2026-07-15",
                 "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
                 "minutes": 0
               }
             ],
@@ -76910,6 +78789,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -77023,6 +78907,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -77122,6 +79011,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 900
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 240
               }
             ],
             "events": [
@@ -77474,6 +79368,34 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相-写开题报告:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相+写开题报告",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相+写开题报告",
+                "note": "液相还在跑，茶多酚重测和氨基酸实验因缺器材做不了。改计划：写开题报告+看GC-MS数据",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:实验室蹲液相:2026-07-16T04-00-00-000Z",
+                "label": "实验室蹲液相",
+                "dateLabel": "07-16",
+                "timeLabel": "12:00 - 14:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 12:00 - 14:00 实验室蹲液相",
+                "note": "液相还在跑。茶多酚氨基酸做不了（缺5mm比色皿+抽滤瓶）",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
               }
             ]
           },
@@ -77556,6 +79478,11 @@
               {
                 "key": "2026-07-15",
                 "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
                 "minutes": 0
               }
             ],
@@ -77670,6 +79597,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 180
               }
             ],
             "events": [
@@ -77686,6 +79618,34 @@
                 "subcategoryId": "work.coding",
                 "subcategoryLabel": "work.coding",
                 "minutes": 12
+              },
+              {
+                "eventNodeId": "fact:搞tailset登录-未成功:2026-07-16T07-00-00-000Z",
+                "label": "搞Tailset登录（未成功）",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 16:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 15:00 - 16:00 搞Tailset登录（未成功）",
+                "note": "想装Tailset远程看dashboard，Google OAuth被拦",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:折腾远程访问-等搬家:2026-07-16T07-00-00-000Z",
+                "label": "折腾远程访问+等搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "15:00 - 17:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 15:00 - 17:00 折腾远程访问+等搬家",
+                "note": "尝试Tailscale/ZeroTier/ngrok/serveo/pinggy等工具，最终Pinggy HTTP隧道成功，手机可远程访问dashboard。等待室友拿钥匙晚上搬家",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.coding",
+                "subcategoryLabel": "work.coding",
+                "minutes": 120
               }
             ]
           },
@@ -77769,6 +79729,11 @@
                 "key": "2026-07-15",
                 "label": "07-15",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
               }
             ],
             "events": [
@@ -77785,6 +79750,152 @@
                 "subcategoryId": "study.communication",
                 "subcategoryLabel": "study.communication",
                 "minutes": 62
+              }
+            ]
+          },
+          "life.chores": {
+            "subcategoryId": "life.chores",
+            "categoryId": "life",
+            "label": "Chores",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-01",
+                "label": "07-01",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-02",
+                "label": "07-02",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-03",
+                "label": "07-03",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-04",
+                "label": "07-04",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-05",
+                "label": "07-05",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-06",
+                "label": "07-06",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-07",
+                "label": "07-07",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-08",
+                "label": "07-08",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-09",
+                "label": "07-09",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-10",
+                "label": "07-10",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-11",
+                "label": "07-11",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-12",
+                "label": "07-12",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 360
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+                "label": "生理期+宿舍强制断电换宿舍",
+                "dateLabel": "07-16",
+                "timeLabel": "14:00 - 15:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 14:00 - 15:00 生理期+宿舍强制断电换宿舍",
+                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+                "label": "准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "17:00 - 19:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-16 17:00 - 19:30 准备搬家",
+                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+                "label": "收拾东西准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "19:30 - 20:00",
+                "compactDuration": "30m",
+                "fullLabel": "07-16 19:30 - 20:00 收拾东西准备搬家",
+                "note": "生理期第一天。收拾必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+                "label": "从A6 603搬到A5 603——白搬了",
+                "dateLabel": "07-16",
+                "timeLabel": "20:00 - 22:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 20:00 - 22:00 从A6 603搬到A5 603——白搬了",
+                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 120
               }
             ]
           }
