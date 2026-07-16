@@ -3412,16 +3412,16 @@
       ]
     },
     "2026-07-15": {
-      "status": "draft",
-      "updatedAt": "2026-07-15T13:18:51.628Z",
+      "status": "final",
+      "updatedAt": "2026-07-15T15:30:10.939Z",
       "source": null,
       "events": [
         {
           "id": "fact:hplc-a-phase-empty-2026-07-15",
-          "startAt": "2026-07-14T22:00:00.000Z",
-          "endAt": "2026-07-15T04:00:00.000Z",
-          "title": "HPLC序列跑完(overnight)",
-          "note": "昨晚19:20开始的咖啡碱+儿茶素序列，A相跑空，本科生换新相",
+          "startAt": "2026-07-14T16:00:00.000Z",
+          "endAt": "2026-07-14T20:00:00.000Z",
+          "title": "HPLC序列跑完+A相跑空处理",
+          "note": "昨晚19:20开始的咖啡碱+儿茶素HPLC序列跑完，A相跑空，本科生换新相。早上处理换相+Wet Prime排气泡",
           "categoryId": "study",
           "subcategoryId": "study.practice",
           "eventNodeId": "",
@@ -3434,15 +3434,33 @@
         {
           "id": "fact:polyphenol-assay-2026-07-15",
           "startAt": "2026-07-15T04:00:00.000Z",
-          "endAt": "2026-07-15T13:30:00.000Z",
-          "title": "茶多酚福林酚法+收液相数据",
-          "note": "GB/T 8313-2018，配70%甲醇+福林酚+Na₂CO₃，提样显色，等60min比色；移液枪不准致洒样",
+          "endAt": "2026-07-15T14:30:00.000Z",
+          "title": "茶多酚福林酚法——试剂失效，全部作废",
+          "note": "GB/T 8313-2018：配70%甲醇+10%福林酚+7.5% Na₂CO₃，18样提样显色。22:18比色发现全部样品吸光度近乎一致，标曲无梯度→福林酚原液失效。18样全部作废，明天换新福林酚原液重测。收昨日液相数据",
           "categoryId": "study",
           "subcategoryId": "study.practice",
           "eventNodeId": "",
           "tags": [
             "polyphenol",
-            "HPLC"
+            "Folin-Ciocalteu",
+            "redo"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:ninhydrin-prep-2026-07-15",
+          "startAt": "2026-07-15T15:00:00.000Z",
+          "endAt": "2026-07-15T15:30:00.000Z",
+          "title": "配茚三酮（氨基酸实验准备）",
+          "note": "7/4配的茚三酮已过期。重新配制50mL：1g水合茚三酮+25mL水+40mg SnCl₂·2H₂O，暗处静置一昼夜",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "amino-acid",
+            "ninhydrin",
+            "prep"
           ],
           "confidence": 0.5,
           "sourceMessageIds": []
