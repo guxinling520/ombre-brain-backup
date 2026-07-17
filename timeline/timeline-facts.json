@@ -3604,8 +3604,8 @@
       ]
     },
     "2026-07-17": {
-      "status": "draft",
-      "updatedAt": "2026-07-16T18:54:42.042Z",
+      "status": "final",
+      "updatedAt": "2026-07-17T09:03:58.677Z",
       "source": null,
       "events": [
         {
@@ -3620,6 +3620,103 @@
           "tags": [
             "period",
             "overtired"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:搬家累了早早睡:2026-07-16T16-00-00-000Z",
+          "startAt": "2026-07-16T16:00:00.000Z",
+          "endAt": "2026-07-16T19:00:00.000Z",
+          "title": "搬家累了早早睡",
+          "note": "前一天搬家折腾累了，没有熬夜。生理期第1天",
+          "categoryId": "rest",
+          "subcategoryId": "rest.sleep",
+          "eventNodeId": "",
+          "tags": [
+            "period",
+            "move"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:醒了-吃外卖:2026-07-17T04-00-00-000Z",
+          "startAt": "2026-07-17T04:00:00.000Z",
+          "endAt": "2026-07-17T05:00:00.000Z",
+          "title": "醒了，吃外卖",
+          "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [
+            "period"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:woke-up-2026-07-17",
+          "startAt": "2026-07-17T04:00:00.000Z",
+          "endAt": "2026-07-17T05:00:00.000Z",
+          "title": "醒了，吃外卖",
+          "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [
+            "period",
+            "rest"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:过滤茚三酮:2026-07-17T05-30-00-000Z",
+          "startAt": "2026-07-17T05:30:00.000Z",
+          "endAt": "2026-07-17T06:00:00.000Z",
+          "title": "过滤茚三酮定容",
+          "note": "7/15晚配的茚三酮，静置两昼夜后过滤定容50mL，锡纸包好放冰箱",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "ninhydrin",
+            "amino-acid",
+            "prep"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:ninhydrin-filter-2026-07-17",
+          "startAt": "2026-07-17T05:30:00.000Z",
+          "endAt": "2026-07-17T06:00:00.000Z",
+          "title": "过滤茚三酮",
+          "note": "7/15晚配的茚三酮，静置两昼夜后过滤定容50mL，锡纸包好放冰箱",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "ninhydrin",
+            "amino-acid",
+            "prep"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:开题报告+GC-MS:2026-07-17T06-00-00-000Z",
+          "startAt": "2026-07-17T06:00:00.000Z",
+          "endAt": "2026-07-17T10:00:00.000Z",
+          "title": "开题报告 + GC-MS数据",
+          "note": "整理开题框架、找文献，同时分析GC-MS数据",
+          "categoryId": "study",
+          "subcategoryId": "study.thesis",
+          "eventNodeId": "",
+          "tags": [
+            "opening-report",
+            "gc-ms"
           ],
           "confidence": 0.5,
           "sourceMessageIds": []
