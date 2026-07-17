@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-16T14:18:16.624Z",
-    "updatedAt": "2026-07-16T14:18:11.566Z",
-    "taxonomyUpdatedAt": "2026-07-16T14:18:11.563Z",
-    "factsUpdatedAt": "2026-07-16T14:18:11.566Z",
+    "generatedAt": "2026-07-16T18:54:59.718Z",
+    "updatedAt": "2026-07-16T18:54:42.050Z",
+    "taxonomyUpdatedAt": "2026-07-16T18:54:42.048Z",
+    "factsUpdatedAt": "2026-07-16T18:54:42.050Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -53,9 +53,10 @@
       "2026-07-13",
       "2026-07-14",
       "2026-07-15",
-      "2026-07-16"
+      "2026-07-16",
+      "2026-07-17"
     ],
-    "latestDate": "2026-07-16"
+    "latestDate": "2026-07-17"
   },
   "taxonomy": {
     "categories": [
@@ -4571,6 +4572,29 @@
             "className": "cat-life"
           }
         ]
+      },
+      "2026-07-17": {
+        "date": "2026-07-17",
+        "start": "2026-07-17T00:00:00.000+08:00",
+        "end": "2026-07-17T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+            "start": "2026-07-16T16:00:00.000Z",
+            "end": "2026-07-16T19:00:00.000Z",
+            "content": "熬夜到凌晨 | 3h",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
+            "tooltip": {
+              "title": "熬夜到凌晨",
+              "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+              "color": "var(--cat-rest)",
+              "durationText": "3 hr",
+              "timeText": "00:00 - 03:00"
+            },
+            "className": "cat-rest"
+          }
+        ]
       }
     },
     "week": {
@@ -9002,6 +9026,23 @@
               "dateText": "2026-07-16"
             },
             "className": "cat-life"
+          },
+          {
+            "id": "2026-07-17:fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+            "group": "2026-07-17",
+            "start": "2000-01-01T00:00:00+08:00",
+            "end": "2000-01-01T03:00:00+08:00",
+            "content": "熬夜到凌晨 | 3h",
+            "style": "background:var(--cat-rest);border-color:var(--cat-rest);color:var(--text);",
+            "tooltip": {
+              "title": "熬夜到凌晨",
+              "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+              "color": "var(--cat-rest)",
+              "durationText": "3 hr",
+              "timeText": "00:00 - 03:00",
+              "dateText": "2026-07-17"
+            },
+            "className": "cat-rest"
           }
         ]
       }
@@ -53128,6 +53169,322 @@
             ]
           }
         }
+      },
+      "2026-07-17": {
+        "key": "2026-07-17",
+        "label": "2026-07-17",
+        "unit": "hour",
+        "totalMinutes": 180,
+        "categories": [
+          {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "minutes": 180,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "rest": {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 60
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 60
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 60
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "Sleep",
+                "color": "var(--cat-rest)",
+                "minutes": 180,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+                "label": "熬夜到凌晨",
+                "dateLabel": "",
+                "timeLabel": "00:00 - 03:00",
+                "compactDuration": "3h",
+                "fullLabel": "00:00 - 03:00 熬夜到凌晨",
+                "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 180
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "Sleep",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 60
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 60
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 60
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+                "label": "熬夜到凌晨",
+                "dateLabel": "",
+                "timeLabel": "00:00 - 03:00",
+                "compactDuration": "3h",
+                "fullLabel": "00:00 - 03:00 熬夜到凌晨",
+                "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 180
+              }
+            ]
+          }
+        }
       }
     },
     "week": {
@@ -65096,28 +65453,35 @@
         "key": "2026-07-13",
         "label": "Week of 2026-07-13",
         "unit": "day",
-        "totalMinutes": 2889,
+        "totalMinutes": 3069,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 2332,
-            "percent": 0.8072
+            "percent": 0.7599
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 367,
-            "percent": 0.127
+            "percent": 0.1196
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 190,
-            "percent": 0.0658
+            "percent": 0.0619
+          },
+          {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "minutes": 180,
+            "percent": 0.0587
           }
         ],
         "categoryDetails": {
@@ -65598,6 +65962,74 @@
                 "subcategoryId": "work.coding",
                 "subcategoryLabel": "work.coding",
                 "minutes": 120
+              }
+            ]
+          },
+          "rest": {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 0
+              },
+              {
+                "label": "07-14",
+                "key": "2026-07-14",
+                "minutes": 0
+              },
+              {
+                "label": "07-15",
+                "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 180
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
+              },
+              {
+                "label": "07-19",
+                "key": "2026-07-19",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "Sleep",
+                "color": "var(--cat-rest)",
+                "minutes": 180,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+                "label": "熬夜到凌晨",
+                "dateLabel": "07-17",
+                "timeLabel": "00:00 - 03:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-17 00:00 - 03:00 熬夜到凌晨",
+                "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 180
               }
             ]
           }
@@ -66164,6 +66596,65 @@
                 "subcategoryId": "work.coding",
                 "subcategoryLabel": "work.coding",
                 "minutes": 120
+              }
+            ]
+          },
+          "rest.sleep": {
+            "subcategoryId": "rest.sleep",
+            "categoryId": "rest",
+            "label": "Sleep",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "key": "2026-07-13",
+                "label": "07-13",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-14",
+                "label": "07-14",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-15",
+                "label": "07-15",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-16",
+                "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 180
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-19",
+                "label": "07-19",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+                "label": "熬夜到凌晨",
+                "dateLabel": "07-17",
+                "timeLabel": "00:00 - 03:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-17 00:00 - 03:00 熬夜到凌晨",
+                "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 180
               }
             ]
           }
@@ -74671,63 +75162,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 10381,
+        "totalMinutes": 10561,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 4604,
-            "percent": 0.4435
+            "percent": 0.4359
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
             "minutes": 2057,
-            "percent": 0.1982
+            "percent": 0.1948
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 1397,
-            "percent": 0.1346
+            "percent": 0.1323
+          },
+          {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "minutes": 969,
+            "percent": 0.0918
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.0906
-          },
-          {
-            "categoryId": "rest",
-            "label": "Rest",
-            "color": "var(--cat-rest)",
-            "minutes": 789,
-            "percent": 0.076
+            "percent": 0.0891
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0315
+            "percent": 0.031
           },
           {
             "categoryId": "entertainment",
             "label": "Entertainment",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0198
+            "percent": 0.0195
           },
           {
             "categoryId": "exercise",
             "label": "Exercise",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0058
+            "percent": 0.0057
           }
         ],
         "categoryDetails": {
@@ -74815,6 +75306,11 @@
                 "label": "07-16",
                 "key": "2026-07-16",
                 "minutes": 240
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -75358,6 +75854,11 @@
                 "label": "07-16",
                 "key": "2026-07-16",
                 "minutes": 360
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -75775,6 +76276,11 @@
                 "label": "07-16",
                 "key": "2026-07-16",
                 "minutes": 180
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -76094,6 +76600,166 @@
               }
             ]
           },
+          "rest": {
+            "categoryId": "rest",
+            "label": "Rest",
+            "color": "var(--cat-rest)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 300
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 0
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 300
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 0
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 0
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 0
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 0
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 189
+              },
+              {
+                "label": "07-09",
+                "key": "2026-07-09",
+                "minutes": 0
+              },
+              {
+                "label": "07-10",
+                "key": "2026-07-10",
+                "minutes": 0
+              },
+              {
+                "label": "07-11",
+                "key": "2026-07-11",
+                "minutes": 0
+              },
+              {
+                "label": "07-12",
+                "key": "2026-07-12",
+                "minutes": 0
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 0
+              },
+              {
+                "label": "07-14",
+                "key": "2026-07-14",
+                "minutes": 0
+              },
+              {
+                "label": "07-15",
+                "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 180
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "rest.sleep",
+                "categoryId": "rest",
+                "label": "Sleep",
+                "color": "var(--cat-rest)",
+                "minutes": 969,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-01",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
+                "note": "凌晨快1点才睡，上午在睡觉。",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
+                "label": "上午补觉",
+                "dateLabel": "07-03",
+                "timeLabel": "08:00 - 13:00",
+                "compactDuration": "5h",
+                "fullLabel": "07-03 08:00 - 13:00 上午补觉",
+                "note": "",
+                "status": "official",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 300
+              },
+              {
+                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
+                "label": "睡觉睡到下午",
+                "dateLabel": "07-08",
+                "timeLabel": "13:21 - 16:30",
+                "compactDuration": "3h9m",
+                "fullLabel": "07-08 13:21 - 16:30 睡觉睡到下午",
+                "note": "凌晨3点睡到13:21才醒",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 189
+              },
+              {
+                "eventNodeId": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+                "label": "熬夜到凌晨",
+                "dateLabel": "07-17",
+                "timeLabel": "00:00 - 03:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-17 00:00 - 03:00 熬夜到凌晨",
+                "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 180
+              }
+            ]
+          },
           "lab": {
             "categoryId": "lab",
             "label": "lab",
@@ -76177,6 +76843,11 @@
               {
                 "label": "07-16",
                 "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
                 "minutes": 0
               }
             ],
@@ -76321,147 +76992,6 @@
               }
             ]
           },
-          "rest": {
-            "categoryId": "rest",
-            "label": "Rest",
-            "color": "var(--cat-rest)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 300
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 0
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 300
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 0
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 0
-              },
-              {
-                "label": "07-06",
-                "key": "2026-07-06",
-                "minutes": 0
-              },
-              {
-                "label": "07-07",
-                "key": "2026-07-07",
-                "minutes": 0
-              },
-              {
-                "label": "07-08",
-                "key": "2026-07-08",
-                "minutes": 189
-              },
-              {
-                "label": "07-09",
-                "key": "2026-07-09",
-                "minutes": 0
-              },
-              {
-                "label": "07-10",
-                "key": "2026-07-10",
-                "minutes": 0
-              },
-              {
-                "label": "07-11",
-                "key": "2026-07-11",
-                "minutes": 0
-              },
-              {
-                "label": "07-12",
-                "key": "2026-07-12",
-                "minutes": 0
-              },
-              {
-                "label": "07-13",
-                "key": "2026-07-13",
-                "minutes": 0
-              },
-              {
-                "label": "07-14",
-                "key": "2026-07-14",
-                "minutes": 0
-              },
-              {
-                "label": "07-15",
-                "key": "2026-07-15",
-                "minutes": 0
-              },
-              {
-                "label": "07-16",
-                "key": "2026-07-16",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "rest.sleep",
-                "categoryId": "rest",
-                "label": "Sleep",
-                "color": "var(--cat-rest)",
-                "minutes": 789,
-                "percent": 1
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:evt-sleep:2026-07-01T00-00-00-000Z",
-                "label": "上午补觉",
-                "dateLabel": "07-01",
-                "timeLabel": "08:00 - 13:00",
-                "compactDuration": "5h",
-                "fullLabel": "07-01 08:00 - 13:00 上午补觉",
-                "note": "凌晨快1点才睡，上午在睡觉。",
-                "status": "official",
-                "categoryId": "rest",
-                "subcategoryId": "rest.sleep",
-                "subcategoryLabel": "rest.sleep",
-                "minutes": 300
-              },
-              {
-                "eventNodeId": "fact:evt-sleep:2026-07-03T00-00-00-000Z",
-                "label": "上午补觉",
-                "dateLabel": "07-03",
-                "timeLabel": "08:00 - 13:00",
-                "compactDuration": "5h",
-                "fullLabel": "07-03 08:00 - 13:00 上午补觉",
-                "note": "",
-                "status": "official",
-                "categoryId": "rest",
-                "subcategoryId": "rest.sleep",
-                "subcategoryLabel": "rest.sleep",
-                "minutes": 300
-              },
-              {
-                "eventNodeId": "fact:睡觉睡到下午:2026-07-08T05-21-00-000Z",
-                "label": "睡觉睡到下午",
-                "dateLabel": "07-08",
-                "timeLabel": "13:21 - 16:30",
-                "compactDuration": "3h9m",
-                "fullLabel": "07-08 13:21 - 16:30 睡觉睡到下午",
-                "note": "凌晨3点睡到13:21才醒",
-                "status": "derived",
-                "categoryId": "rest",
-                "subcategoryId": "rest.sleep",
-                "subcategoryLabel": "rest.sleep",
-                "minutes": 189
-              }
-            ]
-          },
           "travel": {
             "categoryId": "travel",
             "label": "Travel",
@@ -76545,6 +77075,11 @@
               {
                 "label": "07-16",
                 "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
                 "minutes": 0
               }
             ],
@@ -76757,6 +77292,11 @@
                 "label": "07-16",
                 "key": "2026-07-16",
                 "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -76869,6 +77409,11 @@
               {
                 "label": "07-16",
                 "key": "2026-07-16",
+                "minutes": 0
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
                 "minutes": 0
               }
             ],
@@ -76986,6 +77531,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 180
               }
             ],
             "events": [
@@ -77030,6 +77580,20 @@
                 "subcategoryId": "rest.sleep",
                 "subcategoryLabel": "rest.sleep",
                 "minutes": 189
+              },
+              {
+                "eventNodeId": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+                "label": "熬夜到凌晨",
+                "dateLabel": "07-17",
+                "timeLabel": "00:00 - 03:00",
+                "compactDuration": "3h",
+                "fullLabel": "07-17 00:00 - 03:00 熬夜到凌晨",
+                "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+                "status": "derived",
+                "categoryId": "rest",
+                "subcategoryId": "rest.sleep",
+                "subcategoryLabel": "rest.sleep",
+                "minutes": 180
               }
             ]
           },
@@ -77117,6 +77681,11 @@
               {
                 "key": "2026-07-16",
                 "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
                 "minutes": 0
               }
             ],
@@ -77390,6 +77959,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -77493,6 +78067,11 @@
               {
                 "key": "2026-07-16",
                 "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
                 "minutes": 0
               }
             ],
@@ -77598,6 +78177,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -77701,6 +78285,11 @@
               {
                 "key": "2026-07-16",
                 "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
                 "minutes": 0
               }
             ],
@@ -77932,6 +78521,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -78134,6 +78728,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -78252,6 +78851,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -78355,6 +78959,11 @@
               {
                 "key": "2026-07-16",
                 "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
                 "minutes": 0
               }
             ],
@@ -78530,6 +79139,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -78633,6 +79247,11 @@
               {
                 "key": "2026-07-16",
                 "label": "07-16",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
                 "minutes": 0
               }
             ],
@@ -78794,6 +79413,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -78912,6 +79536,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79016,6 +79645,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 240
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79484,6 +80118,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79602,6 +80241,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 180
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79734,6 +80378,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79838,6 +80487,11 @@
                 "key": "2026-07-16",
                 "label": "07-16",
                 "minutes": 360
+              },
+              {
+                "key": "2026-07-17",
+                "label": "07-17",
+                "minutes": 0
               }
             ],
             "events": [

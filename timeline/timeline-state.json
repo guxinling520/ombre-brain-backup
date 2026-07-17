@@ -4072,6 +4072,29 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-17": {
+      "status": "draft",
+      "updatedAt": "2026-07-16T18:54:42.042Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:熬夜到凌晨:2026-07-16T16-00-00-000Z",
+          "startAt": "2026-07-16T16:00:00.000Z",
+          "endAt": "2026-07-16T19:00:00.000Z",
+          "title": "熬夜到凌晨",
+          "note": "生理期第1-2天，因白天搬家折腾+宿舍断电等一堆事，熬到近3点才睡",
+          "categoryId": "rest",
+          "subcategoryId": "rest.sleep",
+          "eventNodeId": "",
+          "tags": [
+            "period",
+            "overtired"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []
