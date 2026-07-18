@@ -3605,7 +3605,7 @@
     },
     "2026-07-17": {
       "status": "final",
-      "updatedAt": "2026-07-17T09:03:58.677Z",
+      "updatedAt": "2026-07-17T15:16:38.655Z",
       "source": null,
       "events": [
         {
@@ -3717,6 +3717,36 @@
           "tags": [
             "opening-report",
             "gc-ms"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:gcms-evening-run:2026-07-17",
+          "startAt": "2026-07-17T06:00:00.000Z",
+          "endAt": "2026-07-17T14:30:00.000Z",
+          "title": "GC-MS跑样：CK~S80",
+          "note": "跑CK/S20/S35/S50/S65/S80。S50白做(忘点开始)，S65数据不行需重跑。S80跑完~21:35，S50重跑~22:25收工",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "gc-ms"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:opening-report-draft:2026-07-17",
+          "startAt": "2026-07-17T06:00:00.000Z",
+          "endAt": "2026-07-17T12:00:00.000Z",
+          "title": "开题报告AI初稿",
+          "note": "整理框架后AI生成初稿，后续需精修",
+          "categoryId": "study",
+          "subcategoryId": "study.thesis",
+          "eventNodeId": "",
+          "tags": [
+            "opening-report"
           ],
           "confidence": 0.5,
           "sourceMessageIds": []
