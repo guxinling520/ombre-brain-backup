@@ -3752,6 +3752,73 @@
           "sourceMessageIds": []
         }
       ]
+    },
+    "2026-07-18": {
+      "status": "draft",
+      "updatedAt": "2026-07-18T11:57:02.164Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+          "startAt": "2026-07-18T04:00:00.000Z",
+          "endAt": "2026-07-18T05:00:00.000Z",
+          "title": "醒了，洗衣服",
+          "note": "",
+          "categoryId": "life",
+          "subcategoryId": "life.meal",
+          "eventNodeId": "",
+          "tags": [
+            "rest"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+          "startAt": "2026-07-18T05:00:00.000Z",
+          "endAt": "2026-07-18T05:30:00.000Z",
+          "title": "去实验室，老化针头",
+          "note": "",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "gc-ms"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+          "startAt": "2026-07-18T05:30:00.000Z",
+          "endAt": "2026-07-18T07:30:00.000Z",
+          "title": "S65重跑（忘了开搅拌子）",
+          "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "gc-ms"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+          "startAt": "2026-07-18T07:30:00.000Z",
+          "endAt": "2026-07-18T10:30:00.000Z",
+          "title": "茶多酚重测（福林酚法）",
+          "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "tea-polyphenols"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
     }
   },
   "proposals": []

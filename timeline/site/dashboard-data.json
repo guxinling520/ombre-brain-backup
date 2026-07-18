@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-17T15:16:43.420Z",
-    "updatedAt": "2026-07-17T15:16:38.656Z",
-    "taxonomyUpdatedAt": "2026-07-17T15:16:38.656Z",
-    "factsUpdatedAt": "2026-07-17T15:16:38.656Z",
+    "generatedAt": "2026-07-18T11:57:07.697Z",
+    "updatedAt": "2026-07-18T11:57:02.170Z",
+    "taxonomyUpdatedAt": "2026-07-18T11:57:02.168Z",
+    "factsUpdatedAt": "2026-07-18T11:57:02.170Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "zh-CN",
@@ -54,9 +54,10 @@
       "2026-07-14",
       "2026-07-15",
       "2026-07-16",
-      "2026-07-17"
+      "2026-07-17",
+      "2026-07-18"
     ],
-    "latestDate": "2026-07-17"
+    "latestDate": "2026-07-18"
   },
   "taxonomy": {
     "categories": [
@@ -4715,6 +4716,74 @@
             "className": "cat-study"
           }
         ]
+      },
+      "2026-07-18": {
+        "date": "2026-07-18",
+        "start": "2026-07-18T00:00:00.000+08:00",
+        "end": "2026-07-18T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+            "start": "2026-07-18T04:00:00.000Z",
+            "end": "2026-07-18T05:00:00.000Z",
+            "content": "醒了，洗衣服 | 1h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "醒了，洗衣服",
+              "note": "",
+              "color": "var(--cat-life)",
+              "durationText": "1小时",
+              "timeText": "12:00 - 13:00"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+            "start": "2026-07-18T05:00:00.000Z",
+            "end": "2026-07-18T05:30:00.000Z",
+            "content": "去实验室，老化针头 | 30m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "去实验室，老化针头",
+              "note": "",
+              "color": "var(--cat-study)",
+              "durationText": "30分钟",
+              "timeText": "13:00 - 13:30"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+            "start": "2026-07-18T05:30:00.000Z",
+            "end": "2026-07-18T07:30:00.000Z",
+            "content": "S65重跑（忘了开搅拌子） | 2h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "S65重跑（忘了开搅拌子）",
+              "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+              "color": "var(--cat-study)",
+              "durationText": "2小时",
+              "timeText": "13:30 - 15:30"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+            "start": "2026-07-18T07:30:00.000Z",
+            "end": "2026-07-18T10:30:00.000Z",
+            "content": "茶多酚重测（福林酚法） | 3h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "茶多酚重测（福林酚法）",
+              "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+              "color": "var(--cat-study)",
+              "durationText": "3小时",
+              "timeText": "15:30 - 18:30"
+            },
+            "className": "cat-study"
+          }
+        ]
       }
     },
     "week": {
@@ -9297,6 +9366,74 @@
               "durationText": "6小时",
               "timeText": "14:00 - 20:00",
               "dateText": "2026-07-17"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-18:fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+            "group": "2026-07-18",
+            "start": "2000-01-01T12:00:00+08:00",
+            "end": "2000-01-01T13:00:00+08:00",
+            "content": "醒了，洗衣服 | 1h",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "醒了，洗衣服",
+              "note": "",
+              "color": "var(--cat-life)",
+              "durationText": "1小时",
+              "timeText": "12:00 - 13:00",
+              "dateText": "2026-07-18"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-18:fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+            "group": "2026-07-18",
+            "start": "2000-01-01T13:00:00+08:00",
+            "end": "2000-01-01T13:30:00+08:00",
+            "content": "去实验室，老化针头 | 30m",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "去实验室，老化针头",
+              "note": "",
+              "color": "var(--cat-study)",
+              "durationText": "30分钟",
+              "timeText": "13:00 - 13:30",
+              "dateText": "2026-07-18"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-18:fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+            "group": "2026-07-18",
+            "start": "2000-01-01T13:30:00+08:00",
+            "end": "2000-01-01T15:30:00+08:00",
+            "content": "S65重跑（忘了开搅拌子） | 2h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "S65重跑（忘了开搅拌子）",
+              "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+              "color": "var(--cat-study)",
+              "durationText": "2小时",
+              "timeText": "13:30 - 15:30",
+              "dateText": "2026-07-18"
+            },
+            "className": "cat-study"
+          },
+          {
+            "id": "2026-07-18:fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+            "group": "2026-07-18",
+            "start": "2000-01-01T15:30:00+08:00",
+            "end": "2000-01-01T18:30:00+08:00",
+            "content": "茶多酚重测（福林酚法） | 3h",
+            "style": "background:var(--cat-study);border-color:var(--cat-study);color:var(--text);",
+            "tooltip": {
+              "title": "茶多酚重测（福林酚法）",
+              "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+              "color": "var(--cat-study)",
+              "durationText": "3小时",
+              "timeText": "15:30 - 18:30",
+              "dateText": "2026-07-18"
             },
             "className": "cat-study"
           }
@@ -54655,6 +54792,682 @@
             ]
           }
         }
+      },
+      "2026-07-18": {
+        "key": "2026-07-18",
+        "label": "2026-07-18",
+        "unit": "hour",
+        "totalMinutes": 390,
+        "categories": [
+          {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "minutes": 330,
+            "percent": 0.8462
+          },
+          {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "minutes": 60,
+            "percent": 0.1538
+          }
+        ],
+        "categoryDetails": {
+          "study": {
+            "categoryId": "study",
+            "label": "学习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 30
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "study.practice",
+                "categoryId": "study",
+                "label": "练习",
+                "color": "var(--cat-study)",
+                "minutes": 330,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+                "label": "去实验室，老化针头",
+                "dateLabel": "",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "13:00 - 13:30 去实验室，老化针头",
+                "note": "",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+                "label": "S65重跑（忘了开搅拌子）",
+                "dateLabel": "",
+                "timeLabel": "13:30 - 15:30",
+                "compactDuration": "2h",
+                "fullLabel": "13:30 - 15:30 S65重跑（忘了开搅拌子）",
+                "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+                "label": "茶多酚重测（福林酚法）",
+                "dateLabel": "",
+                "timeLabel": "15:30 - 18:30",
+                "compactDuration": "3h",
+                "fullLabel": "15:30 - 18:30 茶多酚重测（福林酚法）",
+                "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 180
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "生活",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 60
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "吃饭",
+                "color": "var(--cat-life)",
+                "minutes": 60,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+                "label": "醒了，洗衣服",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "12:00 - 13:00 醒了，洗衣服",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "life.meal": {
+            "subcategoryId": "life.meal",
+            "categoryId": "life",
+            "label": "吃饭",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 60
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+                "label": "醒了，洗衣服",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "12:00 - 13:00 醒了，洗衣服",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              }
+            ]
+          },
+          "study.practice": {
+            "subcategoryId": "study.practice",
+            "categoryId": "study",
+            "label": "练习",
+            "color": "var(--cat-study)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 60
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 60
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 60
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 60
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 60
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 30
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+                "label": "去实验室，老化针头",
+                "dateLabel": "",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "13:00 - 13:30 去实验室，老化针头",
+                "note": "",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+                "label": "S65重跑（忘了开搅拌子）",
+                "dateLabel": "",
+                "timeLabel": "13:30 - 15:30",
+                "compactDuration": "2h",
+                "fullLabel": "13:30 - 15:30 S65重跑（忘了开搅拌子）",
+                "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+                "label": "茶多酚重测（福林酚法）",
+                "dateLabel": "",
+                "timeLabel": "15:30 - 18:30",
+                "compactDuration": "3h",
+                "fullLabel": "15:30 - 18:30 茶多酚重测（福林酚法）",
+                "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 180
+              }
+            ]
+          }
+        }
       }
     },
     "week": {
@@ -66623,35 +67436,35 @@
         "key": "2026-07-13",
         "label": "2026-07-13 当周",
         "unit": "day",
-        "totalMinutes": 4539,
+        "totalMinutes": 4929,
         "categories": [
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
-            "minutes": 3502,
-            "percent": 0.7715
+            "minutes": 3832,
+            "percent": 0.7774
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 487,
-            "percent": 0.1073
+            "minutes": 547,
+            "percent": 0.111
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 360,
-            "percent": 0.0793
+            "percent": 0.073
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 190,
-            "percent": 0.0419
+            "percent": 0.0385
           }
         ],
         "categoryDetails": {
@@ -66688,7 +67501,7 @@
               {
                 "label": "07-18",
                 "key": "2026-07-18",
-                "minutes": 0
+                "minutes": 330
               },
               {
                 "label": "07-19",
@@ -66702,8 +67515,8 @@
                 "categoryId": "study",
                 "label": "练习",
                 "color": "var(--cat-study)",
-                "minutes": 2840,
-                "percent": 0.811
+                "minutes": 3170,
+                "percent": 0.8272
               },
               {
                 "subcategoryId": "study.thesis",
@@ -66711,7 +67524,7 @@
                 "label": "study.thesis",
                 "color": "var(--cat-study)",
                 "minutes": 600,
-                "percent": 0.1713
+                "percent": 0.1566
               },
               {
                 "subcategoryId": "study.communication",
@@ -66719,7 +67532,7 @@
                 "label": "study.communication",
                 "color": "var(--cat-study)",
                 "minutes": 62,
-                "percent": 0.0177
+                "percent": 0.0162
               }
             ],
             "events": [
@@ -66960,6 +67773,48 @@
                 "subcategoryId": "study.thesis",
                 "subcategoryLabel": "study.thesis",
                 "minutes": 360
+              },
+              {
+                "eventNodeId": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+                "label": "去实验室，老化针头",
+                "dateLabel": "07-18",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-18 13:00 - 13:30 去实验室，老化针头",
+                "note": "",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+                "label": "S65重跑（忘了开搅拌子）",
+                "dateLabel": "07-18",
+                "timeLabel": "13:30 - 15:30",
+                "compactDuration": "2h",
+                "fullLabel": "07-18 13:30 - 15:30 S65重跑（忘了开搅拌子）",
+                "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+                "label": "茶多酚重测（福林酚法）",
+                "dateLabel": "07-18",
+                "timeLabel": "15:30 - 18:30",
+                "compactDuration": "3h",
+                "fullLabel": "07-18 15:30 - 18:30 茶多酚重测（福林酚法）",
+                "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 180
               }
             ]
           },
@@ -66996,7 +67851,7 @@
               {
                 "label": "07-18",
                 "key": "2026-07-18",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "label": "07-19",
@@ -67011,15 +67866,15 @@
                 "label": "家务",
                 "color": "var(--cat-life)",
                 "minutes": 360,
-                "percent": 0.7392
+                "percent": 0.6581
               },
               {
                 "subcategoryId": "life.meal",
                 "categoryId": "life",
                 "label": "吃饭",
                 "color": "var(--cat-life)",
-                "minutes": 120,
-                "percent": 0.2464
+                "minutes": 180,
+                "percent": 0.3291
               },
               {
                 "subcategoryId": "life.other",
@@ -67027,7 +67882,7 @@
                 "label": "其他生活",
                 "color": "var(--cat-life)",
                 "minutes": 7,
-                "percent": 0.0144
+                "percent": 0.0128
               }
             ],
             "events": [
@@ -67137,6 +67992,20 @@
                 "compactDuration": "1h",
                 "fullLabel": "07-17 12:00 - 13:00 醒了，吃外卖",
                 "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+                "label": "醒了，洗衣服",
+                "dateLabel": "07-18",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-18 12:00 - 13:00 醒了，洗衣服",
+                "note": "",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.meal",
@@ -67499,7 +68368,7 @@
               {
                 "key": "2026-07-18",
                 "label": "07-18",
-                "minutes": 0
+                "minutes": 330
               },
               {
                 "key": "2026-07-19",
@@ -67703,6 +68572,48 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 510
+              },
+              {
+                "eventNodeId": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+                "label": "去实验室，老化针头",
+                "dateLabel": "07-18",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-18 13:00 - 13:30 去实验室，老化针头",
+                "note": "",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+                "label": "S65重跑（忘了开搅拌子）",
+                "dateLabel": "07-18",
+                "timeLabel": "13:30 - 15:30",
+                "compactDuration": "2h",
+                "fullLabel": "07-18 13:30 - 15:30 S65重跑（忘了开搅拌子）",
+                "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+                "label": "茶多酚重测（福林酚法）",
+                "dateLabel": "07-18",
+                "timeLabel": "15:30 - 18:30",
+                "compactDuration": "3h",
+                "fullLabel": "07-18 15:30 - 18:30 茶多酚重测（福林酚法）",
+                "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 180
               }
             ]
           },
@@ -68046,7 +68957,7 @@
               {
                 "key": "2026-07-18",
                 "label": "07-18",
-                "minutes": 0
+                "minutes": 60
               },
               {
                 "key": "2026-07-19",
@@ -68077,6 +68988,20 @@
                 "compactDuration": "1h",
                 "fullLabel": "07-17 12:00 - 13:00 醒了，吃外卖",
                 "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+                "label": "醒了，洗衣服",
+                "dateLabel": "07-18",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-18 12:00 - 13:00 醒了，洗衣服",
+                "note": "",
                 "status": "derived",
                 "categoryId": "life",
                 "subcategoryId": "life.meal",
@@ -76662,63 +77587,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 12031,
+        "totalMinutes": 12421,
         "categories": [
           {
             "categoryId": "study",
             "label": "学习",
             "color": "var(--cat-study)",
-            "minutes": 5774,
-            "percent": 0.4799
+            "minutes": 6104,
+            "percent": 0.4914
           },
           {
             "categoryId": "life",
             "label": "生活",
             "color": "var(--cat-life)",
-            "minutes": 2177,
-            "percent": 0.1809
+            "minutes": 2237,
+            "percent": 0.1801
           },
           {
             "categoryId": "work",
             "label": "工作",
             "color": "var(--cat-work)",
             "minutes": 1397,
-            "percent": 0.1161
+            "percent": 0.1125
           },
           {
             "categoryId": "rest",
             "label": "休息",
             "color": "var(--cat-rest)",
             "minutes": 1149,
-            "percent": 0.0955
+            "percent": 0.0925
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.0782
+            "percent": 0.0758
           },
           {
             "categoryId": "travel",
             "label": "出行",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0272
+            "percent": 0.0263
           },
           {
             "categoryId": "entertainment",
             "label": "娱乐",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0171
+            "percent": 0.0166
           },
           {
             "categoryId": "exercise",
             "label": "运动",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.005
+            "percent": 0.0048
           }
         ],
         "categoryDetails": {
@@ -76811,6 +77736,11 @@
                 "label": "07-17",
                 "key": "2026-07-17",
                 "minutes": 1170
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 330
               }
             ],
             "subcategories": [
@@ -76819,8 +77749,8 @@
                 "categoryId": "study",
                 "label": "练习",
                 "color": "var(--cat-study)",
-                "minutes": 4453,
-                "percent": 0.7712
+                "minutes": 4783,
+                "percent": 0.7836
               },
               {
                 "subcategoryId": "study.thesis",
@@ -76828,7 +77758,7 @@
                 "label": "study.thesis",
                 "color": "var(--cat-study)",
                 "minutes": 600,
-                "percent": 0.1039
+                "percent": 0.0983
               },
               {
                 "subcategoryId": "study.other",
@@ -76836,7 +77766,7 @@
                 "label": "其他学习",
                 "color": "var(--cat-study)",
                 "minutes": 599,
-                "percent": 0.1037
+                "percent": 0.0981
               },
               {
                 "subcategoryId": "study.communication",
@@ -76844,7 +77774,7 @@
                 "label": "study.communication",
                 "color": "var(--cat-study)",
                 "minutes": 62,
-                "percent": 0.0107
+                "percent": 0.0102
               },
               {
                 "subcategoryId": "study.course",
@@ -76852,7 +77782,7 @@
                 "label": "课程",
                 "color": "var(--cat-study)",
                 "minutes": 60,
-                "percent": 0.0104
+                "percent": 0.0098
               }
             ],
             "events": [
@@ -77345,6 +78275,48 @@
                 "subcategoryId": "study.thesis",
                 "subcategoryLabel": "study.thesis",
                 "minutes": 360
+              },
+              {
+                "eventNodeId": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+                "label": "去实验室，老化针头",
+                "dateLabel": "07-18",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-18 13:00 - 13:30 去实验室，老化针头",
+                "note": "",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+                "label": "S65重跑（忘了开搅拌子）",
+                "dateLabel": "07-18",
+                "timeLabel": "13:30 - 15:30",
+                "compactDuration": "2h",
+                "fullLabel": "07-18 13:30 - 15:30 S65重跑（忘了开搅拌子）",
+                "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+                "label": "茶多酚重测（福林酚法）",
+                "dateLabel": "07-18",
+                "timeLabel": "15:30 - 18:30",
+                "compactDuration": "3h",
+                "fullLabel": "07-18 15:30 - 18:30 茶多酚重测（福林酚法）",
+                "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 180
               }
             ]
           },
@@ -77437,6 +78409,11 @@
                 "label": "07-17",
                 "key": "2026-07-17",
                 "minutes": 120
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 60
               }
             ],
             "subcategories": [
@@ -77445,8 +78422,8 @@
                 "categoryId": "life",
                 "label": "吃饭",
                 "color": "var(--cat-life)",
-                "minutes": 931,
-                "percent": 0.4277
+                "minutes": 991,
+                "percent": 0.443
               },
               {
                 "subcategoryId": "life.other",
@@ -77454,7 +78431,7 @@
                 "label": "其他生活",
                 "color": "var(--cat-life)",
                 "minutes": 885,
-                "percent": 0.4065
+                "percent": 0.3956
               },
               {
                 "subcategoryId": "life.chores",
@@ -77462,7 +78439,7 @@
                 "label": "家务",
                 "color": "var(--cat-life)",
                 "minutes": 360,
-                "percent": 0.1654
+                "percent": 0.1609
               },
               {
                 "subcategoryId": "life.errand",
@@ -77470,7 +78447,7 @@
                 "label": "办事",
                 "color": "var(--cat-life)",
                 "minutes": 1,
-                "percent": 0.0005
+                "percent": 0.0004
               }
             ],
             "events": [
@@ -77795,6 +78772,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+                "label": "醒了，洗衣服",
+                "dateLabel": "07-18",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-18 12:00 - 13:00 醒了，洗衣服",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
               }
             ]
           },
@@ -77886,6 +78877,11 @@
               {
                 "label": "07-17",
                 "key": "2026-07-17",
+                "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
                 "minutes": 0
               }
             ],
@@ -78295,6 +79291,11 @@
                 "label": "07-17",
                 "key": "2026-07-17",
                 "minutes": 360
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -78468,6 +79469,11 @@
               {
                 "label": "07-17",
                 "key": "2026-07-17",
+                "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
                 "minutes": 0
               }
             ],
@@ -78701,6 +79707,11 @@
                 "label": "07-17",
                 "key": "2026-07-17",
                 "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -78917,6 +79928,11 @@
                 "label": "07-17",
                 "key": "2026-07-17",
                 "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -79034,6 +80050,11 @@
               {
                 "label": "07-17",
                 "key": "2026-07-17",
+                "minutes": 0
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
                 "minutes": 0
               }
             ],
@@ -79156,6 +80177,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 360
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79320,6 +80346,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -79598,6 +80629,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79706,6 +80742,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -79816,6 +80857,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -79924,6 +80970,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -80160,6 +81211,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -80367,6 +81423,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -80490,6 +81551,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -80599,6 +81665,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 120
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 60
               }
             ],
             "events": [
@@ -80713,6 +81784,20 @@
                 "subcategoryId": "life.meal",
                 "subcategoryLabel": "life.meal",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+                "label": "醒了，洗衣服",
+                "dateLabel": "07-18",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-18 12:00 - 13:00 醒了，洗衣服",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
               }
             ]
           },
@@ -80805,6 +81890,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -80914,6 +82004,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -81080,6 +82175,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -81203,6 +82303,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -81312,6 +82417,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 570
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 330
               }
             ],
             "events": [
@@ -81734,6 +82844,48 @@
                 "subcategoryId": "study.practice",
                 "subcategoryLabel": "study.practice",
                 "minutes": 510
+              },
+              {
+                "eventNodeId": "fact:去实验室-老化针头:2026-07-18T05-00-00-000Z",
+                "label": "去实验室，老化针头",
+                "dateLabel": "07-18",
+                "timeLabel": "13:00 - 13:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-18 13:00 - 13:30 去实验室，老化针头",
+                "note": "",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:s65重跑-忘了开搅拌子:2026-07-18T05-30-00-000Z",
+                "label": "S65重跑（忘了开搅拌子）",
+                "dateLabel": "07-18",
+                "timeLabel": "13:30 - 15:30",
+                "compactDuration": "2h",
+                "fullLabel": "07-18 13:30 - 15:30 S65重跑（忘了开搅拌子）",
+                "note": "SPME吸附时忘了开搅拌子，萃取效率受影响",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:茶多酚重测-福林酚法:2026-07-18T07-30-00-000Z",
+                "label": "茶多酚重测（福林酚法）",
+                "dateLabel": "07-18",
+                "timeLabel": "15:30 - 18:30",
+                "compactDuration": "3h",
+                "fullLabel": "07-18 15:30 - 18:30 茶多酚重测（福林酚法）",
+                "note": "配福林酚稀释液、Na₂CO₃，标曲已做完，18样加试剂静置1h",
+                "status": "derived",
+                "categoryId": "study",
+                "subcategoryId": "study.practice",
+                "subcategoryLabel": "study.practice",
+                "minutes": 180
               }
             ]
           },
@@ -81826,6 +82978,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -81949,6 +83106,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -82087,6 +83249,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
@@ -82195,6 +83362,11 @@
               {
                 "key": "2026-07-17",
                 "label": "07-17",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
                 "minutes": 0
               }
             ],
@@ -82347,6 +83519,11 @@
                 "key": "2026-07-17",
                 "label": "07-17",
                 "minutes": 600
+              },
+              {
+                "key": "2026-07-18",
+                "label": "07-18",
+                "minutes": 0
               }
             ],
             "events": [
