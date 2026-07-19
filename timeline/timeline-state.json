@@ -4225,7 +4225,7 @@
     },
     "2026-07-18": {
       "status": "draft",
-      "updatedAt": "2026-07-18T11:57:02.164Z",
+      "updatedAt": "2026-07-18T20:39:24.751Z",
       "source": null,
       "events": [
         {
@@ -4284,6 +4284,74 @@
           "eventNodeId": "",
           "tags": [
             "tea-polyphenols"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:hplc前处理-配流动相:2026-07-18T11-00-00-000Z",
+          "startAt": "2026-07-18T11:00:00.000Z",
+          "endAt": "2026-07-18T13:00:00.000Z",
+          "title": "HPLC前处理+配流动相",
+          "note": "配儿茶素+咖啡碱供试液，配制A/B流动相并抽滤脱气。手碰到乙腈乙酸已清洗",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "hplc"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:焦虑讨论hplc补救方案:2026-07-18T14-00-00-000Z",
+          "startAt": "2026-07-18T14:00:00.000Z",
+          "endAt": "2026-07-18T14:30:00.000Z",
+          "title": "焦虑讨论HPLC补救方案",
+          "note": "担心24h时效和没避光的问题，决定先跑CK看降解",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "hplc"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
+    },
+    "2026-07-19": {
+      "status": "draft",
+      "updatedAt": "2026-07-18T23:05:13.218Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:焦虑讨论hplc补救方案:2026-07-18T21-00-00-000Z",
+          "startAt": "2026-07-18T21:00:00.000Z",
+          "endAt": "2026-07-18T22:30:00.000Z",
+          "title": "焦虑讨论HPLC补救方案",
+          "note": "焦虑HPLC样时效和没避光的问题，讨论补救方案",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "hplc",
+            "anxiety"
+          ],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:hplc上机跑样:2026-07-18T22-00-00-000Z",
+          "startAt": "2026-07-18T22:00:00.000Z",
+          "endAt": "2026-07-19T00:00:00.000Z",
+          "title": "HPLC上机跑样",
+          "note": "上Waters 2695跑儿茶素+咖啡碱。母液直接过膜上机，没加稳定液",
+          "categoryId": "study",
+          "subcategoryId": "study.practice",
+          "eventNodeId": "",
+          "tags": [
+            "hplc"
           ],
           "confidence": 0.5,
           "sourceMessageIds": []
