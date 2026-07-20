@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-19T13:38:45.630Z",
-    "updatedAt": "2026-07-19T13:38:36.679Z",
-    "taxonomyUpdatedAt": "2026-07-19T13:38:36.677Z",
-    "factsUpdatedAt": "2026-07-19T13:38:36.679Z",
+    "generatedAt": "2026-07-20T03:21:08.422Z",
+    "updatedAt": "2026-07-20T03:21:02.690Z",
+    "taxonomyUpdatedAt": "2026-07-20T03:21:02.687Z",
+    "factsUpdatedAt": "2026-07-20T03:21:02.690Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -56,9 +56,10 @@
       "2026-07-16",
       "2026-07-17",
       "2026-07-18",
-      "2026-07-19"
+      "2026-07-19",
+      "2026-07-20"
     ],
-    "latestDate": "2026-07-19"
+    "latestDate": "2026-07-20"
   },
   "taxonomy": {
     "categories": [
@@ -5016,6 +5017,74 @@
               "timeText": "21:00 - 21:10"
             },
             "className": "cat-study"
+          },
+          {
+            "id": "fact:回寝室:2026-07-19T14-37-00-000Z",
+            "start": "2026-07-19T14:37:00.000Z",
+            "end": "2026-07-19T15:00:00.000Z",
+            "content": "回寝室 | 23m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+              "color": "var(--cat-life)",
+              "durationText": "23 min",
+              "timeText": "22:37 - 23:00"
+            },
+            "className": "cat-life"
+          }
+        ]
+      },
+      "2026-07-20": {
+        "date": "2026-07-20",
+        "start": "2026-07-20T00:00:00.000+08:00",
+        "end": "2026-07-20T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:到实验室:2026-07-20T01-08-00-000Z",
+            "start": "2026-07-20T01:08:00.000Z",
+            "end": "2026-07-20T01:15:00.000Z",
+            "content": "到实验室 | 7m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "到实验室",
+              "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+              "color": "var(--cat-work)",
+              "durationText": "7 min",
+              "timeText": "09:08 - 09:15"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+            "start": "2026-07-20T01:30:00.000Z",
+            "end": "2026-07-20T03:00:00.000Z",
+            "content": "HPLC冲柱子关机 | 1h30m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "HPLC冲柱子关机",
+              "note": "到实验室第一件事，冲柱子关机",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr 30 min",
+              "timeText": "09:30 - 11:00"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+            "start": "2026-07-20T02:00:00.000Z",
+            "end": "2026-07-20T03:00:00.000Z",
+            "content": "准备游离氨基酸实验 | 1h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "准备游离氨基酸实验",
+              "note": "称6个样，水浴锅预热中",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr",
+              "timeText": "10:00 - 11:00"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -9925,6 +9994,112 @@
               "dateText": "2026-07-19"
             },
             "className": "cat-study"
+          },
+          {
+            "id": "2026-07-19:fact:回寝室:2026-07-19T14-37-00-000Z",
+            "group": "2026-07-19",
+            "start": "2000-01-01T22:37:00+08:00",
+            "end": "2000-01-01T23:00:00+08:00",
+            "content": "回寝室 | 23m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+              "color": "var(--cat-life)",
+              "durationText": "23 min",
+              "timeText": "22:37 - 23:00",
+              "dateText": "2026-07-19"
+            },
+            "className": "cat-life"
+          }
+        ]
+      },
+      "2026-07-20": {
+        "key": "2026-07-20",
+        "label": "Week of 2026-07-20",
+        "start": "2000-01-01T00:00:00.000+08:00",
+        "end": "2000-01-01T23:59:59.999+08:00",
+        "groups": [
+          {
+            "id": "2026-07-20",
+            "content": "Mon"
+          },
+          {
+            "id": "2026-07-21",
+            "content": "Tue"
+          },
+          {
+            "id": "2026-07-22",
+            "content": "Wed"
+          },
+          {
+            "id": "2026-07-23",
+            "content": "Thu"
+          },
+          {
+            "id": "2026-07-24",
+            "content": "Fri"
+          },
+          {
+            "id": "2026-07-25",
+            "content": "Sat"
+          },
+          {
+            "id": "2026-07-26",
+            "content": "Sun"
+          }
+        ],
+        "items": [
+          {
+            "id": "2026-07-20:fact:到实验室:2026-07-20T01-08-00-000Z",
+            "group": "2026-07-20",
+            "start": "2000-01-01T09:08:00+08:00",
+            "end": "2000-01-01T09:15:00+08:00",
+            "content": "到实验室 | 7m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "到实验室",
+              "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+              "color": "var(--cat-work)",
+              "durationText": "7 min",
+              "timeText": "09:08 - 09:15",
+              "dateText": "2026-07-20"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-20:fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+            "group": "2026-07-20",
+            "start": "2000-01-01T09:30:00+08:00",
+            "end": "2000-01-01T11:00:00+08:00",
+            "content": "HPLC冲柱子关机 | 1h30m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "HPLC冲柱子关机",
+              "note": "到实验室第一件事，冲柱子关机",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr 30 min",
+              "timeText": "09:30 - 11:00",
+              "dateText": "2026-07-20"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-20:fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+            "group": "2026-07-20",
+            "start": "2000-01-01T10:00:00+08:00",
+            "end": "2000-01-01T11:00:00+08:00",
+            "content": "准备游离氨基酸实验 | 1h",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "准备游离氨基酸实验",
+              "note": "称6个样，水浴锅预热中",
+              "color": "var(--cat-work)",
+              "durationText": "1 hr",
+              "timeText": "10:00 - 11:00",
+              "dateText": "2026-07-20"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -56018,28 +56193,28 @@
         "key": "2026-07-19",
         "label": "2026-07-19",
         "unit": "hour",
-        "totalMinutes": 1478,
+        "totalMinutes": 1501,
         "categories": [
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 975,
-            "percent": 0.6597
+            "percent": 0.6496
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 373,
-            "percent": 0.2524
+            "minutes": 396,
+            "percent": 0.2638
           },
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 130,
-            "percent": 0.088
+            "percent": 0.0866
           }
         ],
         "categoryDetails": {
@@ -56440,7 +56615,7 @@
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 60
+                "minutes": 83
               },
               {
                 "key": "23",
@@ -56454,7 +56629,7 @@
                 "categoryId": "life",
                 "label": "Other Life",
                 "color": "var(--cat-life)",
-                "minutes": 373,
+                "minutes": 396,
                 "percent": 1
               }
             ],
@@ -56472,6 +56647,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 373
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "22:37 - 23:00",
+                "compactDuration": "23m",
+                "fullLabel": "22:37 - 23:00 回寝室",
+                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 23
               }
             ]
           },
@@ -57191,7 +57380,7 @@
               {
                 "key": "22",
                 "label": "22:00",
-                "minutes": 60
+                "minutes": 83
               },
               {
                 "key": "23",
@@ -57213,6 +57402,392 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 373
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "22:37 - 23:00",
+                "compactDuration": "23m",
+                "fullLabel": "22:37 - 23:00 回寝室",
+                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 23
+              }
+            ]
+          }
+        }
+      },
+      "2026-07-20": {
+        "key": "2026-07-20",
+        "label": "2026-07-20",
+        "unit": "hour",
+        "totalMinutes": 157,
+        "categories": [
+          {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "minutes": 157,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 37
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 120
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "Other Work",
+                "color": "var(--cat-work)",
+                "minutes": 157,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "",
+                "timeLabel": "09:08 - 09:15",
+                "compactDuration": "7m",
+                "fullLabel": "09:08 - 09:15 到实验室",
+                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 7
+              },
+              {
+                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+                "label": "HPLC冲柱子关机",
+                "dateLabel": "",
+                "timeLabel": "09:30 - 11:00",
+                "compactDuration": "1h30m",
+                "fullLabel": "09:30 - 11:00 HPLC冲柱子关机",
+                "note": "到实验室第一件事，冲柱子关机",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 90
+              },
+              {
+                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+                "label": "准备游离氨基酸实验",
+                "dateLabel": "",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "10:00 - 11:00 准备游离氨基酸实验",
+                "note": "称6个样，水浴锅预热中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "Other Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 37
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 120
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "",
+                "timeLabel": "09:08 - 09:15",
+                "compactDuration": "7m",
+                "fullLabel": "09:08 - 09:15 到实验室",
+                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 7
+              },
+              {
+                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+                "label": "HPLC冲柱子关机",
+                "dateLabel": "",
+                "timeLabel": "09:30 - 11:00",
+                "compactDuration": "1h30m",
+                "fullLabel": "09:30 - 11:00 HPLC冲柱子关机",
+                "note": "到实验室第一件事，冲柱子关机",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 90
+              },
+              {
+                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+                "label": "准备游离氨基酸实验",
+                "dateLabel": "",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "10:00 - 11:00 准备游离氨基酸实验",
+                "note": "称6个样，水浴锅预热中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
               }
             ]
           }
@@ -69185,35 +69760,35 @@
         "key": "2026-07-13",
         "label": "Week of 2026-07-13",
         "unit": "day",
-        "totalMinutes": 6557,
+        "totalMinutes": 6580,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 4112,
-            "percent": 0.6271
+            "percent": 0.6249
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 1165,
-            "percent": 0.1777
+            "percent": 0.1771
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 920,
-            "percent": 0.1403
+            "minutes": 943,
+            "percent": 0.1433
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 360,
-            "percent": 0.0549
+            "percent": 0.0547
           }
         ],
         "categoryDetails": {
@@ -69921,7 +70496,7 @@
               {
                 "label": "07-19",
                 "key": "2026-07-19",
-                "minutes": 373
+                "minutes": 396
               }
             ],
             "subcategories": [
@@ -69930,8 +70505,8 @@
                 "categoryId": "life",
                 "label": "Other Life",
                 "color": "var(--cat-life)",
-                "minutes": 380,
-                "percent": 0.413
+                "minutes": 403,
+                "percent": 0.4274
               },
               {
                 "subcategoryId": "life.chores",
@@ -69939,7 +70514,7 @@
                 "label": "Chores",
                 "color": "var(--cat-life)",
                 "minutes": 360,
-                "percent": 0.3913
+                "percent": 0.3818
               },
               {
                 "subcategoryId": "life.meal",
@@ -69947,7 +70522,7 @@
                 "label": "Meals",
                 "color": "var(--cat-life)",
                 "minutes": 180,
-                "percent": 0.1957
+                "percent": 0.1909
               }
             ],
             "events": [
@@ -70090,6 +70665,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 373
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-19",
+                "timeLabel": "22:37 - 23:00",
+                "compactDuration": "23m",
+                "fullLabel": "07-19 22:37 - 23:00 回寝室",
+                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 23
               }
             ]
           },
@@ -70216,7 +70805,7 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
-                "minutes": 373
+                "minutes": 396
               }
             ],
             "events": [
@@ -70261,6 +70850,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 373
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-19",
+                "timeLabel": "22:37 - 23:00",
+                "compactDuration": "23m",
+                "fullLabel": "07-19 22:37 - 23:00 回寝室",
+                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 23
               }
             ]
           },
@@ -71355,6 +71958,208 @@
                 "subcategoryId": "study.course",
                 "subcategoryLabel": "study.course",
                 "minutes": 10
+              }
+            ]
+          }
+        }
+      },
+      "2026-07-20": {
+        "key": "2026-07-20",
+        "label": "Week of 2026-07-20",
+        "unit": "day",
+        "totalMinutes": 157,
+        "categories": [
+          {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "minutes": 157,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 157
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
+                "minutes": 0
+              },
+              {
+                "label": "07-22",
+                "key": "2026-07-22",
+                "minutes": 0
+              },
+              {
+                "label": "07-23",
+                "key": "2026-07-23",
+                "minutes": 0
+              },
+              {
+                "label": "07-24",
+                "key": "2026-07-24",
+                "minutes": 0
+              },
+              {
+                "label": "07-25",
+                "key": "2026-07-25",
+                "minutes": 0
+              },
+              {
+                "label": "07-26",
+                "key": "2026-07-26",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "Other Work",
+                "color": "var(--cat-work)",
+                "minutes": 157,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-20",
+                "timeLabel": "09:08 - 09:15",
+                "compactDuration": "7m",
+                "fullLabel": "07-20 09:08 - 09:15 到实验室",
+                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 7
+              },
+              {
+                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+                "label": "HPLC冲柱子关机",
+                "dateLabel": "07-20",
+                "timeLabel": "09:30 - 11:00",
+                "compactDuration": "1h30m",
+                "fullLabel": "07-20 09:30 - 11:00 HPLC冲柱子关机",
+                "note": "到实验室第一件事，冲柱子关机",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 90
+              },
+              {
+                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+                "label": "准备游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-20 10:00 - 11:00 准备游离氨基酸实验",
+                "note": "称6个样，水浴锅预热中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "Other Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 157
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-22",
+                "label": "07-22",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-23",
+                "label": "07-23",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-24",
+                "label": "07-24",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-25",
+                "label": "07-25",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-26",
+                "label": "07-26",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-20",
+                "timeLabel": "09:08 - 09:15",
+                "compactDuration": "7m",
+                "fullLabel": "07-20 09:08 - 09:15 到实验室",
+                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 7
+              },
+              {
+                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+                "label": "HPLC冲柱子关机",
+                "dateLabel": "07-20",
+                "timeLabel": "09:30 - 11:00",
+                "compactDuration": "1h30m",
+                "fullLabel": "07-20 09:30 - 11:00 HPLC冲柱子关机",
+                "note": "到实验室第一件事，冲柱子关机",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 90
+              },
+              {
+                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+                "label": "准备游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-20 10:00 - 11:00 准备游离氨基酸实验",
+                "note": "称6个样，水浴锅预热中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
               }
             ]
           }
@@ -79862,63 +80667,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 14049,
+        "totalMinutes": 14229,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 6384,
-            "percent": 0.4544
+            "percent": 0.4487
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 2610,
-            "percent": 0.1858
+            "minutes": 2633,
+            "percent": 0.185
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 2372,
-            "percent": 0.1688
+            "minutes": 2529,
+            "percent": 0.1777
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 1149,
-            "percent": 0.0818
+            "percent": 0.0808
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.067
+            "percent": 0.0661
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0233
+            "percent": 0.023
           },
           {
             "categoryId": "entertainment",
             "label": "Entertainment",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0147
+            "percent": 0.0145
           },
           {
             "categoryId": "exercise",
             "label": "Exercise",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0043
+            "percent": 0.0042
           }
         ],
         "categoryDetails": {
@@ -80021,6 +80826,11 @@
                 "label": "07-19",
                 "key": "2026-07-19",
                 "minutes": 130
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -80754,7 +81564,12 @@
               {
                 "label": "07-19",
                 "key": "2026-07-19",
-                "minutes": 373
+                "minutes": 396
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -80763,8 +81578,8 @@
                 "categoryId": "life",
                 "label": "Other Life",
                 "color": "var(--cat-life)",
-                "minutes": 1258,
-                "percent": 0.482
+                "minutes": 1281,
+                "percent": 0.4865
               },
               {
                 "subcategoryId": "life.meal",
@@ -80772,7 +81587,7 @@
                 "label": "Meals",
                 "color": "var(--cat-life)",
                 "minutes": 991,
-                "percent": 0.3797
+                "percent": 0.3764
               },
               {
                 "subcategoryId": "life.chores",
@@ -80780,7 +81595,7 @@
                 "label": "Chores",
                 "color": "var(--cat-life)",
                 "minutes": 360,
-                "percent": 0.1379
+                "percent": 0.1367
               },
               {
                 "subcategoryId": "life.errand",
@@ -81141,6 +81956,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 373
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-19",
+                "timeLabel": "22:37 - 23:00",
+                "compactDuration": "23m",
+                "fullLabel": "07-19 22:37 - 23:00 回寝室",
+                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 23
               }
             ]
           },
@@ -81243,6 +82072,11 @@
                 "label": "07-19",
                 "key": "2026-07-19",
                 "minutes": 975
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 157
               }
             ],
             "subcategories": [
@@ -81251,8 +82085,8 @@
                 "categoryId": "work",
                 "label": "Other Work",
                 "color": "var(--cat-work)",
-                "minutes": 2108,
-                "percent": 0.8887
+                "minutes": 2265,
+                "percent": 0.8956
               },
               {
                 "subcategoryId": "work.coding",
@@ -81260,7 +82094,7 @@
                 "label": "Coding",
                 "color": "var(--cat-work)",
                 "minutes": 192,
-                "percent": 0.0809
+                "percent": 0.0759
               },
               {
                 "subcategoryId": "work.writing",
@@ -81268,7 +82102,7 @@
                 "label": "Writing",
                 "color": "var(--cat-work)",
                 "minutes": 70,
-                "percent": 0.0295
+                "percent": 0.0277
               },
               {
                 "subcategoryId": "work.communication",
@@ -81699,6 +82533,48 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-20",
+                "timeLabel": "09:08 - 09:15",
+                "compactDuration": "7m",
+                "fullLabel": "07-20 09:08 - 09:15 到实验室",
+                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 7
+              },
+              {
+                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+                "label": "HPLC冲柱子关机",
+                "dateLabel": "07-20",
+                "timeLabel": "09:30 - 11:00",
+                "compactDuration": "1h30m",
+                "fullLabel": "07-20 09:30 - 11:00 HPLC冲柱子关机",
+                "note": "到实验室第一件事，冲柱子关机",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 90
+              },
+              {
+                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+                "label": "准备游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-20 10:00 - 11:00 准备游离氨基酸实验",
+                "note": "称6个样，水浴锅预热中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
               }
             ]
           },
@@ -81800,6 +82676,11 @@
               {
                 "label": "07-19",
                 "key": "2026-07-19",
+                "minutes": 0
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
                 "minutes": 0
               }
             ],
@@ -81984,6 +82865,11 @@
               {
                 "label": "07-19",
                 "key": "2026-07-19",
+                "minutes": 0
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
                 "minutes": 0
               }
             ],
@@ -82227,6 +83113,11 @@
                 "label": "07-19",
                 "key": "2026-07-19",
                 "minutes": 0
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -82453,6 +83344,11 @@
                 "label": "07-19",
                 "key": "2026-07-19",
                 "minutes": 0
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -82580,6 +83476,11 @@
               {
                 "label": "07-19",
                 "key": "2026-07-19",
+                "minutes": 0
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
                 "minutes": 0
               }
             ],
@@ -82711,6 +83612,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -82887,6 +83793,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 975
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 157
               }
             ],
             "events": [
@@ -83211,6 +84122,48 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-20",
+                "timeLabel": "09:08 - 09:15",
+                "compactDuration": "7m",
+                "fullLabel": "07-20 09:08 - 09:15 到实验室",
+                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 7
+              },
+              {
+                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+                "label": "HPLC冲柱子关机",
+                "dateLabel": "07-20",
+                "timeLabel": "09:30 - 11:00",
+                "compactDuration": "1h30m",
+                "fullLabel": "07-20 09:30 - 11:00 HPLC冲柱子关机",
+                "note": "到实验室第一件事，冲柱子关机",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 90
+              },
+              {
+                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+                "label": "准备游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-20 10:00 - 11:00 准备游离氨基酸实验",
+                "note": "称6个样，水浴锅预热中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
               }
             ]
           },
@@ -83313,6 +84266,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -83433,6 +84391,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -83552,6 +84515,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 130
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -83698,7 +84666,12 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
-                "minutes": 373
+                "minutes": 396
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -83855,6 +84828,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 373
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-19",
+                "timeLabel": "22:37 - 23:00",
+                "compactDuration": "23m",
+                "fullLabel": "07-19 22:37 - 23:00 回寝室",
+                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 23
               }
             ]
           },
@@ -83957,6 +84944,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -84175,6 +85167,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -84308,6 +85305,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -84426,6 +85428,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -84658,6 +85665,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -84776,6 +85788,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -84952,6 +85969,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -85085,6 +86107,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -85203,6 +86230,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -85799,6 +86831,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -85931,6 +86968,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -86079,6 +87121,11 @@
                 "key": "2026-07-19",
                 "label": "07-19",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 0
               }
             ],
             "events": [
@@ -86197,6 +87244,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],
@@ -86358,6 +87410,11 @@
               {
                 "key": "2026-07-19",
                 "label": "07-19",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
                 "minutes": 0
               }
             ],

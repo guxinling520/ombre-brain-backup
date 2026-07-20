@@ -4322,7 +4322,7 @@
     },
     "2026-07-19": {
       "status": "draft",
-      "updatedAt": "2026-07-19T13:38:36.673Z",
+      "updatedAt": "2026-07-19T22:06:28.280Z",
       "source": null,
       "events": [
         {
@@ -4489,6 +4489,65 @@
           "note": "确认明天游离氨基酸实验器材：9个500mL锥形瓶、9个250mL容量瓶、25mL比色管、抽滤装置",
           "categoryId": "study",
           "subcategoryId": "study.course",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:回寝室:2026-07-19T14-37-00-000Z",
+          "startAt": "2026-07-19T14:37:00.000Z",
+          "endAt": "2026-07-19T15:00:00.000Z",
+          "title": "回寝室",
+          "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
+    },
+    "2026-07-20": {
+      "status": "draft",
+      "updatedAt": "2026-07-20T03:21:02.680Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:到实验室:2026-07-20T01-08-00-000Z",
+          "startAt": "2026-07-20T01:08:00.000Z",
+          "endAt": "2026-07-20T01:15:00.000Z",
+          "title": "到实验室",
+          "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+          "startAt": "2026-07-20T01:30:00.000Z",
+          "endAt": "2026-07-20T03:00:00.000Z",
+          "title": "HPLC冲柱子关机",
+          "note": "到实验室第一件事，冲柱子关机",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+          "startAt": "2026-07-20T02:00:00.000Z",
+          "endAt": "2026-07-20T03:00:00.000Z",
+          "title": "准备游离氨基酸实验",
+          "note": "称6个样，水浴锅预热中",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
           "eventNodeId": "",
           "tags": [],
           "confidence": 0.5,
