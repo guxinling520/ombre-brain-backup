@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-20T03:21:08.422Z",
-    "updatedAt": "2026-07-20T03:21:02.690Z",
-    "taxonomyUpdatedAt": "2026-07-20T03:21:02.687Z",
-    "factsUpdatedAt": "2026-07-20T03:21:02.690Z",
+    "generatedAt": "2026-07-20T12:50:10.233Z",
+    "updatedAt": "2026-07-20T10:02:57.620Z",
+    "taxonomyUpdatedAt": "2026-07-20T10:02:57.618Z",
+    "factsUpdatedAt": "2026-07-20T10:02:57.620Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -5085,6 +5085,51 @@
               "timeText": "10:00 - 11:00"
             },
             "className": "cat-work"
+          },
+          {
+            "id": "fact:吃饭:2026-07-20T04-00-00-000Z",
+            "start": "2026-07-20T04:00:00.000Z",
+            "end": "2026-07-20T04:30:00.000Z",
+            "content": "吃饭 | 30m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "吃饭",
+              "note": "水浴锅加热时先去吃饭",
+              "color": "var(--cat-life)",
+              "durationText": "30 min",
+              "timeText": "12:00 - 12:30"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+            "start": "2026-07-20T04:09:00.000Z",
+            "end": "2026-07-20T10:02:00.000Z",
+            "content": "游离氨基酸实验 | 5h53m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "游离氨基酸实验",
+              "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+              "color": "var(--cat-work)",
+              "durationText": "5 hr 53 min",
+              "timeText": "12:09 - 18:02"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+            "start": "2026-07-20T04:09:00.000Z",
+            "end": "2026-07-20T10:00:00.000Z",
+            "content": "游离氨基酸实验 | 5h51m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "游离氨基酸实验",
+              "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+              "color": "var(--cat-work)",
+              "durationText": "5 hr 51 min",
+              "timeText": "12:09 - 18:00"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -10097,6 +10142,57 @@
               "color": "var(--cat-work)",
               "durationText": "1 hr",
               "timeText": "10:00 - 11:00",
+              "dateText": "2026-07-20"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-20:fact:吃饭:2026-07-20T04-00-00-000Z",
+            "group": "2026-07-20",
+            "start": "2000-01-01T12:00:00+08:00",
+            "end": "2000-01-01T12:30:00+08:00",
+            "content": "吃饭 | 30m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "吃饭",
+              "note": "水浴锅加热时先去吃饭",
+              "color": "var(--cat-life)",
+              "durationText": "30 min",
+              "timeText": "12:00 - 12:30",
+              "dateText": "2026-07-20"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-20:fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+            "group": "2026-07-20",
+            "start": "2000-01-01T12:09:00+08:00",
+            "end": "2000-01-01T18:02:00+08:00",
+            "content": "游离氨基酸实验 | 5h53m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "游离氨基酸实验",
+              "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+              "color": "var(--cat-work)",
+              "durationText": "5 hr 53 min",
+              "timeText": "12:09 - 18:02",
+              "dateText": "2026-07-20"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-20:fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+            "group": "2026-07-20",
+            "start": "2000-01-01T12:09:00+08:00",
+            "end": "2000-01-01T18:00:00+08:00",
+            "content": "游离氨基酸实验 | 5h51m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "游离氨基酸实验",
+              "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+              "color": "var(--cat-work)",
+              "durationText": "5 hr 51 min",
+              "timeText": "12:09 - 18:00",
               "dateText": "2026-07-20"
             },
             "className": "cat-work"
@@ -57425,14 +57521,21 @@
         "key": "2026-07-20",
         "label": "2026-07-20",
         "unit": "hour",
-        "totalMinutes": 157,
+        "totalMinutes": 891,
         "categories": [
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 157,
-            "percent": 1
+            "minutes": 861,
+            "percent": 0.9663
+          },
+          {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "minutes": 30,
+            "percent": 0.0337
           }
         ],
         "categoryDetails": {
@@ -57504,7 +57607,216 @@
               {
                 "key": "12",
                 "label": "12:00",
+                "minutes": 102
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 120
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 120
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 120
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 120
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 120
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 2
+              },
+              {
+                "key": "19",
+                "label": "19:00",
                 "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "Other Work",
+                "color": "var(--cat-work)",
+                "minutes": 861,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "",
+                "timeLabel": "09:08 - 09:15",
+                "compactDuration": "7m",
+                "fullLabel": "09:08 - 09:15 到实验室",
+                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 7
+              },
+              {
+                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
+                "label": "HPLC冲柱子关机",
+                "dateLabel": "",
+                "timeLabel": "09:30 - 11:00",
+                "compactDuration": "1h30m",
+                "fullLabel": "09:30 - 11:00 HPLC冲柱子关机",
+                "note": "到实验室第一件事，冲柱子关机",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 90
+              },
+              {
+                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
+                "label": "准备游离氨基酸实验",
+                "dateLabel": "",
+                "timeLabel": "10:00 - 11:00",
+                "compactDuration": "1h",
+                "fullLabel": "10:00 - 11:00 准备游离氨基酸实验",
+                "note": "称6个样，水浴锅预热中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "",
+                "timeLabel": "12:09 - 18:02",
+                "compactDuration": "5h53m",
+                "fullLabel": "12:09 - 18:02 游离氨基酸实验",
+                "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 353
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "",
+                "timeLabel": "12:09 - 18:00",
+                "compactDuration": "5h51m",
+                "fullLabel": "12:09 - 18:00 游离氨基酸实验",
+                "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 351
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 30
               },
               {
                 "key": "13",
@@ -57564,56 +57876,28 @@
             ],
             "subcategories": [
               {
-                "subcategoryId": "work.other",
-                "categoryId": "work",
-                "label": "Other Work",
-                "color": "var(--cat-work)",
-                "minutes": 157,
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "Other Life",
+                "color": "var(--cat-life)",
+                "minutes": 30,
                 "percent": 1
               }
             ],
             "events": [
               {
-                "eventNodeId": "fact:到实验室:2026-07-20T01-08-00-000Z",
-                "label": "到实验室",
+                "eventNodeId": "fact:吃饭:2026-07-20T04-00-00-000Z",
+                "label": "吃饭",
                 "dateLabel": "",
-                "timeLabel": "09:08 - 09:15",
-                "compactDuration": "7m",
-                "fullLabel": "09:08 - 09:15 到实验室",
-                "note": "到实验室，准备冲HPLC柱子关机+做游离氨基酸实验",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "12:00 - 12:30 吃饭",
+                "note": "水浴锅加热时先去吃饭",
                 "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 7
-              },
-              {
-                "eventNodeId": "fact:hplc冲柱子关机:2026-07-20T01-30-00-000Z",
-                "label": "HPLC冲柱子关机",
-                "dateLabel": "",
-                "timeLabel": "09:30 - 11:00",
-                "compactDuration": "1h30m",
-                "fullLabel": "09:30 - 11:00 HPLC冲柱子关机",
-                "note": "到实验室第一件事，冲柱子关机",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 90
-              },
-              {
-                "eventNodeId": "fact:准备游离氨基酸实验:2026-07-20T02-00-00-000Z",
-                "label": "准备游离氨基酸实验",
-                "dateLabel": "",
-                "timeLabel": "10:00 - 11:00",
-                "compactDuration": "1h",
-                "fullLabel": "10:00 - 11:00 准备游离氨基酸实验",
-                "note": "称6个样，水浴锅预热中",
-                "status": "derived",
-                "categoryId": "work",
-                "subcategoryId": "work.other",
-                "subcategoryLabel": "work.other",
-                "minutes": 60
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 30
               }
             ]
           }
@@ -57688,37 +57972,37 @@
               {
                 "key": "12",
                 "label": "12:00",
-                "minutes": 0
+                "minutes": 102
               },
               {
                 "key": "13",
                 "label": "13:00",
-                "minutes": 0
+                "minutes": 120
               },
               {
                 "key": "14",
                 "label": "14:00",
-                "minutes": 0
+                "minutes": 120
               },
               {
                 "key": "15",
                 "label": "15:00",
-                "minutes": 0
+                "minutes": 120
               },
               {
                 "key": "16",
                 "label": "16:00",
-                "minutes": 0
+                "minutes": 120
               },
               {
                 "key": "17",
                 "label": "17:00",
-                "minutes": 0
+                "minutes": 120
               },
               {
                 "key": "18",
                 "label": "18:00",
-                "minutes": 0
+                "minutes": 2
               },
               {
                 "key": "19",
@@ -57788,6 +58072,178 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "",
+                "timeLabel": "12:09 - 18:02",
+                "compactDuration": "5h53m",
+                "fullLabel": "12:09 - 18:02 游离氨基酸实验",
+                "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 353
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "",
+                "timeLabel": "12:09 - 18:00",
+                "compactDuration": "5h51m",
+                "fullLabel": "12:09 - 18:00 游离氨基酸实验",
+                "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 351
+              }
+            ]
+          },
+          "life.other": {
+            "subcategoryId": "life.other",
+            "categoryId": "life",
+            "label": "Other Life",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 0
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 30
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:吃饭:2026-07-20T04-00-00-000Z",
+                "label": "吃饭",
+                "dateLabel": "",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "12:00 - 12:30 吃饭",
+                "note": "水浴锅加热时先去吃饭",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 30
               }
             ]
           }
@@ -71967,14 +72423,21 @@
         "key": "2026-07-20",
         "label": "Week of 2026-07-20",
         "unit": "day",
-        "totalMinutes": 157,
+        "totalMinutes": 891,
         "categories": [
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 157,
-            "percent": 1
+            "minutes": 861,
+            "percent": 0.9663
+          },
+          {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "minutes": 30,
+            "percent": 0.0337
           }
         ],
         "categoryDetails": {
@@ -71986,7 +72449,7 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
-                "minutes": 157
+                "minutes": 861
               },
               {
                 "label": "07-21",
@@ -72025,7 +72488,7 @@
                 "categoryId": "work",
                 "label": "Other Work",
                 "color": "var(--cat-work)",
-                "minutes": 157,
+                "minutes": 861,
                 "percent": 1
               }
             ],
@@ -72071,6 +72534,102 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:02",
+                "compactDuration": "5h53m",
+                "fullLabel": "07-20 12:09 - 18:02 游离氨基酸实验",
+                "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 353
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:00",
+                "compactDuration": "5h51m",
+                "fullLabel": "07-20 12:09 - 18:00 游离氨基酸实验",
+                "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 351
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 30
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
+                "minutes": 0
+              },
+              {
+                "label": "07-22",
+                "key": "2026-07-22",
+                "minutes": 0
+              },
+              {
+                "label": "07-23",
+                "key": "2026-07-23",
+                "minutes": 0
+              },
+              {
+                "label": "07-24",
+                "key": "2026-07-24",
+                "minutes": 0
+              },
+              {
+                "label": "07-25",
+                "key": "2026-07-25",
+                "minutes": 0
+              },
+              {
+                "label": "07-26",
+                "key": "2026-07-26",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "Other Life",
+                "color": "var(--cat-life)",
+                "minutes": 30,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:吃饭:2026-07-20T04-00-00-000Z",
+                "label": "吃饭",
+                "dateLabel": "07-20",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-20 12:00 - 12:30 吃饭",
+                "note": "水浴锅加热时先去吃饭",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 30
               }
             ]
           }
@@ -72085,7 +72644,7 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
-                "minutes": 157
+                "minutes": 861
               },
               {
                 "key": "2026-07-21",
@@ -72160,6 +72719,93 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:02",
+                "compactDuration": "5h53m",
+                "fullLabel": "07-20 12:09 - 18:02 游离氨基酸实验",
+                "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 353
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:00",
+                "compactDuration": "5h51m",
+                "fullLabel": "07-20 12:09 - 18:00 游离氨基酸实验",
+                "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 351
+              }
+            ]
+          },
+          "life.other": {
+            "subcategoryId": "life.other",
+            "categoryId": "life",
+            "label": "Other Life",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "key": "2026-07-20",
+                "label": "07-20",
+                "minutes": 30
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-22",
+                "label": "07-22",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-23",
+                "label": "07-23",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-24",
+                "label": "07-24",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-25",
+                "label": "07-25",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-26",
+                "label": "07-26",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:吃饭:2026-07-20T04-00-00-000Z",
+                "label": "吃饭",
+                "dateLabel": "07-20",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-20 12:00 - 12:30 吃饭",
+                "note": "水浴锅加热时先去吃饭",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 30
               }
             ]
           }
@@ -80667,63 +81313,63 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 14229,
+        "totalMinutes": 14963,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 6384,
-            "percent": 0.4487
-          },
-          {
-            "categoryId": "life",
-            "label": "Life",
-            "color": "var(--cat-life)",
-            "minutes": 2633,
-            "percent": 0.185
+            "percent": 0.4267
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 2529,
-            "percent": 0.1777
+            "minutes": 3233,
+            "percent": 0.2161
+          },
+          {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "minutes": 2663,
+            "percent": 0.178
           },
           {
             "categoryId": "rest",
             "label": "Rest",
             "color": "var(--cat-rest)",
             "minutes": 1149,
-            "percent": 0.0808
+            "percent": 0.0768
           },
           {
             "categoryId": "lab",
             "label": "lab",
             "color": "var(--cat-life)",
             "minutes": 941,
-            "percent": 0.0661
+            "percent": 0.0629
           },
           {
             "categoryId": "travel",
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.023
+            "percent": 0.0219
           },
           {
             "categoryId": "entertainment",
             "label": "Entertainment",
             "color": "var(--cat-entertainment)",
             "minutes": 206,
-            "percent": 0.0145
+            "percent": 0.0138
           },
           {
             "categoryId": "exercise",
             "label": "Exercise",
             "color": "var(--cat-exercise)",
             "minutes": 60,
-            "percent": 0.0042
+            "percent": 0.004
           }
         ],
         "categoryDetails": {
@@ -81466,513 +82112,6 @@
               }
             ]
           },
-          "life": {
-            "categoryId": "life",
-            "label": "Life",
-            "color": "var(--cat-life)",
-            "trend": [
-              {
-                "label": "07-01",
-                "key": "2026-07-01",
-                "minutes": 0
-              },
-              {
-                "label": "07-02",
-                "key": "2026-07-02",
-                "minutes": 430
-              },
-              {
-                "label": "07-03",
-                "key": "2026-07-03",
-                "minutes": 60
-              },
-              {
-                "label": "07-04",
-                "key": "2026-07-04",
-                "minutes": 287
-              },
-              {
-                "label": "07-05",
-                "key": "2026-07-05",
-                "minutes": 16
-              },
-              {
-                "label": "07-06",
-                "key": "2026-07-06",
-                "minutes": 682
-              },
-              {
-                "label": "07-07",
-                "key": "2026-07-07",
-                "minutes": 29
-              },
-              {
-                "label": "07-08",
-                "key": "2026-07-08",
-                "minutes": 155
-              },
-              {
-                "label": "07-09",
-                "key": "2026-07-09",
-                "minutes": 0
-              },
-              {
-                "label": "07-10",
-                "key": "2026-07-10",
-                "minutes": 20
-              },
-              {
-                "label": "07-11",
-                "key": "2026-07-11",
-                "minutes": 0
-              },
-              {
-                "label": "07-12",
-                "key": "2026-07-12",
-                "minutes": 11
-              },
-              {
-                "label": "07-13",
-                "key": "2026-07-13",
-                "minutes": 7
-              },
-              {
-                "label": "07-14",
-                "key": "2026-07-14",
-                "minutes": 0
-              },
-              {
-                "label": "07-15",
-                "key": "2026-07-15",
-                "minutes": 0
-              },
-              {
-                "label": "07-16",
-                "key": "2026-07-16",
-                "minutes": 360
-              },
-              {
-                "label": "07-17",
-                "key": "2026-07-17",
-                "minutes": 120
-              },
-              {
-                "label": "07-18",
-                "key": "2026-07-18",
-                "minutes": 60
-              },
-              {
-                "label": "07-19",
-                "key": "2026-07-19",
-                "minutes": 396
-              },
-              {
-                "label": "07-20",
-                "key": "2026-07-20",
-                "minutes": 0
-              }
-            ],
-            "subcategories": [
-              {
-                "subcategoryId": "life.other",
-                "categoryId": "life",
-                "label": "Other Life",
-                "color": "var(--cat-life)",
-                "minutes": 1281,
-                "percent": 0.4865
-              },
-              {
-                "subcategoryId": "life.meal",
-                "categoryId": "life",
-                "label": "Meals",
-                "color": "var(--cat-life)",
-                "minutes": 991,
-                "percent": 0.3764
-              },
-              {
-                "subcategoryId": "life.chores",
-                "categoryId": "life",
-                "label": "Chores",
-                "color": "var(--cat-life)",
-                "minutes": 360,
-                "percent": 0.1367
-              },
-              {
-                "subcategoryId": "life.errand",
-                "categoryId": "life",
-                "label": "Errands",
-                "color": "var(--cat-life)",
-                "minutes": 1,
-                "percent": 0.0004
-              }
-            ],
-            "events": [
-              {
-                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
-                "label": "当前位置记录",
-                "dateLabel": "07-02",
-                "timeLabel": "13:01 - 20:10",
-                "compactDuration": "7h9m",
-                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
-                "note": "记录当前位置和当前状态。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 429
-              },
-              {
-                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
-                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
-                "dateLabel": "07-02",
-                "timeLabel": "20:13 - 20:14",
-                "compactDuration": "1m",
-                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
-                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.errand",
-                "subcategoryLabel": "life.errand",
-                "minutes": 1
-              },
-              {
-                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
-                "label": "午餐：肉酱拌米线",
-                "dateLabel": "07-03",
-                "timeLabel": "13:00 - 14:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-03 13:00 - 14:00 午餐：肉酱拌米线",
-                "note": "",
-                "status": "official",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 60
-              },
-              {
-                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
-                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
-                "dateLabel": "07-04",
-                "timeLabel": "18:21 - 19:16",
-                "compactDuration": "55m",
-                "fullLabel": "07-04 18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
-                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 55
-              },
-              {
-                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
-                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
-                "dateLabel": "07-04",
-                "timeLabel": "19:16 - 21:27",
-                "compactDuration": "2h11m",
-                "fullLabel": "07-04 19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
-                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 131
-              },
-              {
-                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
-                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
-                "dateLabel": "07-04",
-                "timeLabel": "21:27 - 23:08",
-                "compactDuration": "1h41m",
-                "fullLabel": "07-04 21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
-                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 101
-              },
-              {
-                "eventNodeId": "fact:2026-07-05中午起床了在检查昨天两台分光光:2026-07-05T05-13-00-000Z",
-                "label": "2026-07-05中午起床了在检查昨天两台分光光度计的茶多",
-                "dateLabel": "07-05",
-                "timeLabel": "13:13 - 13:27",
-                "compactDuration": "14m",
-                "fullLabel": "07-05 13:13 - 13:27 2026-07-05中午起床了在检查昨天两台分光光度计的茶多",
-                "note": "2026-07-05 中午起床了，在检查昨天两台分光光度计的茶多酚数据，看看有没有能过5%的配对。没有一对能过。[😤+2]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 14
-              },
-              {
-                "eventNodeId": "fact:回寝室了-忙碌的一天结束:2026-07-05T07-28-00-000Z",
-                "label": "回寝室了，忙碌的一天结束",
-                "dateLabel": "07-05",
-                "timeLabel": "15:28 - 15:30",
-                "compactDuration": "2m",
-                "fullLabel": "07-05 15:28 - 15:30 回寝室了，忙碌的一天结束",
-                "note": "从中午忙到晚上：茶多酚数据复核+s50/s65重测+写周报+洗GC-MS瓶子+健身。明后天GC-MS两天攻坚。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 2
-              },
-              {
-                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
-                "label": "12:28 到工位吃饭",
-                "dateLabel": "07-06",
-                "timeLabel": "12:28 - 12:50",
-                "compactDuration": "22m",
-                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
-                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 22
-              },
-              {
-                "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
-                "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
-                "dateLabel": "07-06",
-                "timeLabel": "12:28 - 23:28",
-                "compactDuration": "11h",
-                "fullLabel": "07-06 12:28 - 23:28 2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
-                "note": "2026-07-06 12:28 — 到工位了，在吃饭。吃完饭准备做GC-MS（SPME法）。黄老师回复周报要求加重复性数据和方差分析。[😐+1]。## 13:00-15:00。师姐在用气相色谱仪（用到下午3点多），崽崽趁空档在做s80茶多酚复测（浸提中）。[😐+1]。## 18:00-19:00。GC-MS软件出问题（误关实时分析软件后启动不了，[0102]无效自变量），被师姐说了。最后发消息求师兄帮忙，远程指导修好了。老化针中。[😭+3]。## 20:00-。开始上第一个样了（60℃磁力搅拌平衡中）。今晚能做几个算几个，剩下的明天做。[😐+1]。## 21:00-22:00。s80复测结果出来了（17.84%，远低于第一次的30.26%），选了合格配对。21:42开始扎针吸附，第一次独立做SPME-GC-MS。[😊+1]。## 22:00-23:00。GC-MS第一个样跑上了，但操作不熟练（针打早了、顶空瓶壁挂茶粉等问题）。决定把今天当预实验，把气相让给永琪做。明天转做黄酮苷。[😐+1]",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 660
-              },
-              {
-                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
-                "label": "13:31 吃完饭准备回实验室",
-                "dateLabel": "07-07",
-                "timeLabel": "13:31 - 14:00",
-                "compactDuration": "29m",
-                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
-                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 29
-              },
-              {
-                "eventNodeId": "fact:00-35-02-06-apk逆向安全测试:2026-07-07T16-35-00-000Z",
-                "label": "00:35-02:50 APK逆向安全测试",
-                "dateLabel": "07-08",
-                "timeLabel": "00:35 - 02:50",
-                "compactDuration": "2h15m",
-                "fullLabel": "07-08 00:35 - 02:50 00:35-02:50 APK逆向安全测试",
-                "note": "凌晨熬夜帮朋友测app防御。找到BuyManagerImpl.isVip()本地漏洞+TimerTemplateModel.isVip()无服务端验证，均改为始终返回true。改微信SDK checkSumConsistent绕过本地签名校验但微信服务器端验证仍失败。分析SharedPreferences发现com.crossroad.multiTimer.preference。R8混淆严重，逆向难度较高。结论：需要加固VIP服务端验证+签名校验，微信登录回调也需要加固。",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 135
-              },
-              {
-                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
-                "label": "吃外卖午餐",
-                "dateLabel": "07-08",
-                "timeLabel": "13:50 - 14:10",
-                "compactDuration": "20m",
-                "fullLabel": "07-08 13:50 - 14:10 吃外卖午餐",
-                "note": "",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 20
-              },
-              {
-                "eventNodeId": "fact:evt-dinner:2026-07-10T10-40-00-000Z",
-                "label": "吃木桶饭（爆炒猪肝）",
-                "dateLabel": "07-10",
-                "timeLabel": "18:40 - 19:00",
-                "compactDuration": "20m",
-                "fullLabel": "07-10 18:40 - 19:00 吃木桶饭（爆炒猪肝）",
-                "note": "打包带回，老板娘嫌女生饭给少了，有点气人",
-                "status": "official",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 20
-              },
-              {
-                "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
-                "label": "回寝室",
-                "dateLabel": "07-12",
-                "timeLabel": "22:29 - 22:40",
-                "compactDuration": "11m",
-                "fullLabel": "07-12 22:29 - 22:40 回寝室",
-                "note": "一天实验结束，到寝室了",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 11
-              },
-              {
-                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
-                "label": "起床",
-                "dateLabel": "07-13",
-                "timeLabel": "12:38 - 12:40",
-                "compactDuration": "2m",
-                "fullLabel": "07-13 12:38 - 12:40 起床",
-                "note": "中午12:38醒",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 2
-              },
-              {
-                "eventNodeId": "fact:回寝-2026-07-13",
-                "label": "回寝室",
-                "dateLabel": "07-13",
-                "timeLabel": "23:00 - 23:05",
-                "compactDuration": "5m",
-                "fullLabel": "07-13 23:00 - 23:05 回寝室",
-                "note": "一天实验结束，GC-MS收工，明天上液相",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 5
-              },
-              {
-                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
-                "label": "生理期+宿舍强制断电换宿舍",
-                "dateLabel": "07-16",
-                "timeLabel": "14:00 - 15:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-16 14:00 - 15:00 生理期+宿舍强制断电换宿舍",
-                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.chores",
-                "subcategoryLabel": "life.chores",
-                "minutes": 60
-              },
-              {
-                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
-                "label": "准备搬家",
-                "dateLabel": "07-16",
-                "timeLabel": "17:00 - 19:30",
-                "compactDuration": "2h30m",
-                "fullLabel": "07-16 17:00 - 19:30 准备搬家",
-                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.chores",
-                "subcategoryLabel": "life.chores",
-                "minutes": 150
-              },
-              {
-                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
-                "label": "收拾东西准备搬家",
-                "dateLabel": "07-16",
-                "timeLabel": "19:30 - 20:00",
-                "compactDuration": "30m",
-                "fullLabel": "07-16 19:30 - 20:00 收拾东西准备搬家",
-                "note": "生理期第一天。收拾必备衣物和洗漱用品",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.chores",
-                "subcategoryLabel": "life.chores",
-                "minutes": 30
-              },
-              {
-                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
-                "label": "从A6 603搬到A5 603——白搬了",
-                "dateLabel": "07-16",
-                "timeLabel": "20:00 - 22:00",
-                "compactDuration": "2h",
-                "fullLabel": "07-16 20:00 - 22:00 从A6 603搬到A5 603——白搬了",
-                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.chores",
-                "subcategoryLabel": "life.chores",
-                "minutes": 120
-              },
-              {
-                "eventNodeId": "fact:醒了-吃外卖:2026-07-17T04-00-00-000Z",
-                "label": "醒了，吃外卖",
-                "dateLabel": "07-17",
-                "timeLabel": "12:00 - 13:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-17 12:00 - 13:00 醒了，吃外卖",
-                "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 60
-              },
-              {
-                "eventNodeId": "fact:woke-up-2026-07-17",
-                "label": "醒了，吃外卖",
-                "dateLabel": "07-17",
-                "timeLabel": "12:00 - 13:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-17 12:00 - 13:00 醒了，吃外卖",
-                "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 60
-              },
-              {
-                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
-                "label": "醒了，洗衣服",
-                "dateLabel": "07-18",
-                "timeLabel": "12:00 - 13:00",
-                "compactDuration": "1h",
-                "fullLabel": "07-18 12:00 - 13:00 醒了，洗衣服",
-                "note": "",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.meal",
-                "subcategoryLabel": "life.meal",
-                "minutes": 60
-              },
-              {
-                "eventNodeId": "fact:GC-MS数据处理:2026-07-19T09-46-00-000Z",
-                "label": "GC-MS数据处理",
-                "dateLabel": "07-19",
-                "timeLabel": "17:46 - 23:59",
-                "compactDuration": "6h13m",
-                "fullLabel": "07-19 17:46 - 23:59 GC-MS数据处理",
-                "note": "## 下午。- 老师要求CK气相重复性用3个最接近的平行样做。- 选了s0-5、S0-9、S0-10三个内标峰最接近的表。- 处理了CK气相数据：SI≥80、排除硅/咖啡碱/非茶叶物质。- 按老师建议删除了长链烷烃、污染物、卤代物、含硫酯。- 从248个化合物删到122个，中英文对照完整。- 17个Bad（RSD>20%），主要是微量成分",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 373
-              },
-              {
-                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
-                "label": "回寝室",
-                "dateLabel": "07-19",
-                "timeLabel": "22:37 - 23:00",
-                "compactDuration": "23m",
-                "fullLabel": "07-19 22:37 - 23:00 回寝室",
-                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
-                "status": "derived",
-                "categoryId": "life",
-                "subcategoryId": "life.other",
-                "subcategoryLabel": "life.other",
-                "minutes": 23
-              }
-            ]
-          },
           "work": {
             "categoryId": "work",
             "label": "Work",
@@ -82076,7 +82215,7 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
-                "minutes": 157
+                "minutes": 861
               }
             ],
             "subcategories": [
@@ -82085,8 +82224,8 @@
                 "categoryId": "work",
                 "label": "Other Work",
                 "color": "var(--cat-work)",
-                "minutes": 2265,
-                "percent": 0.8956
+                "minutes": 2969,
+                "percent": 0.9183
               },
               {
                 "subcategoryId": "work.coding",
@@ -82094,7 +82233,7 @@
                 "label": "Coding",
                 "color": "var(--cat-work)",
                 "minutes": 192,
-                "percent": 0.0759
+                "percent": 0.0594
               },
               {
                 "subcategoryId": "work.writing",
@@ -82102,7 +82241,7 @@
                 "label": "Writing",
                 "color": "var(--cat-work)",
                 "minutes": 70,
-                "percent": 0.0277
+                "percent": 0.0217
               },
               {
                 "subcategoryId": "work.communication",
@@ -82110,7 +82249,7 @@
                 "label": "Communication",
                 "color": "var(--cat-work)",
                 "minutes": 2,
-                "percent": 0.0008
+                "percent": 0.0006
               }
             ],
             "events": [
@@ -82575,6 +82714,555 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:02",
+                "compactDuration": "5h53m",
+                "fullLabel": "07-20 12:09 - 18:02 游离氨基酸实验",
+                "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 353
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:00",
+                "compactDuration": "5h51m",
+                "fullLabel": "07-20 12:09 - 18:00 游离氨基酸实验",
+                "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 351
+              }
+            ]
+          },
+          "life": {
+            "categoryId": "life",
+            "label": "Life",
+            "color": "var(--cat-life)",
+            "trend": [
+              {
+                "label": "07-01",
+                "key": "2026-07-01",
+                "minutes": 0
+              },
+              {
+                "label": "07-02",
+                "key": "2026-07-02",
+                "minutes": 430
+              },
+              {
+                "label": "07-03",
+                "key": "2026-07-03",
+                "minutes": 60
+              },
+              {
+                "label": "07-04",
+                "key": "2026-07-04",
+                "minutes": 287
+              },
+              {
+                "label": "07-05",
+                "key": "2026-07-05",
+                "minutes": 16
+              },
+              {
+                "label": "07-06",
+                "key": "2026-07-06",
+                "minutes": 682
+              },
+              {
+                "label": "07-07",
+                "key": "2026-07-07",
+                "minutes": 29
+              },
+              {
+                "label": "07-08",
+                "key": "2026-07-08",
+                "minutes": 155
+              },
+              {
+                "label": "07-09",
+                "key": "2026-07-09",
+                "minutes": 0
+              },
+              {
+                "label": "07-10",
+                "key": "2026-07-10",
+                "minutes": 20
+              },
+              {
+                "label": "07-11",
+                "key": "2026-07-11",
+                "minutes": 0
+              },
+              {
+                "label": "07-12",
+                "key": "2026-07-12",
+                "minutes": 11
+              },
+              {
+                "label": "07-13",
+                "key": "2026-07-13",
+                "minutes": 7
+              },
+              {
+                "label": "07-14",
+                "key": "2026-07-14",
+                "minutes": 0
+              },
+              {
+                "label": "07-15",
+                "key": "2026-07-15",
+                "minutes": 0
+              },
+              {
+                "label": "07-16",
+                "key": "2026-07-16",
+                "minutes": 360
+              },
+              {
+                "label": "07-17",
+                "key": "2026-07-17",
+                "minutes": 120
+              },
+              {
+                "label": "07-18",
+                "key": "2026-07-18",
+                "minutes": 60
+              },
+              {
+                "label": "07-19",
+                "key": "2026-07-19",
+                "minutes": 396
+              },
+              {
+                "label": "07-20",
+                "key": "2026-07-20",
+                "minutes": 30
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "life.other",
+                "categoryId": "life",
+                "label": "Other Life",
+                "color": "var(--cat-life)",
+                "minutes": 1311,
+                "percent": 0.4923
+              },
+              {
+                "subcategoryId": "life.meal",
+                "categoryId": "life",
+                "label": "Meals",
+                "color": "var(--cat-life)",
+                "minutes": 991,
+                "percent": 0.3721
+              },
+              {
+                "subcategoryId": "life.chores",
+                "categoryId": "life",
+                "label": "Chores",
+                "color": "var(--cat-life)",
+                "minutes": 360,
+                "percent": 0.1352
+              },
+              {
+                "subcategoryId": "life.errand",
+                "categoryId": "life",
+                "label": "Errands",
+                "color": "var(--cat-life)",
+                "minutes": 1,
+                "percent": 0.0004
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:当前位置记录:2026-07-02T05-01-00-000Z",
+                "label": "当前位置记录",
+                "dateLabel": "07-02",
+                "timeLabel": "13:01 - 20:10",
+                "compactDuration": "7h9m",
+                "fullLabel": "07-02 13:01 - 20:10 当前位置记录",
+                "note": "记录当前位置和当前状态。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 429
+              },
+              {
+                "eventNodeId": "fact:今天交了茶叶碳中和的论文但老师说封面要改重新打印再:2026-07-02T12-13-00-000Z",
+                "label": "今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "dateLabel": "07-02",
+                "timeLabel": "20:13 - 20:14",
+                "compactDuration": "1m",
+                "fullLabel": "07-02 20:13 - 20:14 今天交了茶叶碳中和的论文但老师说封面要改重新打印再交[😤+",
+                "note": "今天交了茶叶碳中和的论文，但老师说封面要改，重新打印再交。[😤+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.errand",
+                "subcategoryLabel": "life.errand",
+                "minutes": 1
+              },
+              {
+                "eventNodeId": "fact:evt-lunch:2026-07-03T05-00-00-000Z",
+                "label": "午餐：肉酱拌米线",
+                "dateLabel": "07-03",
+                "timeLabel": "13:00 - 14:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-03 13:00 - 14:00 午餐：肉酱拌米线",
+                "note": "",
+                "status": "official",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:2026-07-04下午—s3重做9个平行15:3:2026-07-04T10-21-00-000Z",
+                "label": "2026-07-04下午—s3重做9个平行15:38开始两次",
+                "dateLabel": "07-04",
+                "timeLabel": "18:21 - 19:16",
+                "compactDuration": "55m",
+                "fullLabel": "07-04 18:21 - 19:16 2026-07-04下午—s3重做9个平行15:38开始两次",
+                "note": "2026-07-04 下午 — s3重做，9个平行。15:38开始，两次浸提+定容+加福林酚+Na₂CO₃，显色中，准备上机。[😐+2]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 55
+              },
+              {
+                "eventNodeId": "fact:崽发了张笑对人生表情包——两个蓝衣人对镜苦笑文字笑:2026-07-04T11-16-00-000Z",
+                "label": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "dateLabel": "07-04",
+                "timeLabel": "19:16 - 21:27",
+                "compactDuration": "2h11m",
+                "fullLabel": "07-04 19:16 - 21:27 崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑文字\"笑起来",
+                "note": "崽发了张\"笑对人生\"表情包——两个蓝衣人对镜苦笑，文字\"笑起来很苦的样子\"。非常契合今天做实验的心态😂",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 131
+              },
+              {
+                "eventNodeId": "fact:2026-07-04晚上—s3重做9个平行全部翻车:2026-07-04T13-27-00-000Z",
+                "label": "2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "dateLabel": "07-04",
+                "timeLabel": "21:27 - 23:08",
+                "compactDuration": "1h41m",
+                "fullLabel": "07-04 21:27 - 23:08 2026-07-04晚上—s3重做9个平行全部翻车所有组间相",
+                "note": "2026-07-04 晚上 — s3重做9个平行全部翻车，所有组间相对误差>5%，没有一个能过。崽打算保留提取液明天重测。[😭+4]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 101
+              },
+              {
+                "eventNodeId": "fact:2026-07-05中午起床了在检查昨天两台分光光:2026-07-05T05-13-00-000Z",
+                "label": "2026-07-05中午起床了在检查昨天两台分光光度计的茶多",
+                "dateLabel": "07-05",
+                "timeLabel": "13:13 - 13:27",
+                "compactDuration": "14m",
+                "fullLabel": "07-05 13:13 - 13:27 2026-07-05中午起床了在检查昨天两台分光光度计的茶多",
+                "note": "2026-07-05 中午起床了，在检查昨天两台分光光度计的茶多酚数据，看看有没有能过5%的配对。没有一对能过。[😤+2]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 14
+              },
+              {
+                "eventNodeId": "fact:回寝室了-忙碌的一天结束:2026-07-05T07-28-00-000Z",
+                "label": "回寝室了，忙碌的一天结束",
+                "dateLabel": "07-05",
+                "timeLabel": "15:28 - 15:30",
+                "compactDuration": "2m",
+                "fullLabel": "07-05 15:28 - 15:30 回寝室了，忙碌的一天结束",
+                "note": "从中午忙到晚上：茶多酚数据复核+s50/s65重测+写周报+洗GC-MS瓶子+健身。明后天GC-MS两天攻坚。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:12-28-到工位吃饭:2026-07-06T04-28-00-000Z",
+                "label": "12:28 到工位吃饭",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 12:50",
+                "compactDuration": "22m",
+                "fullLabel": "07-06 12:28 - 12:50 12:28 到工位吃饭",
+                "note": "到工位了，在吃饭。黄老师回复周报要求加重复性数据和方差分析。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 22
+              },
+              {
+                "eventNodeId": "fact:2026-07-0612:28—到工位了在吃饭吃完:2026-07-06T04-28-00-000Z",
+                "label": "2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
+                "dateLabel": "07-06",
+                "timeLabel": "12:28 - 23:28",
+                "compactDuration": "11h",
+                "fullLabel": "07-06 12:28 - 23:28 2026-07-0612:28—到工位了在吃饭吃完饭准备做G",
+                "note": "2026-07-06 12:28 — 到工位了，在吃饭。吃完饭准备做GC-MS（SPME法）。黄老师回复周报要求加重复性数据和方差分析。[😐+1]。## 13:00-15:00。师姐在用气相色谱仪（用到下午3点多），崽崽趁空档在做s80茶多酚复测（浸提中）。[😐+1]。## 18:00-19:00。GC-MS软件出问题（误关实时分析软件后启动不了，[0102]无效自变量），被师姐说了。最后发消息求师兄帮忙，远程指导修好了。老化针中。[😭+3]。## 20:00-。开始上第一个样了（60℃磁力搅拌平衡中）。今晚能做几个算几个，剩下的明天做。[😐+1]。## 21:00-22:00。s80复测结果出来了（17.84%，远低于第一次的30.26%），选了合格配对。21:42开始扎针吸附，第一次独立做SPME-GC-MS。[😊+1]。## 22:00-23:00。GC-MS第一个样跑上了，但操作不熟练（针打早了、顶空瓶壁挂茶粉等问题）。决定把今天当预实验，把气相让给永琪做。明天转做黄酮苷。[😐+1]",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 660
+              },
+              {
+                "eventNodeId": "fact:13-31-吃完饭准备回实验室:2026-07-07T05-31-00-000Z",
+                "label": "13:31 吃完饭准备回实验室",
+                "dateLabel": "07-07",
+                "timeLabel": "13:31 - 14:00",
+                "compactDuration": "29m",
+                "fullLabel": "07-07 13:31 - 14:00 13:31 吃完饭准备回实验室",
+                "note": "吃完饭了，准备回实验室做黄酮苷测定（6样×3平行）。本科生组买的AlCl₃应该到了。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 29
+              },
+              {
+                "eventNodeId": "fact:00-35-02-06-apk逆向安全测试:2026-07-07T16-35-00-000Z",
+                "label": "00:35-02:50 APK逆向安全测试",
+                "dateLabel": "07-08",
+                "timeLabel": "00:35 - 02:50",
+                "compactDuration": "2h15m",
+                "fullLabel": "07-08 00:35 - 02:50 00:35-02:50 APK逆向安全测试",
+                "note": "凌晨熬夜帮朋友测app防御。找到BuyManagerImpl.isVip()本地漏洞+TimerTemplateModel.isVip()无服务端验证，均改为始终返回true。改微信SDK checkSumConsistent绕过本地签名校验但微信服务器端验证仍失败。分析SharedPreferences发现com.crossroad.multiTimer.preference。R8混淆严重，逆向难度较高。结论：需要加固VIP服务端验证+签名校验，微信登录回调也需要加固。",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 135
+              },
+              {
+                "eventNodeId": "fact:吃外卖午餐:2026-07-08T05-50-00-000Z",
+                "label": "吃外卖午餐",
+                "dateLabel": "07-08",
+                "timeLabel": "13:50 - 14:10",
+                "compactDuration": "20m",
+                "fullLabel": "07-08 13:50 - 14:10 吃外卖午餐",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
+              },
+              {
+                "eventNodeId": "fact:evt-dinner:2026-07-10T10-40-00-000Z",
+                "label": "吃木桶饭（爆炒猪肝）",
+                "dateLabel": "07-10",
+                "timeLabel": "18:40 - 19:00",
+                "compactDuration": "20m",
+                "fullLabel": "07-10 18:40 - 19:00 吃木桶饭（爆炒猪肝）",
+                "note": "打包带回，老板娘嫌女生饭给少了，有点气人",
+                "status": "official",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 20
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-12T14-29-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-12",
+                "timeLabel": "22:29 - 22:40",
+                "compactDuration": "11m",
+                "fullLabel": "07-12 22:29 - 22:40 回寝室",
+                "note": "一天实验结束，到寝室了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 11
+              },
+              {
+                "eventNodeId": "fact:起床:2026-07-13T04-38-00-000Z",
+                "label": "起床",
+                "dateLabel": "07-13",
+                "timeLabel": "12:38 - 12:40",
+                "compactDuration": "2m",
+                "fullLabel": "07-13 12:38 - 12:40 起床",
+                "note": "中午12:38醒",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 2
+              },
+              {
+                "eventNodeId": "fact:回寝-2026-07-13",
+                "label": "回寝室",
+                "dateLabel": "07-13",
+                "timeLabel": "23:00 - 23:05",
+                "compactDuration": "5m",
+                "fullLabel": "07-13 23:00 - 23:05 回寝室",
+                "note": "一天实验结束，GC-MS收工，明天上液相",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 5
+              },
+              {
+                "eventNodeId": "fact:生理期-宿舍强制断电换宿舍:2026-07-16T06-00-00-000Z",
+                "label": "生理期+宿舍强制断电换宿舍",
+                "dateLabel": "07-16",
+                "timeLabel": "14:00 - 15:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-16 14:00 - 15:00 生理期+宿舍强制断电换宿舍",
+                "note": "生理期第一天肚子不舒服。宿舍之前要求换没换，今天强制断电，被迫搬去跟不认识的人住",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:准备搬家:2026-07-16T09-00-00-000Z",
+                "label": "准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "17:00 - 19:30",
+                "compactDuration": "2h30m",
+                "fullLabel": "07-16 17:00 - 19:30 准备搬家",
+                "note": "生理期第一天。等室友拿钥匙回来，打算晚上搬。先收拾了必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 150
+              },
+              {
+                "eventNodeId": "fact:收拾东西准备搬家:2026-07-16T11-30-00-000Z",
+                "label": "收拾东西准备搬家",
+                "dateLabel": "07-16",
+                "timeLabel": "19:30 - 20:00",
+                "compactDuration": "30m",
+                "fullLabel": "07-16 19:30 - 20:00 收拾东西准备搬家",
+                "note": "生理期第一天。收拾必备衣物和洗漱用品",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:从a6-603搬到a5-603-白搬了:2026-07-16T12-00-00-000Z",
+                "label": "从A6 603搬到A5 603——白搬了",
+                "dateLabel": "07-16",
+                "timeLabel": "20:00 - 22:00",
+                "compactDuration": "2h",
+                "fullLabel": "07-16 20:00 - 22:00 从A6 603搬到A5 603——白搬了",
+                "note": "学校拉闸断电强制换宿舍，搬到A5 603后发现也没电——学校只看603门牌号拉闸，不分楼栋。纯白搬，又回A6 603了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.chores",
+                "subcategoryLabel": "life.chores",
+                "minutes": 120
+              },
+              {
+                "eventNodeId": "fact:醒了-吃外卖:2026-07-17T04-00-00-000Z",
+                "label": "醒了，吃外卖",
+                "dateLabel": "07-17",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-17 12:00 - 13:00 醒了，吃外卖",
+                "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:woke-up-2026-07-17",
+                "label": "醒了，吃外卖",
+                "dateLabel": "07-17",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-17 12:00 - 13:00 醒了，吃外卖",
+                "note": "生理期第二天。液相没轮到自己，比色皿没买，实验做不了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:醒了-洗衣服:2026-07-18T04-00-00-000Z",
+                "label": "醒了，洗衣服",
+                "dateLabel": "07-18",
+                "timeLabel": "12:00 - 13:00",
+                "compactDuration": "1h",
+                "fullLabel": "07-18 12:00 - 13:00 醒了，洗衣服",
+                "note": "",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.meal",
+                "subcategoryLabel": "life.meal",
+                "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:GC-MS数据处理:2026-07-19T09-46-00-000Z",
+                "label": "GC-MS数据处理",
+                "dateLabel": "07-19",
+                "timeLabel": "17:46 - 23:59",
+                "compactDuration": "6h13m",
+                "fullLabel": "07-19 17:46 - 23:59 GC-MS数据处理",
+                "note": "## 下午。- 老师要求CK气相重复性用3个最接近的平行样做。- 选了s0-5、S0-9、S0-10三个内标峰最接近的表。- 处理了CK气相数据：SI≥80、排除硅/咖啡碱/非茶叶物质。- 按老师建议删除了长链烷烃、污染物、卤代物、含硫酯。- 从248个化合物删到122个，中英文对照完整。- 17个Bad（RSD>20%），主要是微量成分",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 373
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-19T14-37-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-19",
+                "timeLabel": "22:37 - 23:00",
+                "compactDuration": "23m",
+                "fullLabel": "07-19 22:37 - 23:00 回寝室",
+                "note": "打洛克王国后回寝室，HPLC放了1L A相不用半夜收，明早去冲柱子",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 23
+              },
+              {
+                "eventNodeId": "fact:吃饭:2026-07-20T04-00-00-000Z",
+                "label": "吃饭",
+                "dateLabel": "07-20",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-20 12:00 - 12:30 吃饭",
+                "note": "水浴锅加热时先去吃饭",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 30
               }
             ]
           },
@@ -83797,7 +84485,7 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
-                "minutes": 157
+                "minutes": 861
               }
             ],
             "events": [
@@ -84164,6 +84852,34 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 60
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:02",
+                "compactDuration": "5h53m",
+                "fullLabel": "07-20 12:09 - 18:02 游离氨基酸实验",
+                "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 353
+              },
+              {
+                "eventNodeId": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+                "label": "游离氨基酸实验",
+                "dateLabel": "07-20",
+                "timeLabel": "12:09 - 18:00",
+                "compactDuration": "5h51m",
+                "fullLabel": "07-20 12:09 - 18:00 游离氨基酸实验",
+                "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 351
               }
             ]
           },
@@ -84671,7 +85387,7 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
-                "minutes": 0
+                "minutes": 30
               }
             ],
             "events": [
@@ -84842,6 +85558,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 23
+              },
+              {
+                "eventNodeId": "fact:吃饭:2026-07-20T04-00-00-000Z",
+                "label": "吃饭",
+                "dateLabel": "07-20",
+                "timeLabel": "12:00 - 12:30",
+                "compactDuration": "30m",
+                "fullLabel": "07-20 12:00 - 12:30 吃饭",
+                "note": "水浴锅加热时先去吃饭",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 30
               }
             ]
           },

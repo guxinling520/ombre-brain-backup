@@ -4041,7 +4041,7 @@
     },
     "2026-07-20": {
       "status": "draft",
-      "updatedAt": "2026-07-20T03:21:02.680Z",
+      "updatedAt": "2026-07-20T10:02:57.615Z",
       "source": null,
       "events": [
         {
@@ -4076,6 +4076,45 @@
           "endAt": "2026-07-20T03:00:00.000Z",
           "title": "准备游离氨基酸实验",
           "note": "称6个样，水浴锅预热中",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:吃饭:2026-07-20T04-00-00-000Z",
+          "startAt": "2026-07-20T04:00:00.000Z",
+          "endAt": "2026-07-20T04:30:00.000Z",
+          "title": "吃饭",
+          "note": "水浴锅加热时先去吃饭",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:游离氨基酸:2026-07-20T04-09-00-000Z",
+          "startAt": "2026-07-20T04:09:00.000Z",
+          "endAt": "2026-07-20T10:02:00.000Z",
+          "title": "游离氨基酸实验",
+          "note": "6个样先做（抽滤极慢），后追加3个并行做，9个全部完成。明天再做另外9个。",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:游离氨基酸实验:2026-07-20T04-09-00-000Z",
+          "startAt": "2026-07-20T04:09:00.000Z",
+          "endAt": "2026-07-20T10:00:00.000Z",
+          "title": "游离氨基酸实验",
+          "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
           "categoryId": "work",
           "subcategoryId": "work.other",
           "eventNodeId": "",
