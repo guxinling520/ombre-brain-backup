@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-20T12:50:10.233Z",
-    "updatedAt": "2026-07-20T10:02:57.620Z",
-    "taxonomyUpdatedAt": "2026-07-20T10:02:57.618Z",
-    "factsUpdatedAt": "2026-07-20T10:02:57.620Z",
+    "generatedAt": "2026-07-21T03:16:24.627Z",
+    "updatedAt": "2026-07-21T03:16:14.388Z",
+    "taxonomyUpdatedAt": "2026-07-21T03:16:14.385Z",
+    "factsUpdatedAt": "2026-07-21T03:16:14.388Z",
     "isDemoData": false,
     "timezone": "Asia/Shanghai",
     "locale": "en",
@@ -57,9 +57,10 @@
       "2026-07-17",
       "2026-07-18",
       "2026-07-19",
-      "2026-07-20"
+      "2026-07-20",
+      "2026-07-21"
     ],
-    "latestDate": "2026-07-20"
+    "latestDate": "2026-07-21"
   },
   "taxonomy": {
     "categories": [
@@ -5130,6 +5131,44 @@
               "timeText": "12:09 - 18:00"
             },
             "className": "cat-work"
+          },
+          {
+            "id": "fact:回寝室:2026-07-20T15-49-00-000Z",
+            "start": "2026-07-20T15:49:00.000Z",
+            "end": "2026-07-20T15:50:00.000Z",
+            "content": "回寝室 | 1m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+              "color": "var(--cat-life)",
+              "durationText": "1 min",
+              "timeText": "23:49 - 23:50"
+            },
+            "className": "cat-life"
+          }
+        ]
+      },
+      "2026-07-21": {
+        "date": "2026-07-21",
+        "start": "2026-07-21T00:00:00.000+08:00",
+        "end": "2026-07-21T23:59:59.999+08:00",
+        "groups": [],
+        "items": [
+          {
+            "id": "fact:到实验室:2026-07-21T02-48-00-000Z",
+            "start": "2026-07-21T02:48:00.000Z",
+            "end": "2026-07-21T02:50:00.000Z",
+            "content": "到实验室 | 2m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "到实验室",
+              "note": "继续做剩下9个游离氨基酸，称量中",
+              "color": "var(--cat-work)",
+              "durationText": "2 min",
+              "timeText": "10:48 - 10:50"
+            },
+            "className": "cat-work"
           }
         ]
       }
@@ -10194,6 +10233,40 @@
               "durationText": "5 hr 51 min",
               "timeText": "12:09 - 18:00",
               "dateText": "2026-07-20"
+            },
+            "className": "cat-work"
+          },
+          {
+            "id": "2026-07-20:fact:回寝室:2026-07-20T15-49-00-000Z",
+            "group": "2026-07-20",
+            "start": "2000-01-01T23:49:00+08:00",
+            "end": "2000-01-01T23:50:00+08:00",
+            "content": "回寝室 | 1m",
+            "style": "background:var(--cat-life);border-color:var(--cat-life);color:var(--text);",
+            "tooltip": {
+              "title": "回寝室",
+              "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+              "color": "var(--cat-life)",
+              "durationText": "1 min",
+              "timeText": "23:49 - 23:50",
+              "dateText": "2026-07-20"
+            },
+            "className": "cat-life"
+          },
+          {
+            "id": "2026-07-21:fact:到实验室:2026-07-21T02-48-00-000Z",
+            "group": "2026-07-21",
+            "start": "2000-01-01T10:48:00+08:00",
+            "end": "2000-01-01T10:50:00+08:00",
+            "content": "到实验室 | 2m",
+            "style": "background:var(--cat-work);border-color:var(--cat-work);color:var(--text);",
+            "tooltip": {
+              "title": "到实验室",
+              "note": "继续做剩下9个游离氨基酸，称量中",
+              "color": "var(--cat-work)",
+              "durationText": "2 min",
+              "timeText": "10:48 - 10:50",
+              "dateText": "2026-07-21"
             },
             "className": "cat-work"
           }
@@ -57521,21 +57594,21 @@
         "key": "2026-07-20",
         "label": "2026-07-20",
         "unit": "hour",
-        "totalMinutes": 891,
+        "totalMinutes": 892,
         "categories": [
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
             "minutes": 861,
-            "percent": 0.9663
+            "percent": 0.9652
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 30,
-            "percent": 0.0337
+            "minutes": 31,
+            "percent": 0.0348
           }
         ],
         "categoryDetails": {
@@ -57871,7 +57944,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 1
               }
             ],
             "subcategories": [
@@ -57880,7 +57953,7 @@
                 "categoryId": "life",
                 "label": "Other Life",
                 "color": "var(--cat-life)",
-                "minutes": 30,
+                "minutes": 31,
                 "percent": 1
               }
             ],
@@ -57898,6 +57971,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-20T15-49-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:49 - 23:50",
+                "compactDuration": "1m",
+                "fullLabel": "23:49 - 23:50 回寝室",
+                "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
               }
             ]
           }
@@ -58227,7 +58314,7 @@
               {
                 "key": "23",
                 "label": "23:00",
-                "minutes": 0
+                "minutes": 1
               }
             ],
             "events": [
@@ -58244,6 +58331,336 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-20T15-49-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "",
+                "timeLabel": "23:49 - 23:50",
+                "compactDuration": "1m",
+                "fullLabel": "23:49 - 23:50 回寝室",
+                "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
+              }
+            ]
+          }
+        }
+      },
+      "2026-07-21": {
+        "key": "2026-07-21",
+        "label": "2026-07-21",
+        "unit": "hour",
+        "totalMinutes": 2,
+        "categories": [
+          {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "minutes": 2,
+            "percent": 1
+          }
+        ],
+        "categoryDetails": {
+          "work": {
+            "categoryId": "work",
+            "label": "Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 2
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "subcategories": [
+              {
+                "subcategoryId": "work.other",
+                "categoryId": "work",
+                "label": "Other Work",
+                "color": "var(--cat-work)",
+                "minutes": 2,
+                "percent": 1
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到实验室:2026-07-21T02-48-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "",
+                "timeLabel": "10:48 - 10:50",
+                "compactDuration": "2m",
+                "fullLabel": "10:48 - 10:50 到实验室",
+                "note": "继续做剩下9个游离氨基酸，称量中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 2
+              }
+            ]
+          }
+        },
+        "subcategoryDetails": {
+          "work.other": {
+            "subcategoryId": "work.other",
+            "categoryId": "work",
+            "label": "Other Work",
+            "color": "var(--cat-work)",
+            "trend": [
+              {
+                "key": "0",
+                "label": "00:00",
+                "minutes": 0
+              },
+              {
+                "key": "1",
+                "label": "01:00",
+                "minutes": 0
+              },
+              {
+                "key": "2",
+                "label": "02:00",
+                "minutes": 0
+              },
+              {
+                "key": "3",
+                "label": "03:00",
+                "minutes": 0
+              },
+              {
+                "key": "4",
+                "label": "04:00",
+                "minutes": 0
+              },
+              {
+                "key": "5",
+                "label": "05:00",
+                "minutes": 0
+              },
+              {
+                "key": "6",
+                "label": "06:00",
+                "minutes": 0
+              },
+              {
+                "key": "7",
+                "label": "07:00",
+                "minutes": 0
+              },
+              {
+                "key": "8",
+                "label": "08:00",
+                "minutes": 0
+              },
+              {
+                "key": "9",
+                "label": "09:00",
+                "minutes": 0
+              },
+              {
+                "key": "10",
+                "label": "10:00",
+                "minutes": 2
+              },
+              {
+                "key": "11",
+                "label": "11:00",
+                "minutes": 0
+              },
+              {
+                "key": "12",
+                "label": "12:00",
+                "minutes": 0
+              },
+              {
+                "key": "13",
+                "label": "13:00",
+                "minutes": 0
+              },
+              {
+                "key": "14",
+                "label": "14:00",
+                "minutes": 0
+              },
+              {
+                "key": "15",
+                "label": "15:00",
+                "minutes": 0
+              },
+              {
+                "key": "16",
+                "label": "16:00",
+                "minutes": 0
+              },
+              {
+                "key": "17",
+                "label": "17:00",
+                "minutes": 0
+              },
+              {
+                "key": "18",
+                "label": "18:00",
+                "minutes": 0
+              },
+              {
+                "key": "19",
+                "label": "19:00",
+                "minutes": 0
+              },
+              {
+                "key": "20",
+                "label": "20:00",
+                "minutes": 0
+              },
+              {
+                "key": "21",
+                "label": "21:00",
+                "minutes": 0
+              },
+              {
+                "key": "22",
+                "label": "22:00",
+                "minutes": 0
+              },
+              {
+                "key": "23",
+                "label": "23:00",
+                "minutes": 0
+              }
+            ],
+            "events": [
+              {
+                "eventNodeId": "fact:到实验室:2026-07-21T02-48-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "",
+                "timeLabel": "10:48 - 10:50",
+                "compactDuration": "2m",
+                "fullLabel": "10:48 - 10:50 到实验室",
+                "note": "继续做剩下9个游离氨基酸，称量中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 2
               }
             ]
           }
@@ -72423,21 +72840,21 @@
         "key": "2026-07-20",
         "label": "Week of 2026-07-20",
         "unit": "day",
-        "totalMinutes": 891,
+        "totalMinutes": 894,
         "categories": [
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 861,
-            "percent": 0.9663
+            "minutes": 863,
+            "percent": 0.9653
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 30,
-            "percent": 0.0337
+            "minutes": 31,
+            "percent": 0.0347
           }
         ],
         "categoryDetails": {
@@ -72454,7 +72871,7 @@
               {
                 "label": "07-21",
                 "key": "2026-07-21",
-                "minutes": 0
+                "minutes": 2
               },
               {
                 "label": "07-22",
@@ -72488,7 +72905,7 @@
                 "categoryId": "work",
                 "label": "Other Work",
                 "color": "var(--cat-work)",
-                "minutes": 861,
+                "minutes": 863,
                 "percent": 1
               }
             ],
@@ -72562,6 +72979,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 351
+              },
+              {
+                "eventNodeId": "fact:到实验室:2026-07-21T02-48-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-21",
+                "timeLabel": "10:48 - 10:50",
+                "compactDuration": "2m",
+                "fullLabel": "07-21 10:48 - 10:50 到实验室",
+                "note": "继续做剩下9个游离氨基酸，称量中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 2
               }
             ]
           },
@@ -72573,7 +73004,7 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
-                "minutes": 30
+                "minutes": 31
               },
               {
                 "label": "07-21",
@@ -72612,7 +73043,7 @@
                 "categoryId": "life",
                 "label": "Other Life",
                 "color": "var(--cat-life)",
-                "minutes": 30,
+                "minutes": 31,
                 "percent": 1
               }
             ],
@@ -72630,6 +73061,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-20T15-49-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-20",
+                "timeLabel": "23:49 - 23:50",
+                "compactDuration": "1m",
+                "fullLabel": "07-20 23:49 - 23:50 回寝室",
+                "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
               }
             ]
           }
@@ -72649,7 +73094,7 @@
               {
                 "key": "2026-07-21",
                 "label": "07-21",
-                "minutes": 0
+                "minutes": 2
               },
               {
                 "key": "2026-07-22",
@@ -72747,6 +73192,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 351
+              },
+              {
+                "eventNodeId": "fact:到实验室:2026-07-21T02-48-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-21",
+                "timeLabel": "10:48 - 10:50",
+                "compactDuration": "2m",
+                "fullLabel": "07-21 10:48 - 10:50 到实验室",
+                "note": "继续做剩下9个游离氨基酸，称量中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 2
               }
             ]
           },
@@ -72759,7 +73218,7 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
-                "minutes": 30
+                "minutes": 31
               },
               {
                 "key": "2026-07-21",
@@ -72806,6 +73265,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-20T15-49-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-20",
+                "timeLabel": "23:49 - 23:50",
+                "compactDuration": "1m",
+                "fullLabel": "07-20 23:49 - 23:50 回寝室",
+                "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
               }
             ]
           }
@@ -81313,27 +81786,27 @@
         "key": "2026-07",
         "label": "2026-07",
         "unit": "day",
-        "totalMinutes": 14963,
+        "totalMinutes": 14966,
         "categories": [
           {
             "categoryId": "study",
             "label": "Study",
             "color": "var(--cat-study)",
             "minutes": 6384,
-            "percent": 0.4267
+            "percent": 0.4266
           },
           {
             "categoryId": "work",
             "label": "Work",
             "color": "var(--cat-work)",
-            "minutes": 3233,
-            "percent": 0.2161
+            "minutes": 3235,
+            "percent": 0.2162
           },
           {
             "categoryId": "life",
             "label": "Life",
             "color": "var(--cat-life)",
-            "minutes": 2663,
+            "minutes": 2664,
             "percent": 0.178
           },
           {
@@ -81355,7 +81828,7 @@
             "label": "Travel",
             "color": "var(--cat-travel)",
             "minutes": 327,
-            "percent": 0.0219
+            "percent": 0.0218
           },
           {
             "categoryId": "entertainment",
@@ -81476,6 +81949,11 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
+                "minutes": 0
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
                 "minutes": 0
               }
             ],
@@ -82216,6 +82694,11 @@
                 "label": "07-20",
                 "key": "2026-07-20",
                 "minutes": 861
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
+                "minutes": 2
               }
             ],
             "subcategories": [
@@ -82224,8 +82707,8 @@
                 "categoryId": "work",
                 "label": "Other Work",
                 "color": "var(--cat-work)",
-                "minutes": 2969,
-                "percent": 0.9183
+                "minutes": 2971,
+                "percent": 0.9184
               },
               {
                 "subcategoryId": "work.coding",
@@ -82241,7 +82724,7 @@
                 "label": "Writing",
                 "color": "var(--cat-work)",
                 "minutes": 70,
-                "percent": 0.0217
+                "percent": 0.0216
               },
               {
                 "subcategoryId": "work.communication",
@@ -82742,6 +83225,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 351
+              },
+              {
+                "eventNodeId": "fact:到实验室:2026-07-21T02-48-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-21",
+                "timeLabel": "10:48 - 10:50",
+                "compactDuration": "2m",
+                "fullLabel": "07-21 10:48 - 10:50 到实验室",
+                "note": "继续做剩下9个游离氨基酸，称量中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 2
               }
             ]
           },
@@ -82848,7 +83345,12 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
-                "minutes": 30
+                "minutes": 31
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -82857,8 +83359,8 @@
                 "categoryId": "life",
                 "label": "Other Life",
                 "color": "var(--cat-life)",
-                "minutes": 1311,
-                "percent": 0.4923
+                "minutes": 1312,
+                "percent": 0.4925
               },
               {
                 "subcategoryId": "life.meal",
@@ -82866,7 +83368,7 @@
                 "label": "Meals",
                 "color": "var(--cat-life)",
                 "minutes": 991,
-                "percent": 0.3721
+                "percent": 0.372
               },
               {
                 "subcategoryId": "life.chores",
@@ -82874,7 +83376,7 @@
                 "label": "Chores",
                 "color": "var(--cat-life)",
                 "minutes": 360,
-                "percent": 0.1352
+                "percent": 0.1351
               },
               {
                 "subcategoryId": "life.errand",
@@ -83263,6 +83765,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-20T15-49-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-20",
+                "timeLabel": "23:49 - 23:50",
+                "compactDuration": "1m",
+                "fullLabel": "07-20 23:49 - 23:50 回寝室",
+                "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
               }
             ]
           },
@@ -83369,6 +83885,11 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
+                "minutes": 0
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
                 "minutes": 0
               }
             ],
@@ -83558,6 +84079,11 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
+                "minutes": 0
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
                 "minutes": 0
               }
             ],
@@ -83806,6 +84332,11 @@
                 "label": "07-20",
                 "key": "2026-07-20",
                 "minutes": 0
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -84037,6 +84568,11 @@
                 "label": "07-20",
                 "key": "2026-07-20",
                 "minutes": 0
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
+                "minutes": 0
               }
             ],
             "subcategories": [
@@ -84169,6 +84705,11 @@
               {
                 "label": "07-20",
                 "key": "2026-07-20",
+                "minutes": 0
+              },
+              {
+                "label": "07-21",
+                "key": "2026-07-21",
                 "minutes": 0
               }
             ],
@@ -84305,6 +84846,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -84486,6 +85032,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 861
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 2
               }
             ],
             "events": [
@@ -84880,6 +85431,20 @@
                 "subcategoryId": "work.other",
                 "subcategoryLabel": "work.other",
                 "minutes": 351
+              },
+              {
+                "eventNodeId": "fact:到实验室:2026-07-21T02-48-00-000Z",
+                "label": "到实验室",
+                "dateLabel": "07-21",
+                "timeLabel": "10:48 - 10:50",
+                "compactDuration": "2m",
+                "fullLabel": "07-21 10:48 - 10:50 到实验室",
+                "note": "继续做剩下9个游离氨基酸，称量中",
+                "status": "derived",
+                "categoryId": "work",
+                "subcategoryId": "work.other",
+                "subcategoryLabel": "work.other",
+                "minutes": 2
               }
             ]
           },
@@ -84987,6 +85552,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -85112,6 +85682,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -85235,6 +85810,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -85387,7 +85967,12 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
-                "minutes": 30
+                "minutes": 31
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -85572,6 +86157,20 @@
                 "subcategoryId": "life.other",
                 "subcategoryLabel": "life.other",
                 "minutes": 30
+              },
+              {
+                "eventNodeId": "fact:回寝室:2026-07-20T15-49-00-000Z",
+                "label": "回寝室",
+                "dateLabel": "07-20",
+                "timeLabel": "23:49 - 23:50",
+                "compactDuration": "1m",
+                "fullLabel": "07-20 23:49 - 23:50 回寝室",
+                "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+                "status": "derived",
+                "categoryId": "life",
+                "subcategoryId": "life.other",
+                "subcategoryLabel": "life.other",
+                "minutes": 1
               }
             ]
           },
@@ -85679,6 +86278,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -85902,6 +86506,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -86040,6 +86649,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -86163,6 +86777,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -86400,6 +87019,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -86523,6 +87147,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -86704,6 +87333,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -86842,6 +87476,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -86965,6 +87604,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -87566,6 +88210,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -87703,6 +88352,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -87856,6 +88510,11 @@
                 "key": "2026-07-20",
                 "label": "07-20",
                 "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
+                "minutes": 0
               }
             ],
             "events": [
@@ -87979,6 +88638,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],
@@ -88145,6 +88809,11 @@
               {
                 "key": "2026-07-20",
                 "label": "07-20",
+                "minutes": 0
+              },
+              {
+                "key": "2026-07-21",
+                "label": "07-21",
                 "minutes": 0
               }
             ],

@@ -4511,7 +4511,7 @@
     },
     "2026-07-20": {
       "status": "draft",
-      "updatedAt": "2026-07-20T10:02:57.615Z",
+      "updatedAt": "2026-07-20T16:12:56.997Z",
       "source": null,
       "events": [
         {
@@ -4585,6 +4585,39 @@
           "endAt": "2026-07-20T10:00:00.000Z",
           "title": "游离氨基酸实验",
           "note": "6个样先做，抽滤极慢（1h/个）。后追加3个并行做，9个全部完成（~18:00）",
+          "categoryId": "work",
+          "subcategoryId": "work.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        },
+        {
+          "id": "fact:回寝室:2026-07-20T15-49-00-000Z",
+          "startAt": "2026-07-20T15:49:00.000Z",
+          "endAt": "2026-07-20T15:50:00.000Z",
+          "title": "回寝室",
+          "note": "陪婷婷做实验后回寝室，今天9个游离氨基酸完成，课程论文交上去了",
+          "categoryId": "life",
+          "subcategoryId": "life.other",
+          "eventNodeId": "",
+          "tags": [],
+          "confidence": 0.5,
+          "sourceMessageIds": []
+        }
+      ]
+    },
+    "2026-07-21": {
+      "status": "draft",
+      "updatedAt": "2026-07-21T03:16:14.377Z",
+      "source": null,
+      "events": [
+        {
+          "id": "fact:到实验室:2026-07-21T02-48-00-000Z",
+          "startAt": "2026-07-21T02:48:00.000Z",
+          "endAt": "2026-07-21T02:50:00.000Z",
+          "title": "到实验室",
+          "note": "继续做剩下9个游离氨基酸，称量中",
           "categoryId": "work",
           "subcategoryId": "work.other",
           "eventNodeId": "",
